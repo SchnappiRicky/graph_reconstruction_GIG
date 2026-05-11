@@ -1,0 +1,2801 @@
+{
+  "nodes": [
+    {
+      "gene_node_idx": 382,
+      "gene_node_name": "ERBIN",
+      "Weight": 1,
+      "t2ds_no_t2ds_pvalue": 0.014,
+      "pret2ds_no_t2ds_pvalue": 0.0574
+    },
+    {
+      "gene_node_idx": 1108,
+      "gene_node_name": "RNASEL",
+      "Weight": 1,
+      "t2ds_no_t2ds_pvalue": 0.0077,
+      "pret2ds_no_t2ds_pvalue": 0.0387
+    },
+    {
+      "gene_node_idx": 1202,
+      "gene_node_name": "SMPD2",
+      "Weight": 1,
+      "t2ds_no_t2ds_pvalue": 0.2453,
+      "pret2ds_no_t2ds_pvalue": 0.2417
+    },
+    {
+      "gene_node_idx": 116,
+      "gene_node_name": "BID",
+      "Weight": 0.5939,
+      "t2ds_no_t2ds_pvalue": 0.1453,
+      "pret2ds_no_t2ds_pvalue": 0.167
+    },
+    {
+      "gene_node_idx": 846,
+      "gene_node_name": "NSMAF",
+      "Weight": 0.5714,
+      "t2ds_no_t2ds_pvalue": 0.1576,
+      "pret2ds_no_t2ds_pvalue": 0.1026
+    },
+    {
+      "gene_node_idx": 319,
+      "gene_node_name": "DHX33",
+      "Weight": 0.5479,
+      "t2ds_no_t2ds_pvalue": 0.2643,
+      "pret2ds_no_t2ds_pvalue": 0.0166
+    },
+    {
+      "gene_node_idx": 834,
+      "gene_node_name": "NOD2",
+      "Weight": 0.5176,
+      "t2ds_no_t2ds_pvalue": 0.0894,
+      "pret2ds_no_t2ds_pvalue": 0.1026
+    },
+    {
+      "gene_node_idx": 281,
+      "gene_node_name": "CTSD",
+      "Weight": 0.5072,
+      "t2ds_no_t2ds_pvalue": 0.1397,
+      "pret2ds_no_t2ds_pvalue": 0.4974
+    },
+    {
+      "gene_node_idx": 220,
+      "gene_node_name": "CDON",
+      "Weight": 0.5,
+      "t2ds_no_t2ds_pvalue": 0.2054,
+      "pret2ds_no_t2ds_pvalue": 0.1569
+    },
+    {
+      "gene_node_idx": 1325,
+      "gene_node_name": "TP53BP1",
+      "Weight": 0.4771,
+      "t2ds_no_t2ds_pvalue": 0.4318,
+      "pret2ds_no_t2ds_pvalue": 0.2417
+    },
+    {
+      "gene_node_idx": 1109,
+      "gene_node_name": "RNF125",
+      "Weight": 0.4181,
+      "t2ds_no_t2ds_pvalue": 0.0258,
+      "pret2ds_no_t2ds_pvalue": 0.3609
+    },
+    {
+      "gene_node_idx": 279,
+      "gene_node_name": "CTNND1",
+      "Weight": 0.3529,
+      "t2ds_no_t2ds_pvalue": 0.0063,
+      "pret2ds_no_t2ds_pvalue": 0.0671
+    },
+    {
+      "gene_node_idx": 320,
+      "gene_node_name": "DHX58",
+      "Weight": 0.3473,
+      "t2ds_no_t2ds_pvalue": 0.1715,
+      "pret2ds_no_t2ds_pvalue": 0.0571
+    },
+    {
+      "gene_node_idx": 158,
+      "gene_node_name": "CASP4",
+      "Weight": 0.3403,
+      "t2ds_no_t2ds_pvalue": 0.3456,
+      "pret2ds_no_t2ds_pvalue": 0.2351
+    },
+    {
+      "gene_node_idx": 800,
+      "gene_node_name": "NAIP",
+      "Weight": 0.3367,
+      "t2ds_no_t2ds_pvalue": 0.1127,
+      "pret2ds_no_t2ds_pvalue": 0.3835
+    },
+    {
+      "gene_node_idx": 153,
+      "gene_node_name": "CARD8",
+      "Weight": 0.3333,
+      "t2ds_no_t2ds_pvalue": 0.1945,
+      "pret2ds_no_t2ds_pvalue": 0.2775
+    },
+    {
+      "gene_node_idx": 159,
+      "gene_node_name": "CASP5",
+      "Weight": 0.3233,
+      "t2ds_no_t2ds_pvalue": 0.053,
+      "pret2ds_no_t2ds_pvalue": 0.1307
+    },
+    {
+      "gene_node_idx": 566,
+      "gene_node_name": "IL1RAP",
+      "Weight": 0.3111,
+      "t2ds_no_t2ds_pvalue": 0.0015,
+      "pret2ds_no_t2ds_pvalue": 0.013
+    },
+    {
+      "gene_node_idx": 1024,
+      "gene_node_name": "PTCH1",
+      "Weight": 0.2966,
+      "t2ds_no_t2ds_pvalue": 0.0119,
+      "pret2ds_no_t2ds_pvalue": 0.0284
+    },
+    {
+      "gene_node_idx": 137,
+      "gene_node_name": "CACYBP",
+      "Weight": 0.2794,
+      "t2ds_no_t2ds_pvalue": 0.1783,
+      "pret2ds_no_t2ds_pvalue": 0.1554
+    },
+    {
+      "gene_node_idx": 1025,
+      "gene_node_name": "PTCH2",
+      "Weight": 0.2764,
+      "t2ds_no_t2ds_pvalue": 0.0111,
+      "pret2ds_no_t2ds_pvalue": 0.3543
+    },
+    {
+      "gene_node_idx": 151,
+      "gene_node_name": "CARD16",
+      "Weight": 0.2752,
+      "t2ds_no_t2ds_pvalue": 0.0298,
+      "pret2ds_no_t2ds_pvalue": 0.0007
+    },
+    {
+      "gene_node_idx": 130,
+      "gene_node_name": "BRCC3",
+      "Weight": 0.2662,
+      "t2ds_no_t2ds_pvalue": 0.0373,
+      "pret2ds_no_t2ds_pvalue": 0.1231
+    },
+    {
+      "gene_node_idx": 565,
+      "gene_node_name": "IL1R1",
+      "Weight": 0.2661,
+      "t2ds_no_t2ds_pvalue": 0.0149,
+      "pret2ds_no_t2ds_pvalue": 0.1188
+    },
+    {
+      "gene_node_idx": 211,
+      "gene_node_name": "CDH1",
+      "Weight": 0.266,
+      "t2ds_no_t2ds_pvalue": 0.03,
+      "pret2ds_no_t2ds_pvalue": 0.0014
+    },
+    {
+      "gene_node_idx": 1178,
+      "gene_node_name": "SIPA1",
+      "Weight": 0.2614,
+      "t2ds_no_t2ds_pvalue": 0.0547,
+      "pret2ds_no_t2ds_pvalue": 0.0187
+    },
+    {
+      "gene_node_idx": 564,
+      "gene_node_name": "IL1B",
+      "Weight": 0.2583,
+      "t2ds_no_t2ds_pvalue": 0.0797,
+      "pret2ds_no_t2ds_pvalue": 0.0184
+    },
+    {
+      "gene_node_idx": 36,
+      "gene_node_name": "AFDN",
+      "Weight": 0.2524,
+      "t2ds_no_t2ds_pvalue": 0.0502,
+      "pret2ds_no_t2ds_pvalue": 0.0101
+    },
+    {
+      "gene_node_idx": 747,
+      "gene_node_name": "MAPKAPK5",
+      "Weight": 0.2435,
+      "t2ds_no_t2ds_pvalue": 0.0188,
+      "pret2ds_no_t2ds_pvalue": 0.063
+    },
+    {
+      "gene_node_idx": 1295,
+      "gene_node_name": "TKFC",
+      "Weight": 0.2346,
+      "t2ds_no_t2ds_pvalue": 0.2274,
+      "pret2ds_no_t2ds_pvalue": 0.0067
+    },
+    {
+      "gene_node_idx": 41,
+      "gene_node_name": "AIM2",
+      "Weight": 0.2321,
+      "t2ds_no_t2ds_pvalue": 0.0178,
+      "pret2ds_no_t2ds_pvalue": 0.2663
+    },
+    {
+      "gene_node_idx": 532,
+      "gene_node_name": "HSPB1",
+      "Weight": 0.2318,
+      "t2ds_no_t2ds_pvalue": 0.031,
+      "pret2ds_no_t2ds_pvalue": 0.3299
+    },
+    {
+      "gene_node_idx": 52,
+      "gene_node_name": "APAF1",
+      "Weight": 0.2175,
+      "t2ds_no_t2ds_pvalue": 0.2036,
+      "pret2ds_no_t2ds_pvalue": 0.0298
+    },
+    {
+      "gene_node_idx": 696,
+      "gene_node_name": "LTB",
+      "Weight": 0.2146,
+      "t2ds_no_t2ds_pvalue": 0.0001,
+      "pret2ds_no_t2ds_pvalue": 0.1381
+    },
+    {
+      "gene_node_idx": 539,
+      "gene_node_name": "IFIH1",
+      "Weight": 0.2145,
+      "t2ds_no_t2ds_pvalue": 0.0208,
+      "pret2ds_no_t2ds_pvalue": 0.0027
+    },
+    {
+      "gene_node_idx": 1237,
+      "gene_node_name": "STING1",
+      "Weight": 0.2058,
+      "t2ds_no_t2ds_pvalue": 0.0352,
+      "pret2ds_no_t2ds_pvalue": 0.2421
+    },
+    {
+      "gene_node_idx": 833,
+      "gene_node_name": "NOD1",
+      "Weight": 0.197,
+      "t2ds_no_t2ds_pvalue": 0.2572,
+      "pret2ds_no_t2ds_pvalue": 0.0639
+    },
+    {
+      "gene_node_idx": 392,
+      "gene_node_name": "EXOC7",
+      "Weight": 0.1957,
+      "t2ds_no_t2ds_pvalue": 0.0395,
+      "pret2ds_no_t2ds_pvalue": 0.0091
+    },
+    {
+      "gene_node_idx": 1317,
+      "gene_node_name": "TNFRSF1A",
+      "Weight": 0.1922,
+      "t2ds_no_t2ds_pvalue": 0.0094,
+      "pret2ds_no_t2ds_pvalue": 0.0144
+    },
+    {
+      "gene_node_idx": 298,
+      "gene_node_name": "CYCS",
+      "Weight": 0.1914,
+      "t2ds_no_t2ds_pvalue": 0.0233,
+      "pret2ds_no_t2ds_pvalue": 0.0186
+    },
+    {
+      "gene_node_idx": 1337,
+      "gene_node_name": "TRIP10",
+      "Weight": 0.1875,
+      "t2ds_no_t2ds_pvalue": 0.1285,
+      "pret2ds_no_t2ds_pvalue": 0.0702
+    },
+    {
+      "gene_node_idx": 197,
+      "gene_node_name": "CD4",
+      "Weight": 0.1832,
+      "t2ds_no_t2ds_pvalue": 0.05,
+      "pret2ds_no_t2ds_pvalue": 0.0715
+    },
+    {
+      "gene_node_idx": 317,
+      "gene_node_name": "DDX3X",
+      "Weight": 0.183,
+      "t2ds_no_t2ds_pvalue": 0.0148,
+      "pret2ds_no_t2ds_pvalue": 0.0519
+    },
+    {
+      "gene_node_idx": 196,
+      "gene_node_name": "CD3E",
+      "Weight": 0.1829,
+      "t2ds_no_t2ds_pvalue": 0.1026,
+      "pret2ds_no_t2ds_pvalue": 0.3008
+    },
+    {
+      "gene_node_idx": 207,
+      "gene_node_name": "CD8B",
+      "Weight": 0.1815,
+      "t2ds_no_t2ds_pvalue": 0.1082,
+      "pret2ds_no_t2ds_pvalue": 0.0246
+    },
+    {
+      "gene_node_idx": 206,
+      "gene_node_name": "CD8A",
+      "Weight": 0.181,
+      "t2ds_no_t2ds_pvalue": 0.2128,
+      "pret2ds_no_t2ds_pvalue": 0.1805
+    },
+    {
+      "gene_node_idx": 538,
+      "gene_node_name": "IFI16",
+      "Weight": 0.1795,
+      "t2ds_no_t2ds_pvalue": 0.0109,
+      "pret2ds_no_t2ds_pvalue": 0.2996
+    },
+    {
+      "gene_node_idx": 695,
+      "gene_node_name": "LTA",
+      "Weight": 0.1724,
+      "t2ds_no_t2ds_pvalue": 0.1933,
+      "pret2ds_no_t2ds_pvalue": 0.3415
+    },
+    {
+      "gene_node_idx": 233,
+      "gene_node_name": "CLEC7A",
+      "Weight": 0.1706,
+      "t2ds_no_t2ds_pvalue": 0.0194,
+      "pret2ds_no_t2ds_pvalue": 0.3131
+    },
+    {
+      "gene_node_idx": 309,
+      "gene_node_name": "DAB2IP",
+      "Weight": 0.1693,
+      "t2ds_no_t2ds_pvalue": 0.2099,
+      "pret2ds_no_t2ds_pvalue": 0.2797
+    },
+    {
+      "gene_node_idx": 391,
+      "gene_node_name": "EXOC2",
+      "Weight": 0.167,
+      "t2ds_no_t2ds_pvalue": 0.3111,
+      "pret2ds_no_t2ds_pvalue": 0.0312
+    },
+    {
+      "gene_node_idx": 1176,
+      "gene_node_name": "SIKE1",
+      "Weight": 0.1661,
+      "t2ds_no_t2ds_pvalue": 0.0027,
+      "pret2ds_no_t2ds_pvalue": 0.1972
+    },
+    {
+      "gene_node_idx": 1040,
+      "gene_node_name": "PYCARD",
+      "Weight": 0.1614,
+      "t2ds_no_t2ds_pvalue": 0.04,
+      "pret2ds_no_t2ds_pvalue": 0.0348
+    },
+    {
+      "gene_node_idx": 497,
+      "gene_node_name": "GSDMD",
+      "Weight": 0.1591,
+      "t2ds_no_t2ds_pvalue": 0.2298,
+      "pret2ds_no_t2ds_pvalue": 0.2659
+    },
+    {
+      "gene_node_idx": 1220,
+      "gene_node_name": "SPOPL",
+      "Weight": 0.1587,
+      "t2ds_no_t2ds_pvalue": 0.1941,
+      "pret2ds_no_t2ds_pvalue": 0.1419
+    },
+    {
+      "gene_node_idx": 1318,
+      "gene_node_name": "TNFRSF1B",
+      "Weight": 0.1501,
+      "t2ds_no_t2ds_pvalue": 0.1044,
+      "pret2ds_no_t2ds_pvalue": 0.2049
+    },
+    {
+      "gene_node_idx": 104,
+      "gene_node_name": "BAG4",
+      "Weight": 0.1429,
+      "t2ds_no_t2ds_pvalue": 0.0071,
+      "pret2ds_no_t2ds_pvalue": 0.2561
+    },
+    {
+      "gene_node_idx": 772,
+      "gene_node_name": "MFN1",
+      "Weight": 0.1429,
+      "t2ds_no_t2ds_pvalue": 0.0447,
+      "pret2ds_no_t2ds_pvalue": 0.2011
+    },
+    {
+      "gene_node_idx": 773,
+      "gene_node_name": "MFN2",
+      "Weight": 0.1429,
+      "t2ds_no_t2ds_pvalue": 0.0775,
+      "pret2ds_no_t2ds_pvalue": 0.0273
+    },
+    {
+      "gene_node_idx": 663,
+      "gene_node_name": "LCK",
+      "Weight": 0.1365,
+      "t2ds_no_t2ds_pvalue": 0.127,
+      "pret2ds_no_t2ds_pvalue": 0.0941
+    },
+    {
+      "gene_node_idx": 826,
+      "gene_node_name": "NLRC4",
+      "Weight": 0.1341,
+      "t2ds_no_t2ds_pvalue": 0.2626,
+      "pret2ds_no_t2ds_pvalue": 0.0294
+    },
+    {
+      "gene_node_idx": 155,
+      "gene_node_name": "CASP1",
+      "Weight": 0.1337,
+      "t2ds_no_t2ds_pvalue": 0.2874,
+      "pret2ds_no_t2ds_pvalue": 0.045
+    },
+    {
+      "gene_node_idx": 283,
+      "gene_node_name": "CUL3",
+      "Weight": 0.1332,
+      "t2ds_no_t2ds_pvalue": 0.0103,
+      "pret2ds_no_t2ds_pvalue": 0.0056
+    },
+    {
+      "gene_node_idx": 112,
+      "gene_node_name": "BCL3",
+      "Weight": 0.131,
+      "t2ds_no_t2ds_pvalue": 0.0099,
+      "pret2ds_no_t2ds_pvalue": 0.0764
+    },
+    {
+      "gene_node_idx": 1091,
+      "gene_node_name": "REL",
+      "Weight": 0.125,
+      "t2ds_no_t2ds_pvalue": 0.1221,
+      "pret2ds_no_t2ds_pvalue": 0.0572
+    },
+    {
+      "gene_node_idx": 1062,
+      "gene_node_name": "RAPGEF1",
+      "Weight": 0.1171,
+      "t2ds_no_t2ds_pvalue": 0.043,
+      "pret2ds_no_t2ds_pvalue": 0.153
+    },
+    {
+      "gene_node_idx": 694,
+      "gene_node_name": "LSP1",
+      "Weight": 0.1131,
+      "t2ds_no_t2ds_pvalue": 0.1493,
+      "pret2ds_no_t2ds_pvalue": 0.1016
+    },
+    {
+      "gene_node_idx": 1219,
+      "gene_node_name": "SPOP",
+      "Weight": 0.1121,
+      "t2ds_no_t2ds_pvalue": 0.4099,
+      "pret2ds_no_t2ds_pvalue": 0.4
+    },
+    {
+      "gene_node_idx": 405,
+      "gene_node_name": "FBXW11",
+      "Weight": 0.1103,
+      "t2ds_no_t2ds_pvalue": 0.0049,
+      "pret2ds_no_t2ds_pvalue": 0.0042
+    },
+    {
+      "gene_node_idx": 73,
+      "gene_node_name": "ATG16L1",
+      "Weight": 0.1082,
+      "t2ds_no_t2ds_pvalue": 0.0526,
+      "pret2ds_no_t2ds_pvalue": 0.0535
+    },
+    {
+      "gene_node_idx": 1306,
+      "gene_node_name": "TLR5",
+      "Weight": 0.1072,
+      "t2ds_no_t2ds_pvalue": 0.0466,
+      "pret2ds_no_t2ds_pvalue": 0.0436
+    },
+    {
+      "gene_node_idx": 1321,
+      "gene_node_name": "TNFSF14",
+      "Weight": 0.1071,
+      "t2ds_no_t2ds_pvalue": 0.1545,
+      "pret2ds_no_t2ds_pvalue": 0.2287
+    },
+    {
+      "gene_node_idx": 192,
+      "gene_node_name": "CD247",
+      "Weight": 0.106,
+      "t2ds_no_t2ds_pvalue": 0.1654,
+      "pret2ds_no_t2ds_pvalue": 0.1391
+    },
+    {
+      "gene_node_idx": 1311,
+      "gene_node_name": "TNF",
+      "Weight": 0.1058,
+      "t2ds_no_t2ds_pvalue": 0.0551,
+      "pret2ds_no_t2ds_pvalue": 0.057
+    },
+    {
+      "gene_node_idx": 1246,
+      "gene_node_name": "SUGT1",
+      "Weight": 0.1032,
+      "t2ds_no_t2ds_pvalue": 0.315,
+      "pret2ds_no_t2ds_pvalue": 0.2426
+    },
+    {
+      "gene_node_idx": 832,
+      "gene_node_name": "NLRX1",
+      "Weight": 0.103,
+      "t2ds_no_t2ds_pvalue": 0.112,
+      "pret2ds_no_t2ds_pvalue": 0.2998
+    },
+    {
+      "gene_node_idx": 1263,
+      "gene_node_name": "TBL1X",
+      "Weight": 0.101,
+      "t2ds_no_t2ds_pvalue": 0.0575,
+      "pret2ds_no_t2ds_pvalue": 0.1107
+    },
+    {
+      "gene_node_idx": 1264,
+      "gene_node_name": "TBL1XR1",
+      "Weight": 0.1006,
+      "t2ds_no_t2ds_pvalue": 0.0053,
+      "pret2ds_no_t2ds_pvalue": 0.0057
+    },
+    {
+      "gene_node_idx": 1150,
+      "gene_node_name": "SCRIB",
+      "Weight": 0.1001,
+      "t2ds_no_t2ds_pvalue": 0.2048,
+      "pret2ds_no_t2ds_pvalue": 0.003
+    },
+    {
+      "gene_node_idx": 1102,
+      "gene_node_name": "RHOQ",
+      "Weight": 0.0981,
+      "t2ds_no_t2ds_pvalue": 0.0073,
+      "pret2ds_no_t2ds_pvalue": 0.0937
+    },
+    {
+      "gene_node_idx": 827,
+      "gene_node_name": "NLRP1",
+      "Weight": 0.0971,
+      "t2ds_no_t2ds_pvalue": 0.0273,
+      "pret2ds_no_t2ds_pvalue": 0.1697
+    },
+    {
+      "gene_node_idx": 1095,
+      "gene_node_name": "RGL1",
+      "Weight": 0.0971,
+      "t2ds_no_t2ds_pvalue": 0.0587,
+      "pret2ds_no_t2ds_pvalue": 0.0162
+    },
+    {
+      "gene_node_idx": 829,
+      "gene_node_name": "NLRP3",
+      "Weight": 0.0962,
+      "t2ds_no_t2ds_pvalue": 0.0112,
+      "pret2ds_no_t2ds_pvalue": 0.0779
+    },
+    {
+      "gene_node_idx": 299,
+      "gene_node_name": "CYLD",
+      "Weight": 0.0955,
+      "t2ds_no_t2ds_pvalue": 0.0016,
+      "pret2ds_no_t2ds_pvalue": 0.0156
+    },
+    {
+      "gene_node_idx": 830,
+      "gene_node_name": "NLRP6",
+      "Weight": 0.0941,
+      "t2ds_no_t2ds_pvalue": 0.2662,
+      "pret2ds_no_t2ds_pvalue": 0.0249
+    },
+    {
+      "gene_node_idx": 831,
+      "gene_node_name": "NLRP7",
+      "Weight": 0.092,
+      "t2ds_no_t2ds_pvalue": 0.0504,
+      "pret2ds_no_t2ds_pvalue": 0.0434
+    },
+    {
+      "gene_node_idx": 683,
+      "gene_node_name": "LLGL1",
+      "Weight": 0.0917,
+      "t2ds_no_t2ds_pvalue": 0.2451,
+      "pret2ds_no_t2ds_pvalue": 0.1424
+    },
+    {
+      "gene_node_idx": 1310,
+      "gene_node_name": "TLR9",
+      "Weight": 0.0914,
+      "t2ds_no_t2ds_pvalue": 0.034,
+      "pret2ds_no_t2ds_pvalue": 0.1481
+    },
+    {
+      "gene_node_idx": 1173,
+      "gene_node_name": "SIAH1",
+      "Weight": 0.0913,
+      "t2ds_no_t2ds_pvalue": 0.0514,
+      "pret2ds_no_t2ds_pvalue": 0.0138
+    },
+    {
+      "gene_node_idx": 1308,
+      "gene_node_name": "TLR7",
+      "Weight": 0.0903,
+      "t2ds_no_t2ds_pvalue": 0.0043,
+      "pret2ds_no_t2ds_pvalue": 0.1203
+    },
+    {
+      "gene_node_idx": 1309,
+      "gene_node_name": "TLR8",
+      "Weight": 0.0874,
+      "t2ds_no_t2ds_pvalue": 0.0094,
+      "pret2ds_no_t2ds_pvalue": 0.0119
+    },
+    {
+      "gene_node_idx": 1203,
+      "gene_node_name": "SMURF1",
+      "Weight": 0.0873,
+      "t2ds_no_t2ds_pvalue": 0.031,
+      "pret2ds_no_t2ds_pvalue": 0.1603
+    },
+    {
+      "gene_node_idx": 162,
+      "gene_node_name": "CASP9",
+      "Weight": 0.0861,
+      "t2ds_no_t2ds_pvalue": 0.0034,
+      "pret2ds_no_t2ds_pvalue": 0.0013
+    },
+    {
+      "gene_node_idx": 1204,
+      "gene_node_name": "SMURF2",
+      "Weight": 0.0842,
+      "t2ds_no_t2ds_pvalue": 0.1524,
+      "pret2ds_no_t2ds_pvalue": 0.1357
+    },
+    {
+      "gene_node_idx": 1056,
+      "gene_node_name": "RALB",
+      "Weight": 0.0809,
+      "t2ds_no_t2ds_pvalue": 0.012,
+      "pret2ds_no_t2ds_pvalue": 0.0055
+    },
+    {
+      "gene_node_idx": 1096,
+      "gene_node_name": "RGL2",
+      "Weight": 0.0807,
+      "t2ds_no_t2ds_pvalue": 0.0801,
+      "pret2ds_no_t2ds_pvalue": 0.0282
+    },
+    {
+      "gene_node_idx": 1055,
+      "gene_node_name": "RALA",
+      "Weight": 0.0788,
+      "t2ds_no_t2ds_pvalue": 0.03,
+      "pret2ds_no_t2ds_pvalue": 0.1457
+    },
+    {
+      "gene_node_idx": 323,
+      "gene_node_name": "DLG3",
+      "Weight": 0.0763,
+      "t2ds_no_t2ds_pvalue": 0.0423,
+      "pret2ds_no_t2ds_pvalue": 0.0087
+    },
+    {
+      "gene_node_idx": 1183,
+      "gene_node_name": "SKP1",
+      "Weight": 0.0743,
+      "t2ds_no_t2ds_pvalue": 0.0093,
+      "pret2ds_no_t2ds_pvalue": 0.0633
+    },
+    {
+      "gene_node_idx": 322,
+      "gene_node_name": "DLG1",
+      "Weight": 0.0741,
+      "t2ds_no_t2ds_pvalue": 0.0498,
+      "pret2ds_no_t2ds_pvalue": 0.0793
+    },
+    {
+      "gene_node_idx": 167,
+      "gene_node_name": "CBLB",
+      "Weight": 0.0736,
+      "t2ds_no_t2ds_pvalue": 0.0477,
+      "pret2ds_no_t2ds_pvalue": 0.1804
+    },
+    {
+      "gene_node_idx": 1261,
+      "gene_node_name": "TBK1",
+      "Weight": 0.0717,
+      "t2ds_no_t2ds_pvalue": 0.064,
+      "pret2ds_no_t2ds_pvalue": 0.2631
+    },
+    {
+      "gene_node_idx": 282,
+      "gene_node_name": "CUL1",
+      "Weight": 0.0717,
+      "t2ds_no_t2ds_pvalue": 0.0126,
+      "pret2ds_no_t2ds_pvalue": 0.0948
+    },
+    {
+      "gene_node_idx": 812,
+      "gene_node_name": "NEK7",
+      "Weight": 0.0715,
+      "t2ds_no_t2ds_pvalue": 0.1722,
+      "pret2ds_no_t2ds_pvalue": 0.3983
+    },
+    {
+      "gene_node_idx": 132,
+      "gene_node_name": "BTRC",
+      "Weight": 0.0699,
+      "t2ds_no_t2ds_pvalue": 0.3669,
+      "pret2ds_no_t2ds_pvalue": 0.232
+    },
+    {
+      "gene_node_idx": 110,
+      "gene_node_name": "BCL2L1",
+      "Weight": 0.069,
+      "t2ds_no_t2ds_pvalue": 0.0447,
+      "pret2ds_no_t2ds_pvalue": 0.0626
+    },
+    {
+      "gene_node_idx": 280,
+      "gene_node_name": "CTSB",
+      "Weight": 0.0671,
+      "t2ds_no_t2ds_pvalue": 0.0124,
+      "pret2ds_no_t2ds_pvalue": 0.0739
+    },
+    {
+      "gene_node_idx": 684,
+      "gene_node_name": "LLGL2",
+      "Weight": 0.0664,
+      "t2ds_no_t2ds_pvalue": 0.0494,
+      "pret2ds_no_t2ds_pvalue": 0.1152
+    },
+    {
+      "gene_node_idx": 166,
+      "gene_node_name": "CBL",
+      "Weight": 0.0643,
+      "t2ds_no_t2ds_pvalue": 0.0063,
+      "pret2ds_no_t2ds_pvalue": 0.0254
+    },
+    {
+      "gene_node_idx": 325,
+      "gene_node_name": "DLG5",
+      "Weight": 0.0639,
+      "t2ds_no_t2ds_pvalue": 0.0428,
+      "pret2ds_no_t2ds_pvalue": 0.0906
+    },
+    {
+      "gene_node_idx": 324,
+      "gene_node_name": "DLG4",
+      "Weight": 0.0628,
+      "t2ds_no_t2ds_pvalue": 0.0403,
+      "pret2ds_no_t2ds_pvalue": 0.0667
+    },
+    {
+      "gene_node_idx": 1245,
+      "gene_node_name": "SUFU",
+      "Weight": 0.0602,
+      "t2ds_no_t2ds_pvalue": 0.0105,
+      "pret2ds_no_t2ds_pvalue": 0.0632
+    },
+    {
+      "gene_node_idx": 438,
+      "gene_node_name": "FYN",
+      "Weight": 0.0596,
+      "t2ds_no_t2ds_pvalue": 0.232,
+      "pret2ds_no_t2ds_pvalue": 0.1231
+    },
+    {
+      "gene_node_idx": 749,
+      "gene_node_name": "MAVS",
+      "Weight": 0.0575,
+      "t2ds_no_t2ds_pvalue": 0.5655,
+      "pret2ds_no_t2ds_pvalue": 0.2658
+    },
+    {
+      "gene_node_idx": 524,
+      "gene_node_name": "HSP90AA1",
+      "Weight": 0.0572,
+      "t2ds_no_t2ds_pvalue": 0.0433,
+      "pret2ds_no_t2ds_pvalue": 0.0963
+    },
+    {
+      "gene_node_idx": 1037,
+      "gene_node_name": "PTPRC",
+      "Weight": 0.0571,
+      "t2ds_no_t2ds_pvalue": 0.1376,
+      "pret2ds_no_t2ds_pvalue": 0.2491
+    },
+    {
+      "gene_node_idx": 1165,
+      "gene_node_name": "SH2B2",
+      "Weight": 0.0555,
+      "t2ds_no_t2ds_pvalue": 0.1487,
+      "pret2ds_no_t2ds_pvalue": 0.4766
+    },
+    {
+      "gene_node_idx": 64,
+      "gene_node_name": "ARHGEF12",
+      "Weight": 0.0537,
+      "t2ds_no_t2ds_pvalue": 0.0871,
+      "pret2ds_no_t2ds_pvalue": 0.0986
+    },
+    {
+      "gene_node_idx": 1384,
+      "gene_node_name": "ZAP70",
+      "Weight": 0.0531,
+      "t2ds_no_t2ds_pvalue": 0.302,
+      "pret2ds_no_t2ds_pvalue": 0.0782
+    },
+    {
+      "gene_node_idx": 105,
+      "gene_node_name": "BAX",
+      "Weight": 0.0529,
+      "t2ds_no_t2ds_pvalue": 0.2592,
+      "pret2ds_no_t2ds_pvalue": 0.3778
+    },
+    {
+      "gene_node_idx": 74,
+      "gene_node_name": "ATG5",
+      "Weight": 0.0515,
+      "t2ds_no_t2ds_pvalue": 0.037,
+      "pret2ds_no_t2ds_pvalue": 0.0307
+    },
+    {
+      "gene_node_idx": 209,
+      "gene_node_name": "CDC37",
+      "Weight": 0.051,
+      "t2ds_no_t2ds_pvalue": 0.2248,
+      "pret2ds_no_t2ds_pvalue": 0.3271
+    },
+    {
+      "gene_node_idx": 745,
+      "gene_node_name": "MAPKAPK2",
+      "Weight": 0.049,
+      "t2ds_no_t2ds_pvalue": 0.0349,
+      "pret2ds_no_t2ds_pvalue": 0.1547
+    },
+    {
+      "gene_node_idx": 1240,
+      "gene_node_name": "STK4",
+      "Weight": 0.04,
+      "t2ds_no_t2ds_pvalue": 0.0999,
+      "pret2ds_no_t2ds_pvalue": 0.0747
+    },
+    {
+      "gene_node_idx": 568,
+      "gene_node_name": "IL23A",
+      "Weight": 0.0395,
+      "t2ds_no_t2ds_pvalue": 0.0704,
+      "pret2ds_no_t2ds_pvalue": 0.2988
+    },
+    {
+      "gene_node_idx": 1350,
+      "gene_node_name": "USP25",
+      "Weight": 0.0394,
+      "t2ds_no_t2ds_pvalue": 0.0058,
+      "pret2ds_no_t2ds_pvalue": 0.1028
+    },
+    {
+      "gene_node_idx": 746,
+      "gene_node_name": "MAPKAPK3",
+      "Weight": 0.0392,
+      "t2ds_no_t2ds_pvalue": 0.0709,
+      "pret2ds_no_t2ds_pvalue": 0.1753
+    },
+    {
+      "gene_node_idx": 525,
+      "gene_node_name": "HSP90AB1",
+      "Weight": 0.038,
+      "t2ds_no_t2ds_pvalue": 0.0224,
+      "pret2ds_no_t2ds_pvalue": 0.0467
+    },
+    {
+      "gene_node_idx": 550,
+      "gene_node_name": "IKBKE",
+      "Weight": 0.0376,
+      "t2ds_no_t2ds_pvalue": 0.315,
+      "pret2ds_no_t2ds_pvalue": 0.094
+    },
+    {
+      "gene_node_idx": 793,
+      "gene_node_name": "MYD88",
+      "Weight": 0.0359,
+      "t2ds_no_t2ds_pvalue": 0.0154,
+      "pret2ds_no_t2ds_pvalue": 0.0089
+    },
+    {
+      "gene_node_idx": 563,
+      "gene_node_name": "IL18",
+      "Weight": 0.0357,
+      "t2ds_no_t2ds_pvalue": 0.3057,
+      "pret2ds_no_t2ds_pvalue": 0.3279
+    },
+    {
+      "gene_node_idx": 1200,
+      "gene_node_name": "SMAD7",
+      "Weight": 0.0348,
+      "t2ds_no_t2ds_pvalue": 0.002,
+      "pret2ds_no_t2ds_pvalue": 0.0013
+    },
+    {
+      "gene_node_idx": 699,
+      "gene_node_name": "LTBR",
+      "Weight": 0.0347,
+      "t2ds_no_t2ds_pvalue": 0.0161,
+      "pret2ds_no_t2ds_pvalue": 0.1809
+    },
+    {
+      "gene_node_idx": 526,
+      "gene_node_name": "HSP90B1",
+      "Weight": 0.0325,
+      "t2ds_no_t2ds_pvalue": 0.044,
+      "pret2ds_no_t2ds_pvalue": 0.0715
+    },
+    {
+      "gene_node_idx": 72,
+      "gene_node_name": "ATG12",
+      "Weight": 0.0323,
+      "t2ds_no_t2ds_pvalue": 0.0258,
+      "pret2ds_no_t2ds_pvalue": 0.0807
+    },
+    {
+      "gene_node_idx": 157,
+      "gene_node_name": "CASP3",
+      "Weight": 0.0311,
+      "t2ds_no_t2ds_pvalue": 0.2163,
+      "pret2ds_no_t2ds_pvalue": 0.0508
+    },
+    {
+      "gene_node_idx": 1058,
+      "gene_node_name": "RALGDS",
+      "Weight": 0.0272,
+      "t2ds_no_t2ds_pvalue": 0.0261,
+      "pret2ds_no_t2ds_pvalue": 0.3386
+    },
+    {
+      "gene_node_idx": 103,
+      "gene_node_name": "BAD",
+      "Weight": 0.0262,
+      "t2ds_no_t2ds_pvalue": 0.5042,
+      "pret2ds_no_t2ds_pvalue": 0.0587
+    },
+    {
+      "gene_node_idx": 1080,
+      "gene_node_name": "RASSF1",
+      "Weight": 0.0248,
+      "t2ds_no_t2ds_pvalue": 0.3023,
+      "pret2ds_no_t2ds_pvalue": 0.0398
+    },
+    {
+      "gene_node_idx": 55,
+      "gene_node_name": "APC2",
+      "Weight": 0.0242,
+      "t2ds_no_t2ds_pvalue": 0.0811,
+      "pret2ds_no_t2ds_pvalue": 0.2328
+    },
+    {
+      "gene_node_idx": 1335,
+      "gene_node_name": "TRAF5",
+      "Weight": 0.0242,
+      "t2ds_no_t2ds_pvalue": 0.032,
+      "pret2ds_no_t2ds_pvalue": 0.0761
+    },
+    {
+      "gene_node_idx": 108,
+      "gene_node_name": "BCL2",
+      "Weight": 0.0239,
+      "t2ds_no_t2ds_pvalue": 0.0477,
+      "pret2ds_no_t2ds_pvalue": 0.0112
+    },
+    {
+      "gene_node_idx": 459,
+      "gene_node_name": "GLI1",
+      "Weight": 0.0236,
+      "t2ds_no_t2ds_pvalue": 0.1272,
+      "pret2ds_no_t2ds_pvalue": 0.2353
+    },
+    {
+      "gene_node_idx": 446,
+      "gene_node_name": "GAB2",
+      "Weight": 0.0103,
+      "t2ds_no_t2ds_pvalue": 0.06,
+      "pret2ds_no_t2ds_pvalue": 0.0407
+    }
+  ],
+  "edges": [
+    {
+      "Actual_From": 36,
+      "Actual_To": 279,
+      "Weight": 0.5,
+      "Degree_Row": 2,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 36,
+      "Actual_To": 1178,
+      "Weight": 0.5,
+      "Degree_Row": 2,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 41,
+      "Actual_To": 1040,
+      "Weight": 0.1385,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 52,
+      "Actual_To": 162,
+      "Weight": 0.2175,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 72,
+      "Actual_To": 74,
+      "Weight": 0.0729,
+      "Degree_Row": 5,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 73,
+      "Actual_To": 74,
+      "Weight": 0.0727,
+      "Degree_Row": 5,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 74,
+      "Actual_To": 749,
+      "Weight": 0.0515,
+      "Degree_Row": 5,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 103,
+      "Actual_To": 110,
+      "Weight": 0.0777,
+      "Degree_Row": 2,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 105,
+      "Actual_To": 157,
+      "Weight": 0.0899,
+      "Degree_Row": 1,
+      "Degree_Col": 13
+    },
+    {
+      "Actual_From": 108,
+      "Actual_To": 827,
+      "Weight": 0.0984,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 110,
+      "Actual_To": 105,
+      "Weight": 0.0603,
+      "Degree_Row": 2,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 110,
+      "Actual_To": 827,
+      "Weight": 0.1898,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 112,
+      "Actual_To": 568,
+      "Weight": 0.2191,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 116,
+      "Actual_To": 105,
+      "Weight": 0.063,
+      "Degree_Row": 2,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 116,
+      "Actual_To": 298,
+      "Weight": 0.3127,
+      "Degree_Row": 2,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 130,
+      "Actual_To": 829,
+      "Weight": 0.2662,
+      "Degree_Row": 1,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 132,
+      "Actual_To": 1183,
+      "Weight": 0.0722,
+      "Degree_Row": 3,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 137,
+      "Actual_To": 1183,
+      "Weight": 0.2255,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 151,
+      "Actual_To": 155,
+      "Weight": 0.2752,
+      "Degree_Row": 1,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 155,
+      "Actual_To": 497,
+      "Weight": 0.1122,
+      "Degree_Row": 3,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 155,
+      "Actual_To": 563,
+      "Weight": 0.1278,
+      "Degree_Row": 3,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 155,
+      "Actual_To": 564,
+      "Weight": 0.0887,
+      "Degree_Row": 3,
+      "Degree_Col": 9
+    },
+    {
+      "Actual_From": 157,
+      "Actual_To": 1240,
+      "Weight": 0.0756,
+      "Degree_Row": 5,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 158,
+      "Actual_To": 497,
+      "Weight": 0.3403,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 159,
+      "Actual_To": 497,
+      "Weight": 0.3233,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 162,
+      "Actual_To": 157,
+      "Weight": 0.0934,
+      "Degree_Row": 1,
+      "Degree_Col": 13
+    },
+    {
+      "Actual_From": 167,
+      "Actual_To": 233,
+      "Weight": 0.2,
+      "Degree_Row": 5,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 167,
+      "Actual_To": 1384,
+      "Weight": 0.089,
+      "Degree_Row": 5,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 192,
+      "Actual_To": 438,
+      "Weight": 0.1723,
+      "Degree_Row": 1,
+      "Degree_Col": 8
+    },
+    {
+      "Actual_From": 196,
+      "Actual_To": 438,
+      "Weight": 0.1829,
+      "Degree_Row": 1,
+      "Degree_Col": 8
+    },
+    {
+      "Actual_From": 197,
+      "Actual_To": 663,
+      "Weight": 0.1832,
+      "Degree_Row": 1,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 206,
+      "Actual_To": 663,
+      "Weight": 0.181,
+      "Degree_Row": 1,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 207,
+      "Actual_To": 663,
+      "Weight": 0.1815,
+      "Degree_Row": 1,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 209,
+      "Actual_To": 524,
+      "Weight": 0.1079,
+      "Degree_Row": 6,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 209,
+      "Actual_To": 525,
+      "Weight": 0.0901,
+      "Degree_Row": 6,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 209,
+      "Actual_To": 526,
+      "Weight": 0.0907,
+      "Degree_Row": 6,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 211,
+      "Actual_To": 1062,
+      "Weight": 0.4795,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 233,
+      "Actual_To": 694,
+      "Weight": 0.2407,
+      "Degree_Row": 2,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 279,
+      "Actual_To": 211,
+      "Weight": 0.2057,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 280,
+      "Actual_To": 829,
+      "Weight": 0.0671,
+      "Degree_Row": 1,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 281,
+      "Actual_To": 116,
+      "Weight": 1,
+      "Degree_Row": 1,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 282,
+      "Actual_To": 132,
+      "Weight": 0.081,
+      "Degree_Row": 6,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 282,
+      "Actual_To": 405,
+      "Weight": 0.1667,
+      "Degree_Row": 6,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 283,
+      "Actual_To": 1219,
+      "Weight": 0.1456,
+      "Degree_Row": 4,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 283,
+      "Actual_To": 1220,
+      "Weight": 0.25,
+      "Degree_Row": 4,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 283,
+      "Actual_To": 1245,
+      "Weight": 0.0567,
+      "Degree_Row": 4,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 298,
+      "Actual_To": 162,
+      "Weight": 0.164,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 299,
+      "Actual_To": 112,
+      "Weight": 0.2494,
+      "Degree_Row": 2,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 317,
+      "Actual_To": 1261,
+      "Weight": 0.183,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 319,
+      "Actual_To": 749,
+      "Weight": 0.0959,
+      "Degree_Row": 1,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 320,
+      "Actual_To": 539,
+      "Weight": 0.3473,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 322,
+      "Actual_To": 323,
+      "Weight": 0.1,
+      "Degree_Row": 10,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 323,
+      "Actual_To": 324,
+      "Weight": 0.1052,
+      "Degree_Row": 5,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 323,
+      "Actual_To": 1150,
+      "Weight": 0.0669,
+      "Degree_Row": 5,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 324,
+      "Actual_To": 1150,
+      "Weight": 0.0844,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 382,
+      "Actual_To": 834,
+      "Weight": 1,
+      "Degree_Row": 1,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 391,
+      "Actual_To": 1261,
+      "Weight": 0.2626,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 392,
+      "Actual_To": 1102,
+      "Weight": 0.1957,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 405,
+      "Actual_To": 132,
+      "Weight": 0.1029,
+      "Degree_Row": 5,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 405,
+      "Actual_To": 282,
+      "Weight": 0.1208,
+      "Degree_Row": 5,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 438,
+      "Actual_To": 446,
+      "Weight": 0.0561,
+      "Degree_Row": 3,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 438,
+      "Actual_To": 1384,
+      "Weight": 0.0606,
+      "Degree_Row": 3,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 459,
+      "Actual_To": 1024,
+      "Weight": 0.0607,
+      "Degree_Row": 6,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 459,
+      "Actual_To": 1025,
+      "Weight": 0.0636,
+      "Degree_Row": 6,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 459,
+      "Actual_To": 1245,
+      "Weight": 0.0575,
+      "Degree_Row": 6,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 497,
+      "Actual_To": 829,
+      "Weight": 0.0596,
+      "Degree_Row": 1,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 538,
+      "Actual_To": 41,
+      "Weight": 0.1743,
+      "Degree_Row": 3,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 538,
+      "Actual_To": 1237,
+      "Weight": 0.3333,
+      "Degree_Row": 3,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 539,
+      "Actual_To": 749,
+      "Weight": 0.0956,
+      "Degree_Row": 1,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 550,
+      "Actual_To": 299,
+      "Weight": 0.0597,
+      "Degree_Row": 7,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 564,
+      "Actual_To": 565,
+      "Weight": 0.5,
+      "Degree_Row": 2,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 564,
+      "Actual_To": 566,
+      "Weight": 0.5,
+      "Degree_Row": 2,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 566,
+      "Actual_To": 793,
+      "Weight": 0.1222,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 663,
+      "Actual_To": 1384,
+      "Weight": 0.1579,
+      "Degree_Row": 1,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 683,
+      "Actual_To": 325,
+      "Weight": 0.1248,
+      "Degree_Row": 1,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 684,
+      "Actual_To": 325,
+      "Weight": 0.0649,
+      "Degree_Row": 2,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 684,
+      "Actual_To": 683,
+      "Weight": 0.0749,
+      "Degree_Row": 2,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 694,
+      "Actual_To": 64,
+      "Weight": 0.1,
+      "Degree_Row": 10,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 694,
+      "Actual_To": 299,
+      "Weight": 0.0582,
+      "Degree_Row": 10,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 695,
+      "Actual_To": 696,
+      "Weight": 0.3333,
+      "Degree_Row": 3,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 695,
+      "Actual_To": 1318,
+      "Weight": 0.1491,
+      "Degree_Row": 3,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 696,
+      "Actual_To": 699,
+      "Weight": 0.0959,
+      "Degree_Row": 1,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 699,
+      "Actual_To": 1335,
+      "Weight": 0.0576,
+      "Degree_Row": 3,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 745,
+      "Actual_To": 532,
+      "Weight": 0.089,
+      "Degree_Row": 3,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 745,
+      "Actual_To": 694,
+      "Weight": 0.1728,
+      "Degree_Row": 3,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 746,
+      "Actual_To": 532,
+      "Weight": 0.1266,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 747,
+      "Actual_To": 532,
+      "Weight": 0.4798,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 749,
+      "Actual_To": 772,
+      "Weight": 0.1429,
+      "Degree_Row": 7,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 749,
+      "Actual_To": 773,
+      "Weight": 0.1429,
+      "Degree_Row": 7,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 800,
+      "Actual_To": 826,
+      "Weight": 0.3367,
+      "Degree_Row": 1,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 812,
+      "Actual_To": 829,
+      "Weight": 0.0715,
+      "Degree_Row": 1,
+      "Degree_Col": 11
+    },
+    {
+      "Actual_From": 826,
+      "Actual_To": 1040,
+      "Weight": 0.0903,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 827,
+      "Actual_To": 1040,
+      "Weight": 0.0856,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 829,
+      "Actual_To": 153,
+      "Weight": 0.3333,
+      "Degree_Row": 3,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 829,
+      "Actual_To": 155,
+      "Weight": 0.0694,
+      "Degree_Row": 3,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 830,
+      "Actual_To": 1040,
+      "Weight": 0.0941,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 831,
+      "Actual_To": 1040,
+      "Weight": 0.092,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 832,
+      "Actual_To": 749,
+      "Weight": 0.103,
+      "Degree_Row": 1,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 833,
+      "Actual_To": 73,
+      "Weight": 0.2606,
+      "Degree_Row": 2,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 834,
+      "Actual_To": 73,
+      "Weight": 0.0798,
+      "Degree_Row": 6,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 846,
+      "Actual_To": 1202,
+      "Weight": 1,
+      "Degree_Row": 1,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1024,
+      "Actual_To": 220,
+      "Weight": 0.5199,
+      "Degree_Row": 1,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1025,
+      "Actual_To": 220,
+      "Weight": 0.4801,
+      "Degree_Row": 1,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1037,
+      "Actual_To": 438,
+      "Weight": 0.0517,
+      "Degree_Row": 2,
+      "Degree_Col": 8
+    },
+    {
+      "Actual_From": 1037,
+      "Actual_To": 663,
+      "Weight": 0.0624,
+      "Degree_Row": 2,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 1040,
+      "Actual_To": 155,
+      "Weight": 0.2578,
+      "Degree_Row": 1,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 1055,
+      "Actual_To": 391,
+      "Weight": 0.0584,
+      "Degree_Row": 7,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1056,
+      "Actual_To": 391,
+      "Weight": 0.0844,
+      "Degree_Row": 7,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1058,
+      "Actual_To": 1055,
+      "Weight": 0.0758,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1058,
+      "Actual_To": 1056,
+      "Weight": 0.0816,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1062,
+      "Actual_To": 166,
+      "Weight": 0.0822,
+      "Degree_Row": 5,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1062,
+      "Actual_To": 167,
+      "Weight": 0.0799,
+      "Degree_Row": 5,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1062,
+      "Actual_To": 1102,
+      "Weight": 0.053,
+      "Degree_Row": 5,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1080,
+      "Actual_To": 1240,
+      "Weight": 0.0933,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1095,
+      "Actual_To": 1055,
+      "Weight": 0.197,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1095,
+      "Actual_To": 1056,
+      "Weight": 0.1784,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1096,
+      "Actual_To": 1055,
+      "Weight": 0.1513,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1096,
+      "Actual_To": 1056,
+      "Weight": 0.1584,
+      "Degree_Row": 2,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1108,
+      "Actual_To": 319,
+      "Weight": 1,
+      "Degree_Row": 1,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1109,
+      "Actual_To": 539,
+      "Weight": 0.4181,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1150,
+      "Actual_To": 325,
+      "Weight": 0.1261,
+      "Degree_Row": 3,
+      "Degree_Col": 6
+    },
+    {
+      "Actual_From": 1150,
+      "Actual_To": 683,
+      "Weight": 0.1381,
+      "Degree_Row": 3,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1150,
+      "Actual_To": 684,
+      "Weight": 0.1524,
+      "Degree_Row": 3,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 1165,
+      "Actual_To": 166,
+      "Weight": 0.0986,
+      "Degree_Row": 3,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1165,
+      "Actual_To": 167,
+      "Weight": 0.1003,
+      "Degree_Row": 3,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1173,
+      "Actual_To": 137,
+      "Weight": 0.3333,
+      "Degree_Row": 3,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1173,
+      "Actual_To": 298,
+      "Weight": 0.1249,
+      "Degree_Row": 3,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1176,
+      "Actual_To": 550,
+      "Weight": 0.1661,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1183,
+      "Actual_To": 282,
+      "Weight": 0.066,
+      "Degree_Row": 6,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1183,
+      "Actual_To": 1263,
+      "Weight": 0.1667,
+      "Degree_Row": 6,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1183,
+      "Actual_To": 1264,
+      "Weight": 0.1667,
+      "Degree_Row": 6,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1200,
+      "Actual_To": 1203,
+      "Weight": 0.1111,
+      "Degree_Row": 9,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1200,
+      "Actual_To": 1204,
+      "Weight": 0.1111,
+      "Degree_Row": 9,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1203,
+      "Actual_To": 1024,
+      "Weight": 0.0809,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1203,
+      "Actual_To": 1025,
+      "Weight": 0.0817,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1204,
+      "Actual_To": 1024,
+      "Weight": 0.0781,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1204,
+      "Actual_To": 1025,
+      "Weight": 0.0729,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1219,
+      "Actual_To": 283,
+      "Weight": 0.1979,
+      "Degree_Row": 3,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1219,
+      "Actual_To": 1245,
+      "Weight": 0.0784,
+      "Degree_Row": 3,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 1220,
+      "Actual_To": 283,
+      "Weight": 0.1016,
+      "Degree_Row": 4,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1220,
+      "Actual_To": 1219,
+      "Weight": 0.1044,
+      "Degree_Row": 4,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1237,
+      "Actual_To": 749,
+      "Weight": 0.0521,
+      "Degree_Row": 2,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 1237,
+      "Actual_To": 1261,
+      "Weight": 0.1044,
+      "Degree_Row": 2,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1246,
+      "Actual_To": 524,
+      "Weight": 0.0882,
+      "Degree_Row": 4,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1246,
+      "Actual_To": 525,
+      "Weight": 0.0582,
+      "Degree_Row": 4,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1246,
+      "Actual_To": 833,
+      "Weight": 0.25,
+      "Degree_Row": 4,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1261,
+      "Actual_To": 1091,
+      "Weight": 0.125,
+      "Degree_Row": 8,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1263,
+      "Actual_To": 55,
+      "Weight": 0.0555,
+      "Degree_Row": 3,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1264,
+      "Actual_To": 55,
+      "Weight": 0.0549,
+      "Degree_Row": 3,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1295,
+      "Actual_To": 539,
+      "Weight": 0.2346,
+      "Degree_Row": 1,
+      "Degree_Col": 3
+    },
+    {
+      "Actual_From": 1306,
+      "Actual_To": 793,
+      "Weight": 0.1072,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 1308,
+      "Actual_To": 793,
+      "Weight": 0.0903,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 1309,
+      "Actual_To": 793,
+      "Weight": 0.0874,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 1310,
+      "Actual_To": 793,
+      "Weight": 0.0914,
+      "Degree_Row": 1,
+      "Degree_Col": 10
+    },
+    {
+      "Actual_From": 1311,
+      "Actual_To": 1200,
+      "Weight": 0.099,
+      "Degree_Row": 3,
+      "Degree_Col": 4
+    },
+    {
+      "Actual_From": 1311,
+      "Actual_To": 1317,
+      "Weight": 0.3333,
+      "Degree_Row": 3,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1311,
+      "Actual_To": 1318,
+      "Weight": 0.1842,
+      "Degree_Row": 3,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1317,
+      "Actual_To": 104,
+      "Weight": 0.1429,
+      "Degree_Row": 7,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1317,
+      "Actual_To": 846,
+      "Weight": 0.1429,
+      "Degree_Row": 7,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1318,
+      "Actual_To": 309,
+      "Weight": 0.3333,
+      "Degree_Row": 3,
+      "Degree_Col": 1
+    },
+    {
+      "Actual_From": 1321,
+      "Actual_To": 699,
+      "Weight": 0.1071,
+      "Degree_Row": 1,
+      "Degree_Col": 7
+    },
+    {
+      "Actual_From": 1325,
+      "Actual_To": 41,
+      "Weight": 0.4771,
+      "Degree_Row": 1,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1337,
+      "Actual_To": 1102,
+      "Weight": 0.1875,
+      "Degree_Row": 1,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1350,
+      "Actual_To": 1335,
+      "Weight": 0.0869,
+      "Degree_Row": 3,
+      "Degree_Col": 5
+    },
+    {
+      "Actual_From": 1384,
+      "Actual_To": 192,
+      "Weight": 0.0533,
+      "Degree_Row": 8,
+      "Degree_Col": 2
+    },
+    {
+      "Actual_From": 1384,
+      "Actual_To": 322,
+      "Weight": 0.125,
+      "Degree_Row": 8,
+      "Degree_Col": 1
+    }
+  ],
+  "pvalue_nodes": [
+    {
+      "gene_node_idx": 382,
+      "gene_node_name": "ERBIN",
+      "Weight": 1,
+      "t2ds_no_t2ds_pvalue": 0.014,
+      "pret2ds_no_t2ds_pvalue": 0.0574
+    },
+    {
+      "gene_node_idx": 1108,
+      "gene_node_name": "RNASEL",
+      "Weight": 1,
+      "t2ds_no_t2ds_pvalue": 0.0077,
+      "pret2ds_no_t2ds_pvalue": 0.0387
+    },
+    {
+      "gene_node_idx": 319,
+      "gene_node_name": "DHX33",
+      "Weight": 0.5479,
+      "t2ds_no_t2ds_pvalue": 0.2643,
+      "pret2ds_no_t2ds_pvalue": 0.0166
+    },
+    {
+      "gene_node_idx": 1109,
+      "gene_node_name": "RNF125",
+      "Weight": 0.4181,
+      "t2ds_no_t2ds_pvalue": 0.0258,
+      "pret2ds_no_t2ds_pvalue": 0.3609
+    },
+    {
+      "gene_node_idx": 279,
+      "gene_node_name": "CTNND1",
+      "Weight": 0.3529,
+      "t2ds_no_t2ds_pvalue": 0.0063,
+      "pret2ds_no_t2ds_pvalue": 0.0671
+    },
+    {
+      "gene_node_idx": 566,
+      "gene_node_name": "IL1RAP",
+      "Weight": 0.3111,
+      "t2ds_no_t2ds_pvalue": 0.0015,
+      "pret2ds_no_t2ds_pvalue": 0.013
+    },
+    {
+      "gene_node_idx": 1024,
+      "gene_node_name": "PTCH1",
+      "Weight": 0.2966,
+      "t2ds_no_t2ds_pvalue": 0.0119,
+      "pret2ds_no_t2ds_pvalue": 0.0284
+    },
+    {
+      "gene_node_idx": 1025,
+      "gene_node_name": "PTCH2",
+      "Weight": 0.2764,
+      "t2ds_no_t2ds_pvalue": 0.0111,
+      "pret2ds_no_t2ds_pvalue": 0.3543
+    },
+    {
+      "gene_node_idx": 151,
+      "gene_node_name": "CARD16",
+      "Weight": 0.2752,
+      "t2ds_no_t2ds_pvalue": 0.0298,
+      "pret2ds_no_t2ds_pvalue": 0.0007
+    },
+    {
+      "gene_node_idx": 130,
+      "gene_node_name": "BRCC3",
+      "Weight": 0.2662,
+      "t2ds_no_t2ds_pvalue": 0.0373,
+      "pret2ds_no_t2ds_pvalue": 0.1231
+    },
+    {
+      "gene_node_idx": 565,
+      "gene_node_name": "IL1R1",
+      "Weight": 0.2661,
+      "t2ds_no_t2ds_pvalue": 0.0149,
+      "pret2ds_no_t2ds_pvalue": 0.1188
+    },
+    {
+      "gene_node_idx": 211,
+      "gene_node_name": "CDH1",
+      "Weight": 0.266,
+      "t2ds_no_t2ds_pvalue": 0.03,
+      "pret2ds_no_t2ds_pvalue": 0.0014
+    },
+    {
+      "gene_node_idx": 1178,
+      "gene_node_name": "SIPA1",
+      "Weight": 0.2614,
+      "t2ds_no_t2ds_pvalue": 0.0547,
+      "pret2ds_no_t2ds_pvalue": 0.0187
+    },
+    {
+      "gene_node_idx": 564,
+      "gene_node_name": "IL1B",
+      "Weight": 0.2583,
+      "t2ds_no_t2ds_pvalue": 0.0797,
+      "pret2ds_no_t2ds_pvalue": 0.0184
+    },
+    {
+      "gene_node_idx": 36,
+      "gene_node_name": "AFDN",
+      "Weight": 0.2524,
+      "t2ds_no_t2ds_pvalue": 0.0502,
+      "pret2ds_no_t2ds_pvalue": 0.0101
+    },
+    {
+      "gene_node_idx": 747,
+      "gene_node_name": "MAPKAPK5",
+      "Weight": 0.2435,
+      "t2ds_no_t2ds_pvalue": 0.0188,
+      "pret2ds_no_t2ds_pvalue": 0.063
+    },
+    {
+      "gene_node_idx": 1295,
+      "gene_node_name": "TKFC",
+      "Weight": 0.2346,
+      "t2ds_no_t2ds_pvalue": 0.2274,
+      "pret2ds_no_t2ds_pvalue": 0.0067
+    },
+    {
+      "gene_node_idx": 41,
+      "gene_node_name": "AIM2",
+      "Weight": 0.2321,
+      "t2ds_no_t2ds_pvalue": 0.0178,
+      "pret2ds_no_t2ds_pvalue": 0.2663
+    },
+    {
+      "gene_node_idx": 532,
+      "gene_node_name": "HSPB1",
+      "Weight": 0.2318,
+      "t2ds_no_t2ds_pvalue": 0.031,
+      "pret2ds_no_t2ds_pvalue": 0.3299
+    },
+    {
+      "gene_node_idx": 52,
+      "gene_node_name": "APAF1",
+      "Weight": 0.2175,
+      "t2ds_no_t2ds_pvalue": 0.2036,
+      "pret2ds_no_t2ds_pvalue": 0.0298
+    },
+    {
+      "gene_node_idx": 696,
+      "gene_node_name": "LTB",
+      "Weight": 0.2146,
+      "t2ds_no_t2ds_pvalue": 0.0001,
+      "pret2ds_no_t2ds_pvalue": 0.1381
+    },
+    {
+      "gene_node_idx": 539,
+      "gene_node_name": "IFIH1",
+      "Weight": 0.2145,
+      "t2ds_no_t2ds_pvalue": 0.0208,
+      "pret2ds_no_t2ds_pvalue": 0.0027
+    },
+    {
+      "gene_node_idx": 1237,
+      "gene_node_name": "STING1",
+      "Weight": 0.2058,
+      "t2ds_no_t2ds_pvalue": 0.0352,
+      "pret2ds_no_t2ds_pvalue": 0.2421
+    },
+    {
+      "gene_node_idx": 392,
+      "gene_node_name": "EXOC7",
+      "Weight": 0.1957,
+      "t2ds_no_t2ds_pvalue": 0.0395,
+      "pret2ds_no_t2ds_pvalue": 0.0091
+    },
+    {
+      "gene_node_idx": 1317,
+      "gene_node_name": "TNFRSF1A",
+      "Weight": 0.1922,
+      "t2ds_no_t2ds_pvalue": 0.0094,
+      "pret2ds_no_t2ds_pvalue": 0.0144
+    },
+    {
+      "gene_node_idx": 298,
+      "gene_node_name": "CYCS",
+      "Weight": 0.1914,
+      "t2ds_no_t2ds_pvalue": 0.0233,
+      "pret2ds_no_t2ds_pvalue": 0.0186
+    },
+    {
+      "gene_node_idx": 197,
+      "gene_node_name": "CD4",
+      "Weight": 0.1832,
+      "t2ds_no_t2ds_pvalue": 0.05,
+      "pret2ds_no_t2ds_pvalue": 0.0715
+    },
+    {
+      "gene_node_idx": 317,
+      "gene_node_name": "DDX3X",
+      "Weight": 0.183,
+      "t2ds_no_t2ds_pvalue": 0.0148,
+      "pret2ds_no_t2ds_pvalue": 0.0519
+    },
+    {
+      "gene_node_idx": 207,
+      "gene_node_name": "CD8B",
+      "Weight": 0.1815,
+      "t2ds_no_t2ds_pvalue": 0.1082,
+      "pret2ds_no_t2ds_pvalue": 0.0246
+    },
+    {
+      "gene_node_idx": 538,
+      "gene_node_name": "IFI16",
+      "Weight": 0.1795,
+      "t2ds_no_t2ds_pvalue": 0.0109,
+      "pret2ds_no_t2ds_pvalue": 0.2996
+    },
+    {
+      "gene_node_idx": 233,
+      "gene_node_name": "CLEC7A",
+      "Weight": 0.1706,
+      "t2ds_no_t2ds_pvalue": 0.0194,
+      "pret2ds_no_t2ds_pvalue": 0.3131
+    },
+    {
+      "gene_node_idx": 391,
+      "gene_node_name": "EXOC2",
+      "Weight": 0.167,
+      "t2ds_no_t2ds_pvalue": 0.3111,
+      "pret2ds_no_t2ds_pvalue": 0.0312
+    },
+    {
+      "gene_node_idx": 1176,
+      "gene_node_name": "SIKE1",
+      "Weight": 0.1661,
+      "t2ds_no_t2ds_pvalue": 0.0027,
+      "pret2ds_no_t2ds_pvalue": 0.1972
+    },
+    {
+      "gene_node_idx": 1040,
+      "gene_node_name": "PYCARD",
+      "Weight": 0.1614,
+      "t2ds_no_t2ds_pvalue": 0.04,
+      "pret2ds_no_t2ds_pvalue": 0.0348
+    },
+    {
+      "gene_node_idx": 104,
+      "gene_node_name": "BAG4",
+      "Weight": 0.1429,
+      "t2ds_no_t2ds_pvalue": 0.0071,
+      "pret2ds_no_t2ds_pvalue": 0.2561
+    },
+    {
+      "gene_node_idx": 772,
+      "gene_node_name": "MFN1",
+      "Weight": 0.1429,
+      "t2ds_no_t2ds_pvalue": 0.0447,
+      "pret2ds_no_t2ds_pvalue": 0.2011
+    },
+    {
+      "gene_node_idx": 773,
+      "gene_node_name": "MFN2",
+      "Weight": 0.1429,
+      "t2ds_no_t2ds_pvalue": 0.0775,
+      "pret2ds_no_t2ds_pvalue": 0.0273
+    },
+    {
+      "gene_node_idx": 826,
+      "gene_node_name": "NLRC4",
+      "Weight": 0.1341,
+      "t2ds_no_t2ds_pvalue": 0.2626,
+      "pret2ds_no_t2ds_pvalue": 0.0294
+    },
+    {
+      "gene_node_idx": 155,
+      "gene_node_name": "CASP1",
+      "Weight": 0.1337,
+      "t2ds_no_t2ds_pvalue": 0.2874,
+      "pret2ds_no_t2ds_pvalue": 0.045
+    },
+    {
+      "gene_node_idx": 283,
+      "gene_node_name": "CUL3",
+      "Weight": 0.1332,
+      "t2ds_no_t2ds_pvalue": 0.0103,
+      "pret2ds_no_t2ds_pvalue": 0.0056
+    },
+    {
+      "gene_node_idx": 112,
+      "gene_node_name": "BCL3",
+      "Weight": 0.131,
+      "t2ds_no_t2ds_pvalue": 0.0099,
+      "pret2ds_no_t2ds_pvalue": 0.0764
+    },
+    {
+      "gene_node_idx": 1062,
+      "gene_node_name": "RAPGEF1",
+      "Weight": 0.1171,
+      "t2ds_no_t2ds_pvalue": 0.043,
+      "pret2ds_no_t2ds_pvalue": 0.153
+    },
+    {
+      "gene_node_idx": 405,
+      "gene_node_name": "FBXW11",
+      "Weight": 0.1103,
+      "t2ds_no_t2ds_pvalue": 0.0049,
+      "pret2ds_no_t2ds_pvalue": 0.0042
+    },
+    {
+      "gene_node_idx": 1306,
+      "gene_node_name": "TLR5",
+      "Weight": 0.1072,
+      "t2ds_no_t2ds_pvalue": 0.0466,
+      "pret2ds_no_t2ds_pvalue": 0.0436
+    },
+    {
+      "gene_node_idx": 1264,
+      "gene_node_name": "TBL1XR1",
+      "Weight": 0.1006,
+      "t2ds_no_t2ds_pvalue": 0.0053,
+      "pret2ds_no_t2ds_pvalue": 0.0057
+    },
+    {
+      "gene_node_idx": 1150,
+      "gene_node_name": "SCRIB",
+      "Weight": 0.1001,
+      "t2ds_no_t2ds_pvalue": 0.2048,
+      "pret2ds_no_t2ds_pvalue": 0.003
+    },
+    {
+      "gene_node_idx": 1102,
+      "gene_node_name": "RHOQ",
+      "Weight": 0.0981,
+      "t2ds_no_t2ds_pvalue": 0.0073,
+      "pret2ds_no_t2ds_pvalue": 0.0937
+    },
+    {
+      "gene_node_idx": 827,
+      "gene_node_name": "NLRP1",
+      "Weight": 0.0971,
+      "t2ds_no_t2ds_pvalue": 0.0273,
+      "pret2ds_no_t2ds_pvalue": 0.1697
+    },
+    {
+      "gene_node_idx": 1095,
+      "gene_node_name": "RGL1",
+      "Weight": 0.0971,
+      "t2ds_no_t2ds_pvalue": 0.0587,
+      "pret2ds_no_t2ds_pvalue": 0.0162
+    },
+    {
+      "gene_node_idx": 829,
+      "gene_node_name": "NLRP3",
+      "Weight": 0.0962,
+      "t2ds_no_t2ds_pvalue": 0.0112,
+      "pret2ds_no_t2ds_pvalue": 0.0779
+    },
+    {
+      "gene_node_idx": 299,
+      "gene_node_name": "CYLD",
+      "Weight": 0.0955,
+      "t2ds_no_t2ds_pvalue": 0.0016,
+      "pret2ds_no_t2ds_pvalue": 0.0156
+    },
+    {
+      "gene_node_idx": 830,
+      "gene_node_name": "NLRP6",
+      "Weight": 0.0941,
+      "t2ds_no_t2ds_pvalue": 0.2662,
+      "pret2ds_no_t2ds_pvalue": 0.0249
+    },
+    {
+      "gene_node_idx": 831,
+      "gene_node_name": "NLRP7",
+      "Weight": 0.092,
+      "t2ds_no_t2ds_pvalue": 0.0504,
+      "pret2ds_no_t2ds_pvalue": 0.0434
+    },
+    {
+      "gene_node_idx": 1310,
+      "gene_node_name": "TLR9",
+      "Weight": 0.0914,
+      "t2ds_no_t2ds_pvalue": 0.034,
+      "pret2ds_no_t2ds_pvalue": 0.1481
+    },
+    {
+      "gene_node_idx": 1173,
+      "gene_node_name": "SIAH1",
+      "Weight": 0.0913,
+      "t2ds_no_t2ds_pvalue": 0.0514,
+      "pret2ds_no_t2ds_pvalue": 0.0138
+    },
+    {
+      "gene_node_idx": 1308,
+      "gene_node_name": "TLR7",
+      "Weight": 0.0903,
+      "t2ds_no_t2ds_pvalue": 0.0043,
+      "pret2ds_no_t2ds_pvalue": 0.1203
+    },
+    {
+      "gene_node_idx": 1309,
+      "gene_node_name": "TLR8",
+      "Weight": 0.0874,
+      "t2ds_no_t2ds_pvalue": 0.0094,
+      "pret2ds_no_t2ds_pvalue": 0.0119
+    },
+    {
+      "gene_node_idx": 1203,
+      "gene_node_name": "SMURF1",
+      "Weight": 0.0873,
+      "t2ds_no_t2ds_pvalue": 0.031,
+      "pret2ds_no_t2ds_pvalue": 0.1603
+    },
+    {
+      "gene_node_idx": 162,
+      "gene_node_name": "CASP9",
+      "Weight": 0.0861,
+      "t2ds_no_t2ds_pvalue": 0.0034,
+      "pret2ds_no_t2ds_pvalue": 0.0013
+    },
+    {
+      "gene_node_idx": 1056,
+      "gene_node_name": "RALB",
+      "Weight": 0.0809,
+      "t2ds_no_t2ds_pvalue": 0.012,
+      "pret2ds_no_t2ds_pvalue": 0.0055
+    },
+    {
+      "gene_node_idx": 1096,
+      "gene_node_name": "RGL2",
+      "Weight": 0.0807,
+      "t2ds_no_t2ds_pvalue": 0.0801,
+      "pret2ds_no_t2ds_pvalue": 0.0282
+    },
+    {
+      "gene_node_idx": 1055,
+      "gene_node_name": "RALA",
+      "Weight": 0.0788,
+      "t2ds_no_t2ds_pvalue": 0.03,
+      "pret2ds_no_t2ds_pvalue": 0.1457
+    },
+    {
+      "gene_node_idx": 323,
+      "gene_node_name": "DLG3",
+      "Weight": 0.0763,
+      "t2ds_no_t2ds_pvalue": 0.0423,
+      "pret2ds_no_t2ds_pvalue": 0.0087
+    },
+    {
+      "gene_node_idx": 1183,
+      "gene_node_name": "SKP1",
+      "Weight": 0.0743,
+      "t2ds_no_t2ds_pvalue": 0.0093,
+      "pret2ds_no_t2ds_pvalue": 0.0633
+    },
+    {
+      "gene_node_idx": 322,
+      "gene_node_name": "DLG1",
+      "Weight": 0.0741,
+      "t2ds_no_t2ds_pvalue": 0.0498,
+      "pret2ds_no_t2ds_pvalue": 0.0793
+    },
+    {
+      "gene_node_idx": 167,
+      "gene_node_name": "CBLB",
+      "Weight": 0.0736,
+      "t2ds_no_t2ds_pvalue": 0.0477,
+      "pret2ds_no_t2ds_pvalue": 0.1804
+    },
+    {
+      "gene_node_idx": 282,
+      "gene_node_name": "CUL1",
+      "Weight": 0.0717,
+      "t2ds_no_t2ds_pvalue": 0.0126,
+      "pret2ds_no_t2ds_pvalue": 0.0948
+    },
+    {
+      "gene_node_idx": 110,
+      "gene_node_name": "BCL2L1",
+      "Weight": 0.069,
+      "t2ds_no_t2ds_pvalue": 0.0447,
+      "pret2ds_no_t2ds_pvalue": 0.0626
+    },
+    {
+      "gene_node_idx": 280,
+      "gene_node_name": "CTSB",
+      "Weight": 0.0671,
+      "t2ds_no_t2ds_pvalue": 0.0124,
+      "pret2ds_no_t2ds_pvalue": 0.0739
+    },
+    {
+      "gene_node_idx": 684,
+      "gene_node_name": "LLGL2",
+      "Weight": 0.0664,
+      "t2ds_no_t2ds_pvalue": 0.0494,
+      "pret2ds_no_t2ds_pvalue": 0.1152
+    },
+    {
+      "gene_node_idx": 166,
+      "gene_node_name": "CBL",
+      "Weight": 0.0643,
+      "t2ds_no_t2ds_pvalue": 0.0063,
+      "pret2ds_no_t2ds_pvalue": 0.0254
+    },
+    {
+      "gene_node_idx": 325,
+      "gene_node_name": "DLG5",
+      "Weight": 0.0639,
+      "t2ds_no_t2ds_pvalue": 0.0428,
+      "pret2ds_no_t2ds_pvalue": 0.0906
+    },
+    {
+      "gene_node_idx": 324,
+      "gene_node_name": "DLG4",
+      "Weight": 0.0628,
+      "t2ds_no_t2ds_pvalue": 0.0403,
+      "pret2ds_no_t2ds_pvalue": 0.0667
+    },
+    {
+      "gene_node_idx": 1245,
+      "gene_node_name": "SUFU",
+      "Weight": 0.0602,
+      "t2ds_no_t2ds_pvalue": 0.0105,
+      "pret2ds_no_t2ds_pvalue": 0.0632
+    },
+    {
+      "gene_node_idx": 524,
+      "gene_node_name": "HSP90AA1",
+      "Weight": 0.0572,
+      "t2ds_no_t2ds_pvalue": 0.0433,
+      "pret2ds_no_t2ds_pvalue": 0.0963
+    },
+    {
+      "gene_node_idx": 74,
+      "gene_node_name": "ATG5",
+      "Weight": 0.0515,
+      "t2ds_no_t2ds_pvalue": 0.037,
+      "pret2ds_no_t2ds_pvalue": 0.0307
+    },
+    {
+      "gene_node_idx": 745,
+      "gene_node_name": "MAPKAPK2",
+      "Weight": 0.049,
+      "t2ds_no_t2ds_pvalue": 0.0349,
+      "pret2ds_no_t2ds_pvalue": 0.1547
+    },
+    {
+      "gene_node_idx": 1350,
+      "gene_node_name": "USP25",
+      "Weight": 0.0394,
+      "t2ds_no_t2ds_pvalue": 0.0058,
+      "pret2ds_no_t2ds_pvalue": 0.1028
+    },
+    {
+      "gene_node_idx": 525,
+      "gene_node_name": "HSP90AB1",
+      "Weight": 0.038,
+      "t2ds_no_t2ds_pvalue": 0.0224,
+      "pret2ds_no_t2ds_pvalue": 0.0467
+    },
+    {
+      "gene_node_idx": 793,
+      "gene_node_name": "MYD88",
+      "Weight": 0.0359,
+      "t2ds_no_t2ds_pvalue": 0.0154,
+      "pret2ds_no_t2ds_pvalue": 0.0089
+    },
+    {
+      "gene_node_idx": 1200,
+      "gene_node_name": "SMAD7",
+      "Weight": 0.0348,
+      "t2ds_no_t2ds_pvalue": 0.002,
+      "pret2ds_no_t2ds_pvalue": 0.0013
+    },
+    {
+      "gene_node_idx": 699,
+      "gene_node_name": "LTBR",
+      "Weight": 0.0347,
+      "t2ds_no_t2ds_pvalue": 0.0161,
+      "pret2ds_no_t2ds_pvalue": 0.1809
+    },
+    {
+      "gene_node_idx": 526,
+      "gene_node_name": "HSP90B1",
+      "Weight": 0.0325,
+      "t2ds_no_t2ds_pvalue": 0.044,
+      "pret2ds_no_t2ds_pvalue": 0.0715
+    },
+    {
+      "gene_node_idx": 72,
+      "gene_node_name": "ATG12",
+      "Weight": 0.0323,
+      "t2ds_no_t2ds_pvalue": 0.0258,
+      "pret2ds_no_t2ds_pvalue": 0.0807
+    },
+    {
+      "gene_node_idx": 1058,
+      "gene_node_name": "RALGDS",
+      "Weight": 0.0272,
+      "t2ds_no_t2ds_pvalue": 0.0261,
+      "pret2ds_no_t2ds_pvalue": 0.3386
+    },
+    {
+      "gene_node_idx": 1080,
+      "gene_node_name": "RASSF1",
+      "Weight": 0.0248,
+      "t2ds_no_t2ds_pvalue": 0.3023,
+      "pret2ds_no_t2ds_pvalue": 0.0398
+    },
+    {
+      "gene_node_idx": 1335,
+      "gene_node_name": "TRAF5",
+      "Weight": 0.0242,
+      "t2ds_no_t2ds_pvalue": 0.032,
+      "pret2ds_no_t2ds_pvalue": 0.0761
+    },
+    {
+      "gene_node_idx": 108,
+      "gene_node_name": "BCL2",
+      "Weight": 0.0239,
+      "t2ds_no_t2ds_pvalue": 0.0477,
+      "pret2ds_no_t2ds_pvalue": 0.0112
+    },
+    {
+      "gene_node_idx": 446,
+      "gene_node_name": "GAB2",
+      "Weight": 0.0103,
+      "t2ds_no_t2ds_pvalue": 0.06,
+      "pret2ds_no_t2ds_pvalue": 0.0407
+    }
+  ]
+}

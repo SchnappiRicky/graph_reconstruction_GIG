@@ -1,0 +1,3073 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 5
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Serine/threonine-protein kinase 24",
+      "score": 12.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5082",
+      "target_components": [
+        {
+          "accession": "Q9Y6E0",
+          "component_description": "Serine/threonine-protein kinase 24",
+          "component_id": 3390,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 3 C-terminal",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 3 N-terminal",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST-3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST3/C",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST3/N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 24",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 24 12 kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 24 36 kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STE20-like kinase MST3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STK24",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "STK3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "STK3 GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Synonyms=MST3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "3CKW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QLQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3A7F",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3CKX",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QLR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3A7G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3A7H",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QNA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMX",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7B31",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7B30",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMZ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7B33",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7B32",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7B35",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7B34",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3ZHP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMS",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4U8Z",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8BZJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8BZI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QML",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QMO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4W8E",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4W8D",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3A7I",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4O27",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3A7J",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QLS",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QLT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4QO9",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0045296",
+              "xref_name": "cadherin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008631",
+              "xref_name": "intrinsic apoptotic signaling pathway in response to oxidative stress",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009267",
+              "xref_name": "cellular response to starvation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030336",
+              "xref_name": "negative regulation of cell migration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034599",
+              "xref_name": "cellular response to oxidative stress",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046777",
+              "xref_name": "protein autophosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048679",
+              "xref_name": "regulation of axon regeneration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048680",
+              "xref_name": "positive regulation of axon regeneration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097194",
+              "xref_name": "execution phase of apoptosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005794",
+              "xref_name": "Golgi apparatus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000139",
+              "xref_name": "Golgi membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005730",
+              "xref_name": "nucleolus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0090443",
+              "xref_name": "FAR/SIN/STRIPAK complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "O14840",
+              "xref_name": "Serine/threonine-protein kinase 24",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5JV92",
+              "xref_name": "Serine/threonine-protein kinase 24",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9Y6E0",
+              "xref_name": "Serine/threonine-protein kinase 24",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "3A7F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3A7G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3A7H",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3A7I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3A7J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3CKW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3CKX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3ZHP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4O27",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QML",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QMZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QNA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4QO9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4U8Z",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4W8D",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4W8E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B30",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B31",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B32",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B33",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B34",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B35",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8BZI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8BZJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QLQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QLR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QLS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QLT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "Q9Y6E0",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9Y6E0",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:11403",
+              "xref_name": "STK24",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-111465",
+              "xref_name": "Apoptotic cleavage of cellular proteins",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-75153",
+              "xref_name": "Apoptotic execution phase",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q9Y6E0",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "Q9Y6E0",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR046409",
+              "xref_name": "PDC10_dimerisation_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR048288",
+              "xref_name": "PDCD10_N",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050629",
+              "xref_name": "STE20/SPS1-PAK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48012:SF22",
+              "xref_name": "SERINE_THREONINE-PROTEIN KINASE 24",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48012",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF20929",
+              "xref_name": "PDCD10_N",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA36210",
+              "xref_name": "serine/threonine kinase 24",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Serine/threonine-protein kinase 3",
+      "score": 11.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4708",
+      "target_components": [
+        {
+          "accession": "Q13188",
+          "component_description": "Serine/threonine-protein kinase 3",
+          "component_id": 4962,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "KRS1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST2/C",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2 GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST2/N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 20kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 36kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase Krs-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STE20-like kinase MST2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STK3",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Synonyms=KRS1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "5BRM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6AR2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5DH3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8A66",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4OH9",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4HKD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3WWS",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6AO5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4LG4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4LGD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4L0N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0035332",
+              "xref_name": "positive regulation of hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050821",
+              "xref_name": "protein stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001841",
+              "xref_name": "neural tube formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003157",
+              "xref_name": "endocardium development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007254",
+              "xref_name": "JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007417",
+              "xref_name": "central nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008285",
+              "xref_name": "negative regulation of cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035265",
+              "xref_name": "organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043408",
+              "xref_name": "regulation of MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043491",
+              "xref_name": "phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045600",
+              "xref_name": "positive regulation of fat cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046330",
+              "xref_name": "positive regulation of JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046621",
+              "xref_name": "negative regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050673",
+              "xref_name": "epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050680",
+              "xref_name": "negative regulation of epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051262",
+              "xref_name": "protein tetramerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051897",
+              "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060215",
+              "xref_name": "primitive hemopoiesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060706",
+              "xref_name": "cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060800",
+              "xref_name": "regulation of cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071539",
+              "xref_name": "protein localization to centrosome",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902043",
+              "xref_name": "positive regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "A8K722",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B3KYA7",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q15445",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q15801",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96FM6",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "3WWS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4HKD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4L0N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4LG4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4LGD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4OH9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5BRM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5DH3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6AO5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6AR2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8A66",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:11406",
+              "xref_name": "STK3",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024205",
+              "xref_name": "Mst1_2_SARAH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR049568",
+              "xref_name": "Mst2_SARAH",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036674",
+              "xref_name": "p53_tetramer_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011524",
+              "xref_name": "SARAH_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050629",
+              "xref_name": "STE20/SPS1-PAK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48012:SF2",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48012",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF11629",
+              "xref_name": "Mst1_SARAH",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA36213",
+              "xref_name": "serine/threonine kinase 3",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "Serine/threonine-protein kinase 3",
+      "score": 10.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4310",
+      "target_components": [
+        {
+          "accession": "Q9JI10",
+          "component_description": "Serine/threonine-protein kinase 3",
+          "component_id": 2627,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mess1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Mst2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2/C",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2/N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 20kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 36kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STE20-like kinase MST2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Stk3",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007254",
+              "xref_name": "JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035265",
+              "xref_name": "organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043491",
+              "xref_name": "phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050673",
+              "xref_name": "epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001841",
+              "xref_name": "neural tube formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003157",
+              "xref_name": "endocardium development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007417",
+              "xref_name": "central nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008285",
+              "xref_name": "negative regulation of cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035332",
+              "xref_name": "positive regulation of hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045600",
+              "xref_name": "positive regulation of fat cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046330",
+              "xref_name": "positive regulation of JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046621",
+              "xref_name": "negative regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050680",
+              "xref_name": "negative regulation of epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050821",
+              "xref_name": "protein stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051897",
+              "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060215",
+              "xref_name": "primitive hemopoiesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060706",
+              "xref_name": "cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060800",
+              "xref_name": "regulation of cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902043",
+              "xref_name": "positive regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051262",
+              "xref_name": "protein tetramerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071539",
+              "xref_name": "protein localization to centrosome",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001233",
+              "xref_name": "regulation of apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "Q60877",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q80UG4",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8CI58",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9JI10",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9JI10",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9JI10",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "R-MMU-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q9JI10",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024205",
+              "xref_name": "Mst1_2_SARAH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036674",
+              "xref_name": "p53_tetramer_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011524",
+              "xref_name": "SARAH_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050629",
+              "xref_name": "STE20/SPS1-PAK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48012:SF2",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48012",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF11629",
+              "xref_name": "Mst1_SARAH",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    },
+    {
+      "cross_references": [],
+      "organism": "Rattus norvegicus",
+      "pref_name": "Serine/threonine-protein kinase 3",
+      "score": 10.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5169099",
+      "target_components": [
+        {
+          "accession": "O54748",
+          "component_description": "Serine/threonine-protein kinase 3",
+          "component_id": 20147,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mst2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2/C",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2/N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 20kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 36kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STE20-like kinase MST2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Stk3",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007254",
+              "xref_name": "JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035265",
+              "xref_name": "organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043491",
+              "xref_name": "phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050673",
+              "xref_name": "epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001841",
+              "xref_name": "neural tube formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003157",
+              "xref_name": "endocardium development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007417",
+              "xref_name": "central nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008285",
+              "xref_name": "negative regulation of cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035332",
+              "xref_name": "positive regulation of hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045600",
+              "xref_name": "positive regulation of fat cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046330",
+              "xref_name": "positive regulation of JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046621",
+              "xref_name": "negative regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050680",
+              "xref_name": "negative regulation of epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050821",
+              "xref_name": "protein stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051897",
+              "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060215",
+              "xref_name": "primitive hemopoiesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060706",
+              "xref_name": "cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060800",
+              "xref_name": "regulation of cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902043",
+              "xref_name": "positive regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043408",
+              "xref_name": "regulation of MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051262",
+              "xref_name": "protein tetramerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071539",
+              "xref_name": "protein localization to centrosome",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "O54748",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O54748",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O54748",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "R-RNO-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024205",
+              "xref_name": "Mst1_2_SARAH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR049568",
+              "xref_name": "Mst2_SARAH",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036674",
+              "xref_name": "p53_tetramer_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011524",
+              "xref_name": "SARAH_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050629",
+              "xref_name": "STE20/SPS1-PAK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48012:SF2",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48012",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF11629",
+              "xref_name": "Mst1_SARAH",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10116
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Serine/threonine-protein kinase 3/4",
+      "score": 7.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523663",
+      "target_components": [
+        {
+          "accession": "Q13043",
+          "component_description": "Serine/threonine-protein kinase 4",
+          "component_id": 2915,
+          "component_type": "PROTEIN",
+          "relationship": "GROUP MEMBER",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "KRS2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST1/C",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST1 GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST1/N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 4",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 4 18kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 4 37kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase Krs-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STE20-like kinase MST1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STK4",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Synonyms=KRS2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "4NR2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4OH8",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8A5J",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8PAW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3COM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5TWG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8PAV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5TWH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6YAT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0000902",
+              "xref_name": "cell morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001934",
+              "xref_name": "positive regulation of protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033138",
+              "xref_name": "positive regulation of peptidyl-serine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035332",
+              "xref_name": "positive regulation of hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046777",
+              "xref_name": "protein autophosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050821",
+              "xref_name": "protein stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042803",
+              "xref_name": "protein homodimerization activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061629",
+              "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001569",
+              "xref_name": "branching involved in blood vessel morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001841",
+              "xref_name": "neural tube formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003157",
+              "xref_name": "endocardium development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007417",
+              "xref_name": "central nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008285",
+              "xref_name": "negative regulation of cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0018105",
+              "xref_name": "peptidyl-serine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030216",
+              "xref_name": "keratinocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035265",
+              "xref_name": "organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043408",
+              "xref_name": "regulation of MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045600",
+              "xref_name": "positive regulation of fat cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046621",
+              "xref_name": "negative regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050673",
+              "xref_name": "epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050680",
+              "xref_name": "negative regulation of epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051262",
+              "xref_name": "protein tetramerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060215",
+              "xref_name": "primitive hemopoiesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060706",
+              "xref_name": "cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060800",
+              "xref_name": "regulation of cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902043",
+              "xref_name": "positive regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903945",
+              "xref_name": "positive regulation of hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1904237",
+              "xref_name": "positive regulation of substrate-dependent cell migration, cell attachment to substrate",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016604",
+              "xref_name": "nuclear body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "B2RCR8",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q15802",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q4G156",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5H982",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6PD60",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9BR32",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NTZ4",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13043",
+              "xref_name": "Serine/threonine-protein kinase 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "2JO8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3COM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4NR2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4OH8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5TWG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5TWH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6YAT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8A5J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8PAV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8PAW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "Q13043",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13043",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:11408",
+              "xref_name": "STK4",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q13043",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "Q13043",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024205",
+              "xref_name": "Mst1_2_SARAH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036674",
+              "xref_name": "p53_tetramer_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011524",
+              "xref_name": "SARAH_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050629",
+              "xref_name": "STE20/SPS1-PAK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48012:SF2",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48012",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF11629",
+              "xref_name": "Mst1_SARAH",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA36215",
+              "xref_name": "serine/threonine kinase 4",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        },
+        {
+          "accession": "Q13188",
+          "component_description": "Serine/threonine-protein kinase 3",
+          "component_id": 4962,
+          "component_type": "PROTEIN",
+          "relationship": "GROUP MEMBER",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "KRS1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Mammalian STE20-like protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST2/C",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MST2 GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MST2/N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 20kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase 3 36kDa subunit",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase Krs-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STE20-like kinase MST2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "STK3",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Synonyms=KRS1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "5BRM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6AR2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5DH3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8A66",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4OH9",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4HKD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3WWS",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6AO5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4LG4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4LGD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4L0N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0035332",
+              "xref_name": "positive regulation of hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050821",
+              "xref_name": "protein stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001841",
+              "xref_name": "neural tube formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003157",
+              "xref_name": "endocardium development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007254",
+              "xref_name": "JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007417",
+              "xref_name": "central nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008285",
+              "xref_name": "negative regulation of cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035265",
+              "xref_name": "organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043408",
+              "xref_name": "regulation of MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043491",
+              "xref_name": "phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045600",
+              "xref_name": "positive regulation of fat cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046330",
+              "xref_name": "positive regulation of JNK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046621",
+              "xref_name": "negative regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050673",
+              "xref_name": "epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050680",
+              "xref_name": "negative regulation of epithelial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051262",
+              "xref_name": "protein tetramerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051897",
+              "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060215",
+              "xref_name": "primitive hemopoiesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060706",
+              "xref_name": "cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060800",
+              "xref_name": "regulation of cell differentiation involved in embryonic placenta development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071539",
+              "xref_name": "protein localization to centrosome",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902043",
+              "xref_name": "positive regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "A8K722",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B3KYA7",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q15445",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q15801",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96FM6",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": "Serine/threonine-protein kinase 3",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "3WWS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4HKD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4L0N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4LG4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4LGD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4OH9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5BRM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5DH3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6AO5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6AR2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8A66",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:11406",
+              "xref_name": "STK3",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "Q13188",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024205",
+              "xref_name": "Mst1_2_SARAH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR049568",
+              "xref_name": "Mst2_SARAH",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036674",
+              "xref_name": "p53_tetramer_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011524",
+              "xref_name": "SARAH_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050629",
+              "xref_name": "STE20/SPS1-PAK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48012:SF2",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48012",
+              "xref_name": "STERILE20-LIKE KINASE, ISOFORM B-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF11629",
+              "xref_name": "Mst1_SARAH",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA36213",
+              "xref_name": "serine/threonine kinase 3",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN FAMILY",
+      "tax_id": 9606
+    }
+  ]
+}

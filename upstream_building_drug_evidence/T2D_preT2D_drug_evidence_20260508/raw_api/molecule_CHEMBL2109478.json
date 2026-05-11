@@ -1,0 +1,67 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "CDP-7657 (mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2109478"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2109478",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2109478",
+    "molecule_chembl_id": "CHEMBL2109478",
+    "parent_chembl_id": "CHEMBL2109478"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Cdp-7657",
+      "syn_type": "OTHER",
+      "synonyms": "CDP-7657"
+    },
+    {
+      "molecule_synonym": "CDP7657",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "CDP7657"
+    },
+    {
+      "molecule_synonym": "Dapirolizumab pegol",
+      "syn_type": "INN",
+      "synonyms": "DAPIROLIZUMAB PEGOL"
+    },
+    {
+      "molecule_synonym": "Dapirolizumab pegol",
+      "syn_type": "OTHER",
+      "synonyms": "DAPIROLIZUMAB PEGOL"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "DAPIROLIZUMAB PEGOL",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab; peg-",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized; PEGylated compounds, covalent attachment of macrogol (polyethylene glycol) polymer",
+  "usan_substem": "-mab (-umab); -mab (-zumab); peg-",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

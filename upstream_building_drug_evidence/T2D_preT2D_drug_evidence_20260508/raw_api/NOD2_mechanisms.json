@@ -1,0 +1,41 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "OTHER",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 5702,
+      "mechanism_comment": "Immunostimulant",
+      "mechanism_of_action": "Nucleotide-binding oligomerization domain-containing protein 2 other",
+      "mechanism_refs": [
+        {
+          "ref_id": "http://www.medicines.org.uk/emc/medicine/22763",
+          "ref_type": "Other",
+          "ref_url": "http://www.medicines.org.uk/emc/medicine/22763"
+        },
+        {
+          "ref_id": "20481644",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/20481644"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2107354",
+      "parent_molecule_chembl_id": "CHEMBL2111100",
+      "record_id": 1705093,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1293266",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

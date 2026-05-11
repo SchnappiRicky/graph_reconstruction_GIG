@@ -1,0 +1,41 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4722,
+      "mechanism_comment": null,
+      "mechanism_of_action": "MAP kinase-activated protein kinase 5 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "http://www.rsc.org/images/MartinAndrews_tcm18-195242.pdf",
+          "ref_type": "Other",
+          "ref_url": "http://www.rsc.org/images/MartinAndrews_tcm18-195242.pdf"
+        },
+        {
+          "ref_id": "22950522",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/22950522"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL5095028",
+      "parent_molecule_chembl_id": "CHEMBL5095028",
+      "record_id": 2473588,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3094",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

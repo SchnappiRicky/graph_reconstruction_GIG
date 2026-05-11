@@ -1,0 +1,395 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4087,
+      "mechanism_comment": "Dual spleen tyrosine kinase (Syk) and janus kinase (JAK) inhibitor ",
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.portola.com/clinical-development/cerdulatinib-dual-syk-jak-inhibitor/l-development/cerdulatinib-dual-syk-jak-inhibitor/",
+          "ref_type": "Other",
+          "ref_url": "https://www.portola.com/clinical-development/cerdulatinib-dual-syk-jak-inhibitor/l-development/cerdulatinib-dual-syk-jak-inhibitor/"
+        },
+        {
+          "ref_id": "25253883",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25253883"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4116008",
+      "parent_molecule_chembl_id": "CHEMBL4116008",
+      "record_id": 2473465,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 4237,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "http://www.chi-med.com/wp-content/uploads/2015/10/a151030.pdf",
+          "ref_type": "Other",
+          "ref_url": "http://www.chi-med.com/wp-content/uploads/2015/10/a151030.pdf"
+        },
+        {
+          "ref_id": "http://www.hmplglobal.com/en/hmpl-523/",
+          "ref_type": "Other",
+          "ref_url": "http://www.hmplglobal.com/en/hmpl-523/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL5095034",
+      "parent_molecule_chembl_id": "CHEMBL5095034",
+      "record_id": 2473492,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 1,
+      "mec_id": 4330,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "22040680",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/22040680"
+        },
+        {
+          "ref_id": "23220742",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/23220742"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3545138",
+      "parent_molecule_chembl_id": "CHEMBL3545138",
+      "record_id": 2473126,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4339,
+      "mechanism_comment": "Prodrug of R333",
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "18360272",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/18360272"
+        },
+        {
+          "ref_id": "19596999",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/19596999"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL5314384",
+      "parent_molecule_chembl_id": "CHEMBL5314384",
+      "record_id": 2473691,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4389,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "http://meetinglibrary.asco.org/content/134551-144",
+          "ref_type": "Other",
+          "ref_url": "http://meetinglibrary.asco.org/content/134551-144"
+        },
+        {
+          "ref_id": "https://ash.confex.com/ash/2014/webprogram/Paper67380.html",
+          "ref_type": "Other",
+          "ref_url": "https://ash.confex.com/ash/2014/webprogram/Paper67380.html"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4594253",
+      "parent_molecule_chembl_id": "CHEMBL3979920",
+      "record_id": 2472715,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 4725,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "24779514",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/24779514"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3265032",
+      "parent_molecule_chembl_id": "CHEMBL3265032",
+      "record_id": 2472961,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4800,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "16950297",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/16950297"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL515271",
+      "parent_molecule_chembl_id": "CHEMBL515271",
+      "record_id": 2473720,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4803,
+      "mechanism_comment": "Active metabolite of R-348",
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "http://www.rigel.com/index.php/pipeline/",
+          "ref_type": "Other",
+          "ref_url": "http://www.rigel.com/index.php/pipeline/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3545159",
+      "parent_molecule_chembl_id": "CHEMBL3545159",
+      "record_id": 2473156,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4804,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2170582",
+      "parent_molecule_chembl_id": "CHEMBL2170582",
+      "record_id": 3131410,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 4805,
+      "mechanism_comment": "Active metabolite of prodrug R-788 (Fostamatinib)",
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "16946104",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/16946104"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL475251",
+      "parent_molecule_chembl_id": "CHEMBL475251",
+      "record_id": 2473721,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 5323,
+      "mechanism_comment": "Prodrug - active metabolite is R-406",
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "19965662",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/19965662"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2103830",
+      "parent_molecule_chembl_id": "CHEMBL2103830",
+      "record_id": 1699806,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Catalytic domain of SYK, ATP-competitive inhibitor",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 7349,
+      "mechanism_comment": "Inhibits signalling in FC-activating and B-cell receptors.",
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "label/2018/209299lbl.pdf",
+          "ref_type": "FDA",
+          "ref_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/209299lbl.pdf"
+        },
+        {
+          "ref_id": "28967793",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/28967793"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3989516",
+      "parent_molecule_chembl_id": "CHEMBL2103830",
+      "record_id": 1702497,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8231,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "30919407",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/30919407"
+        },
+        {
+          "ref_id": "31356921",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/31356921"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4594275",
+      "parent_molecule_chembl_id": "CHEMBL4594275",
+      "record_id": 3460916,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8354,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase SYK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://bmcrheumatol.biomedcentral.com/articles/10.1186/s41927-021-00178-3",
+          "ref_type": "Other",
+          "ref_url": "https://bmcrheumatol.biomedcentral.com/articles/10.1186/s41927-021-00178-3"
+        },
+        {
+          "ref_id": "32292557",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/32292557"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3986824",
+      "parent_molecule_chembl_id": "CHEMBL3986824",
+      "record_id": 3132755,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2599",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 14
+  }
+}

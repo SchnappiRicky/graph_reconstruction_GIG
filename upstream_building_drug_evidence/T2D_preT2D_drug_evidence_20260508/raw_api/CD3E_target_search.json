@@ -1,0 +1,2270 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 3
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "T-cell surface glycoprotein CD3 epsilon chain",
+      "score": 19.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL1975",
+      "target_components": [
+        {
+          "accession": "P07766",
+          "component_description": "T-cell surface glycoprotein CD3 epsilon chain",
+          "component_id": 298,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CD3E",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "CD_antigen=CD3e",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T3E",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "T-cell surface antigen T3/Leu-4 epsilon chain",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T-cell surface glycoprotein CD3 epsilon chain",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "5QU2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8F0L",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1XIW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8VY4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1SY6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1A81",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0004888",
+              "xref_name": "transmembrane signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0017124",
+              "xref_name": "SH3 domain binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019901",
+              "xref_name": "protein kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030159",
+              "xref_name": "signaling receptor complex adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042608",
+              "xref_name": "T cell receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001954",
+              "xref_name": "positive regulation of cell-matrix adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002669",
+              "xref_name": "positive regulation of T cell anergy",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002870",
+              "xref_name": "T cell anergy",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007169",
+              "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007172",
+              "xref_name": "signal complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007186",
+              "xref_name": "G protein-coupled receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007224",
+              "xref_name": "smoothened signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010628",
+              "xref_name": "positive regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010629",
+              "xref_name": "negative regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0016358",
+              "xref_name": "dendrite development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019722",
+              "xref_name": "calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0021549",
+              "xref_name": "cerebellum development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031295",
+              "xref_name": "T cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032729",
+              "xref_name": "positive regulation of type II interferon production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032743",
+              "xref_name": "positive regulation of interleukin-2 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032753",
+              "xref_name": "positive regulation of interleukin-4 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033634",
+              "xref_name": "positive regulation of cell-cell adhesion mediated by integrin",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035739",
+              "xref_name": "CD4-positive, alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042098",
+              "xref_name": "T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042102",
+              "xref_name": "positive regulation of T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042981",
+              "xref_name": "regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045059",
+              "xref_name": "positive thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045060",
+              "xref_name": "negative thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045879",
+              "xref_name": "negative regulation of smoothened signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046629",
+              "xref_name": "gamma-delta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046631",
+              "xref_name": "alpha-beta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046649",
+              "xref_name": "lymphocyte activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050731",
+              "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050870",
+              "xref_name": "positive regulation of T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0065003",
+              "xref_name": "protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097190",
+              "xref_name": "apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000563",
+              "xref_name": "positive regulation of CD4-positive, alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001772",
+              "xref_name": "immunological synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005783",
+              "xref_name": "endoplasmic reticulum",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005794",
+              "xref_name": "Golgi apparatus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005911",
+              "xref_name": "cell-cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0043197",
+              "xref_name": "dendritic spine",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0044297",
+              "xref_name": "cell body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042101",
+              "xref_name": "T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042105",
+              "xref_name": "alpha-beta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042106",
+              "xref_name": "gamma-delta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "A8K997",
+              "xref_name": "T-cell surface glycoprotein CD3 epsilon chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": "T-cell surface glycoprotein CD3 epsilon chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "1A81",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1SY6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1XIW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2ROL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5QU2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6JXR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7PHR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8F0L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JCB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VY4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WXE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WY0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WYI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9BBC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9C3E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CI8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CIA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CQ4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:1674",
+              "xref_name": "CD3E",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-198933",
+              "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202427",
+              "xref_name": "Phosphorylation of CD3 and TCR zeta chains",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-389948",
+              "xref_name": "Co-inhibition by PD-1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR015484",
+              "xref_name": "CD3_esu/gsu/dsu",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003598",
+              "xref_name": "Ig_sub2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003110",
+              "xref_name": "Phos_immunorcpt_sig_ITAM",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10570:SF9",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 EPSILON CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10570",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 GAMMA CHAIN / DELTA CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF16681",
+              "xref_name": "Ig_5",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02189",
+              "xref_name": "ITAM",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26216",
+              "xref_name": "CD3 epsilon subunit of T-cell receptor complex",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "T cell surface glycoprotein CD3",
+      "score": 14.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2364168",
+      "target_components": [
+        {
+          "accession": "P07766",
+          "component_description": "T-cell surface glycoprotein CD3 epsilon chain",
+          "component_id": 298,
+          "component_type": "PROTEIN",
+          "relationship": "PROTEIN SUBUNIT",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CD3E",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "CD_antigen=CD3e",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T3E",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "T-cell surface antigen T3/Leu-4 epsilon chain",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T-cell surface glycoprotein CD3 epsilon chain",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "5QU2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8F0L",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1XIW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8VY4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1SY6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1A81",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0004888",
+              "xref_name": "transmembrane signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0017124",
+              "xref_name": "SH3 domain binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019901",
+              "xref_name": "protein kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030159",
+              "xref_name": "signaling receptor complex adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042608",
+              "xref_name": "T cell receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001954",
+              "xref_name": "positive regulation of cell-matrix adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002669",
+              "xref_name": "positive regulation of T cell anergy",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002870",
+              "xref_name": "T cell anergy",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007169",
+              "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007172",
+              "xref_name": "signal complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007186",
+              "xref_name": "G protein-coupled receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007224",
+              "xref_name": "smoothened signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010628",
+              "xref_name": "positive regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010629",
+              "xref_name": "negative regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0016358",
+              "xref_name": "dendrite development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019722",
+              "xref_name": "calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0021549",
+              "xref_name": "cerebellum development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031295",
+              "xref_name": "T cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032729",
+              "xref_name": "positive regulation of type II interferon production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032743",
+              "xref_name": "positive regulation of interleukin-2 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032753",
+              "xref_name": "positive regulation of interleukin-4 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033634",
+              "xref_name": "positive regulation of cell-cell adhesion mediated by integrin",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035739",
+              "xref_name": "CD4-positive, alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042098",
+              "xref_name": "T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042102",
+              "xref_name": "positive regulation of T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042981",
+              "xref_name": "regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045059",
+              "xref_name": "positive thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045060",
+              "xref_name": "negative thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045879",
+              "xref_name": "negative regulation of smoothened signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046629",
+              "xref_name": "gamma-delta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046631",
+              "xref_name": "alpha-beta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046649",
+              "xref_name": "lymphocyte activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050731",
+              "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050870",
+              "xref_name": "positive regulation of T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0065003",
+              "xref_name": "protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097190",
+              "xref_name": "apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000563",
+              "xref_name": "positive regulation of CD4-positive, alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001772",
+              "xref_name": "immunological synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005783",
+              "xref_name": "endoplasmic reticulum",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005794",
+              "xref_name": "Golgi apparatus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005911",
+              "xref_name": "cell-cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0043197",
+              "xref_name": "dendritic spine",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0044297",
+              "xref_name": "cell body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042101",
+              "xref_name": "T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042105",
+              "xref_name": "alpha-beta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042106",
+              "xref_name": "gamma-delta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "A8K997",
+              "xref_name": "T-cell surface glycoprotein CD3 epsilon chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": "T-cell surface glycoprotein CD3 epsilon chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "1A81",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1SY6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1XIW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2ROL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5QU2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6JXR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7PHR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8F0L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JCB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VY4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WXE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WY0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WYI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9BBC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9C3E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CI8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CIA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CQ4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:1674",
+              "xref_name": "CD3E",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-198933",
+              "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202427",
+              "xref_name": "Phosphorylation of CD3 and TCR zeta chains",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-389948",
+              "xref_name": "Co-inhibition by PD-1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "P07766",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR015484",
+              "xref_name": "CD3_esu/gsu/dsu",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003598",
+              "xref_name": "Ig_sub2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003110",
+              "xref_name": "Phos_immunorcpt_sig_ITAM",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10570:SF9",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 EPSILON CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10570",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 GAMMA CHAIN / DELTA CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF16681",
+              "xref_name": "Ig_5",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02189",
+              "xref_name": "ITAM",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26216",
+              "xref_name": "CD3 epsilon subunit of T-cell receptor complex",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        },
+        {
+          "accession": "P09693",
+          "component_description": "T-cell surface glycoprotein CD3 gamma chain",
+          "component_id": 7817,
+          "component_type": "PROTEIN",
+          "relationship": "PROTEIN SUBUNIT",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CD3G",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "CD_antigen=CD3g",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T3G",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "T-cell receptor T3 gamma chain",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T-cell surface glycoprotein CD3 gamma chain",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "7Q5U",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1SY6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0004888",
+              "xref_name": "transmembrane signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030159",
+              "xref_name": "signaling receptor complex adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042608",
+              "xref_name": "T cell receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045059",
+              "xref_name": "positive thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046629",
+              "xref_name": "gamma-delta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046631",
+              "xref_name": "alpha-beta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0065003",
+              "xref_name": "protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070228",
+              "xref_name": "regulation of lymphocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030669",
+              "xref_name": "clathrin-coated endocytic vesicle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042105",
+              "xref_name": "alpha-beta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042106",
+              "xref_name": "gamma-delta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "8WXE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WY0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WYI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "Q2HIZ6",
+              "xref_name": "T-cell surface glycoprotein CD3 gamma chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P09693",
+              "xref_name": "T-cell surface glycoprotein CD3 gamma chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "1SY6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6JXR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7PHR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Q5U",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JCB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9BBC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9C3E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CI8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CIA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CQ4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "P09693",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P09693",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:1675",
+              "xref_name": "CD3G",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-198933",
+              "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202427",
+              "xref_name": "Phosphorylation of CD3 and TCR zeta chains",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2029481",
+              "xref_name": "FCGR activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2029482",
+              "xref_name": "Regulation of actin dynamics for phagocytic cup formation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2029485",
+              "xref_name": "Role of phospholipids in phagocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-389948",
+              "xref_name": "Co-inhibition by PD-1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856825",
+              "xref_name": "Cargo recognition for clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856828",
+              "xref_name": "Clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9664323",
+              "xref_name": "FCGR3A-mediated IL10 synthesis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9664422",
+              "xref_name": "FCGR3A-mediated phagocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P09693",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "P09693",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR015484",
+              "xref_name": "CD3_esu/gsu/dsu",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR032052",
+              "xref_name": "Ig_4",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003598",
+              "xref_name": "Ig_sub2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003110",
+              "xref_name": "Phos_immunorcpt_sig_ITAM",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10570:SF8",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 GAMMA CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10570",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 GAMMA CHAIN / DELTA CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF16680",
+              "xref_name": "Ig_4",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02189",
+              "xref_name": "ITAM",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26217",
+              "xref_name": "CD3 gamma subunit of T-cell receptor complex",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        },
+        {
+          "accession": "P04234",
+          "component_description": "T-cell surface glycoprotein CD3 delta chain",
+          "component_id": 7818,
+          "component_type": "PROTEIN",
+          "relationship": "PROTEIN SUBUNIT",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CD3D",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "CD_antigen=CD3d",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T3D",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "T-cell receptor T3 delta chain",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T-cell surface glycoprotein CD3 delta chain",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "1XIW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0004888",
+              "xref_name": "transmembrane signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045059",
+              "xref_name": "positive thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046631",
+              "xref_name": "alpha-beta T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030669",
+              "xref_name": "clathrin-coated endocytic vesicle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042101",
+              "xref_name": "T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042105",
+              "xref_name": "alpha-beta T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "A8MVP6",
+              "xref_name": "T-cell surface glycoprotein CD3 delta chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P04234",
+              "xref_name": "T-cell surface glycoprotein CD3 delta chain",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "1XIW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6JXR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7FJF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7PHR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8ES9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8JCB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8TW6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WXE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WY0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WYI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YC0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9BBC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9C3E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CI8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CIA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CQ4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "P04234",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P04234",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:1673",
+              "xref_name": "CD3D",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-198933",
+              "xref_name": "Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202427",
+              "xref_name": "Phosphorylation of CD3 and TCR zeta chains",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-389948",
+              "xref_name": "Co-inhibition by PD-1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856825",
+              "xref_name": "Cargo recognition for clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856828",
+              "xref_name": "Clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P04234",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "P04234",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR015484",
+              "xref_name": "CD3_esu/gsu/dsu",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR032052",
+              "xref_name": "Ig_4",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003110",
+              "xref_name": "Phos_immunorcpt_sig_ITAM",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10570:SF5",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 DELTA CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10570",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD3 GAMMA CHAIN / DELTA CHAIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF16680",
+              "xref_name": "Ig_4",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02189",
+              "xref_name": "ITAM",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26215",
+              "xref_name": "CD3 delta subunit of T-cell receptor complex",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN COMPLEX",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "DNA-directed RNA polymerase I subunit RPA34",
+      "score": 11.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL6067043",
+      "target_components": [
+        {
+          "accession": "O15446",
+          "component_description": "DNA-directed RNA polymerase I subunit RPA34",
+          "component_id": 23901,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "A34.5",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Antisense to ERCC-1 protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ASE-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CAST GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD3E-associated protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CD3-epsilon-associated protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DNA-directed RNA polymerase I subunit G",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DNA-directed RNA polymerase I subunit RPA34",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "PAF49",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "POLR1G",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "RNA polymerase I-associated factor PAF49",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=ASE1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "GO:0003723",
+              "xref_name": "RNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006360",
+              "xref_name": "transcription by RNA polymerase I",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006361",
+              "xref_name": "transcription initiation at RNA polymerase I promoter",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007169",
+              "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009303",
+              "xref_name": "rRNA transcription",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001650",
+              "xref_name": "fibrillar center",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005694",
+              "xref_name": "chromosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005730",
+              "xref_name": "nucleolus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000120",
+              "xref_name": "RNA polymerase I transcription regulator complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000428",
+              "xref_name": "DNA-directed RNA polymerase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005736",
+              "xref_name": "RNA polymerase I complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "Q32N11",
+              "xref_name": "DNA-directed RNA polymerase I subunit RPA34",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z5U2",
+              "xref_name": "DNA-directed RNA polymerase I subunit RPA34",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9UPF6",
+              "xref_name": "DNA-directed RNA polymerase I subunit RPA34",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15446",
+              "xref_name": "DNA-directed RNA polymerase I subunit RPA34",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "7OB9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7OBA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7OBB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7VBA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7VBB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7VBC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8A43",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "O15446",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O15446",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:24219",
+              "xref_name": "POLR1G",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-427413",
+              "xref_name": "NoRC negatively regulates rRNA expression",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5250924",
+              "xref_name": "B-WICH complex positively regulates rRNA expression",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-73762",
+              "xref_name": "RNA Polymerase I Transcription Initiation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-73772",
+              "xref_name": "RNA Polymerase I Promoter Escape",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-73863",
+              "xref_name": "RNA Polymerase I Transcription Termination",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "O15446",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "O15446",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR013240",
+              "xref_name": "DNA-dir_RNA_pol1_su_RPA34",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR15484",
+              "xref_name": "DNA-DIRECTED RNA POLYMERASE I SUBUNIT RPA34",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR15484:SF8",
+              "xref_name": "DNA-DIRECTED RNA POLYMERASE I SUBUNIT RPA34",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF08208",
+              "xref_name": "RNA_polI_A34",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA142672156",
+              "xref_name": "RNA polymerase I subunit G",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Ras-related protein Ral-B",
+      "score": 22.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3879851",
+      "target_components": [
+        {
+          "accession": "P11234",
+          "component_description": "Ras-related protein Ral-B",
+          "component_id": 17159,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.6.5.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "RALB",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Ras-related protein Ral-B",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P11234",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P11234",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030496",
+              "xref_name": "midbody",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003924",
+              "xref_name": "GTPase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003925",
+              "xref_name": "G protein activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005525",
+              "xref_name": "GTP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016787",
+              "xref_name": "hydrolase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019003",
+              "xref_name": "GDP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051117",
+              "xref_name": "ATPase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001928",
+              "xref_name": "regulation of exocyst assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001934",
+              "xref_name": "positive regulation of protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007265",
+              "xref_name": "Ras protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009267",
+              "xref_name": "cellular response to starvation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031623",
+              "xref_name": "receptor internalization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045742",
+              "xref_name": "positive regulation of epidermal growth factor receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060178",
+              "xref_name": "regulation of exocyst localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071360",
+              "xref_name": "cellular response to exogenous dsRNA",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071902",
+              "xref_name": "positive regulation of protein serine/threonine kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000786",
+              "xref_name": "positive regulation of autophagosome assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:9840",
+              "xref_name": "RALB",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P11234",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001806",
+              "xref_name": "Small_GTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR005225",
+              "xref_name": "Small_GTP-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR020849",
+              "xref_name": "Small_GTPase_Ras-type",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24070",
+              "xref_name": "RAS, DI-RAS, AND RHEB FAMILY MEMBERS OF SMALL GTPASE SUPERFAMILY",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2KE5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2KWI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6ZQT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6ZRN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6ZQT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6ZRN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00071",
+              "xref_name": "Ras",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA34198",
+              "xref_name": "RAS like proto-oncogene B",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P11234",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-171007",
+              "xref_name": "p38MAPK events",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B4E040",
+              "xref_name": "Ras-related protein Ral-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P11234",
+              "xref_name": "Ras-related protein Ral-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q53T32",
+              "xref_name": "Ras-related protein Ral-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6ZS74",
+              "xref_name": "Ras-related protein Ral-B",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "gene_count": 20,
+  "no_pubmed_mechanism": 10,
+  "validated_non_placeholder": 3,
+  "no_target_match": 6,
+  "removed_rows": 1,
+  "fallback_placeholder_after_validation": 1
+}

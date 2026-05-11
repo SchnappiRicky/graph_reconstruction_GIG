@@ -1,0 +1,22 @@
+| Target | Candidate Drug | Original Citation | Validation Status (validated/removed/replaced_placeholder) | Validation Note |
+| --- | --- | --- | --- | --- |
+| CTNND1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CTSD | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CUL1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CYCS | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CYLD | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| DCHS1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| DDX3X | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| DHX33 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| DHX58 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| ERBIN | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| EXOC2 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| EXOC7 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| FADD | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| FAT4 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| FBXW11 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| FCER1A | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| FCER1G | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| FYB1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| FYN | JNJ-26483327 | PMID:20823884; DOI:10.1038/sj.bjc.6605867 | validated | Matched target term 'FYN' and drug term 'JNJ 26483327' in PubMed title/abstract. |
+| GRAP2 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |

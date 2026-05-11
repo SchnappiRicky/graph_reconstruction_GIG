@@ -1,0 +1,665 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Interferon-inducible protein AIM2",
+      "score": 23.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4630802",
+      "target_components": [
+        {
+          "accession": "O14862",
+          "component_description": "Interferon-inducible protein AIM2",
+          "component_id": 19417,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Absent in melanoma 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "AIM2",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Interferon-inducible protein AIM2",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O14862",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O14862",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0035861",
+              "xref_name": "site of double-strand break",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0061702",
+              "xref_name": "canonical inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0097169",
+              "xref_name": "AIM2 inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003677",
+              "xref_name": "DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003690",
+              "xref_name": "double-stranded DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038187",
+              "xref_name": "pattern recognition receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140608",
+              "xref_name": "cysteine-type endopeptidase activator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002218",
+              "xref_name": "activation of innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002221",
+              "xref_name": "pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002230",
+              "xref_name": "positive regulation of defense response to virus by host",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007420",
+              "xref_name": "brain development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032731",
+              "xref_name": "positive regulation of interleukin-1 beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033209",
+              "xref_name": "tumor necrosis factor-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043029",
+              "xref_name": "T cell homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050729",
+              "xref_name": "positive regulation of inflammatory response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050795",
+              "xref_name": "regulation of behavior",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051898",
+              "xref_name": "negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071466",
+              "xref_name": "cellular response to xenobiotic stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0140970",
+              "xref_name": "AIM2 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1904270",
+              "xref_name": "pyroptosome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001056",
+              "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:357",
+              "xref_name": "AIM2",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O14862",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR004020",
+              "xref_name": "DAPIN",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR004021",
+              "xref_name": "HIN200/IF120x",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR012340",
+              "xref_name": "NA-bd_OB-fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR040205",
+              "xref_name": "HIN-200",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR12200",
+              "xref_name": "INTERFERON-INDUCIBLE PROTEIN AIM2 FAMILY MEMBER",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR12200:SF17",
+              "xref_name": "INTERFERON-INDUCIBLE PROTEIN AIM2",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "3RN2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3RN5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3VD8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4O7Q",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MB2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7K3R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3RN2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3RN5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3VD8",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4O7Q",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF02758",
+              "xref_name": "PYRIN",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02760",
+              "xref_name": "HIN",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA24651",
+              "xref_name": "absent in melanoma 2",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O14862",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1834949",
+              "xref_name": "Cytosolic sensors of pathogen-associated DNA",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-844615",
+              "xref_name": "The AIM2 inflammasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8K7M7",
+              "xref_name": "Interferon-inducible protein AIM2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O14862",
+              "xref_name": "Interferon-inducible protein AIM2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5T3V9",
+              "xref_name": "Interferon-inducible protein AIM2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96FG9",
+              "xref_name": "Interferon-inducible protein AIM2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "Interferon-inducible protein AIM2",
+      "score": 20.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4295911",
+      "target_components": [
+        {
+          "accession": "Q91VJ1",
+          "component_description": "Interferon-inducible protein AIM2",
+          "component_id": 18330,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Aim2",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Gm1313",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Ifi-210",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ifi210",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Ifi210 GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Interferon-inducible protein 210",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Interferon-inducible protein AIM2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Interferon-inducible protein p210",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=Gm1313",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q91VJ1",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q91VJ1",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0035861",
+              "xref_name": "site of double-strand break",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0061702",
+              "xref_name": "canonical inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0097169",
+              "xref_name": "AIM2 inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003677",
+              "xref_name": "DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003690",
+              "xref_name": "double-stranded DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038187",
+              "xref_name": "pattern recognition receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140608",
+              "xref_name": "cysteine-type endopeptidase activator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002218",
+              "xref_name": "activation of innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002221",
+              "xref_name": "pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002230",
+              "xref_name": "positive regulation of defense response to virus by host",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007420",
+              "xref_name": "brain development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032731",
+              "xref_name": "positive regulation of interleukin-1 beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033209",
+              "xref_name": "tumor necrosis factor-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043029",
+              "xref_name": "T cell homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050729",
+              "xref_name": "positive regulation of inflammatory response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050795",
+              "xref_name": "regulation of behavior",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051898",
+              "xref_name": "negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071466",
+              "xref_name": "cellular response to xenobiotic stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0140970",
+              "xref_name": "AIM2 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1904270",
+              "xref_name": "pyroptosome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001056",
+              "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "Q91VJ1",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR004020",
+              "xref_name": "DAPIN",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR004021",
+              "xref_name": "HIN200/IF120x",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR012340",
+              "xref_name": "NA-bd_OB-fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR040205",
+              "xref_name": "HIN-200",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR12200",
+              "xref_name": "INTERFERON-INDUCIBLE PROTEIN AIM2 FAMILY MEMBER",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR12200:SF17",
+              "xref_name": "INTERFERON-INDUCIBLE PROTEIN AIM2",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2N00",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4JBM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4JBM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF02758",
+              "xref_name": "PYRIN",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02760",
+              "xref_name": "HIN",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-1834949",
+              "xref_name": "Cytosolic sensors of pathogen-associated DNA",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-844615",
+              "xref_name": "The AIM2 inflammasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q91VJ1",
+              "xref_name": "Interferon-inducible protein AIM2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "atc_classifications": [
+    "L04AC24"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 25057,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGAEVKKPGSSVKVSCKASGYKFTRYVMHWVRQAPGQGLEWMGYINPYNDGTNYNEKFKGRVTITADKSTSTAYMELSSLRSEDTAVYYCARNWDTGLWGQGTTVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLG",
+        "tax_id": null
+      },
+      {
+        "component_id": 25058,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCKASDHILKFLTWYQQKPGKAPKLLIYGATSLETGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQMYWSTPFTFGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 25059,
+        "component_type": null,
+        "description": "Disulfide bridges location",
+        "organism": null,
+        "sequence": "22-96$22''-96''$23'-88'$23'''-88'''$142-198$142''-198''$221-221''$224-224''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3990014"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/omvoh",
+      "xref_name": "omvoh",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2023,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL3990014",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3990014",
+    "molecule_chembl_id": "CHEMBL3990014",
+    "parent_chembl_id": "CHEMBL3990014"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "LY-3074828",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY-3074828"
+    },
+    {
+      "molecule_synonym": "LY3074828",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY3074828"
+    },
+    {
+      "molecule_synonym": "Mirikizumab",
+      "syn_type": "ATC",
+      "synonyms": "MIRIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Mirikizumab",
+      "syn_type": "EMA",
+      "synonyms": "MIRIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Mirikizumab",
+      "syn_type": "FDA",
+      "synonyms": "MIRIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Mirikizumab",
+      "syn_type": "INN",
+      "synonyms": "MIRIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Mirikizumab",
+      "syn_type": "OTHER",
+      "synonyms": "MIRIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Mirikizumab",
+      "syn_type": "USAN",
+      "synonyms": "MIRIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Mirikizumab-mrkz",
+      "syn_type": "FDA",
+      "synonyms": "MIRIKIZUMAB-MRKZ"
+    },
+    {
+      "molecule_synonym": "Omvoh",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "OMVOH"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "MIRIKIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2016,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

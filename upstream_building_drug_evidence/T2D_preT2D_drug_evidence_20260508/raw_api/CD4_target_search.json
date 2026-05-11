@@ -1,0 +1,1207 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 3
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "T-cell surface glycoprotein CD4",
+      "score": 25.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2754",
+      "target_components": [
+        {
+          "accession": "P01730",
+          "component_description": "T-cell surface glycoprotein CD4",
+          "component_id": 3993,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CD4",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "CD_antigen=CD4",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T-cell surface antigen T4/Leu-3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "T-cell surface glycoprotein CD4",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P01730",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P01730",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005769",
+              "xref_name": "early endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005788",
+              "xref_name": "endoplasmic reticulum lumen",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005789",
+              "xref_name": "endoplasmic reticulum membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009986",
+              "xref_name": "cell surface",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030669",
+              "xref_name": "clathrin-coated endocytic vesicle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042101",
+              "xref_name": "T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0045121",
+              "xref_name": "membrane raft",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001618",
+              "xref_name": "virus receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0004888",
+              "xref_name": "transmembrane signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005201",
+              "xref_name": "extracellular matrix structural constituent",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008270",
+              "xref_name": "zinc ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008289",
+              "xref_name": "lipid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0015026",
+              "xref_name": "coreceptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019899",
+              "xref_name": "enzyme binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019901",
+              "xref_name": "protein kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038023",
+              "xref_name": "signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042011",
+              "xref_name": "interleukin-16 binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042012",
+              "xref_name": "interleukin-16 receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042289",
+              "xref_name": "MHC class II protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042803",
+              "xref_name": "protein homodimerization activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:1990782",
+              "xref_name": "protein tyrosine kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001934",
+              "xref_name": "positive regulation of protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007155",
+              "xref_name": "cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007167",
+              "xref_name": "enzyme-linked receptor protein signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007169",
+              "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019722",
+              "xref_name": "calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030217",
+              "xref_name": "T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030225",
+              "xref_name": "macrophage differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032507",
+              "xref_name": "maintenance of protein location in cell",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032743",
+              "xref_name": "positive regulation of interleukin-2 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033674",
+              "xref_name": "positive regulation of kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035397",
+              "xref_name": "helper T cell enhancement of adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035723",
+              "xref_name": "interleukin-15-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043410",
+              "xref_name": "positive regulation of MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045058",
+              "xref_name": "T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045657",
+              "xref_name": "positive regulation of monocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045860",
+              "xref_name": "positive regulation of protein kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045893",
+              "xref_name": "positive regulation of DNA-templated transcription",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046598",
+              "xref_name": "positive regulation of viral entry into host cell",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046718",
+              "xref_name": "symbiont entry into host cell",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050731",
+              "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050863",
+              "xref_name": "regulation of T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050870",
+              "xref_name": "positive regulation of T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051924",
+              "xref_name": "regulation of calcium ion transport",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070374",
+              "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:1678",
+              "xref_name": "CD4",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P01730",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000973",
+              "xref_name": "CD4",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003598",
+              "xref_name": "Ig_sub2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003599",
+              "xref_name": "Ig_sub",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007110",
+              "xref_name": "Ig-like_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008424",
+              "xref_name": "Ig_C2-set",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013106",
+              "xref_name": "Ig_V-set",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013151",
+              "xref_name": "Immunoglobulin_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015274",
+              "xref_name": "CD4-extracel",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR021963",
+              "xref_name": "Tcell_CD4_Cterm",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11422",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR11422:SF0",
+              "xref_name": "T-CELL SURFACE GLYCOPROTEIN CD4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1CDH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1CDI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1CDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1CDU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1CDY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1G9M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1G9N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1GC1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1JL4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1Q68",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1RZJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1RZK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1WBR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1WIO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1WIP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1WIQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2B4C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2JKR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2JKT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2KLU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NXY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NXZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NY6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2QAD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3B71",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3CD4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3J70",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3JCB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3JCC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3JWD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3JWO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3LQA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3O2D",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3S4S",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3S5L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3T0E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4H8W",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4JM2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4P9H",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4Q6I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4R2G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4R4H",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4RQS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5A7X",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5A8H",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5CAY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5THR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5U1F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5VN3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6CM3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6EDU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6L1Y",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MEO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MET",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6OPN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6OPO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6OPP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6OPQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6QH6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6QH7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6U0L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6U0N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6URI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X5B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X5C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7T0O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7T0R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7TXD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8D5C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FYI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FYJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8W90",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8Z7N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1CDH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1CDI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1CDJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1CDU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1CDY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1G9M",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1G9N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1GC1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1JL4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1RZJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1RZK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1WIO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1WIP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1WIQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2B4C",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2JKR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2JKT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NXY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NXZ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NY6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2QAD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3B71",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3CD4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3JWD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3JWO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3LQA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3O2D",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3S4S",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3S5L",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3T0E",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4H8W",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4JM2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4P9H",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4Q6I",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4R2G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4R4H",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4RQS",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5CAY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6L1Y",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6QH6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6QH7",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6URI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7T0R",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8W90",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00047",
+              "xref_name": "ig",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF05790",
+              "xref_name": "C2-set",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF09191",
+              "xref_name": "CD4-extracel",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF12104",
+              "xref_name": "Tcell_CD4_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26220",
+              "xref_name": "CD4 molecule",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P01730",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1462054",
+              "xref_name": "Alpha-defensins",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-167590",
+              "xref_name": "Nef Mediated CD4 Down-regulation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-173107",
+              "xref_name": "Binding and entry of HIV virion",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-180534",
+              "xref_name": "Vpu mediated degradation of CD4",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202427",
+              "xref_name": "Phosphorylation of CD3 and TCR zeta chains",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-389948",
+              "xref_name": "Co-inhibition by PD-1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-449836",
+              "xref_name": "Other interleukin signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856825",
+              "xref_name": "Cargo recognition for clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856828",
+              "xref_name": "Clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B2R737",
+              "xref_name": "T-cell surface glycoprotein CD4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "D3DUS5",
+              "xref_name": "T-cell surface glycoprotein CD4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P01730",
+              "xref_name": "T-cell surface glycoprotein CD4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q4ZGK2",
+              "xref_name": "T-cell surface glycoprotein CD4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5U066",
+              "xref_name": "T-cell surface glycoprotein CD4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9UDE5",
+              "xref_name": "T-cell surface glycoprotein CD4",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": null,
+      "pref_name": "CD4+ve Th",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL613544",
+      "target_components": [],
+      "target_type": "CELL-LINE",
+      "tax_id": null
+    },
+    {
+      "cross_references": [],
+      "organism": null,
+      "pref_name": "CD-4+ (A 3.01)",
+      "score": 12.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL614148",
+      "target_components": [],
+      "target_type": "CELL-LINE",
+      "tax_id": null
+    }
+  ]
+}

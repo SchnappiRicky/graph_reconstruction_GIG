@@ -1,0 +1,601 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "14-3-3 protein epsilon",
+      "score": 19.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3329082",
+      "target_components": [
+        {
+          "accession": "P62258",
+          "component_description": "14-3-3 protein epsilon",
+          "component_id": 9660,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "14-3-3E",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "14-3-3 protein epsilon",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "YWHAE",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P62258",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P62258",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005783",
+              "xref_name": "endoplasmic reticulum",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005925",
+              "xref_name": "focal adhesion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031966",
+              "xref_name": "mitochondrial membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003723",
+              "xref_name": "RNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019899",
+              "xref_name": "enzyme binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019903",
+              "xref_name": "protein phosphatase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019904",
+              "xref_name": "protein domain specific binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042826",
+              "xref_name": "histone deacetylase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0044325",
+              "xref_name": "transmembrane transporter binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0045296",
+              "xref_name": "cadherin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046982",
+              "xref_name": "protein heterodimerization activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0050815",
+              "xref_name": "phosphoserine residue binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051219",
+              "xref_name": "phosphoprotein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0097110",
+              "xref_name": "scaffold protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000165",
+              "xref_name": "MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001764",
+              "xref_name": "neuron migration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002753",
+              "xref_name": "cytoplasmic pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003064",
+              "xref_name": "regulation of heart rate by hormone",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006605",
+              "xref_name": "protein targeting",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007346",
+              "xref_name": "regulation of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008104",
+              "xref_name": "protein localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0021762",
+              "xref_name": "substantia nigra development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0021766",
+              "xref_name": "hippocampus development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0021987",
+              "xref_name": "cerebral cortex development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034122",
+              "xref_name": "negative regulation of toll-like receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034504",
+              "xref_name": "protein localization to nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034605",
+              "xref_name": "cellular response to heat",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035332",
+              "xref_name": "positive regulation of hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046827",
+              "xref_name": "positive regulation of protein export from nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051480",
+              "xref_name": "regulation of cytosolic calcium ion concentration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060306",
+              "xref_name": "regulation of membrane repolarization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070972",
+              "xref_name": "protein localization to endoplasmic reticulum",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0086013",
+              "xref_name": "membrane repolarization during cardiac muscle cell action potential",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0086091",
+              "xref_name": "regulation of heart rate by cardiac conduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901379",
+              "xref_name": "regulation of potassium ion transmembrane transport",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1905913",
+              "xref_name": "negative regulation of calcium ion export across plasma membrane",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:12851",
+              "xref_name": "YWHAE",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P62258",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000308",
+              "xref_name": "14-3-3",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR023409",
+              "xref_name": "14-3-3_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR023410",
+              "xref_name": "14-3-3_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036815",
+              "xref_name": "14-3-3_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR18860",
+              "xref_name": "14-3-3 PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2BR9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3UAL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3UBW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6EIH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7C8E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7V9B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8DGM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8DGN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8DGP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8DP5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8Q1S",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BR9",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3UAL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3UBW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6EIH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7C8E",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7V9B",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8DGM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8DGN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8DGP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8Q1S",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00244",
+              "xref_name": "14-3-3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA37440",
+              "xref_name": "tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P62258",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-111447",
+              "xref_name": "Activation of BAD and translocation to mitochondria",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-1445148",
+              "xref_name": "Translocation of SLC2A4 (GLUT4) to the plasma membrane",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-205025",
+              "xref_name": "NADE modulates death signalling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2565942",
+              "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-3371453",
+              "xref_name": "Regulation of HSF1-mediated heat shock response",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-3371511",
+              "xref_name": "HSF1 activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-380259",
+              "xref_name": "Loss of Nlp from mitotic centrosomes",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-380270",
+              "xref_name": "Recruitment of mitotic centrosome proteins and complexes",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-380284",
+              "xref_name": "Loss of proteins required for interphase microtubule organization from the centrosome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-380320",
+              "xref_name": "Recruitment of NuMA to mitotic centrosomes",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5620912",
+              "xref_name": "Anchoring of the basal body to the plasma membrane",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5625740",
+              "xref_name": "RHO GTPases activate PKNs",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5628897",
+              "xref_name": "TP53 Regulates Metabolic Genes",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-75035",
+              "xref_name": "Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8854518",
+              "xref_name": "AURKA Activation by TPX2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8862803",
+              "xref_name": "Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8876198",
+              "xref_name": "RAB GEFs exchange GTP for GDP on RABs",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9735871",
+              "xref_name": "SARS-CoV-1 targets host intracellular signalling and regulatory pathways",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9755779",
+              "xref_name": "SARS-CoV-2 targets host intracellular signalling and regulatory pathways",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9856649",
+              "xref_name": "Transcriptional and post-translational regulation of MITF-M expression and activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B3KY71",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "D3DTH5",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P29360",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P42655",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P62258",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q4VJB6",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q53XZ5",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q63631",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7M4R4",
+              "xref_name": "14-3-3 protein epsilon",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

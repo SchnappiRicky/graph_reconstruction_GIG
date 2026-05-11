@@ -1,0 +1,744 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Ras-related protein Ral-A",
+      "score": 22.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3879855",
+      "target_components": [
+        {
+          "accession": "P11233",
+          "component_description": "Ras-related protein Ral-A",
+          "component_id": 17163,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.6.5.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "RAL",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "RALA",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Ras-related protein Ral-A",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P11233",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P11233",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005925",
+              "xref_name": "focal adhesion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009986",
+              "xref_name": "cell surface",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030659",
+              "xref_name": "cytoplasmic vesicle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032154",
+              "xref_name": "cleavage furrow",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0090543",
+              "xref_name": "Flemming body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0097060",
+              "xref_name": "synaptic membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098685",
+              "xref_name": "Schaffer collateral - CA1 synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003924",
+              "xref_name": "GTPase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003925",
+              "xref_name": "G protein activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005525",
+              "xref_name": "GTP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016787",
+              "xref_name": "hydrolase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0017022",
+              "xref_name": "myosin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019003",
+              "xref_name": "GDP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031755",
+              "xref_name": "Edg-2 lysophosphatidic acid receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051117",
+              "xref_name": "ATPase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001843",
+              "xref_name": "neural tube closure",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006887",
+              "xref_name": "exocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006935",
+              "xref_name": "chemotaxis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007265",
+              "xref_name": "Ras protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0017157",
+              "xref_name": "regulation of exocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031623",
+              "xref_name": "receptor internalization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032956",
+              "xref_name": "regulation of actin cytoskeleton organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045742",
+              "xref_name": "positive regulation of epidermal growth factor receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051491",
+              "xref_name": "positive regulation of filopodium assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051665",
+              "xref_name": "membrane raft localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0072655",
+              "xref_name": "establishment of protein localization to mitochondrion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090141",
+              "xref_name": "positive regulation of mitochondrial fission",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0099149",
+              "xref_name": "regulation of postsynaptic neurotransmitter receptor internalization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:9839",
+              "xref_name": "RALA",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P11233",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001806",
+              "xref_name": "Small_GTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR005225",
+              "xref_name": "Small_GTP-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR020849",
+              "xref_name": "Small_GTPase_Ras-type",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24070",
+              "xref_name": "RAS, DI-RAS, AND RHEB FAMILY MEMBERS OF SMALL GTPASE SUPERFAMILY",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1UAD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1ZC3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1ZC4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A78",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A9K",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BOV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0K",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6P0O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7NQC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FJH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FJI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1UAD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1ZC3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1ZC4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2A78",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2A9K",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2BOV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0I",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0J",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0K",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0L",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0M",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6P0O",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8FJH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8FJI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00071",
+              "xref_name": "Ras",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA34197",
+              "xref_name": "RAS like proto-oncogene A",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P11233",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1445148",
+              "xref_name": "Translocation of SLC2A4 (GLUT4) to the plasma membrane",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-171007",
+              "xref_name": "p38MAPK events",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8950505",
+              "xref_name": "Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A4D1W3",
+              "xref_name": "Ras-related protein Ral-A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P11233",
+              "xref_name": "Ras-related protein Ral-A",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "RalA-binding protein 1",
+      "score": 16.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5169159",
+      "target_components": [
+        {
+          "accession": "Q62172",
+          "component_description": "RalA-binding protein 1",
+          "component_id": 20206,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "7.6.2.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "7.6.2.3",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Dinitrophenyl S-glutathione ATPase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DNP-SG ATPase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "RalA-binding protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ralbp1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "RalBP1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ral-interacting protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=Rip1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q62172",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q62172",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000922",
+              "xref_name": "spindle pole",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016604",
+              "xref_name": "nuclear body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005096",
+              "xref_name": "GTPase activator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008559",
+              "xref_name": "ABC-type xenobiotic transporter activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0015431",
+              "xref_name": "ABC-type glutathione S-conjugate transporter activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0022857",
+              "xref_name": "transmembrane transporter activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031267",
+              "xref_name": "small GTPase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042626",
+              "xref_name": "ATPase-coupled transmembrane transporter activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042910",
+              "xref_name": "xenobiotic transmembrane transporter activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001934",
+              "xref_name": "positive regulation of protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007264",
+              "xref_name": "small GTPase-mediated signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032489",
+              "xref_name": "regulation of Cdc42 protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043547",
+              "xref_name": "positive regulation of GTPase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0055085",
+              "xref_name": "transmembrane transport",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090141",
+              "xref_name": "positive regulation of mitochondrial fission",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900753",
+              "xref_name": "doxorubicin transport",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1990961",
+              "xref_name": "xenobiotic detoxification by transmembrane export across the plasma membrane",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "Q62172",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000198",
+              "xref_name": "RhoGAP_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008936",
+              "xref_name": "Rho_GTPase_activation_prot",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR039767",
+              "xref_name": "RALBP1",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR049041",
+              "xref_name": "RalBP1-like_Ral-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR12783",
+              "xref_name": "RALA BINDING PROTEIN 1 RALBP1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR12783:SF5",
+              "xref_name": "RALA-BINDING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00620",
+              "xref_name": "RhoGAP",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF20924",
+              "xref_name": "RLIP76_Ral-bd",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-9013148",
+              "xref_name": "CDC42 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-9013149",
+              "xref_name": "RAC1 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q62172",
+              "xref_name": "RalA-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6NXH5",
+              "xref_name": "RalA-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9CRE5",
+              "xref_name": "RalA-binding protein 1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

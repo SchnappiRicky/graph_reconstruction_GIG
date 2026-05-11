@@ -1,0 +1,189 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Caspase recruitment domain-containing protein 19",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL6067439",
+      "target_components": [
+        {
+          "accession": "Q96LW7",
+          "component_description": "Caspase recruitment domain-containing protein 19",
+          "component_id": 24297,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Bcl10-interacting CARD protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BinCARD",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C9orf89",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CARD19",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Caspase recruitment domain-containing protein 19",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q96LW7",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q96LW7",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005783",
+              "xref_name": "endoplasmic reticulum",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005789",
+              "xref_name": "endoplasmic reticulum membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031966",
+              "xref_name": "mitochondrial membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0050700",
+              "xref_name": "CARD domain binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0043124",
+              "xref_name": "negative regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:28148",
+              "xref_name": "CARD19",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q96LW7",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042146",
+              "xref_name": "CARD_BinCARD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR043574",
+              "xref_name": "CARD19",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR34765",
+              "xref_name": "CASPASE RECRUITMENT DOMAIN-CONTAINING PROTEIN 19",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR34765:SF1",
+              "xref_name": "CASPASE RECRUITMENT DOMAIN-CONTAINING PROTEIN 19",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "4DWN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4FH0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4DWN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4FH0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PA134909664",
+              "xref_name": "caspase recruitment domain family member 19",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q96LW7",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "Q5BJH8",
+              "xref_name": "Caspase recruitment domain-containing protein 19",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96LW7",
+              "xref_name": "Caspase recruitment domain-containing protein 19",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9BSY2",
+              "xref_name": "Caspase recruitment domain-containing protein 19",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

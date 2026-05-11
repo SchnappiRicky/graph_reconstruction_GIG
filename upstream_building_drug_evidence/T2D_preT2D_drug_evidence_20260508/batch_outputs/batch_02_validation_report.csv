@@ -1,0 +1,30 @@
+Target,Candidate Drug,Original Citation,Validation Status (validated/removed/replaced_placeholder),Validation Note
+CASP8,NIVOCASAN,PMID:21667042; DOI:10.1007/s10495-011-0620-2,validated,Matched target term 'CASPASE-8' and drug term 'GS-9450' in PubMed title/abstract.
+CASP9,NIVOCASAN,PMID:21667042; DOI:10.1007/s10495-011-0620-2,validated,Matched 'GS-9450' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CBLB,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CD14,IC14,PMID:11207321; DOI:10.4049/jimmunol.166.5.3599,validated,Matched target term 'CD14' and drug term 'IC14' in PubMed title/abstract.
+CD14,VB-201,PMID:4116867; DOI:10.1016/s0140-6736(72)92517-2,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+CD247,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CD3E,TEPLIZUMAB,PMID:10716879; DOI:10.1006/cimm.2000.1617,validated,Matched 'HUMANIZED OKT3' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD3E,OTELIXIZUMAB,PMID:17641665; DOI:10.1038/nri2134,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+CD3E,VISILIZUMAB,PMID:11349730; DOI:10.1097/00007890-200104150-00020,validated,Matched 'HUM291' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD4,IBALIZUMAB,PMID:19015347; DOI:10.1128/AAC.00942-08,validated,Matched target term 'CD4' and drug term 'IBALIZUMAB' in PubMed title/abstract.
+CD4,SEMZUVOLIMAB,PMID:30995373; DOI:10.1056/NEJMoa1802264,validated,Matched target term 'CD4' and drug term 'UB-421' in PubMed title/abstract.
+CD4,CEDELIZUMAB,PMID:11004613; DOI:10.1067/mjd.2000.107945,validated,Matched 'CD4' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD40,BLESELUMAB,PMID:29679478; DOI:10.1002/bdd.2130,validated,Matched target term 'CD40' and drug term 'ASKP1240' in PubMed title/abstract.
+CD40,SOTIGALIMAB,PMID:33387490; DOI:10.1016/S1470-2045(20)30532-5,validated,Matched target term 'CD40' and drug term 'APX005M' in PubMed title/abstract.
+CD40,DACETUZUMAB,PMID:21810918; DOI:10.1158/1078-0432.CCR-10-3336,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+CD40LG,DAPIROLIZUMAB PEGOL,PMID:25784719; DOI:10.1177/0961203315574558,validated,Matched target term 'CD40L' and drug term 'CDP7657' in PubMed title/abstract.
+CD40LG,TORALIZUMAB,PMID:11360929; DOI:10.1016/s1567-5769(00)00020-5,validated,Matched 'ANTI-CD154' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD40LG,RAVAGALIMAB,PMID:31382872; DOI:10.1186/s12860-019-0213-4,validated,Matched target term 'CD40L' and drug term 'ABBV-323' in PubMed title/abstract.
+CD80,GALIXIMAB,PMID:22267549; DOI:10.1158/1535-7163.MCT-11-0635,validated,Matched target term 'CD80' and drug term 'GALIXIMAB' in PubMed title/abstract.
+CD86,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CD8A,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CD8B,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CDH1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CFLAR,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CLEC1B,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CLEC4D,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CLEC4E,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CLEC7A,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CTNNA1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.

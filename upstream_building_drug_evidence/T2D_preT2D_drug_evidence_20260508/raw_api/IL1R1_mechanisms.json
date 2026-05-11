@@ -1,0 +1,86 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 489,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-1 receptor antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=d9d74915-6606-4570-9c52-c4001d3177de",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9d74915-6606-4570-9c52-c4001d3177de"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201570",
+      "parent_molecule_chembl_id": "CHEMBL1201570",
+      "record_id": 1344211,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1959",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6114,
+      "mechanism_comment": "Binds the third immunoglobulin domain of the interleukin-1 receptor type 1 (IL-1R1) and nonselectively inhibits the activity of both forms of IL-1 (IL-1alpha and IL-1beta).",
+      "mechanism_of_action": "Interleukin-1 receptor antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "21801403",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/21801403"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109458",
+      "parent_molecule_chembl_id": "CHEMBL2109458",
+      "record_id": 1706959,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1959",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7044,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-1 receptor inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "PMC5551010",
+          "ref_type": "PMC",
+          "ref_url": "http://europepmc.org/articles/PMC5551010"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109607",
+      "parent_molecule_chembl_id": "CHEMBL2109607",
+      "record_id": 1707159,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1959",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 3
+  }
+}

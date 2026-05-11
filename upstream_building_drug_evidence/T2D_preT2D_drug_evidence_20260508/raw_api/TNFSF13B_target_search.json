@@ -1,0 +1,452 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Tumor necrosis factor ligand superfamily member 13B",
+      "score": 13.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2364158",
+      "target_components": [
+        {
+          "accession": "Q9Y275",
+          "component_description": "Tumor necrosis factor ligand superfamily member 13B",
+          "component_id": 7801,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "BAFF",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "BAFF",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B-cell-activating factor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B lymphocyte stimulator",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BLyS",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BLYS",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD257",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Dendritic cell-derived TNF-like molecule",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TALL-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TALL1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "TNF- and APOL-related leukocyte expressed ligand 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TNFSF13B",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "TNFSF20",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Tumor necrosis factor ligand superfamily member 13B",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Tumor necrosis factor ligand superfamily member 13b, membrane form",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Tumor necrosis factor ligand superfamily member 13b, soluble form",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ZTNF4",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9Y275",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9Y275",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005576",
+              "xref_name": "extracellular region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005615",
+              "xref_name": "extracellular space",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005925",
+              "xref_name": "focal adhesion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0048471",
+              "xref_name": "perinuclear region of cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005125",
+              "xref_name": "cytokine activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005164",
+              "xref_name": "tumor necrosis factor receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0048018",
+              "xref_name": "receptor ligand activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001782",
+              "xref_name": "B cell homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002333",
+              "xref_name": "transitional one stage B cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002376",
+              "xref_name": "immune system process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002467",
+              "xref_name": "germinal center formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002636",
+              "xref_name": "positive regulation of germinal center formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030183",
+              "xref_name": "B cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030890",
+              "xref_name": "positive regulation of B cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031295",
+              "xref_name": "T cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031296",
+              "xref_name": "B cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033209",
+              "xref_name": "tumor necrosis factor-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042098",
+              "xref_name": "T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042100",
+              "xref_name": "B cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042102",
+              "xref_name": "positive regulation of T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043588",
+              "xref_name": "skin development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050776",
+              "xref_name": "regulation of immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:11929",
+              "xref_name": "TNFSF13B",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9Y275",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR006052",
+              "xref_name": "TNF_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008983",
+              "xref_name": "Tumour_necrosis_fac-like_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR051748",
+              "xref_name": "TNF_Ligand_Superfamily",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR15151",
+              "xref_name": "PROTEIN EIGER",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR15151:SF2",
+              "xref_name": "TUMOR NECROSIS FACTOR LIGAND SUPERFAMILY MEMBER 13B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1JH5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1KD7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1KXG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1OQD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1OQE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1OSG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3V56",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4V46",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4ZCH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5Y9J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6FXN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1JH5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1KD7",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1KXG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1OQD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1OQE",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1OSG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3V56",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4V46",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4ZCH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5Y9J",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6FXN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00229",
+              "xref_name": "TNF",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA434",
+              "xref_name": "TNF superfamily member 13b",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9Y275",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-5668541",
+              "xref_name": "TNFR2 non-canonical NF-kB pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5669034",
+              "xref_name": "TNFs bind their physiological receptors",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5676594",
+              "xref_name": "TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "E0ADT7",
+              "xref_name": "Tumor necrosis factor ligand superfamily member 13B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6FHD6",
+              "xref_name": "Tumor necrosis factor ligand superfamily member 13B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z5J2",
+              "xref_name": "Tumor necrosis factor ligand superfamily member 13B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9Y275",
+              "xref_name": "Tumor necrosis factor ligand superfamily member 13B",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

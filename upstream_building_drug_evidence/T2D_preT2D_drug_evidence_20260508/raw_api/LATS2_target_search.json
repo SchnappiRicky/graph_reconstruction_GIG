@@ -1,0 +1,1045 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Serine/threonine-protein kinase LATS2",
+      "score": 19.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5907",
+      "target_components": [
+        {
+          "accession": "Q9NRM7",
+          "component_description": "Serine/threonine-protein kinase LATS2",
+          "component_id": 4381,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Kinase phosphorylated during mitosis protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "KPM",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Large tumor suppressor homolog 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "LATS2",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase kpm",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase LATS2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Warts-like kinase",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000922",
+              "xref_name": "spindle pole",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0034451",
+              "xref_name": "centriolar satellite",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000082",
+              "xref_name": "G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001827",
+              "xref_name": "inner cell mass cell fate commitment",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001828",
+              "xref_name": "inner cell mass cellular morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008104",
+              "xref_name": "protein localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009755",
+              "xref_name": "hormone-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0017015",
+              "xref_name": "regulation of transforming growth factor beta receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030216",
+              "xref_name": "keratinocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045736",
+              "xref_name": "negative regulation of cyclin-dependent protein serine/threonine kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046620",
+              "xref_name": "regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900181",
+              "xref_name": "negative regulation of protein localization to nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:6515",
+              "xref_name": "LATS2",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000961",
+              "xref_name": "AGC-kinase_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008271",
+              "xref_name": "Ser/Thr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR009060",
+              "xref_name": "UBA-like_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015940",
+              "xref_name": "UBA",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017892",
+              "xref_name": "Pkinase_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050236",
+              "xref_name": "Ser_Thr_kinase_AGC",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24356",
+              "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR24356:SF149",
+              "xref_name": "SERINE_THREONINE-PROTEIN KINASE LATS2",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "4ZRI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4ZRI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00433",
+              "xref_name": "Pkinase_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA30302",
+              "xref_name": "large tumor suppressor kinase 2",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B1AM47",
+              "xref_name": "Serine/threonine-protein kinase LATS2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": "Serine/threonine-protein kinase LATS2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9P2X1",
+              "xref_name": "Serine/threonine-protein kinase LATS2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Serine/threonine-protein kinase LATS",
+      "score": 16.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523992",
+      "target_components": [
+        {
+          "accession": "Q9NRM7",
+          "component_description": "Serine/threonine-protein kinase LATS2",
+          "component_id": 4381,
+          "component_type": "PROTEIN",
+          "relationship": "GROUP MEMBER",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Kinase phosphorylated during mitosis protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "KPM",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Large tumor suppressor homolog 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "LATS2",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase kpm",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase LATS2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Warts-like kinase",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000922",
+              "xref_name": "spindle pole",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0034451",
+              "xref_name": "centriolar satellite",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000082",
+              "xref_name": "G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001827",
+              "xref_name": "inner cell mass cell fate commitment",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001828",
+              "xref_name": "inner cell mass cellular morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008104",
+              "xref_name": "protein localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009755",
+              "xref_name": "hormone-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0017015",
+              "xref_name": "regulation of transforming growth factor beta receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030216",
+              "xref_name": "keratinocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045736",
+              "xref_name": "negative regulation of cyclin-dependent protein serine/threonine kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046620",
+              "xref_name": "regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060070",
+              "xref_name": "canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900181",
+              "xref_name": "negative regulation of protein localization to nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:6515",
+              "xref_name": "LATS2",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000961",
+              "xref_name": "AGC-kinase_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008271",
+              "xref_name": "Ser/Thr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR009060",
+              "xref_name": "UBA-like_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015940",
+              "xref_name": "UBA",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017892",
+              "xref_name": "Pkinase_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050236",
+              "xref_name": "Ser_Thr_kinase_AGC",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24356",
+              "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR24356:SF149",
+              "xref_name": "SERINE_THREONINE-PROTEIN KINASE LATS2",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "4ZRI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4ZRI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00433",
+              "xref_name": "Pkinase_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA30302",
+              "xref_name": "large tumor suppressor kinase 2",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B1AM47",
+              "xref_name": "Serine/threonine-protein kinase LATS2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NRM7",
+              "xref_name": "Serine/threonine-protein kinase LATS2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9P2X1",
+              "xref_name": "Serine/threonine-protein kinase LATS2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        },
+        {
+          "accession": "O95835",
+          "component_description": "Serine/threonine-protein kinase LATS1",
+          "component_id": 4746,
+          "component_type": "PROTEIN",
+          "relationship": "GROUP MEMBER",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "h-warts",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Large tumor suppressor homolog 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "LATS1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Serine/threonine-protein kinase LATS1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=WARTS",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "WARTS protein kinase",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O95835",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O95835",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000922",
+              "xref_name": "spindle pole",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030496",
+              "xref_name": "midbody",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098794",
+              "xref_name": "postsynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019901",
+              "xref_name": "protein kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030331",
+              "xref_name": "nuclear estrogen receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000082",
+              "xref_name": "G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000086",
+              "xref_name": "G2/M transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0000819",
+              "xref_name": "sister chromatid segregation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001827",
+              "xref_name": "inner cell mass cell fate commitment",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001828",
+              "xref_name": "inner cell mass cellular morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008104",
+              "xref_name": "protein localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009755",
+              "xref_name": "hormone-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0017015",
+              "xref_name": "regulation of transforming growth factor beta receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030216",
+              "xref_name": "keratinocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030833",
+              "xref_name": "regulation of actin filament polymerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033138",
+              "xref_name": "positive regulation of peptidyl-serine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033146",
+              "xref_name": "regulation of intracellular estrogen receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043254",
+              "xref_name": "regulation of protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045736",
+              "xref_name": "negative regulation of cyclin-dependent protein serine/threonine kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046620",
+              "xref_name": "regulation of organ growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060644",
+              "xref_name": "mammary gland epithelial cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090090",
+              "xref_name": "negative regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0099151",
+              "xref_name": "regulation of postsynaptic density assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900181",
+              "xref_name": "negative regulation of protein localization to nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:6514",
+              "xref_name": "LATS1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O95835",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000961",
+              "xref_name": "AGC-kinase_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008271",
+              "xref_name": "Ser/Thr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR009060",
+              "xref_name": "UBA-like_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015940",
+              "xref_name": "UBA",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017892",
+              "xref_name": "Pkinase_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042706",
+              "xref_name": "LATS1_STKc",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR049761",
+              "xref_name": "LATS1-like_MobB",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050236",
+              "xref_name": "Ser_Thr_kinase_AGC",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24356",
+              "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR24356:SF138",
+              "xref_name": "SERINE_THREONINE-PROTEIN KINASE LATS1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "4ZRK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5B5W",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5BRK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7LWH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4ZRK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5B5W",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5BRK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7LWH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00433",
+              "xref_name": "Pkinase_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00627",
+              "xref_name": "UBA",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA30301",
+              "xref_name": "large tumor suppressor kinase 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O95835",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "O95835",
+              "xref_name": "Serine/threonine-protein kinase LATS1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6PKD0",
+              "xref_name": "Serine/threonine-protein kinase LATS1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN FAMILY",
+      "tax_id": 9606
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Lys-63-specific deubiquitinase BRCC36",
+      "score": 13.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4105965",
+      "target_components": [
+        {
+          "accession": "P46736",
+          "component_description": "Lys-63-specific deubiquitinase BRCC36",
+          "component_id": 17817,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.4.19.-",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "BRCA1-A complex subunit BRCC36",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BRCA1/BRCA2-containing complex subunit 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BRCA1/BRCA2-containing complex subunit 36",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BRCC3",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "BRCC36",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "BRISC complex subunit BRCC36",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C6.1A",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CXorf53",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Lys-63-specific deubiquitinase BRCC36",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P46736",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P46736",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000151",
+              "xref_name": "ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000152",
+              "xref_name": "nuclear ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000922",
+              "xref_name": "spindle pole",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070531",
+              "xref_name": "BRCA1-A complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070552",
+              "xref_name": "BRISC complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0004843",
+              "xref_name": "cysteine-type deubiquitinase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008237",
+              "xref_name": "metallopeptidase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030234",
+              "xref_name": "enzyme regulator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031593",
+              "xref_name": "polyubiquitin modification-dependent protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061578",
+              "xref_name": "K63-linked deubiquitinase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140492",
+              "xref_name": "metal-dependent deubiquitinase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006281",
+              "xref_name": "DNA repair",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006282",
+              "xref_name": "regulation of DNA repair",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006302",
+              "xref_name": "double-strand break repair",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006508",
+              "xref_name": "proteolysis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007095",
+              "xref_name": "mitotic G2 DNA damage checkpoint signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0044818",
+              "xref_name": "mitotic G2/M transition checkpoint",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045739",
+              "xref_name": "positive regulation of DNA repair",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071479",
+              "xref_name": "cellular response to ionizing radiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000001",
+              "xref_name": "regulation of DNA damage checkpoint",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:24185",
+              "xref_name": "BRCC3",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P46736",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000555",
+              "xref_name": "JAMM/MPN+_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR033860",
+              "xref_name": "MPN_BRCC36",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR037518",
+              "xref_name": "MPN",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR040749",
+              "xref_name": "BRCC36_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050242",
+              "xref_name": "JAMM_MPN+_peptidase_M67A",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10410",
+              "xref_name": "EUKARYOTIC TRANSLATION INITIATION FACTOR 3 -RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "6H3C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6R8F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8PVY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8PY2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "PF01398",
+              "xref_name": "JAB",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF18110",
+              "xref_name": "BRCC36_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA134922847",
+              "xref_name": "BRCA1/BRCA2-containing complex subunit 3",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P46736",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-5689901",
+              "xref_name": "Metalloprotease DUBs",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5693565",
+              "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5693571",
+              "xref_name": "Nonhomologous End-Joining (NHEJ)",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5693607",
+              "xref_name": "Processing of DNA double-strand break ends",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69473",
+              "xref_name": "G2/M DNA damage checkpoint",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A6QRF8",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A6QRF9",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A8MUX5",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A8MWH0",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A9Z1Y0",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A9Z1Y5",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B1B062",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B4DQN7",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P46736",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q16107",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q53YX5",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9BTZ6",
+              "xref_name": "Lys-63-specific deubiquitinase BRCC36",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 5854,
+      "mechanism_comment": "Irreversible inhibitor",
+      "mechanism_of_action": "Caspase-9 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "21667042",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/21667042"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2105721",
+      "parent_molecule_chembl_id": "CHEMBL2105721",
+      "record_id": 1702623,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2273",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

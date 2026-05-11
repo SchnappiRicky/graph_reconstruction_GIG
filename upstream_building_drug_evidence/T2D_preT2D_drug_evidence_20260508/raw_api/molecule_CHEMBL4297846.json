@@ -1,0 +1,144 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 26425,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVLTQSPASLAVSLGQRATITCKAGQSVDYDGDSYMNWYQQKPGQPPKLLIYVASNLESGIPARFSGSGSGTDFTLNIHPVEENDAATYYCQQSYKDPLTFGQGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKLYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 26426,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGPELKKPGASVKVSCKASGYTFTDYVIHWVKQATGQGLEWIGEIYPGSGSAYSNAKFKDRVTMTADKSSNTAYMELSSLTSDDTAVYFCARRGNGTGFAYWGQGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYHSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 25767,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "1 $ 1'''' $ 101 $ 101''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 27747,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-92' $ 23'''-92''' $ 138'-198' $ 138'''-198''' $ 145-201 $ 145''-201'' $ 221-218' $ 221''-218''' $ 227-227'' $ 230-230'' $ 262-322 $ 262''-322'' $ 368-426 $ 368''-426''",
+        "tax_id": null
+      },
+      {
+        "component_id": 27748,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "1 $ 1'' $ 101 $ 101''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297846"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "126",
+      "xref_name": "SEMZUVOLIMAB",
+      "xref_src": "INN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4297846",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297846",
+    "molecule_chembl_id": "CHEMBL4297846",
+    "parent_chembl_id": "CHEMBL4297846"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Db4c7 mab",
+      "syn_type": "OTHER",
+      "synonyms": "DB4C7 MAB"
+    },
+    {
+      "molecule_synonym": "Mab db4c7",
+      "syn_type": "OTHER",
+      "synonyms": "MAB DB4C7"
+    },
+    {
+      "molecule_synonym": "Semzuvolimab",
+      "syn_type": "INN",
+      "synonyms": "SEMZUVOLIMAB"
+    },
+    {
+      "molecule_synonym": "Semzuvolimab",
+      "syn_type": "INN_FRENCH",
+      "synonyms": "SEMZUVOLIMAB"
+    },
+    {
+      "molecule_synonym": "Semzuvolimab",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "SEMZUVOLIMAB"
+    },
+    {
+      "molecule_synonym": "Semzuvolimab",
+      "syn_type": "OTHER",
+      "synonyms": "SEMZUVOLIMAB"
+    },
+    {
+      "molecule_synonym": "Ub-421",
+      "syn_type": "OTHER",
+      "synonyms": "UB-421"
+    },
+    {
+      "molecule_synonym": "UB-421",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "UB-421"
+    },
+    {
+      "molecule_synonym": "UB421",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "UB421"
+    },
+    {
+      "molecule_synonym": "UB-421 (DB4C7 MAB)",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "UB-421 (DB4C7 MAB)"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "SEMZUVOLIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,3317 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 3
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Cullin-1",
+      "score": 20.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3758068",
+      "target_components": [
+        {
+          "accession": "Q13616",
+          "component_description": "Cullin-1",
+          "component_id": 16917,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CUL-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CUL1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Cullin-1",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0019005",
+              "xref_name": "SCF ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031461",
+              "xref_name": "cullin-RING ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:1990452",
+              "xref_name": "Parkin-FBXW7-Cul1 ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030674",
+              "xref_name": "protein-macromolecule adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0160072",
+              "xref_name": "ubiquitin ligase complex scaffold activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000082",
+              "xref_name": "G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006511",
+              "xref_name": "ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009887",
+              "xref_name": "animal organ morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010498",
+              "xref_name": "proteasomal protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031146",
+              "xref_name": "SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043161",
+              "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097193",
+              "xref_name": "intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:2551",
+              "xref_name": "CUL1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001373",
+              "xref_name": "Cullin_N",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016157",
+              "xref_name": "Cullin_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016158",
+              "xref_name": "Cullin_homology",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016159",
+              "xref_name": "Cullin_repeat-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR019559",
+              "xref_name": "Cullin_neddylation_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036317",
+              "xref_name": "Cullin_homology_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036388",
+              "xref_name": "WH-like_DNA-bd_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036390",
+              "xref_name": "WH_DNA-bd_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR045093",
+              "xref_name": "Cullin",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11932",
+              "xref_name": "CULLIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1LDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1U6G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3RTR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3TDU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3TDZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4F52",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5V89",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6TTU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6WCQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5S",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8V",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UA6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VVY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9JKB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9KBD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1U6G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3RTR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3TDU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3TDZ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4F52",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5V89",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00888",
+              "xref_name": "Cullin",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF10557",
+              "xref_name": "Cullin_Nedd8",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA27047",
+              "xref_name": "cullin 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1169091",
+              "xref_name": "Activation of NF-kappaB in B cells",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-1170546",
+              "xref_name": "Prolactin receptor signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-174113",
+              "xref_name": "SCF-beta-TrCP mediated degradation of Emi1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-187577",
+              "xref_name": "SCF(Skp2)-mediated degradation of p27/p21",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-195253",
+              "xref_name": "Degradation of beta-catenin by the destruction complex",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2122947",
+              "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2565942",
+              "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644606",
+              "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644607",
+              "xref_name": "Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871837",
+              "xref_name": "FCERI mediated NF-kB activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2894862",
+              "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-400253",
+              "xref_name": "Circadian Clock",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607761",
+              "xref_name": "Dectin-1 mediated noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607764",
+              "xref_name": "CLEC7A (Dectin-1) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610780",
+              "xref_name": "Degradation of GLI1 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610783",
+              "xref_name": "Degradation of GLI2 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610785",
+              "xref_name": "GLI3 is processed to GLI3R by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5676590",
+              "xref_name": "NIK-->noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5684264",
+              "xref_name": "MAP3K8 (TPL2)-dependent MAPK1/3 activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-68949",
+              "xref_name": "Orc1 removal from chromatin",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69231",
+              "xref_name": "Cyclin D associated events in G1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8854050",
+              "xref_name": "FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8939902",
+              "xref_name": "Regulation of RUNX2 expression and activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8951664",
+              "xref_name": "Neddylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9020702",
+              "xref_name": "Interleukin-1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-917937",
+              "xref_name": "Iron uptake and transport",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9604323",
+              "xref_name": "Negative regulation of NOTCH4 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9708530",
+              "xref_name": "Regulation of BACH1 activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9762114",
+              "xref_name": "GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-983168",
+              "xref_name": "Antigen processing: Ubiquitination & Proteasome degradation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "D3DWG3",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O60719",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q08AL6",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IYW1",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "NEDD8/Cullin-1",
+      "score": 17.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523655",
+      "target_components": [
+        {
+          "accession": "Q13616",
+          "component_description": "Cullin-1",
+          "component_id": 16917,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CUL-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CUL1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Cullin-1",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0019005",
+              "xref_name": "SCF ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031461",
+              "xref_name": "cullin-RING ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:1990452",
+              "xref_name": "Parkin-FBXW7-Cul1 ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030674",
+              "xref_name": "protein-macromolecule adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0160072",
+              "xref_name": "ubiquitin ligase complex scaffold activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000082",
+              "xref_name": "G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006511",
+              "xref_name": "ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009887",
+              "xref_name": "animal organ morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010498",
+              "xref_name": "proteasomal protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031146",
+              "xref_name": "SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043161",
+              "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097193",
+              "xref_name": "intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:2551",
+              "xref_name": "CUL1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001373",
+              "xref_name": "Cullin_N",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016157",
+              "xref_name": "Cullin_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016158",
+              "xref_name": "Cullin_homology",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016159",
+              "xref_name": "Cullin_repeat-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR019559",
+              "xref_name": "Cullin_neddylation_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036317",
+              "xref_name": "Cullin_homology_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036388",
+              "xref_name": "WH-like_DNA-bd_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036390",
+              "xref_name": "WH_DNA-bd_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR045093",
+              "xref_name": "Cullin",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11932",
+              "xref_name": "CULLIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1LDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1U6G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3RTR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3TDU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3TDZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4F52",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5V89",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6TTU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6WCQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5S",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8V",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UA6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VVY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9JKB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9KBD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1U6G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3RTR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3TDU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3TDZ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4F52",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5V89",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00888",
+              "xref_name": "Cullin",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF10557",
+              "xref_name": "Cullin_Nedd8",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA27047",
+              "xref_name": "cullin 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1169091",
+              "xref_name": "Activation of NF-kappaB in B cells",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-1170546",
+              "xref_name": "Prolactin receptor signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-174113",
+              "xref_name": "SCF-beta-TrCP mediated degradation of Emi1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-187577",
+              "xref_name": "SCF(Skp2)-mediated degradation of p27/p21",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-195253",
+              "xref_name": "Degradation of beta-catenin by the destruction complex",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2122947",
+              "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2565942",
+              "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644606",
+              "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644607",
+              "xref_name": "Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871837",
+              "xref_name": "FCERI mediated NF-kB activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2894862",
+              "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-400253",
+              "xref_name": "Circadian Clock",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607761",
+              "xref_name": "Dectin-1 mediated noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607764",
+              "xref_name": "CLEC7A (Dectin-1) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610780",
+              "xref_name": "Degradation of GLI1 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610783",
+              "xref_name": "Degradation of GLI2 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610785",
+              "xref_name": "GLI3 is processed to GLI3R by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5676590",
+              "xref_name": "NIK-->noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5684264",
+              "xref_name": "MAP3K8 (TPL2)-dependent MAPK1/3 activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-68949",
+              "xref_name": "Orc1 removal from chromatin",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69231",
+              "xref_name": "Cyclin D associated events in G1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8854050",
+              "xref_name": "FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8939902",
+              "xref_name": "Regulation of RUNX2 expression and activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8951664",
+              "xref_name": "Neddylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9020702",
+              "xref_name": "Interleukin-1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-917937",
+              "xref_name": "Iron uptake and transport",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9604323",
+              "xref_name": "Negative regulation of NOTCH4 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9708530",
+              "xref_name": "Regulation of BACH1 activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9762114",
+              "xref_name": "GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-983168",
+              "xref_name": "Antigen processing: Ubiquitination & Proteasome degradation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "D3DWG3",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O60719",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q08AL6",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IYW1",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        },
+        {
+          "accession": "Q15843",
+          "component_description": "Ubiquitin-like protein NEDD8",
+          "component_id": 18250,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "NEDD-8",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "NEDD8",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Neddylin",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Neural precursor cell expressed developmentally down-regulated protein 8",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ubiquitin-like protein NEDD8",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q15843",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q15843",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031386",
+              "xref_name": "protein tag activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006508",
+              "xref_name": "proteolysis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006511",
+              "xref_name": "ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008104",
+              "xref_name": "protein localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009653",
+              "xref_name": "anatomical structure morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019941",
+              "xref_name": "modification-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0150052",
+              "xref_name": "regulation of postsynapse assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:7732",
+              "xref_name": "NEDD8",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q15843",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000626",
+              "xref_name": "Ubiquitin-like_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR019954",
+              "xref_name": "Ubiquitin_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR019956",
+              "xref_name": "Ubiquitin_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR029071",
+              "xref_name": "Ubiquitin-like_domsf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR038738",
+              "xref_name": "Nedd8-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050158",
+              "xref_name": "Ubiquitin_ubiquitin-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10666",
+              "xref_name": "UBIQUITIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1NDD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1R4M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1R4N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1XT9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BKR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2KO3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2N7K",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2NVU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3DBH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3DBL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3DBR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3DQV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3GZN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4F8C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4FBJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4HCP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6R7F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6R7I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6TTU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ONI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8B3G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8B3I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8H38",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8Q7H",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8RX0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WQC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WQG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WZN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WZO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1NDD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1R4M",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1R4N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1XT9",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2BKR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2NVU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3DBH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3DBL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3DBR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3DQV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3GZN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4F8C",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4FBJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4HCP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8WZN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8WZO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00240",
+              "xref_name": "ubiquitin",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA31537",
+              "xref_name": "NEDD8 ubiquitin like modifier",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q15843",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-2173789",
+              "xref_name": "TGF-beta receptor signaling activates SMADs",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5689603",
+              "xref_name": "UCH proteinases",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856825",
+              "xref_name": "Cargo recognition for clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8951664",
+              "xref_name": "Neddylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-917937",
+              "xref_name": "Iron uptake and transport",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q15843",
+              "xref_name": "Ubiquitin-like protein NEDD8",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q3SXN8",
+              "xref_name": "Ubiquitin-like protein NEDD8",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6LES6",
+              "xref_name": "Ubiquitin-like protein NEDD8",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN-PROTEIN INTERACTION",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Cullin-1/S-phase kinase-associated protein 1",
+      "score": 12.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3885547",
+      "target_components": [
+        {
+          "accession": "Q13616",
+          "component_description": "Cullin-1",
+          "component_id": 16917,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CUL-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CUL1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Cullin-1",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0019005",
+              "xref_name": "SCF ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031461",
+              "xref_name": "cullin-RING ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:1990452",
+              "xref_name": "Parkin-FBXW7-Cul1 ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030674",
+              "xref_name": "protein-macromolecule adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0160072",
+              "xref_name": "ubiquitin ligase complex scaffold activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000082",
+              "xref_name": "G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006511",
+              "xref_name": "ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008283",
+              "xref_name": "cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009887",
+              "xref_name": "animal organ morphogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010498",
+              "xref_name": "proteasomal protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031146",
+              "xref_name": "SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043161",
+              "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097193",
+              "xref_name": "intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:2551",
+              "xref_name": "CUL1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001373",
+              "xref_name": "Cullin_N",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016157",
+              "xref_name": "Cullin_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016158",
+              "xref_name": "Cullin_homology",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016159",
+              "xref_name": "Cullin_repeat-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR019559",
+              "xref_name": "Cullin_neddylation_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036317",
+              "xref_name": "Cullin_homology_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036388",
+              "xref_name": "WH-like_DNA-bd_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036390",
+              "xref_name": "WH_DNA-bd_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR045093",
+              "xref_name": "Cullin",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11932",
+              "xref_name": "CULLIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1LDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1U6G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3RTR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3TDU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3TDZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4F52",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5V89",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6TTU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6WCQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5S",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8V",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UA6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VVY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9JKB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9KBD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1U6G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3RTR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3TDU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3TDZ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4F52",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4P5O",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5V89",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8CAF",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00888",
+              "xref_name": "Cullin",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF10557",
+              "xref_name": "Cullin_Nedd8",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA27047",
+              "xref_name": "cullin 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1169091",
+              "xref_name": "Activation of NF-kappaB in B cells",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-1170546",
+              "xref_name": "Prolactin receptor signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-174113",
+              "xref_name": "SCF-beta-TrCP mediated degradation of Emi1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-187577",
+              "xref_name": "SCF(Skp2)-mediated degradation of p27/p21",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-195253",
+              "xref_name": "Degradation of beta-catenin by the destruction complex",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2122947",
+              "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2565942",
+              "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644606",
+              "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644607",
+              "xref_name": "Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871837",
+              "xref_name": "FCERI mediated NF-kB activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2894862",
+              "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-400253",
+              "xref_name": "Circadian Clock",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607761",
+              "xref_name": "Dectin-1 mediated noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607764",
+              "xref_name": "CLEC7A (Dectin-1) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610780",
+              "xref_name": "Degradation of GLI1 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610783",
+              "xref_name": "Degradation of GLI2 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610785",
+              "xref_name": "GLI3 is processed to GLI3R by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5676590",
+              "xref_name": "NIK-->noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5684264",
+              "xref_name": "MAP3K8 (TPL2)-dependent MAPK1/3 activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-68949",
+              "xref_name": "Orc1 removal from chromatin",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69231",
+              "xref_name": "Cyclin D associated events in G1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8854050",
+              "xref_name": "FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8939902",
+              "xref_name": "Regulation of RUNX2 expression and activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8951664",
+              "xref_name": "Neddylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9020702",
+              "xref_name": "Interleukin-1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-917937",
+              "xref_name": "Iron uptake and transport",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9604323",
+              "xref_name": "Negative regulation of NOTCH4 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9708530",
+              "xref_name": "Regulation of BACH1 activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9762114",
+              "xref_name": "GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-983168",
+              "xref_name": "Antigen processing: Ubiquitination & Proteasome degradation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "D3DWG3",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O60719",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q08AL6",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13616",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IYW1",
+              "xref_name": "Cullin-1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        },
+        {
+          "accession": "P63208",
+          "component_description": "S-phase kinase-associated protein 1",
+          "component_id": 16918,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Cyclin-A/CDK2-associated protein p19",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "EMC19",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "OCP-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "OCP2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "OCP-II",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Organ of Corti protein 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Organ of Corti protein II",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p19A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p19skp1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "RNA polymerase II elongation factor-like protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SIII",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SKP1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "SKP1A",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "S-phase kinase-associated protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TCEB1L",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Transcription elongation factor B polypeptide 1-like",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P63208",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P63208",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0019005",
+              "xref_name": "SCF ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031467",
+              "xref_name": "Cul7-RING ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031519",
+              "xref_name": "PcG protein complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008013",
+              "xref_name": "beta-catenin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019904",
+              "xref_name": "protein domain specific binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0097602",
+              "xref_name": "cullin family protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0160072",
+              "xref_name": "ubiquitin ligase complex scaffold activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:1990444",
+              "xref_name": "F-box domain binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:1990756",
+              "xref_name": "ubiquitin-like ligase-substrate adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006511",
+              "xref_name": "ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031146",
+              "xref_name": "SCF-dependent proteasomal ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043161",
+              "xref_name": "proteasome-mediated ubiquitin-dependent protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051457",
+              "xref_name": "maintenance of protein location in nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1904668",
+              "xref_name": "positive regulation of ubiquitin protein ligase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:10899",
+              "xref_name": "SKP1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P63208",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001232",
+              "xref_name": "SKP1-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011333",
+              "xref_name": "SKP1/BTB/POZ_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016072",
+              "xref_name": "Skp1_comp_dimer",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016073",
+              "xref_name": "Skp1_comp_POZ",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016897",
+              "xref_name": "SKP1",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036296",
+              "xref_name": "SKP1-like_dim_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11165",
+              "xref_name": "SKP1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1FQV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1FS1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1FS2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1P22",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2ASS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2AST",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2E31",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2E32",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OVP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OVQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OVR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3L2O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3WSO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4I6J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5IBK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5JH5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5K35",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5V4B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5VZT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5VZU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5XYL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6BVA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6BYH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6C16",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6M90",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6M91",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6M92",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6M93",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6M94",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6O60",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6TTU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6VCD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6W66",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6WCQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6WNX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7B5R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7T1Y",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7T1Z",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7Z8V",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7ZBZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8BYA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8BYL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8CDK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8OR4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8S7D",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8S7E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UA6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8UBU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9CB3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9JKB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9KBD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9KBF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1FQV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1FS1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1FS2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1LDK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1P22",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2ASS",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2AST",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2E31",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2E32",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OVP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OVQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OVR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3L2O",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3WSO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4I6J",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5IBK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5JH5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5K35",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5V4B",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5VZT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5VZU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6BVA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6BYH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6C16",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6M90",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6M91",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6M92",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6M93",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6M94",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6O60",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6W66",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6WNX",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7T1Y",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7T1Z",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF01466",
+              "xref_name": "Skp1",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF03931",
+              "xref_name": "Skp1_POZ",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA162403424",
+              "xref_name": "S-phase kinase associated protein 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P63208",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1169091",
+              "xref_name": "Activation of NF-kappaB in B cells",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-1170546",
+              "xref_name": "Prolactin receptor signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-174113",
+              "xref_name": "SCF-beta-TrCP mediated degradation of Emi1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-180534",
+              "xref_name": "Vpu mediated degradation of CD4",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-187577",
+              "xref_name": "SCF(Skp2)-mediated degradation of p27/p21",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-195253",
+              "xref_name": "Degradation of beta-catenin by the destruction complex",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202424",
+              "xref_name": "Downstream TCR signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2122947",
+              "xref_name": "NOTCH1 Intracellular Domain Regulates Transcription",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2565942",
+              "xref_name": "Regulation of PLK1 Activity at G2/M Transition",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644606",
+              "xref_name": "Constitutive Signaling by NOTCH1 PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2644607",
+              "xref_name": "Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871837",
+              "xref_name": "FCERI mediated NF-kB activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2894862",
+              "xref_name": "Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-400253",
+              "xref_name": "Circadian Clock",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607761",
+              "xref_name": "Dectin-1 mediated noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5607764",
+              "xref_name": "CLEC7A (Dectin-1) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610780",
+              "xref_name": "Degradation of GLI1 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610783",
+              "xref_name": "Degradation of GLI2 by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5610785",
+              "xref_name": "GLI3 is processed to GLI3R by the proteasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5676590",
+              "xref_name": "NIK-->noncanonical NF-kB signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5684264",
+              "xref_name": "MAP3K8 (TPL2)-dependent MAPK1/3 activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-68949",
+              "xref_name": "Orc1 removal from chromatin",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69231",
+              "xref_name": "Cyclin D associated events in G1",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8854050",
+              "xref_name": "FBXL7 down-regulates AURKA during mitotic entry and in early mitosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8939902",
+              "xref_name": "Regulation of RUNX2 expression and activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8951664",
+              "xref_name": "Neddylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9020702",
+              "xref_name": "Interleukin-1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-917937",
+              "xref_name": "Iron uptake and transport",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9604323",
+              "xref_name": "Negative regulation of NOTCH4 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9708530",
+              "xref_name": "Regulation of BACH1 activity",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9762114",
+              "xref_name": "GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-983168",
+              "xref_name": "Antigen processing: Ubiquitination & Proteasome degradation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "D3DQ97",
+              "xref_name": "S-phase kinase-associated protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "D3DQ98",
+              "xref_name": "S-phase kinase-associated protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P34991",
+              "xref_name": "S-phase kinase-associated protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P63208",
+              "xref_name": "S-phase kinase-associated protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8TAY2",
+              "xref_name": "S-phase kinase-associated protein 1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN-PROTEIN INTERACTION",
+      "tax_id": 9606
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "NLR family CARD domain-containing protein 4",
+      "score": 16.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4630857",
+      "target_components": [
+        {
+          "accession": "Q9NPP4",
+          "component_description": "NLR family CARD domain-containing protein 4",
+          "component_id": 19471,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CARD12",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CARD, LRR, and NACHT-containing protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Caspase recruitment domain-containing protein 12",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CED-4-like protein Clan",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CLAN",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CLAN1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CLAN GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Ice protease-activating factor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ipaf",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "IPAF ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "NLRC4",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "NLR family CARD domain-containing protein 4",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=CARD12",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9NPP4",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9NPP4",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0061702",
+              "xref_name": "canonical inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0072557",
+              "xref_name": "IPAF inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000287",
+              "xref_name": "magnesium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042803",
+              "xref_name": "protein homodimerization activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061133",
+              "xref_name": "endopeptidase activator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0089720",
+              "xref_name": "caspase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002218",
+              "xref_name": "activation of innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002221",
+              "xref_name": "pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010954",
+              "xref_name": "positive regulation of protein processing",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032731",
+              "xref_name": "positive regulation of interleukin-1 beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042981",
+              "xref_name": "regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046456",
+              "xref_name": "icosanoid biosynthetic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050729",
+              "xref_name": "positive regulation of inflammatory response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051260",
+              "xref_name": "protein homooligomerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097202",
+              "xref_name": "activation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:16412",
+              "xref_name": "NLRC4",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9NPP4",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001315",
+              "xref_name": "CARD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007111",
+              "xref_name": "NACHT_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR032675",
+              "xref_name": "LRR_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR040535",
+              "xref_name": "NLRC4_HD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042220",
+              "xref_name": "NLRC4",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR053882",
+              "xref_name": "Nlrc4-like_WHD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR47688",
+              "xref_name": "NLR FAMILY CARD DOMAIN-CONTAINING PROTEIN 4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR47688:SF1",
+              "xref_name": "NLR FAMILY CARD DOMAIN-CONTAINING PROTEIN 4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "6K8J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MKS",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6N1I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FVU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FW2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8FW9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "PF00619",
+              "xref_name": "CARD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF05729",
+              "xref_name": "NACHT",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF17889",
+              "xref_name": "NLRC4_HD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF22524",
+              "xref_name": "Nlrc4-like_WHD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA162397671",
+              "xref_name": "NLR family CARD domain containing 4",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9NPP4",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-6803207",
+              "xref_name": "TP53 Regulates Transcription of Caspase Activators and Caspases",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-844623",
+              "xref_name": "The IPAF inflammasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8K9F8",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B2RBQ3",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B3KTF0",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "D6W580",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96J81",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96J82",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96J83",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NPP4",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "NLR family CARD domain-containing protein 4",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4295841",
+      "target_components": [
+        {
+          "accession": "Q3UP24",
+          "component_description": "NLR family CARD domain-containing protein 4",
+          "component_id": 18260,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Card12",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Caspase recruitment domain-containing protein 12",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ice protease-activating factor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Ipaf",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Ipaf",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Nlrc4",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "NLR family CARD domain-containing protein 4",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q3UP24",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q3UP24",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0061702",
+              "xref_name": "canonical inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0072557",
+              "xref_name": "IPAF inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042803",
+              "xref_name": "protein homodimerization activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002218",
+              "xref_name": "activation of innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032731",
+              "xref_name": "positive regulation of interleukin-1 beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042981",
+              "xref_name": "regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051260",
+              "xref_name": "protein homooligomerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "Q3UP24",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001315",
+              "xref_name": "CARD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007111",
+              "xref_name": "NACHT_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR032675",
+              "xref_name": "LRR_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR040535",
+              "xref_name": "NLRC4_HD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042220",
+              "xref_name": "NLRC4",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR053882",
+              "xref_name": "Nlrc4-like_WHD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR47688",
+              "xref_name": "NLR FAMILY CARD DOMAIN-CONTAINING PROTEIN 4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR47688:SF1",
+              "xref_name": "NLR FAMILY CARD DOMAIN-CONTAINING PROTEIN 4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "3JBL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4KXF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5AJ2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6B5B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4KXF",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00619",
+              "xref_name": "CARD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF05729",
+              "xref_name": "NACHT",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF17889",
+              "xref_name": "NLRC4_HD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF22524",
+              "xref_name": "Nlrc4-like_WHD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "Q3TAU8",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q3UP24",
+              "xref_name": "NLR family CARD domain-containing protein 4",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

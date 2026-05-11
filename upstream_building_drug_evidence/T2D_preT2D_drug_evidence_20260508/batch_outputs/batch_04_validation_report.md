@@ -1,0 +1,27 @@
+| Target | Candidate Drug | Original Citation | Validation Status (validated/removed/replaced_placeholder) | Validation Note |
+| --- | --- | --- | --- | --- |
+| GSDMD | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| HSPB1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| ICOS | VOPRATELIMAB | PMID:32970735; DOI:10.1371/journal.pone.0239595 | validated | Matched target term 'ICOS' and drug term 'JTX 2011' in PubMed title/abstract. |
+| ICOS | MEDI-570 | PMID:28916434; DOI:10.1016/j.reprotox.2017.08.018 | validated | Matched target term 'ICOS' and drug term 'MEDI 570' in PubMed title/abstract. |
+| IFI16 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| IFIH1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| IFNK | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| IKBKE | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| IL1B | RILONACEPT | PMID:20140476; DOI:10.1007/s10165-009-0271-0 | validated | Matched 'RILONACEPT' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record. |
+| IL1B | LUTIKIZUMAB | PMID:30552176; DOI:10.1136/annrheumdis-2018-213336 | validated | Matched 'ABT-981' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record. |
+| IL1B | GEVOKIZUMAB | PMID:21048425; DOI:10.4161/mabs.3.1.13989 | validated | Matched 'GEVOKIZUMAB' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record. |
+| IL1R1 | AMG-108 | PMID:21801403; DOI:10.1186/ar3430 | validated | Matched 'AMG-108' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record. |
+| IL1RAP | ASTEGOLIMAB | PMID:33872652; DOI:10.1016/j.jaci.2021.03.044 | validated | Matched target term 'IL-33 RECEPTOR (ST2)' and drug term 'ASTEGOLIMAB' in PubMed title/abstract. |
+| IL23A | GUSELKUMAB | PMID:24679469; DOI:10.1016/j.jaci.2014.01.025 | validated | Matched target term 'IL-23-A' and drug term 'GUSELKUMAB' in PubMed title/abstract. |
+| IL23A | TILDRAKIZUMAB | PMID:26042589; DOI:10.1111/bjd.13932 | validated | Matched target term 'IL-23P19' and drug term 'MK-3222' in PubMed title/abstract. |
+| IL23A | MIRIKIZUMAB | PMID:30734266; DOI:10.1111/bjd.17628 | validated | Matched target term 'IL-23-A' and drug term 'LY3074828' in PubMed title/abstract. |
+| IRF3 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| IRF7 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| ITCH | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| LAT | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| LATS1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| LATS2 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| LCK | JNJ-26483327 | PMID:20823884; DOI:10.1038/sj.bjc.6605867 | validated | Matched 'JNJ 26483327' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record. |
+| LIMD1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| LSP1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |

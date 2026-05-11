@@ -1,0 +1,66 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 840,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tyrosine-protein kinase LCK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=f5b7b3a4-c3a4-4722-8ca5-8f6a5c622553#section-14",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f5b7b3a4-c3a4-4722-8ca5-8f6a5c622553#section-14"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201733",
+      "parent_molecule_chembl_id": "CHEMBL477772",
+      "record_id": 1344456,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL258",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 1,
+      "mec_id": 4242,
+      "mechanism_comment": "Multi-targeted tyrosine kinase inhibitor",
+      "mechanism_of_action": "Tyrosine-protein kinase LCK inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "10.1016/S1359-6349(10)71870-X",
+          "ref_type": "DOI",
+          "ref_url": "http://www.sciencedirect.com/science/article/pii/S135963491071870X"
+        },
+        {
+          "ref_id": "20823884",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/20823884"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3109738",
+      "parent_molecule_chembl_id": "CHEMBL3109738",
+      "record_id": 2473117,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL258",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "B-cell lymphoma 3 protein",
+      "score": 23.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523197",
+      "target_components": [
+        {
+          "accession": "P20749",
+          "component_description": "B-cell lymphoma 3 protein",
+          "component_id": 18696,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "B-cell lymphoma 3 protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BCL-3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BCL3",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "BCL4",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "D19S37",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Proto-oncogene BCL3",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P20749",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P20749",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030496",
+              "xref_name": "midbody",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032996",
+              "xref_name": "Bcl3-Bcl10 complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0033257",
+              "xref_name": "Bcl3/NF-kappaB2 complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0048471",
+              "xref_name": "perinuclear region of cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003713",
+              "xref_name": "transcription coactivator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003714",
+              "xref_name": "transcription corepressor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030674",
+              "xref_name": "protein-macromolecule adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042826",
+              "xref_name": "histone deacetylase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140297",
+              "xref_name": "DNA-binding transcription factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002268",
+              "xref_name": "follicular dendritic cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002315",
+              "xref_name": "marginal zone B cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002455",
+              "xref_name": "humoral immune response mediated by circulating immunoglobulin",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002467",
+              "xref_name": "germinal center formation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007249",
+              "xref_name": "canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019730",
+              "xref_name": "antimicrobial humoral response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030198",
+              "xref_name": "extracellular matrix organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030330",
+              "xref_name": "DNA damage response, signal transduction by p53 class mediator",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032717",
+              "xref_name": "negative regulation of interleukin-8 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032720",
+              "xref_name": "negative regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032729",
+              "xref_name": "positive regulation of type II interferon production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032733",
+              "xref_name": "positive regulation of interleukin-10 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042088",
+              "xref_name": "T-helper 1 type immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042771",
+              "xref_name": "intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042981",
+              "xref_name": "regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043066",
+              "xref_name": "negative regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045064",
+              "xref_name": "T-helper 2 cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045727",
+              "xref_name": "positive regulation of translation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045892",
+              "xref_name": "negative regulation of DNA-templated transcription",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045893",
+              "xref_name": "positive regulation of DNA-templated transcription",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045944",
+              "xref_name": "positive regulation of transcription by RNA polymerase II",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046426",
+              "xref_name": "negative regulation of receptor signaling pathway via JAK-STAT",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048536",
+              "xref_name": "spleen development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070231",
+              "xref_name": "T cell apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070233",
+              "xref_name": "negative regulation of T cell apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901222",
+              "xref_name": "regulation of non-canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:998",
+              "xref_name": "BCL3",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P20749",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR002110",
+              "xref_name": "Ankyrin_rpt",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036770",
+              "xref_name": "Ankyrin_rpt-contain_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR051070",
+              "xref_name": "NF-kappa-B_inhibitor",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR46680",
+              "xref_name": "NF-KAPPA-B INHIBITOR ALPHA",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR46680:SF2",
+              "xref_name": "NF-KAPPA-B INHIBITOR ZETA",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1K1A",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1K1B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1K1A",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1K1B",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00023",
+              "xref_name": "Ank",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF12796",
+              "xref_name": "Ank_2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA25310",
+              "xref_name": "BCL3 transcription coactivator",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P20749",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "P20749",
+              "xref_name": "B-cell lymphoma 3 protein",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

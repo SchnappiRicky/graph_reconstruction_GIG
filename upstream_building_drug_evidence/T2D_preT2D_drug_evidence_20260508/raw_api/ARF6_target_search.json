@@ -1,0 +1,1467 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 4
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "ADP-ribosylation factor 6",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5987",
+      "target_components": [
+        {
+          "accession": "P62330",
+          "component_description": "ADP-ribosylation factor 6",
+          "component_id": 4494,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.6.5.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "ADP-ribosylation factor 6",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ARF6",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "1E0S",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2A5D",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2J5X",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3LVQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3LVR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3N5C",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4FME",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3PCR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2A5G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4KAX",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2A5F",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6PAU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2W83",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7RK3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0003924",
+              "xref_name": "GTPase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003925",
+              "xref_name": "G protein activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005525",
+              "xref_name": "GTP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016787",
+              "xref_name": "hydrolase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019003",
+              "xref_name": "GDP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031996",
+              "xref_name": "thioesterase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001889",
+              "xref_name": "liver development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006886",
+              "xref_name": "intracellular protein transport",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007155",
+              "xref_name": "cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007399",
+              "xref_name": "nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010975",
+              "xref_name": "regulation of neuron projection development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010976",
+              "xref_name": "positive regulation of neuron projection development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0016192",
+              "xref_name": "vesicle-mediated transport",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030154",
+              "xref_name": "cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030838",
+              "xref_name": "positive regulation of actin filament polymerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030866",
+              "xref_name": "cortical actin cytoskeleton organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032456",
+              "xref_name": "endocytic recycling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034394",
+              "xref_name": "protein localization to cell surface",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035020",
+              "xref_name": "regulation of Rac protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0036010",
+              "xref_name": "protein localization to endosome",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048261",
+              "xref_name": "negative regulation of receptor-mediated endocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048488",
+              "xref_name": "synaptic vesicle endocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050714",
+              "xref_name": "positive regulation of protein secretion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051489",
+              "xref_name": "regulation of filopodium assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051549",
+              "xref_name": "positive regulation of keratinocyte migration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060998",
+              "xref_name": "regulation of dendritic spine development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097178",
+              "xref_name": "ruffle assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0099562",
+              "xref_name": "maintenance of postsynaptic density structure",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0120183",
+              "xref_name": "positive regulation of focal adhesion disassembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902217",
+              "xref_name": "erythrocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903078",
+              "xref_name": "positive regulation of protein localization to plasma membrane",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903438",
+              "xref_name": "positive regulation of mitotic cytokinetic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1905345",
+              "xref_name": "protein localization to cleavage furrow",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1905606",
+              "xref_name": "regulation of presynapse assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000009",
+              "xref_name": "negative regulation of protein localization to cell surface",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000171",
+              "xref_name": "negative regulation of dendrite development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001726",
+              "xref_name": "ruffle",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030496",
+              "xref_name": "midbody",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032154",
+              "xref_name": "cleavage furrow",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0055038",
+              "xref_name": "recycling endosome membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005768",
+              "xref_name": "endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005769",
+              "xref_name": "early endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005794",
+              "xref_name": "Golgi apparatus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005925",
+              "xref_name": "focal adhesion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005938",
+              "xref_name": "cell cortex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031527",
+              "xref_name": "filopodium membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031901",
+              "xref_name": "early endosome membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0055037",
+              "xref_name": "recycling endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0090543",
+              "xref_name": "Flemming body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098793",
+              "xref_name": "presynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098794",
+              "xref_name": "postsynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "P26438",
+              "xref_name": "ADP-ribosylation factor 6",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6FGZ2",
+              "xref_name": "ADP-ribosylation factor 6",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P62330",
+              "xref_name": "ADP-ribosylation factor 6",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "1E0S",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A5D",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A5F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A5G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BAO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BAU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2J5X",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2W83",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3LVQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3LVR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3N5C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3PCR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4FME",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4KAX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6BBP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6BBQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6PAU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7RK3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7XRD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "P62330",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P62330",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:659",
+              "xref_name": "ARF6",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "R-HSA-8854214",
+              "xref_name": "TBC/RABGAPs",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8856828",
+              "xref_name": "Clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8875656",
+              "xref_name": "MET receptor recycling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P62330",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "IPR041838",
+              "xref_name": "Arf6",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR005225",
+              "xref_name": "Small_GTP-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024156",
+              "xref_name": "Small_GTPase_ARF",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR006689",
+              "xref_name": "Small_GTPase_ARF/SAR",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11711",
+              "xref_name": "ADP RIBOSYLATION FACTOR-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00025",
+              "xref_name": "Arf",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA24942",
+              "xref_name": "ARF GTPase 6",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "ADP-ribosylation factor 6",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL1075274",
+      "target_components": [
+        {
+          "accession": "P62331",
+          "component_description": "ADP-ribosylation factor 6",
+          "component_id": 4624,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.6.5.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "ADP-ribosylation factor 6",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Arf6",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "3VHX",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "GO:0016787",
+              "xref_name": "hydrolase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001889",
+              "xref_name": "liver development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010975",
+              "xref_name": "regulation of neuron projection development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097284",
+              "xref_name": "hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902217",
+              "xref_name": "erythrocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0003924",
+              "xref_name": "GTPase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003925",
+              "xref_name": "G protein activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005525",
+              "xref_name": "GTP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019003",
+              "xref_name": "GDP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031996",
+              "xref_name": "thioesterase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007399",
+              "xref_name": "nervous system development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010976",
+              "xref_name": "positive regulation of neuron projection development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030154",
+              "xref_name": "cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030838",
+              "xref_name": "positive regulation of actin filament polymerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030866",
+              "xref_name": "cortical actin cytoskeleton organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032456",
+              "xref_name": "endocytic recycling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034143",
+              "xref_name": "regulation of toll-like receptor 4 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034394",
+              "xref_name": "protein localization to cell surface",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035020",
+              "xref_name": "regulation of Rac protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0036010",
+              "xref_name": "protein localization to endosome",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048488",
+              "xref_name": "synaptic vesicle endocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050714",
+              "xref_name": "positive regulation of protein secretion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051301",
+              "xref_name": "cell division",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051489",
+              "xref_name": "regulation of filopodium assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051549",
+              "xref_name": "positive regulation of keratinocyte migration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060998",
+              "xref_name": "regulation of dendritic spine development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097178",
+              "xref_name": "ruffle assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0099562",
+              "xref_name": "maintenance of postsynaptic density structure",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0120183",
+              "xref_name": "positive regulation of focal adhesion disassembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903078",
+              "xref_name": "positive regulation of protein localization to plasma membrane",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903438",
+              "xref_name": "positive regulation of mitotic cytokinetic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1905345",
+              "xref_name": "protein localization to cleavage furrow",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1905606",
+              "xref_name": "regulation of presynapse assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000009",
+              "xref_name": "negative regulation of protein localization to cell surface",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000171",
+              "xref_name": "negative regulation of dendrite development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001726",
+              "xref_name": "ruffle",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005768",
+              "xref_name": "endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005769",
+              "xref_name": "early endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005794",
+              "xref_name": "Golgi apparatus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005938",
+              "xref_name": "cell cortex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030496",
+              "xref_name": "midbody",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031527",
+              "xref_name": "filopodium membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031901",
+              "xref_name": "early endosome membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032154",
+              "xref_name": "cleavage furrow",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0043209",
+              "xref_name": "myelin sheath",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0055037",
+              "xref_name": "recycling endosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0055038",
+              "xref_name": "recycling endosome membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0090543",
+              "xref_name": "Flemming body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098793",
+              "xref_name": "presynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098794",
+              "xref_name": "postsynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "P26438",
+              "xref_name": "ADP-ribosylation factor 6",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P62331",
+              "xref_name": "ADP-ribosylation factor 6",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "3VHX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "P62331",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P62331",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "R-MMU-8854214",
+              "xref_name": "TBC/RABGAPs",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-8856828",
+              "xref_name": "Clathrin-mediated endocytosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-8875656",
+              "xref_name": "MET receptor recycling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P62331",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR041838",
+              "xref_name": "Arf6",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR005225",
+              "xref_name": "Small_GTP-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024156",
+              "xref_name": "Small_GTPase_ARF",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR006689",
+              "xref_name": "Small_GTPase_ARF/SAR",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11711",
+              "xref_name": "ADP RIBOSYLATION FACTOR-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00025",
+              "xref_name": "Arf",
+              "xref_src_db": "Pfam"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "PH and SEC7 domain-containing protein 1",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523105",
+      "target_components": [
+        {
+          "accession": "A5PKW4",
+          "component_description": "PH and SEC7 domain-containing protein 1",
+          "component_id": 18603,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "EFA6A",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Exchange factor for ADP-ribosylation factor guanine nucleotide factor 6",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Exchange factor for ARF6",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Exchange factor for ARF6 A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "KIAA2011",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "PH and SEC7 domain-containing protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Pleckstrin homology and SEC7 domain-containing protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "PSD",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "PSD1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Synonyms=EFA6",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "TYL",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "GO:0005085",
+              "xref_name": "guanyl-nucleotide exchange factor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005543",
+              "xref_name": "phospholipid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032012",
+              "xref_name": "regulation of ARF protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0014069",
+              "xref_name": "postsynaptic density",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032154",
+              "xref_name": "cleavage furrow",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032587",
+              "xref_name": "ruffle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0043197",
+              "xref_name": "dendritic spine",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "B1AKX7",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "D3DR87",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q15673",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IVG0",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A5PKW4",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A5PKW4",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "A5PKW4",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "HGNC:9507",
+              "xref_name": "PSD",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "A5PKW4",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "A5PKW4",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011993",
+              "xref_name": "PH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR041681",
+              "xref_name": "PH_9",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001605",
+              "xref_name": "PH_dom-spectrin-type",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001849",
+              "xref_name": "PH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR023394",
+              "xref_name": "Sec7_C_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000904",
+              "xref_name": "Sec7_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR035999",
+              "xref_name": "Sec7_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10663",
+              "xref_name": "GUANYL-NUCLEOTIDE EXCHANGE FACTOR",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10663:SF334",
+              "xref_name": "PH AND SEC7 DOMAIN-CONTAINING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF15410",
+              "xref_name": "PH_9",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF01369",
+              "xref_name": "Sec7",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA33854",
+              "xref_name": "pleckstrin and Sec7 domain containing",
+              "xref_src_db": "PharmGKB"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "PH and SEC7 domain-containing protein 1",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523322",
+      "target_components": [
+        {
+          "accession": "Q5DTT2",
+          "component_description": "PH and SEC7 domain-containing protein 1",
+          "component_id": 18826,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Efa6a",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Exchange factor for ADP-ribosylation factor guanine nucleotide factor 6",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Exchange factor for ARF6",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Exchange factor for ARF6 A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Kiaa2011",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "PH and SEC7 domain-containing protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Pleckstrin homology and SEC7 domain-containing protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Psd",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Psd1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "GO:0005085",
+              "xref_name": "guanyl-nucleotide exchange factor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005543",
+              "xref_name": "phospholipid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0032012",
+              "xref_name": "regulation of ARF protein signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001726",
+              "xref_name": "ruffle",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0014069",
+              "xref_name": "postsynaptic density",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030054",
+              "xref_name": "cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032154",
+              "xref_name": "cleavage furrow",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032587",
+              "xref_name": "ruffle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0043197",
+              "xref_name": "dendritic spine",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "B2RS07",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7ZNN7",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q3TY69",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6PE10",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5DTT2",
+              "xref_name": "PH and SEC7 domain-containing protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5DTT2",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q5DTT2",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "Q5DTT2",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "IPR011993",
+              "xref_name": "PH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR041681",
+              "xref_name": "PH_9",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001605",
+              "xref_name": "PH_dom-spectrin-type",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001849",
+              "xref_name": "PH_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR023394",
+              "xref_name": "Sec7_C_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000904",
+              "xref_name": "Sec7_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR035999",
+              "xref_name": "Sec7_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10663",
+              "xref_name": "GUANYL-NUCLEOTIDE EXCHANGE FACTOR",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10663:SF334",
+              "xref_name": "PH AND SEC7 DOMAIN-CONTAINING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF15410",
+              "xref_name": "PH_9",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF01369",
+              "xref_name": "Sec7",
+              "xref_src_db": "Pfam"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

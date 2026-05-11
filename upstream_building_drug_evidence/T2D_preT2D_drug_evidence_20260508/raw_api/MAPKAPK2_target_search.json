@@ -1,0 +1,918 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "MAP kinase-activated protein kinase 2",
+      "score": 19.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2208",
+      "target_components": [
+        {
+          "accession": "P49137",
+          "component_description": "MAP kinase-activated protein kinase 2",
+          "component_id": 549,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "MAPK-activated protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAPKAP-K2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAPKAPK-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAPKAPK2",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "MAPKAP kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAP kinase-activated protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MK-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MK2",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P49137",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005516",
+              "xref_name": "calmodulin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051019",
+              "xref_name": "mitogen-activated protein kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000165",
+              "xref_name": "MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002224",
+              "xref_name": "toll-like receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006691",
+              "xref_name": "leukotriene metabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010803",
+              "xref_name": "regulation of tumor necrosis factor-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0018105",
+              "xref_name": "peptidyl-serine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032675",
+              "xref_name": "regulation of interleukin-6 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032680",
+              "xref_name": "regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032760",
+              "xref_name": "positive regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0038066",
+              "xref_name": "p38MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043488",
+              "xref_name": "regulation of mRNA stability",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0044351",
+              "xref_name": "macropinocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048010",
+              "xref_name": "vascular endothelial growth factor receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048255",
+              "xref_name": "mRNA stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048839",
+              "xref_name": "inner ear development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060907",
+              "xref_name": "positive regulation of macrophage cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070935",
+              "xref_name": "3'-UTR-mediated mRNA stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900034",
+              "xref_name": "regulation of cellular response to heat",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:6887",
+              "xref_name": "MAPKAPK2",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P49137",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008271",
+              "xref_name": "Ser/Thr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027442",
+              "xref_name": "MAPKAPK_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24347",
+              "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1KWP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1NXK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1NY3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2JBO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2JBP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OKR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2ONL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OZA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2P3G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2PZY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3A2C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3FPM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3FYJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3FYK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3GOK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3KA0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3KC3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3KGA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3M2W",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3M42",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3R2B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3R2Y",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3R30",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3WI6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4TYH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6T8X",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6TCA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7NRY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8XU4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8XX1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1KWP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1NXK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1NY3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2JBO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2JBP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OKR",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2ONL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OZA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2P3G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2PZY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3A2C",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3FPM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3FYJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3FYK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3GOK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3KA0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3KC3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3KGA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3M2W",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3M42",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3R2B",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3R2Y",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3R30",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3WI6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4TYH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6T8X",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6TCA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7NRY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8XU4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8XX1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA30631",
+              "xref_name": "MAPK activated protein kinase 2",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P49137",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-171007",
+              "xref_name": "p38MAPK events",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-199920",
+              "xref_name": "CREB phosphorylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2142691",
+              "xref_name": "Synthesis of Leukotrienes (LT) and Eoxins (EX)",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2559580",
+              "xref_name": "Oxidative Stress Induced Senescence",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-3371453",
+              "xref_name": "Regulation of HSF1-mediated heat shock response",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-4420097",
+              "xref_name": "VEGFA-VEGFR2 Pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-450302",
+              "xref_name": "activated TAK1 mediates p38 MAPK activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-450385",
+              "xref_name": "Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-450513",
+              "xref_name": "Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5357905",
+              "xref_name": "Regulation of TNFR1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P49137",
+              "xref_name": "MAP kinase-activated protein kinase 2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5SY30",
+              "xref_name": "MAP kinase-activated protein kinase 2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5SY41",
+              "xref_name": "MAP kinase-activated protein kinase 2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IYD6",
+              "xref_name": "MAP kinase-activated protein kinase 2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "MAP kinase-activated protein kinase 2",
+      "score": 19.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4990",
+      "target_components": [
+        {
+          "accession": "P49138",
+          "component_description": "MAP kinase-activated protein kinase 2",
+          "component_id": 3302,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.11.1",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "MAPK-activated protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mapkapk2",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "MAPKAP-K2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAPKAPK-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAPKAP kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MAP kinase-activated protein kinase 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MK-2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MK2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Rps6kc1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P49138",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P49138",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002224",
+              "xref_name": "toll-like receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032675",
+              "xref_name": "regulation of interleukin-6 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032680",
+              "xref_name": "regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032760",
+              "xref_name": "positive regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0038066",
+              "xref_name": "p38MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0044351",
+              "xref_name": "macropinocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048010",
+              "xref_name": "vascular endothelial growth factor receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048255",
+              "xref_name": "mRNA stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048839",
+              "xref_name": "inner ear development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060907",
+              "xref_name": "positive regulation of macrophage cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070935",
+              "xref_name": "3'-UTR-mediated mRNA stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "P49138",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008271",
+              "xref_name": "Ser/Thr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027442",
+              "xref_name": "MAPKAPK_C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24347",
+              "xref_name": "SERINE/THREONINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00069",
+              "xref_name": "Pkinase",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-171007",
+              "xref_name": "p38MAPK events",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-199920",
+              "xref_name": "CREB phosphorylation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-2142691",
+              "xref_name": "Synthesis of Leukotrienes (LT) and Eoxins (EX)",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-2559580",
+              "xref_name": "Oxidative Stress Induced Senescence",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-3371453",
+              "xref_name": "Regulation of HSF1-mediated heat shock response",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-4420097",
+              "xref_name": "VEGFA-VEGFR2 Pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-450302",
+              "xref_name": "activated TAK1 mediates p38 MAPK activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-450385",
+              "xref_name": "Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-450513",
+              "xref_name": "Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-5357905",
+              "xref_name": "Regulation of TNFR1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P49138",
+              "xref_name": "MAP kinase-activated protein kinase 2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6P561",
+              "xref_name": "MAP kinase-activated protein kinase 2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

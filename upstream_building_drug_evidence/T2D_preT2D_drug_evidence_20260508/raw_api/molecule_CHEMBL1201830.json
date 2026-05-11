@@ -1,0 +1,134 @@
+{
+  "atc_classifications": [
+    "L04AC04"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 26443,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "SERCDDWGLDTMRQIQVFEDEPARIKCPLFEHFLKFNYSTAHSAGLTLIWYWTRQDRDLEEPINFRLPENRISKEKDVLWFRPTLLNDTGNYTCMLRNTTYCSKVAFPLEVVQKDSCFNSPMKLPVHKLYIEYGIQRITCPNVDGYFPSSVKPTITWYMGCYKIQNFNNVIPEGMNLSFLIALISNNGNYTCVVTYPENGRTFHLTRTLTVKVVGSPKNAVPPVIHSPNDHVVYEKEPGEELLIPCTVYFSFLMDSRNEVWWTIDGKKPDDITIDVTINESISHSRTEDETRTQILSIKKVTSEDLKRSYVCHARSAKGEVAKAAKVKQKVPAPRYTVEKCKEREEKIILVSSANEIDVRPCPLNPNEHKGTITWYKDDSKTPVSTEQASRIHQHKEKLWFVPAKVEDSGHYYCVVRNSSYCLRIKISAKFVENEPNLCYNAQAIFKQKLPVAGDGGLVCPYMEFFKNENNELPKLQWYKDCKPLLLDNIHFSGVKDRLIVMNVAEKHRGNYTCHASYTYLGKQYPITRVIEFITLEENKPTRPVIVSPANETMEVDLGSQIQLICNVTGQLSDIAYWKWNGSVIDEDDPVLGEDYYSVENPANKRRSTLITVLNISEIESRFYKHPFTCFAKNTHGIDAAYIQLIYPVTNSGDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": "[653-glycine][human interleukin-1 receptor accessory protein-(1-339)-peptide (extracellular domain fragment) fusion protein with human type 1 interleukin-1 receptor-(5-316)-peptide (extracellular domain fragment) fusion protein with human immunoglobulin G1-(229 C-terminal residues)-peptide (Fc fragment)], (659-659':662-662')-bisdisulfide dimer",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1201830"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "human/EPAR/rilonacept-regeneron-previously-arcalyst",
+      "xref_name": "rilonacept-regeneron-previously-arcalyst",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2008,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1201830",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1201830",
+    "molecule_chembl_id": "CHEMBL1201830",
+    "parent_chembl_id": "CHEMBL1201830"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Arcalyst",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ARCALYST"
+    },
+    {
+      "molecule_synonym": "IL-1 TRAP",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IL-1 TRAP"
+    },
+    {
+      "molecule_synonym": "IL-1-TRAP",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IL-1-TRAP"
+    },
+    {
+      "molecule_synonym": "INTERLEUKIN-1 TRAP",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "INTERLEUKIN-1 TRAP"
+    },
+    {
+      "molecule_synonym": "Kpl-914",
+      "syn_type": "OTHER",
+      "synonyms": "KPL-914"
+    },
+    {
+      "molecule_synonym": "KPL-914",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "KPL-914"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "ATC",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "EMA",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "FDA",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "INN",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "OTHER",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept",
+      "syn_type": "USAN",
+      "synonyms": "RILONACEPT"
+    },
+    {
+      "molecule_synonym": "Rilonacept regeneron (previously arcalyst)",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "RILONACEPT REGENERON (PREVIOUSLY ARCALYST)"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "RILONACEPT",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-cept",
+  "usan_stem_definition": "receptor molecules or membrane ligands, natural, modified or modified: interleukin receptors",
+  "usan_substem": "-cept (-nacept)",
+  "usan_year": 2006,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

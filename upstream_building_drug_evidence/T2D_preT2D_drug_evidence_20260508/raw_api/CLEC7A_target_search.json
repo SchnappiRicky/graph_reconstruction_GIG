@@ -1,0 +1,843 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "C-type lectin domain family 7 member A",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2034810",
+      "target_components": [
+        {
+          "accession": "Q9BXN2",
+          "component_description": "C-type lectin domain family 7 member A",
+          "component_id": 5959,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Beta-glucan receptor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BGR",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD369",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CLEC7A",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "CLECSF12",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "C-type lectin domain family 7 member A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C-type lectin superfamily member 12",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DC-associated C-type lectin 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Dectin-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DECTIN1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Dendritic cell-associated C-type lectin 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=BGR",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9BXN2",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9BXN2",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009986",
+              "xref_name": "cell surface",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001872",
+              "xref_name": "(1->3)-beta-D-glucan binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030246",
+              "xref_name": "carbohydrate binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038187",
+              "xref_name": "pattern recognition receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042287",
+              "xref_name": "MHC protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001775",
+              "xref_name": "cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002223",
+              "xref_name": "stimulatory C-type lectin receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002720",
+              "xref_name": "positive regulation of cytokine production involved in immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002732",
+              "xref_name": "positive regulation of dendritic cell cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002752",
+              "xref_name": "cell surface pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006910",
+              "xref_name": "phagocytosis, recognition",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008037",
+              "xref_name": "cell recognition",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008284",
+              "xref_name": "positive regulation of cell population proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0009756",
+              "xref_name": "carbohydrate mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010628",
+              "xref_name": "positive regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030335",
+              "xref_name": "positive regulation of cell migration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031334",
+              "xref_name": "positive regulation of protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032729",
+              "xref_name": "positive regulation of type II interferon production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032731",
+              "xref_name": "positive regulation of interleukin-1 beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032733",
+              "xref_name": "positive regulation of interleukin-10 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032735",
+              "xref_name": "positive regulation of interleukin-12 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032743",
+              "xref_name": "positive regulation of interleukin-2 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032747",
+              "xref_name": "positive regulation of interleukin-23 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032755",
+              "xref_name": "positive regulation of interleukin-6 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032757",
+              "xref_name": "positive regulation of interleukin-8 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032760",
+              "xref_name": "positive regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032930",
+              "xref_name": "positive regulation of superoxide anion generation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043122",
+              "xref_name": "regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045429",
+              "xref_name": "positive regulation of nitric oxide biosynthetic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050766",
+              "xref_name": "positive regulation of phagocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051251",
+              "xref_name": "positive regulation of lymphocyte activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060267",
+              "xref_name": "positive regulation of respiratory burst",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061760",
+              "xref_name": "antifungal innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070884",
+              "xref_name": "regulation of calcineurin-NFAT signaling cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071226",
+              "xref_name": "cellular response to molecule of fungal origin",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071639",
+              "xref_name": "positive regulation of monocyte chemotactic protein-1 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090303",
+              "xref_name": "positive regulation of wound healing",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097190",
+              "xref_name": "apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900017",
+              "xref_name": "positive regulation of cytokine production involved in inflammatory response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903431",
+              "xref_name": "positive regulation of cell maturation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000318",
+              "xref_name": "positive regulation of T-helper 17 type immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:14558",
+              "xref_name": "CLEC7A",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9BXN2",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001304",
+              "xref_name": "C-type_lectin-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016186",
+              "xref_name": "C-type_lectin-like/link_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016187",
+              "xref_name": "CTDL_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR033992",
+              "xref_name": "NKR-like_CTLD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042808",
+              "xref_name": "CLEC7A",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR47218",
+              "xref_name": "C-TYPE LECTIN DOMAIN FAMILY 7 MEMBER A",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR47218:SF1",
+              "xref_name": "C-TYPE LECTIN DOMAIN FAMILY 7 MEMBER A",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00059",
+              "xref_name": "Lectin_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26581",
+              "xref_name": "C-type lectin domain containing 7A",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9BXN2",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-5607764",
+              "xref_name": "CLEC7A (Dectin-1) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B2R861",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7Z494",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7Z5A9",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7Z5B9",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6IPS7",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96D32",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96DR9",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96LD3",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96PA4",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96PA5",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96PA6",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96PA7",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96PA8",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9BXN2",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H1K3",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "C-type lectin domain family 7 member A",
+      "score": 12.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2034809",
+      "target_components": [
+        {
+          "accession": "Q6QLQ4",
+          "component_description": "C-type lectin domain family 7 member A",
+          "component_id": 5958,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Beta-glucan receptor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Bgr",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD369",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Clec7a",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Clecsf12",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "C-type lectin domain family 7 member A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C-type lectin superfamily member 12",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DC-associated C-type lectin 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Dectin-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Dectin1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Dendritic cell-associated C-type lectin 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=Bgr",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q6QLQ4",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q6QLQ4",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001846",
+              "xref_name": "opsonin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001872",
+              "xref_name": "(1->3)-beta-D-glucan binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001874",
+              "xref_name": "(1->3)-beta-D-glucan immune receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030246",
+              "xref_name": "carbohydrate binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030247",
+              "xref_name": "polysaccharide binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038187",
+              "xref_name": "pattern recognition receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001775",
+              "xref_name": "cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002223",
+              "xref_name": "stimulatory C-type lectin receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002366",
+              "xref_name": "leukocyte activation involved in immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002720",
+              "xref_name": "positive regulation of cytokine production involved in immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002732",
+              "xref_name": "positive regulation of dendritic cell cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002752",
+              "xref_name": "cell surface pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006910",
+              "xref_name": "phagocytosis, recognition",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006911",
+              "xref_name": "phagocytosis, engulfment",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032733",
+              "xref_name": "positive regulation of interleukin-10 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032743",
+              "xref_name": "positive regulation of interleukin-2 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032747",
+              "xref_name": "positive regulation of interleukin-23 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032755",
+              "xref_name": "positive regulation of interleukin-6 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032760",
+              "xref_name": "positive regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032874",
+              "xref_name": "positive regulation of stress-activated MAPK cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043122",
+              "xref_name": "regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050731",
+              "xref_name": "positive regulation of peptidyl-tyrosine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050766",
+              "xref_name": "positive regulation of phagocytosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061760",
+              "xref_name": "antifungal innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070884",
+              "xref_name": "regulation of calcineurin-NFAT signaling cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071226",
+              "xref_name": "cellular response to molecule of fungal origin",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0098609",
+              "xref_name": "cell-cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000318",
+              "xref_name": "positive regulation of T-helper 17 type immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "IPR001304",
+              "xref_name": "C-type_lectin-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016186",
+              "xref_name": "C-type_lectin-like/link_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016187",
+              "xref_name": "CTDL_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR033992",
+              "xref_name": "NKR-like_CTLD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042808",
+              "xref_name": "CLEC7A",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR47218",
+              "xref_name": "C-TYPE LECTIN DOMAIN FAMILY 7 MEMBER A",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR47218:SF1",
+              "xref_name": "C-TYPE LECTIN DOMAIN FAMILY 7 MEMBER A",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2BPD",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BPE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BPH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2CL8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BPD",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2BPE",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2BPH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2CL8",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00059",
+              "xref_name": "Lectin_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-5607764",
+              "xref_name": "CLEC7A (Dectin-1) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "E9QPW2",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6QLQ4",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8K1L4",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9JI50",
+              "xref_name": "C-type lectin domain family 7 member A",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+You are given a draft target-drug evidence ledger.
+
+Validate every non-placeholder row for citation accuracy and target-drug consistency.
+Keep a row only if the cited source can be confidently linked to the claimed target-drug relationship.
+If the citation is missing, incorrect, too vague, or not matchable to the target-drug claim, remove the row or replace it with the standard placeholder row if no validated row remains for that target.
+
+Return:
+1. A validated ledger table in the same 5-column format
+2. A validation report with columns:
+   - Target
+   - Candidate Drug
+   - Original Citation
+   - Validation Status (validated/removed/replaced_placeholder)
+   - Validation Note

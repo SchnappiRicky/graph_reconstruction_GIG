@@ -1,0 +1,87 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 1,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL3265032",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3265032",
+    "molecule_chembl_id": "CHEMBL3265032",
+    "parent_chembl_id": "CHEMBL3265032"
+  },
+  "molecule_properties": {
+    "alogp": "3.85",
+    "aromatic_rings": 5,
+    "full_molformula": "C23H21N7O",
+    "full_mwt": "411.47",
+    "hba": 7,
+    "hbd": 2,
+    "heavy_atoms": 31,
+    "mw_freebase": "411.47",
+    "np_likeness_score": "-2.07",
+    "num_ro5_violations": 0,
+    "psa": "83.37",
+    "qed_weighted": "0.47",
+    "ro3_pass": "N",
+    "rtb": 4
+  },
+  "molecule_structures": {
+    "canonical_smiles": "c1cn2cc(-c3ccc4cn[nH]c4c3)nc(Nc3ccc(N4CCOCC4)cc3)c2n1",
+    "molfile": "\n     RDKit          2D\n\n 31 36  0  0  0  0  0  0  0  0999 V2000\n  -16.2054    3.2116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -16.9199    2.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -16.9199    1.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -16.2054    1.5616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -15.4909    1.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -15.4909    2.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -17.6343    3.2116    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -17.6343    4.0366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.3488    4.4491    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.0633    4.0366    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n  -19.0633    3.2116    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -18.3488    2.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.7764    1.5616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.0619    1.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -13.3474    1.5616    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -12.6330    1.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -12.6329    2.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -13.3474    3.2116    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.0619    2.7991    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.6749    3.3511    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  -14.3394    4.1048    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -13.5190    4.0186    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.9185    1.5616    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.9185    0.7366    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.2040    0.3241    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.4895    0.7365    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -10.4895    1.5615    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  -11.2040    1.9741    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.7050    0.4816    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.2200    1.1490    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -9.7049    1.8165    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  2  0\n  1  6  1  0\n  2  3  1  0\n  3  4  2  0\n  4  5  1  0\n  5  6  2  0\n  2  7  1  0\n  7  8  1  0\n 12  7  1  0\n  8  9  1  0\n  9 10  1  0\n 10 11  1  0\n 11 12  1  0\n  5 13  1  0\n 13 14  1  0\n 14 15  2  0\n 19 14  1  0\n 15 16  1  0\n 16 17  2  0\n 17 18  1  0\n 18 22  1  0\n 18 19  1  0\n 19 20  2  0\n 20 21  1  0\n 21 22  2  0\n 16 23  1  0\n 23 24  1  0\n 28 23  2  0\n 24 25  2  0\n 25 26  1  0\n 27 28  1  0\n 26 29  1  0\n 27 26  2  0\n 27 31  1  0\n 29 30  2  0\n 30 31  1  0\nM  END\n> <chembl_id>\nCHEMBL3265032\n\n> <chembl_pref_name>\nENTOSPLETINIB",
+    "standard_inchi": "InChI=1S/C23H21N7O/c1-2-17-14-25-28-20(17)13-16(1)21-15-30-8-7-24-23(30)22(27-21)26-18-3-5-19(6-4-18)29-9-11-31-12-10-29/h1-8,13-15H,9-12H2,(H,25,28)(H,26,27)",
+    "standard_inchi_key": "XSMSNFMDVXXHGJ-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Entospletinib",
+      "syn_type": "USAN",
+      "synonyms": "Entospletinib"
+    },
+    {
+      "molecule_synonym": "Entospletinib",
+      "syn_type": "INN",
+      "synonyms": "ENTOSPLETINIB"
+    },
+    {
+      "molecule_synonym": "Entospletinib",
+      "syn_type": "OTHER",
+      "synonyms": "ENTOSPLETINIB"
+    },
+    {
+      "molecule_synonym": "GS-9973",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GS-9973"
+    },
+    {
+      "molecule_synonym": "SYK INHIBITOR GS-9973",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SYK INHIBITOR GS-9973"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ENTOSPLETINIB",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-tinib",
+  "usan_stem_definition": "tyrosine kinase inhibitors",
+  "usan_substem": "-tinib",
+  "usan_year": 2015,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

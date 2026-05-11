@@ -1,0 +1,290 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "OTHER",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5476,
+      "mechanism_comment": "Induces a strong depletion of CD4-positive T cells (antibody-dependent cell-mediated cytotoxicity (ADCC)).",
+      "mechanism_of_action": "T-cell surface antigen CD4 other",
+      "mechanism_refs": [],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108063",
+      "parent_molecule_chembl_id": "CHEMBL2108063",
+      "record_id": 1697144,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 5964,
+      "mechanism_comment": "It causes consistent blockade of cell-surface CD4 molecules on T lymphocytes blocking the activation of T lymphocytes (no depletion of T cells). Regulation of  the immune response.",
+      "mechanism_of_action": "T-cell surface antigen CD4 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "10.1159/isbn.978-3-318-00490-8",
+          "ref_type": "DOI",
+          "ref_url": "https://www.karger.com/Book/Home/223663"
+        },
+        {
+          "ref_id": "978-3-662-22195-2",
+          "ref_type": "ISBN",
+          "ref_url": "http://www.springer.com/gb/book/9783662221976"
+        },
+        {
+          "ref_id": "11004613",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11004613"
+        },
+        {
+          "ref_id": "9489810",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/9489810"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108266",
+      "parent_molecule_chembl_id": "CHEMBL2108266",
+      "record_id": 1696214,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 6004,
+      "mechanism_comment": "Binds CD4, the primary receptor for human immunodeficiency virus type 1 (HIV-1), and inhibits the viral entry process.",
+      "mechanism_of_action": "T-cell surface antigen CD4 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "19015347",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/19015347"
+        },
+        {
+          "ref_id": "21134642",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/21134642"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743029",
+      "parent_molecule_chembl_id": "CHEMBL1743029",
+      "record_id": 1392913,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": "Binds epitope in the IgG-like C2 type 1 domain distinct from binding region for other ligands",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6027,
+      "mechanism_comment": "Humanised anti-human CD4 IgG1 mAb, which selectively activates regulatory T cells (Tregs) by binding to CD4 and activatiing signalling downstream pathways. Does not induce antibody-dependent cell-mediated cytotoxicity or complement-dependent cytotoxicity.",
+      "mechanism_of_action": "T-cell surface antigen CD4 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "PMC4724712",
+          "ref_type": "PMC",
+          "ref_url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4724712"
+        },
+        {
+          "ref_id": "25512343",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25512343"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743083",
+      "parent_molecule_chembl_id": "CHEMBL1743083",
+      "record_id": 1392967,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6040,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface antigen CD4 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "10384148",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/10384148"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108187",
+      "parent_molecule_chembl_id": "CHEMBL2108187",
+      "record_id": 1706973,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "NEGATIVE MODULATOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6046,
+      "mechanism_comment": "Blocks activation of T-cells. Causes depletion of CD4+ lymphocytes.",
+      "mechanism_of_action": "T-cell surface antigen CD4 negative modulator",
+      "mechanism_refs": [
+        {
+          "ref_id": "WO-1991010722-A2",
+          "ref_type": "Patent",
+          "ref_url": "https://www.surechembl.org/document/WO-1991010722-A2/"
+        },
+        {
+          "ref_id": "8103714",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/8103714"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108475",
+      "parent_molecule_chembl_id": "CHEMBL2108475",
+      "record_id": 1696337,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "NEGATIVE MODULATOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6047,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface antigen CD4 negative modulator",
+      "mechanism_refs": [
+        {
+          "ref_id": "9191886",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/9191886"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108489",
+      "parent_molecule_chembl_id": "CHEMBL2108489",
+      "record_id": 1706974,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6118,
+      "mechanism_comment": "Non-depleting.",
+      "mechanism_of_action": "T-cell surface antigen CD4 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "16308668",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/16308668"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109474",
+      "parent_molecule_chembl_id": "CHEMBL2109474",
+      "record_id": 1706981,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "BINDING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7875,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface antigen CD4 binding agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "29364886",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/29364886"
+        },
+        {
+          "ref_id": "32866318",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/32866318"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4298127",
+      "parent_molecule_chembl_id": "CHEMBL4298127",
+      "record_id": 3133824,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 8866,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface antigen CD4 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "30995373",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/30995373/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297846",
+      "parent_molecule_chembl_id": "CHEMBL4297846",
+      "record_id": 3133482,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2754",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 10
+  }
+}

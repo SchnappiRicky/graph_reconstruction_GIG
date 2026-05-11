@@ -1,0 +1,859 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "Tyrosine-protein kinase ZAP-70",
+      "score": 20.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2034801",
+      "target_components": [
+        {
+          "accession": "P43404",
+          "component_description": "Tyrosine-protein kinase ZAP-70",
+          "component_id": 5950,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.10.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "70 kDa zeta-chain associated protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Srk",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Syk-related tyrosine kinase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Tyrosine-protein kinase ZAP-70",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Zap-70",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Zap70",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P43404",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P43404",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0001772",
+              "xref_name": "immunological synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005911",
+              "xref_name": "cell-cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042101",
+              "xref_name": "T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0045121",
+              "xref_name": "membrane raft",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001784",
+              "xref_name": "phosphotyrosine residue binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002684",
+              "xref_name": "positive regulation of immune system process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019722",
+              "xref_name": "calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030217",
+              "xref_name": "T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043366",
+              "xref_name": "beta selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045059",
+              "xref_name": "positive thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045060",
+              "xref_name": "negative thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045061",
+              "xref_name": "thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045582",
+              "xref_name": "positive regulation of T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046632",
+              "xref_name": "alpha-beta T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046638",
+              "xref_name": "positive regulation of alpha-beta T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046641",
+              "xref_name": "positive regulation of alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050776",
+              "xref_name": "regulation of immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "P43404",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000980",
+              "xref_name": "SH2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001245",
+              "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008266",
+              "xref_name": "Tyr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR012234",
+              "xref_name": "Tyr_kinase_non-rcpt_SYK/ZAP70",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR020635",
+              "xref_name": "Tyr_kinase_cat_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR023420",
+              "xref_name": "Kinase_SYK/ZAP-70_inter-SH2_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR035838",
+              "xref_name": "SYK/ZAP-70_N_SH2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036860",
+              "xref_name": "SH2_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050198",
+              "xref_name": "Non-receptor_tyrosine_kinases",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24418",
+              "xref_name": "TYROSINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00017",
+              "xref_name": "SH2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF07714",
+              "xref_name": "PK_Tyr_Ser-Thr",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-9013407",
+              "xref_name": "RHOH GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P43404",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P97455",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q80VV2",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8CHJ3",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Tyrosine-protein kinase ZAP-70",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2803",
+      "target_components": [
+        {
+          "accession": "P43403",
+          "component_description": "Tyrosine-protein kinase ZAP-70",
+          "component_id": 1133,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.10.2",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "70 kDa zeta-chain associated protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SRK",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Syk-related tyrosine kinase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Tyrosine-protein kinase ZAP-70",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ZAP70",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P43403",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "GO:0001772",
+              "xref_name": "immunological synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005911",
+              "xref_name": "cell-cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042101",
+              "xref_name": "T cell receptor complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0045121",
+              "xref_name": "membrane raft",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001784",
+              "xref_name": "phosphotyrosine residue binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002684",
+              "xref_name": "positive regulation of immune system process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006468",
+              "xref_name": "protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007169",
+              "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0018108",
+              "xref_name": "peptidyl-tyrosine phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019722",
+              "xref_name": "calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030154",
+              "xref_name": "cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030217",
+              "xref_name": "T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042113",
+              "xref_name": "B cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043366",
+              "xref_name": "beta selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045059",
+              "xref_name": "positive thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045060",
+              "xref_name": "negative thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045061",
+              "xref_name": "thymic T cell selection",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045582",
+              "xref_name": "positive regulation of T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046632",
+              "xref_name": "alpha-beta T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046638",
+              "xref_name": "positive regulation of alpha-beta T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046641",
+              "xref_name": "positive regulation of alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050776",
+              "xref_name": "regulation of immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050850",
+              "xref_name": "positive regulation of calcium-mediated signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070489",
+              "xref_name": "T cell aggregation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0072678",
+              "xref_name": "T cell migration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:12858",
+              "xref_name": "ZAP70",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P43403",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000719",
+              "xref_name": "Prot_kinase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR000980",
+              "xref_name": "SH2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001245",
+              "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008266",
+              "xref_name": "Tyr_kinase_AS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011009",
+              "xref_name": "Kinase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR012234",
+              "xref_name": "Tyr_kinase_non-rcpt_SYK/ZAP70",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017441",
+              "xref_name": "Protein_kinase_ATP_BS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR020635",
+              "xref_name": "Tyr_kinase_cat_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR023420",
+              "xref_name": "Kinase_SYK/ZAP-70_inter-SH2_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR035838",
+              "xref_name": "SYK/ZAP-70_N_SH2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036860",
+              "xref_name": "SH2_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050198",
+              "xref_name": "Non-receptor_tyrosine_kinases",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24418",
+              "xref_name": "TYROSINE-PROTEIN KINASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1FBV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1M61",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1U59",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2CBL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OQ1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OZO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2Y1N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3ZNI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4A4B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4A4C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4K2R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4XZ0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4XZ1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5O76",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7SIY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1FBV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1M61",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1U59",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2CBL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OQ1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OZO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2Y1N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3ZNI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4A4B",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4A4C",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4K2R",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4XZ0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4XZ1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5O76",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7SIY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00017",
+              "xref_name": "SH2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF07714",
+              "xref_name": "PK_Tyr_Ser-Thr",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA37447",
+              "xref_name": "zeta chain of T cell receptor associated protein kinase 70",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P43403",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-202430",
+              "xref_name": "Translocation of ZAP-70 to Immunological synapse",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013407",
+              "xref_name": "RHOH GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A6NFP4",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P43403",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6PIA4",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IXD6",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9UBS6",
+              "xref_name": "Tyrosine-protein kinase ZAP-70",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

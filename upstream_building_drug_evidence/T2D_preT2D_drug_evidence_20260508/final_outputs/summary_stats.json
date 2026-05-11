@@ -1,0 +1,10 @@
+{
+  "total_rows_final_ledger": 159,
+  "total_targets": 142,
+  "targets_with_non_placeholder_drug_evidence": 25,
+  "non_placeholder_rows": 42,
+  "placeholder_rows": 117,
+  "approved_rows": 7,
+  "investigational_rows": 35,
+  "silently_merged_duplicate_target_drug_keys": 0
+}

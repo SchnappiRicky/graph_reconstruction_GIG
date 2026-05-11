@@ -1,0 +1,106 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5543,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Toll-like receptor 3 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "11607032",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11607032"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2107862",
+      "parent_molecule_chembl_id": "CHEMBL2107862",
+      "record_id": 1695942,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1075113",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ACTIVATOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 8144,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Toll-like receptor 3 activator",
+      "mechanism_refs": [
+        {
+          "ref_id": "18368052",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/18368052"
+        },
+        {
+          "ref_id": "19553802",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/19553802"
+        },
+        {
+          "ref_id": "23861616",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/23861616"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2110581",
+      "parent_molecule_chembl_id": "CHEMBL2110581",
+      "record_id": 3131741,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1075113",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ACTIVATOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": -1,
+      "mec_id": 8147,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Toll-like receptor 3 activator",
+      "mechanism_refs": [
+        {
+          "ref_id": "18368052",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/18368052"
+        },
+        {
+          "ref_id": "19553802",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/19553802"
+        },
+        {
+          "ref_id": "23861616",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/23861616"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2103797",
+      "parent_molecule_chembl_id": "CHEMBL2110581",
+      "record_id": 1699751,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1075113",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 3
+  }
+}

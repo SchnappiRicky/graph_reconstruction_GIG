@@ -1,0 +1,19 @@
+You are given a candidate gene list for T2D and preT2D.
+
+Your task is to generate a structured target-drug evidence ledger.
+For each target gene, identify candidate drugs with direct or near-direct target-level evidence.
+Only retain non-placeholder rows when the target-drug link has an exact, traceable citation.
+Prefer exact PubMed-linked target-drug mechanism evidence from authoritative resources.
+
+Return a 5-column table:
+1. Target
+2. Candidate Drug
+3. Drug Class
+4. Evidence Citation (PMID/DOI/Author-Year)
+5. Development Status (approved/investigational/preclinical/unknown)
+
+Rules:
+- Use HGNC uppercase target symbols.
+- Do not invent citations, drugs, or development status.
+- Prefer PMID, then DOI.
+- If no exact, verifiable non-placeholder evidence is available, use the standard placeholder row.

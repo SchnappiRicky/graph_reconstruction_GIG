@@ -1,0 +1,156 @@
+{
+  "atc_classifications": [
+    "A10XX01"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 24590,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCSASSSVSYMNWYQQTPGKAPKRWIYDTSKLASGVPSRFSGSGSGTDYTFTISSLQPEDIATYYCQQWSSNPFTFGQGTKLQITRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 24591,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVQSGGGVVQPGRSLRLSCKASGYTFTRYTMHWVRQAPGKGLEWIGYINPSRGYTNYNQKVKDRFTISRDNSKNTAFLQMDSLRPEDTGVYFCARYYDDHYCLDYWGQGTPVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": "Teplizumab (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1743078"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": true,
+  "first_approval": 2022,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1743078",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1743078",
+    "molecule_chembl_id": "CHEMBL1743078",
+    "parent_chembl_id": "CHEMBL1743078"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "hOKT3 gamma 1 (Ala-Ala)",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "hOKT3 gamma 1 (Ala-Ala)"
+    },
+    {
+      "molecule_synonym": "HOKT3-GAMMA-1 (ALA-ALA)",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HOKT3-GAMMA-1 (ALA-ALA)"
+    },
+    {
+      "molecule_synonym": "HUMANIZED OKT3",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HUMANIZED OKT3"
+    },
+    {
+      "molecule_synonym": "Humanzied OKT3",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "Humanzied OKT3"
+    },
+    {
+      "molecule_synonym": "MGA-031",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MGA-031"
+    },
+    {
+      "molecule_synonym": "MGA031",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MGA031"
+    },
+    {
+      "molecule_synonym": "PRV-031",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PRV-031"
+    },
+    {
+      "molecule_synonym": "PRV031",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "PRV031"
+    },
+    {
+      "molecule_synonym": "Teplizumab",
+      "syn_type": "USAN",
+      "synonyms": "Teplizumab"
+    },
+    {
+      "molecule_synonym": "Teplizumab",
+      "syn_type": "ATC",
+      "synonyms": "TEPLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Teplizumab",
+      "syn_type": "FDA",
+      "synonyms": "TEPLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Teplizumab",
+      "syn_type": "INN",
+      "synonyms": "TEPLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Teplizumab",
+      "syn_type": "OTHER",
+      "synonyms": "TEPLIZUMAB"
+    },
+    {
+      "molecule_synonym": "Teplizumab mzwv",
+      "syn_type": "OTHER",
+      "synonyms": "TEPLIZUMAB MZWV"
+    },
+    {
+      "molecule_synonym": "Teplizumab-mzwv",
+      "syn_type": "FDA",
+      "synonyms": "TEPLIZUMAB-MZWV"
+    },
+    {
+      "molecule_synonym": "Teplizumab-mzwv",
+      "syn_type": "OTHER",
+      "synonyms": "TEPLIZUMAB-MZWV"
+    },
+    {
+      "molecule_synonym": "Tzield",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Tzield"
+    },
+    {
+      "molecule_synonym": "Tzield",
+      "syn_type": "OTHER",
+      "synonyms": "TZIELD"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "TEPLIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2006,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

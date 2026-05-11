@@ -1,0 +1,134 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 25501,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLVESGGGVVQPGRSLRLSCAASGFSFSSTYVCWVRQAPGKGLEWIACIYTGDGTNYSASWAKGRFTISKDSSKNTVYLQMNSLRAEDTAVYFCARPDITYGFAINFWGPGTLVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVEHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPG",
+        "tax_id": null
+      },
+      {
+        "component_id": 26247,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTIKCQASQSISSRLAWYQQKPGKPPKLLIYRASTLASGVPSRFSGSGSGTDFTLTISSLQPEDVATYYCQCTGYGISWPIGGGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 25774,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "450 $ 450''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 26912,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "450 $ 450''",
+        "tax_id": null
+      },
+      {
+        "component_id": 27167,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 35-50 $ 35''-50'' $ 135'-195' $ 135'''-195''' $ 147-203 $ 147''-203'' $ 223-215' $ 223''-215''' $ 229-229'' $  232-232'' $ 264-324 $ 264''-324'' $ 370-428 $ 370''-428''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4297888"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/SOTIGALIMAB/relevant/1/",
+      "xref_name": "SOTIGALIMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL4297888",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4297888",
+    "molecule_chembl_id": "CHEMBL4297888",
+    "parent_chembl_id": "CHEMBL4297888"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "APX-005",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "APX-005"
+    },
+    {
+      "molecule_synonym": "APX-005M",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "APX-005M"
+    },
+    {
+      "molecule_synonym": "Apx005m",
+      "syn_type": "OTHER",
+      "synonyms": "APX005M"
+    },
+    {
+      "molecule_synonym": "APX005M",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "APX005M"
+    },
+    {
+      "molecule_synonym": "EPI-0050",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "EPI-0050"
+    },
+    {
+      "molecule_synonym": "Sotigalimab",
+      "syn_type": "INN",
+      "synonyms": "SOTIGALIMAB"
+    },
+    {
+      "molecule_synonym": "Sotigalimab",
+      "syn_type": "OTHER",
+      "synonyms": "SOTIGALIMAB"
+    },
+    {
+      "molecule_synonym": "Sotigalimab",
+      "syn_type": "USAN",
+      "synonyms": "SOTIGALIMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "SOTIGALIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies",
+  "usan_substem": "-mab",
+  "usan_year": 2021,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,140 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 27778,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLVESGGGVVQPGRSLRLSCSASGFIFSRYDMSWVRQAPGKGLEWVAYISHGGAGTYYPDSVKGRFTISRDNSKNTLFLQMDSLRPEDTGVYFCARGGVTKGYFDVWGQGTPVTVSSASTKGPQVQLVESGGGVVQPGRSLRLSCTASGFTFSMFGVHWVRQAPGKGLEWVAAVSYDGSNKYYAESVKGRFTISRDNSKNILFLQMDSLRLEDTAVYYCARGRPKVVIPAPLAHWGQGTLVTFSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 26584,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "EVQLQESGPGLVKPSETLSLTCAVTGYSITSGYSWHWIRQFPGNGLEWMGYIHSSGSTNYNPSLKSRISISRDTSKNQFFLKLSSVTAADTAVYYCAGYDDYFEYWGQGTTVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPEAAGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 27719,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIQMTQSPSSLSASVGDRVTITCKASQNVGFNVAWYQQKPGKSPKALIYSASYRYSGVPSRFSGSGSGTDFTLTISSLQPEDFAEYFCQQYNWYPFTFGQGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 26004,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "427 $ 427''''",
+        "tax_id": null
+      },
+      {
+        "component_id": 27718,
+        "component_type": null,
+        "description": "Glycosylation sites (N)",
+        "organism": null,
+        "sequence": "427 $ 427''",
+        "tax_id": null
+      },
+      {
+        "component_id": 27779,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 136'-201' $ 136'''-201''' $ 147-221 $ 147''-221'' $ 247-307' $ 247''-307''' $ 274-330'' $ 274-330'' $ 350-327' $ 350''-327'' $ 356-356'' $ 359''-359'' $ 391-451 $ 391''-451'' $ 359''-359'' $ 497-555 $ 497''-555''",
+        "tax_id": null
+      },
+      {
+        "component_id": 27829,
+        "component_type": null,
+        "description": "Disulfide bridges",
+        "organism": null,
+        "sequence": "22-96 $ 22''-96'' $ 23'-88' $ 23'''-88''' $ 134'-194' $ 134'''-194''' $ 143-199 $ 143''-199'' $ 219-214' $ 219''-214''' $ 225-225'' $ 228-228'' $ 260-320 $ 260''-320'' $ 366-424 $ 366''-424''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL4594518"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "https://searchusan.ama-assn.org/finder/usan/search/LUTIKIZUMAB/relevant/1/",
+      "xref_name": "LUTIKIZUMAB",
+      "xref_src": "USAN"
+    }
+  ],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL4594518",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4594518",
+    "molecule_chembl_id": "CHEMBL4594518",
+    "parent_chembl_id": "CHEMBL4594518"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "A-1234138",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "A-1234138"
+    },
+    {
+      "molecule_synonym": "Abt-981",
+      "syn_type": "OTHER",
+      "synonyms": "ABT-981"
+    },
+    {
+      "molecule_synonym": "ABT-981",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ABT-981"
+    },
+    {
+      "molecule_synonym": "Lutikizumab",
+      "syn_type": "INN",
+      "synonyms": "LUTIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Lutikizumab",
+      "syn_type": "OTHER",
+      "synonyms": "LUTIKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Lutikizumab",
+      "syn_type": "USAN",
+      "synonyms": "LUTIKIZUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "LUTIKIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2022,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

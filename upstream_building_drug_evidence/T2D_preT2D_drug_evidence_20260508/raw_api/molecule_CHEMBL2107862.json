@@ -1,0 +1,82 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2107862",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2107862",
+    "molecule_chembl_id": "CHEMBL2107862",
+    "parent_chembl_id": "CHEMBL2107862"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ampligen",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "AMPLIGEN"
+    },
+    {
+      "molecule_synonym": "Atvogen",
+      "syn_type": "OTHER",
+      "synonyms": "ATVOGEN"
+    },
+    {
+      "molecule_synonym": "Poly i : poly c12u",
+      "syn_type": "OTHER",
+      "synonyms": "POLY I : POLY C12U"
+    },
+    {
+      "molecule_synonym": "Poly i: poly c12u",
+      "syn_type": "OTHER",
+      "synonyms": "POLY I: POLY C12U"
+    },
+    {
+      "molecule_synonym": "Rintatolimod",
+      "syn_type": "INN",
+      "synonyms": "RINTATOLIMOD"
+    },
+    {
+      "molecule_synonym": "Rintatolimod",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "RINTATOLIMOD"
+    },
+    {
+      "molecule_synonym": "Rintatolimod",
+      "syn_type": "OTHER",
+      "synonyms": "RINTATOLIMOD"
+    },
+    {
+      "molecule_synonym": "Rintatolimod",
+      "syn_type": "USAN",
+      "synonyms": "RINTATOLIMOD"
+    }
+  ],
+  "molecule_type": "Unknown",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "RINTATOLIMOD",
+  "prodrug": 0,
+  "structure_type": "NONE",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-imod",
+  "usan_stem_definition": "immunomodulators: immunomodulators, toll-like receptor agonists",
+  "usan_substem": "-imod (-tolimod)",
+  "usan_year": 2009,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

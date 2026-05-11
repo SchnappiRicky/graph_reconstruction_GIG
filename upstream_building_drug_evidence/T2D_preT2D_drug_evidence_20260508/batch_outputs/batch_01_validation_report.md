@@ -1,0 +1,23 @@
+| Target | Candidate Drug | Original Citation | Validation Status (validated/removed/replaced_placeholder) | Validation Note |
+| --- | --- | --- | --- | --- |
+| AFDN | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| AIM2 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| APAF1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| ARF6 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| ATG16L1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| AZI2 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| BCL10 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| BCL2L1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| BCL3 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| BEX3 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| BID | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| BRCC3 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CACYBP | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CARD11 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| CARD16 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| CARD8 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| CASP1 | BELNACASAN | PMID:20229566; DOI:10.1002/cmdc.200900531 | validated | Matched target term 'CASPASE-1' and drug term 'VX-765' in PubMed title/abstract. |
+| CASP1 | NIVOCASAN | PMID:21667042; DOI:10.1007/s10495-011-0620-2 | validated | Matched 'GS-9450' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record. |
+| CASP10 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CASP4 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| CASP5 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |

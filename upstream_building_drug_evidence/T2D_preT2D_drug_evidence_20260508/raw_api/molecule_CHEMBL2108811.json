@@ -1,0 +1,77 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Visilizumab (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108811"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2108811",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108811",
+    "molecule_chembl_id": "CHEMBL2108811",
+    "parent_chembl_id": "CHEMBL2108811"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "huM291",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "huM291"
+    },
+    {
+      "molecule_synonym": "HUM-291",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HUM-291"
+    },
+    {
+      "molecule_synonym": "Nuvion",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "NUVION"
+    },
+    {
+      "molecule_synonym": "Visilizumab",
+      "syn_type": "USAN",
+      "synonyms": "Visilizumab"
+    },
+    {
+      "molecule_synonym": "Visilizumab",
+      "syn_type": "INN",
+      "synonyms": "VISILIZUMAB"
+    },
+    {
+      "molecule_synonym": "Visilizumab",
+      "syn_type": "OTHER",
+      "synonyms": "VISILIZUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "VISILIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2000,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

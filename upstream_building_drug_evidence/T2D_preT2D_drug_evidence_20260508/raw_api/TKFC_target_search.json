@@ -1,0 +1,319 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Triokinase/FMN cyclase",
+      "score": 14.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL6067305",
+      "target_components": [
+        {
+          "accession": "Q3LXA3",
+          "component_description": "Triokinase/FMN cyclase",
+          "component_id": 24162,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.7.1.28",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "2.7.1.29",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "4.6.1.15",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "ATP-dependent dihydroxyacetone kinase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Bifunctional ATP-dependent dihydroxyacetone kinase/FAD-AMP lyase (cyclizing)",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DHA kinase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FAD-AMP lyase (cyclic FMN forming)",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FAD-AMP lyase (cyclizing)",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FMN cyclase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Glycerone kinase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=DAK",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "TKFC",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Triokinase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Triokinase/FMN cyclase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Triose kinase",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q3LXA3",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q3LXA3",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000166",
+              "xref_name": "nucleotide binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003824",
+              "xref_name": "catalytic activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0004371",
+              "xref_name": "glycerone kinase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016301",
+              "xref_name": "kinase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016740",
+              "xref_name": "transferase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016829",
+              "xref_name": "lyase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0034012",
+              "xref_name": "FAD-AMP lyase (cyclizing) activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0050354",
+              "xref_name": "triokinase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005975",
+              "xref_name": "carbohydrate metabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006071",
+              "xref_name": "glycerol metabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019563",
+              "xref_name": "glycerol catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0039534",
+              "xref_name": "negative regulation of MDA-5 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045088",
+              "xref_name": "regulation of innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0046835",
+              "xref_name": "carbohydrate phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061624",
+              "xref_name": "fructose catabolic process to hydroxyacetone phosphate and glyceraldehyde-3-phosphate",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:24552",
+              "xref_name": "TKFC",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q3LXA3",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR004006",
+              "xref_name": "DhaK_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR004007",
+              "xref_name": "DhaL_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR012734",
+              "xref_name": "DhaK_ATP",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036117",
+              "xref_name": "DhaL_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050861",
+              "xref_name": "Dihydroxyacetone_Kinase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR28629",
+              "xref_name": "TRIOKINASE/FMN CYCLASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR28629:SF4",
+              "xref_name": "TRIOKINASE_FMN CYCLASE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF02733",
+              "xref_name": "Dak1",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02734",
+              "xref_name": "Dak2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA142672014",
+              "xref_name": "triokinase and FMN cyclase",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q3LXA3",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-168928",
+              "xref_name": "DDX58/IFIH1-mediated induction of interferon-alpha/beta",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-70350",
+              "xref_name": "Fructose catabolism",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9692916",
+              "xref_name": "SARS-CoV-1 activates/modulates innate immune responses",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9705671",
+              "xref_name": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q2L9C1",
+              "xref_name": "Triokinase/FMN cyclase",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q3LXA3",
+              "xref_name": "Triokinase/FMN cyclase",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q53EQ9",
+              "xref_name": "Triokinase/FMN cyclase",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9BVA7",
+              "xref_name": "Triokinase/FMN cyclase",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H895",
+              "xref_name": "Triokinase/FMN cyclase",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

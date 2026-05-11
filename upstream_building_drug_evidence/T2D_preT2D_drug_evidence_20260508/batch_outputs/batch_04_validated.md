@@ -1,0 +1,27 @@
+| Target | Candidate Drug | Drug Class | Evidence Citation (PMID/DOI/Author-Year) | Development Status (approved/investigational/preclinical/unknown) |
+| --- | --- | --- | --- | --- |
+| GSDMD | No validated drug | unknown | No direct evidence found | unknown |
+| HSPB1 | No validated drug | unknown | No direct evidence found | unknown |
+| ICOS | VOPRATELIMAB | agonist | PMID:32970735; DOI:10.1371/journal.pone.0239595 | investigational |
+| ICOS | MEDI-570 | inhibitor | PMID:28916434; DOI:10.1016/j.reprotox.2017.08.018 | investigational |
+| IFI16 | No validated drug | unknown | No direct evidence found | unknown |
+| IFIH1 | No validated drug | unknown | No direct evidence found | unknown |
+| IFNK | No validated drug | unknown | No direct evidence found | unknown |
+| IKBKE | No validated drug | unknown | No direct evidence found | unknown |
+| IL1B | RILONACEPT | inhibitor | PMID:20140476; DOI:10.1007/s10165-009-0271-0 | approved |
+| IL1B | LUTIKIZUMAB | inhibitor | PMID:30552176; DOI:10.1136/annrheumdis-2018-213336 | investigational |
+| IL1B | GEVOKIZUMAB | negative allosteric modulator | PMID:21048425; DOI:10.4161/mabs.3.1.13989 | investigational |
+| IL1R1 | AMG-108 | antagonist | PMID:21801403; DOI:10.1186/ar3430 | investigational |
+| IL1RAP | ASTEGOLIMAB | inhibitor | PMID:33872652; DOI:10.1016/j.jaci.2021.03.044 | investigational |
+| IL23A | GUSELKUMAB | inhibitor | PMID:24679469; DOI:10.1016/j.jaci.2014.01.025 | approved |
+| IL23A | TILDRAKIZUMAB | inhibitor | PMID:26042589; DOI:10.1111/bjd.13932 | approved |
+| IL23A | MIRIKIZUMAB | inhibitor | PMID:30734266; DOI:10.1111/bjd.17628 | approved |
+| IRF3 | No validated drug | unknown | No direct evidence found | unknown |
+| IRF7 | No validated drug | unknown | No direct evidence found | unknown |
+| ITCH | No validated drug | unknown | No direct evidence found | unknown |
+| LAT | No validated drug | unknown | No direct evidence found | unknown |
+| LATS1 | No validated drug | unknown | No direct evidence found | unknown |
+| LATS2 | No validated drug | unknown | No direct evidence found | unknown |
+| LCK | JNJ-26483327 | inhibitor | PMID:20823884; DOI:10.1038/sj.bjc.6605867 | investigational |
+| LIMD1 | No validated drug | unknown | No direct evidence found | unknown |
+| LSP1 | No validated drug | unknown | No direct evidence found | unknown |

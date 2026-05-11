@@ -1,0 +1,570 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Mitochondrial antiviral-signaling protein",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523363",
+      "target_components": [
+        {
+          "accession": "Q7Z434",
+          "component_description": "Mitochondrial antiviral-signaling protein",
+          "component_id": 18867,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CARD adapter inducing interferon beta",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Cardif",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Interferon beta promoter stimulator protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "IPS-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "IPS1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "KIAA1271",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MAVS",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "MAVS",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mitochondrial antiviral-signaling protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Putative NF-kappa-B-activating protein 031N",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=IPS1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Virus-induced-signaling adapter",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "VISA",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "VISA",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q7Z434",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "GO:0000151",
+              "xref_name": "ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005741",
+              "xref_name": "mitochondrial outer membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005777",
+              "xref_name": "peroxisome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005778",
+              "xref_name": "peroxisomal membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031966",
+              "xref_name": "mitochondrial membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019901",
+              "xref_name": "protein kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0039552",
+              "xref_name": "RIG-I binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0050700",
+              "xref_name": "CARD domain binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140693",
+              "xref_name": "molecular condensate scaffold activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001934",
+              "xref_name": "positive regulation of protein phosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002218",
+              "xref_name": "activation of innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002230",
+              "xref_name": "positive regulation of defense response to virus by host",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002376",
+              "xref_name": "immune system process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002735",
+              "xref_name": "positive regulation of myeloid dendritic cell cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002753",
+              "xref_name": "cytoplasmic pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032481",
+              "xref_name": "positive regulation of type I interferon production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032727",
+              "xref_name": "positive regulation of interferon-alpha production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032728",
+              "xref_name": "positive regulation of interferon-beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032755",
+              "xref_name": "positive regulation of interleukin-6 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032757",
+              "xref_name": "positive regulation of interleukin-8 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032760",
+              "xref_name": "positive regulation of tumor necrosis factor production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042307",
+              "xref_name": "positive regulation of protein import into nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045071",
+              "xref_name": "negative regulation of viral genome replication",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045944",
+              "xref_name": "positive regulation of transcription by RNA polymerase II",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060337",
+              "xref_name": "type I interferon-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060339",
+              "xref_name": "negative regulation of type I interferon-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060340",
+              "xref_name": "positive regulation of type I interferon-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060760",
+              "xref_name": "positive regulation of response to cytokine stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070585",
+              "xref_name": "protein localization to mitochondrion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071360",
+              "xref_name": "cellular response to exogenous dsRNA",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071651",
+              "xref_name": "positive regulation of chemokine (C-C motif) ligand 5 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071660",
+              "xref_name": "positive regulation of IP-10 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0140374",
+              "xref_name": "antiviral innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900063",
+              "xref_name": "regulation of peroxisome organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:29233",
+              "xref_name": "MAVS",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q7Z434",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR031964",
+              "xref_name": "CARD_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR042144",
+              "xref_name": "CARD_IPS1",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR052787",
+              "xref_name": "MAVS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR21446",
+              "xref_name": "DUF3504 DOMAIN-CONTAINING PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR21446:SF6",
+              "xref_name": "MITOCHONDRIAL ANTIVIRAL-SIGNALING PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2MS7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2MS8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2VGQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3J6C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3J6J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3RC5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4P4H",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4Z8M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5JEK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7DNI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8WKW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2VGQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3RC5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4P4H",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4Z8M",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5JEK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF16739",
+              "xref_name": "CARD_2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA164722208",
+              "xref_name": "mitochondrial antiviral signaling protein",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q7Z434",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-168928",
+              "xref_name": "DDX58/IFIH1-mediated induction of interferon-alpha/beta",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5689896",
+              "xref_name": "Ovarian tumor domain proteases",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-918233",
+              "xref_name": "TRAF3-dependent IRF activation pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-933541",
+              "xref_name": "TRAF6 mediated IRF7 activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-933542",
+              "xref_name": "TRAF6 mediated NF-kB activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-933543",
+              "xref_name": "NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-936440",
+              "xref_name": "Negative regulators of DDX58/IFIH1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9692916",
+              "xref_name": "SARS-CoV-1 activates/modulates innate immune responses",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9705671",
+              "xref_name": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9833109",
+              "xref_name": "Evasion by RSV of host interferon responses",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9833482",
+              "xref_name": "PKR-mediated signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8K6X0",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B2BD33",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B2BD34",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "F5H6C8",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "M1P2Z0",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q2HWT5",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q3I0Y2",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5T7I6",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z434",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q86VY7",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H1H3",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H4Y1",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H8D3",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9ULE9",
+              "xref_name": "Mitochondrial antiviral-signaling protein",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

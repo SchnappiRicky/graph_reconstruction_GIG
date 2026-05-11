@@ -1,0 +1,36 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8830,
+      "mechanism_comment": "Prevents oligomerization of NLRP3 and formation of the inflammasome",
+      "mechanism_of_action": "NACHT, LRR and PYD domains-containing protein 3 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "29378952",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/29378952/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3989943",
+      "parent_molecule_chembl_id": "CHEMBL3989943",
+      "record_id": 2973301,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1741208",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

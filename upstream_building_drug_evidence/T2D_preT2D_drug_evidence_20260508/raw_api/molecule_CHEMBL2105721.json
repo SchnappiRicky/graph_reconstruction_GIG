@@ -1,0 +1,92 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2105721",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2105721",
+    "molecule_chembl_id": "CHEMBL2105721",
+    "parent_chembl_id": "CHEMBL2105721"
+  },
+  "molecule_properties": {
+    "alogp": "1.84",
+    "aromatic_rings": 2,
+    "full_molformula": "C21H22FN3O5",
+    "full_mwt": "415.42",
+    "hba": 7,
+    "hbd": 2,
+    "heavy_atoms": 30,
+    "mw_freebase": "415.42",
+    "np_likeness_score": "0.31",
+    "num_ro5_violations": 0,
+    "psa": "110.11",
+    "qed_weighted": "0.72",
+    "ro3_pass": "N",
+    "rtb": 5
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CC(C)[C@@]1(C(=O)N[C@H]2CC(=O)O[C@]2(O)CF)CC(c2nccc3ccccc23)=NO1",
+    "molfile": "\n     RDKit          2D\n\n 30 33  0  0  0  0  0  0  0  0999 V2000\n   -2.1368    1.1675    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.7202    0.5841    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.5067   -0.2128    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7098   -0.4263    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1264    0.1571    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.3399    0.9540    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.7566    1.5373    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9701    2.3342    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7670    2.5478    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.3504    1.9643    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.3295   -0.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3379    0.4285    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.0746   -0.8410    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    0.7504   -0.8410    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0053   -0.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5887    0.5269    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.4178   -0.7709    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2043   -1.5678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2147   -0.9844    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.5887    1.3519    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.3032    0.1144    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2116    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6241    1.6820    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.9567    1.1971    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0366    0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2915    1.1971    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6241    2.5070    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7511    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.0366   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.4656    0.4125    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  1  6  2  0\n  1 10  1  0\n  2  3  2  0\n  3  4  1  0\n  4  5  2  0\n  5  6  1  0\n  6  7  1  0\n  7  8  2  0\n  8  9  1  0\n  9 10  2  0\n  5 11  1  0\n 12 11  1  0\n 11 13  2  0\n 12 15  1  0\n 13 14  1  0\n 14 15  1  0\n 15 16  1  1\n 15 17  1  0\n 17 18  1  0\n 17 19  1  0\n 16 20  2  0\n 16 21  1  0\n 22 21  1  1\n 24 22  1  0\n 22 25  1  0\n 23 24  1  0\n 23 26  1  0\n 25 26  1  0\n 23 27  2  0\n 25 28  1  0\n 25 29  1  1\n 28 30  1  0\nM  END\n> <chembl_id>\nCHEMBL2105721\n\n> <chembl_pref_name>\nNIVOCASAN",
+    "standard_inchi": "InChI=1S/C21H22FN3O5/c1-12(2)20(19(27)24-16-9-17(26)29-21(16,28)11-22)10-15(25-30-20)18-14-6-4-3-5-13(14)7-8-23-18/h3-8,12,16,28H,9-11H2,1-2H3,(H,24,27)/t16-,20+,21+/m0/s1",
+    "standard_inchi_key": "VYFGDLGHHBUDTQ-ZLGUVYLKSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "GS-9450",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "GS-9450"
+    },
+    {
+      "molecule_synonym": "LB-84451",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LB-84451"
+    },
+    {
+      "molecule_synonym": "LB84451",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LB84451"
+    },
+    {
+      "molecule_synonym": "Nivocasan",
+      "syn_type": "INN",
+      "synonyms": "NIVOCASAN"
+    },
+    {
+      "molecule_synonym": "Nivocasan",
+      "syn_type": "OTHER",
+      "synonyms": "NIVOCASAN"
+    },
+    {
+      "molecule_synonym": "Nivocasan",
+      "syn_type": "USAN",
+      "synonyms": "NIVOCASAN"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "NIVOCASAN",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-casan",
+  "usan_stem_definition": "caspase inhibitors",
+  "usan_substem": "-casan",
+  "usan_year": 2010,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

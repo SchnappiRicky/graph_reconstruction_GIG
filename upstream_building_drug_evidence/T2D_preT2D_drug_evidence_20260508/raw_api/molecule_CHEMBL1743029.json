@@ -1,0 +1,132 @@
+{
+  "atc_classifications": [
+    "J05AX23"
+  ],
+  "availability_type": 1,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 26194,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QVQLQQSGPEVVKPGASVKMSCKASGYTFTSYVIHWVRQKPGQGLDWIGYINPYNDGTDYDEKFKGKATLTSDTSTSTAYMELSSLRSEDTAVYYCAREKDNYATGAWFAYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPSCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 26195,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "DIVMTQSPDSLAVSLGERVTMNCKSSQSLLYSTNQKNYLAWYQQKPGQSPKLLIYWASTRESGVPDRFSGSGSGTDFTLTISSVQAEDVAVYYCQQYYSYRTFGGGTKLEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": "Ibalizumab (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1743029"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "ibalizumab-uiyk",
+      "xref_name": "ibalizumab-uiyk",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/trogarzo",
+      "xref_name": "trogarzo",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2018,
+  "first_in_class": 1,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL1743029",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1743029",
+    "molecule_chembl_id": "CHEMBL1743029",
+    "parent_chembl_id": "CHEMBL1743029"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "HU5A8",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "HU5A8"
+    },
+    {
+      "molecule_synonym": "Ibalizumab",
+      "syn_type": "ATC",
+      "synonyms": "IBALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Ibalizumab",
+      "syn_type": "EMA",
+      "synonyms": "IBALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Ibalizumab",
+      "syn_type": "INN",
+      "synonyms": "IBALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Ibalizumab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "IBALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Ibalizumab",
+      "syn_type": "OTHER",
+      "synonyms": "IBALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Ibalizumab",
+      "syn_type": "USAN",
+      "synonyms": "IBALIZUMAB"
+    },
+    {
+      "molecule_synonym": "Ibalizumab-uiyk",
+      "syn_type": "FDA",
+      "synonyms": "IBALIZUMAB-UIYK"
+    },
+    {
+      "molecule_synonym": "Ibalizumab-uiyk",
+      "syn_type": "OTHER",
+      "synonyms": "IBALIZUMAB-UIYK"
+    },
+    {
+      "molecule_synonym": "TNX-355",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TNX-355"
+    },
+    {
+      "molecule_synonym": "Trogarzo",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Trogarzo"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "IBALIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2007,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

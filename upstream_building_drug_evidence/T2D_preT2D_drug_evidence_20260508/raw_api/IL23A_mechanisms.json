@@ -1,0 +1,221 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Beta (p40) subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1838,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=c77a9664-e3bb-4023-b400-127aa53bca2b",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c77a9664-e3bb-4023-b400-127aa53bca2b"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201835",
+      "parent_molecule_chembl_id": "CHEMBL1201835",
+      "record_id": 1390839,
+      "selectivity_comment": null,
+      "site_id": 2649,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Beta (p40) subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5445,
+      "mechanism_comment": "IgG1 monoclonal antibody with genetically engineered complementarity-determining regions that have high affinity for the IL-12/23 p40 subunit protein.",
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "18283176",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/18283176"
+        },
+        {
+          "ref_id": "22077474",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/22077474"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1742995",
+      "parent_molecule_chembl_id": "CHEMBL1742995",
+      "record_id": 1392879,
+      "selectivity_comment": null,
+      "site_id": 2649,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Alpha (p19) subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 5950,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "24679469",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/24679469"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2364648",
+      "parent_molecule_chembl_id": "CHEMBL2364648",
+      "record_id": 1879182,
+      "selectivity_comment": null,
+      "site_id": 9800,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Alpha (p19) subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 5952,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "26042589",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/26042589"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108681",
+      "parent_molecule_chembl_id": "CHEMBL2108681",
+      "record_id": 1697546,
+      "selectivity_comment": null,
+      "site_id": 9800,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Alpha (p19) subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 6385,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "25205227",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25205227"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3833372",
+      "parent_molecule_chembl_id": "CHEMBL3833372",
+      "record_id": 1707161,
+      "selectivity_comment": null,
+      "site_id": 9800,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Alpha (p19) subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 7381,
+      "mechanism_comment": "Selectively binds the p19 subunit of human interleukin-23 inhibiting it's interaction with the receptor and the subsequent release of pro-inflammatory cytokines and chemokines.",
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "label/2019/761105s000lbl.pdf",
+          "ref_type": "FDA",
+          "ref_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/761105s000lbl.pdf"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3990029",
+      "parent_molecule_chembl_id": "CHEMBL3990029",
+      "record_id": 2973387,
+      "selectivity_comment": "Selective for human interleukin-23.",
+      "site_id": 9800,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 7872,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://investor.lilly.com/news-releases/news-release-details/ddw-2018-patients-moderate-severe-ulcerative-colitis-achieved",
+          "ref_type": "Other",
+          "ref_url": "https://investor.lilly.com/news-releases/news-release-details/ddw-2018-patients-moderate-severe-ulcerative-colitis-achieved"
+        },
+        {
+          "ref_id": "30734266",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/30734266"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3990014",
+      "parent_molecule_chembl_id": "CHEMBL3990014",
+      "record_id": 2973372,
+      "selectivity_comment": null,
+      "site_id": 9800,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Interleukin-12 beta subunit",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 8731,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Interleukin-23 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "NCT04172233",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://clinicaltrials.gov/ct2/show/NCT04172233"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4650437",
+      "parent_molecule_chembl_id": "CHEMBL4650437",
+      "record_id": 3490234,
+      "selectivity_comment": null,
+      "site_id": 2649,
+      "target_chembl_id": "CHEMBL2364154",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 8
+  }
+}

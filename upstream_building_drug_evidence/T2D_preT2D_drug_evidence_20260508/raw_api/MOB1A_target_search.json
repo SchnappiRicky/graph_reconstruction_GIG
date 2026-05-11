@@ -1,0 +1,186 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "MOB kinase activator 1B",
+      "score": 16.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4295878",
+      "target_components": [
+        {
+          "accession": "Q7L9L4",
+          "component_description": "MOB kinase activator 1B",
+          "component_id": 18297,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Mob1A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mob1B",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MOB1B",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Mob1 homolog 1A",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MOB4A",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MOB kinase activator 1B",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MOBKL1A",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Mps one binder kinase activator-like 1A",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q7L9L4",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q7L9L4",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019209",
+              "xref_name": "kinase activator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019900",
+              "xref_name": "kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035329",
+              "xref_name": "hippo signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:29801",
+              "xref_name": "MOB1B",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q7L9L4",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR005301",
+              "xref_name": "MOB_kinase_act_fam",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036703",
+              "xref_name": "MOB_kinase_act_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR22599",
+              "xref_name": "MPS ONE BINDER KINASE ACTIVATOR-LIKE MOB",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF03637",
+              "xref_name": "Mob1_phocein",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA134871841",
+              "xref_name": "MOB kinase activator 1B",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q7L9L4",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-2028269",
+              "xref_name": "Signaling by Hippo",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B2R8U6",
+              "xref_name": "MOB kinase activator 1B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B4DRY3",
+              "xref_name": "MOB kinase activator 1B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7L9L4",
+              "xref_name": "MOB kinase activator 1B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IY23",
+              "xref_name": "MOB kinase activator 1B",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

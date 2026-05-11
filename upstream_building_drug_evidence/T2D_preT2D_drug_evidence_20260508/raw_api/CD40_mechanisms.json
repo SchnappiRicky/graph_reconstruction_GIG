@@ -1,0 +1,311 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 5993,
+      "mechanism_comment": "Triggers antibody-dependent cell-mediated cytotoxicity. Mediates apoptosis.",
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "21810918",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/21810918"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743005",
+      "parent_molecule_chembl_id": "CHEMBL1743005",
+      "record_id": 1392889,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "PARTIAL AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6038,
+      "mechanism_comment": "Blocks CD154 binding to CD40 and has partial agonist properties. ",
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 partial agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "15611281",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/15611281"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108144",
+      "parent_molecule_chembl_id": "CHEMBL2108144",
+      "record_id": 1696092,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6119,
+      "mechanism_comment": "Engagement of CD40 by PG102 induces formation of a dysfunctional CD40 signaling complex characterized by altered TNFR-associated factor (TRAF) recruitment and association, with resultant ineffective induction of kinase and transcription factor activation. Importantly for potential therapeutic applications, although PG102 did not inhibit CD154\u2013CD40 binding, it inhibited and prevented CD154-induced CD40 activation. ( Do not confuse with PG102, a water soluble extract from Actinidia arguta).",
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "25795759",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25795759"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109475",
+      "parent_molecule_chembl_id": "CHEMBL2109475",
+      "record_id": 1706983,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6423,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "26758550",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/26758550"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743038",
+      "parent_molecule_chembl_id": "CHEMBL1743038",
+      "record_id": 1392922,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7092,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=588974",
+          "ref_type": "Other",
+          "ref_url": "https://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=588974"
+        },
+        {
+          "ref_id": "26386124",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/26386124"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109477",
+      "parent_molecule_chembl_id": "CHEMBL2109477",
+      "record_id": 1706985,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7957,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.novartis.com/news/media-releases/novartis-presents-first-its-kind-histology-data-iscalimab-cfz533-suggesting-extended-survival-transplanted-organs-may-be-possible",
+          "ref_type": "Other",
+          "ref_url": "https://www.novartis.com/news/media-releases/novartis-presents-first-its-kind-histology-data-iscalimab-cfz533-suggesting-extended-survival-transplanted-organs-may-be-possible"
+        },
+        {
+          "ref_id": "29665205",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/29665205"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4298210",
+      "parent_molecule_chembl_id": "CHEMBL4298210",
+      "record_id": 3133909,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7958,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "29679478",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/29679478"
+        },
+        {
+          "ref_id": "31509331",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/31509331"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3990028",
+      "parent_molecule_chembl_id": "CHEMBL3990028",
+      "record_id": 2973386,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8254,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://cancerres.aacrjournals.org/content/76/14_Supplement/5004",
+          "ref_type": "Other",
+          "ref_url": "https://cancerres.aacrjournals.org/content/76/14_Supplement/5004"
+        },
+        {
+          "ref_id": "33387490",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/33387490"
+        },
+        {
+          "ref_id": "33392713",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/33392713"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297888",
+      "parent_molecule_chembl_id": "CHEMBL4297888",
+      "record_id": 3133532,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8769,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "19426221",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/19426221/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297718",
+      "parent_molecule_chembl_id": "CHEMBL4297718",
+      "record_id": 3133331,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8868,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "30382327",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/30382327/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297721",
+      "parent_molecule_chembl_id": "CHEMBL4297721",
+      "record_id": 3133334,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 9218,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 5 agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS3147",
+          "ref_type": "Other",
+          "ref_url": "https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.TPS3147"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4594517",
+      "parent_molecule_chembl_id": "CHEMBL4594517",
+      "record_id": 3461188,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1250358",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 11
+  }
+}

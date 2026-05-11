@@ -1,0 +1,353 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "High affinity immunoglobulin epsilon receptor subunit alpha",
+      "score": 16.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2248",
+      "target_components": [
+        {
+          "accession": "P12319",
+          "component_description": "High affinity immunoglobulin epsilon receptor subunit alpha",
+          "component_id": 589,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "FCE1A",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Fc-epsilon RI-alpha",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FCER1A",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "FcERI",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "High affinity immunoglobulin epsilon receptor subunit alpha",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "IgE Fc receptor subunit alpha",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P12319",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P12319",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009986",
+              "xref_name": "cell surface",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0019768",
+              "xref_name": "high-affinity IgE receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0016064",
+              "xref_name": "immunoglobulin mediated immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0016068",
+              "xref_name": "type I hypersensitivity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0038095",
+              "xref_name": "Fc-epsilon receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042092",
+              "xref_name": "type 2 immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043303",
+              "xref_name": "mast cell degranulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043308",
+              "xref_name": "eosinophil degranulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:3609",
+              "xref_name": "FCER1A",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "P12319",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR003598",
+              "xref_name": "Ig_sub2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003599",
+              "xref_name": "Ig_sub",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007110",
+              "xref_name": "Ig-like_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050488",
+              "xref_name": "Ig_Fc_receptor",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR11481",
+              "xref_name": "IMMUNOGLOBULIN FC RECEPTOR",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR11481:SF12",
+              "xref_name": "HIGH AFFINITY IMMUNOGLOBULIN EPSILON RECEPTOR SUBUNIT ALPHA",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1F2Q",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1F6A",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1J86",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1J87",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1J88",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1J89",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1RPQ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2Y7Q",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7SHT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8C1B",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8C1C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8K7R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YVU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YWA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8Z0T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9EQ3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9EQ4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1F2Q",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1F6A",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1J86",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1J87",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1J88",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1J89",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1RPQ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2Y7Q",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF13895",
+              "xref_name": "Ig_2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF13927",
+              "xref_name": "Ig_3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA28056",
+              "xref_name": "Fc epsilon receptor Ia",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "P12319",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-2454202",
+              "xref_name": "Fc epsilon receptor (FCERI) signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2730905",
+              "xref_name": "Role of LAT2/NTAL/LAB on calcium mobilization",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871796",
+              "xref_name": "FCERI mediated MAPK activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871809",
+              "xref_name": "FCERI mediated Ca+2 mobilization",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2871837",
+              "xref_name": "FCERI mediated NF-kB activation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "P12319",
+              "xref_name": "High affinity immunoglobulin epsilon receptor subunit alpha",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

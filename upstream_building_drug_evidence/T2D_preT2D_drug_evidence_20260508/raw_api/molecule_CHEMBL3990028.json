@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 25189,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "AIQLTQSPSSLSASVGDRVTITCRASQGISSALAWYQQKPGKAPKLLIYDASNLESGVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQFNSYPTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      },
+      {
+        "component_id": 25188,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": null,
+        "sequence": "QLQLQESGPGLLKPSETLSLTCTVSGGSISSPGYYGGWIRQPPGKGLEWIGSIYKSGSTYHNPSLKSRVTISVDTSKNQFSLKLSSVTAADTAVYYCTRPVVRYFGWFDPWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFEGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": null
+      },
+      {
+        "component_id": 25190,
+        "component_type": null,
+        "description": "Disulfide bridges location",
+        "organism": null,
+        "sequence": "22-97$22''-97''$23'-88''$23'''-88'''$133'-193'$133'''A(tm)-193'''$135-213'$135''-213'''$148-204$148''-204''$227-227''$230-230''$262-322$262''A(tm)-322''$213'$368-426$368''-426''",
+        "tax_id": null
+      }
+    ],
+    "description": null,
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL3990028"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3990028",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3990028",
+    "molecule_chembl_id": "CHEMBL3990028",
+    "parent_chembl_id": "CHEMBL3990028"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "ASKP-1240",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ASKP-1240"
+    },
+    {
+      "molecule_synonym": "ASKP1240",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ASKP1240"
+    },
+    {
+      "molecule_synonym": "Bleselumab",
+      "syn_type": "INN",
+      "synonyms": "BLESELUMAB"
+    },
+    {
+      "molecule_synonym": "Bleselumab",
+      "syn_type": "OTHER",
+      "synonyms": "BLESELUMAB"
+    },
+    {
+      "molecule_synonym": "Bleselumab",
+      "syn_type": "USAN",
+      "synonyms": "BLESELUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "BLESELUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human",
+  "usan_substem": "-mab (-umab)",
+  "usan_year": 2017,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

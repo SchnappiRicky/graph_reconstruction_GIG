@@ -1,0 +1,271 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Calcyclin-binding protein",
+      "score": 23.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4295948",
+      "target_components": [
+        {
+          "accession": "Q9HB71",
+          "component_description": "Calcyclin-binding protein",
+          "component_id": 18367,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CacyBP",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CACYBP",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Calcyclin-binding protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "hCacyBP",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "S100A6-binding protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "S100A6BP",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Siah-interacting protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SIP ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9HB71",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9HB71",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030877",
+              "xref_name": "beta-catenin destruction complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0015631",
+              "xref_name": "tubulin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031625",
+              "xref_name": "ubiquitin protein ligase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042803",
+              "xref_name": "protein homodimerization activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0044548",
+              "xref_name": "S100 protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007507",
+              "xref_name": "heart development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:30423",
+              "xref_name": "CACYBP",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9HB71",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR007052",
+              "xref_name": "CS_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007699",
+              "xref_name": "SGS_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008978",
+              "xref_name": "HSP20-like_chaperone",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015120",
+              "xref_name": "Siah-Interact_N",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR037201",
+              "xref_name": "CacyBP_N",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR037893",
+              "xref_name": "CS_CacyBP",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR052289",
+              "xref_name": "Calcyclin-binding_UBL-bridge",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR13164",
+              "xref_name": "CALICYLIN BINDING PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR13164:SF3",
+              "xref_name": "CALCYCLIN-BINDING PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1X5M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A25",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A26",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2A25",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2A26",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF04969",
+              "xref_name": "CS",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF05002",
+              "xref_name": "SGS",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF09032",
+              "xref_name": "Siah-Interact_N",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA134894213",
+              "xref_name": "calcyclin binding protein",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9HB71",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "B2ZWH2",
+              "xref_name": "Calcyclin-binding protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B3KSF1",
+              "xref_name": "Calcyclin-binding protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O60666",
+              "xref_name": "Calcyclin-binding protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5R370",
+              "xref_name": "Calcyclin-binding protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5R371",
+              "xref_name": "Calcyclin-binding protein",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9HB71",
+              "xref_name": "Calcyclin-binding protein",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

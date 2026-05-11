@@ -1,0 +1,56 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 7636,
+      "mechanism_comment": "Also inhibits NFKB translocation. Mechanism not fully elucidated.",
+      "mechanism_of_action": "E3 ubiquitin ligase TRAF3IP2 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "23116200",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/23116200"
+        },
+        {
+          "ref_id": "24123677",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/24123677"
+        },
+        {
+          "ref_id": "27793992",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/27793992"
+        },
+        {
+          "ref_id": "29798702",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/29798702"
+        },
+        {
+          "ref_id": "31918275",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/31918275"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2107455",
+      "parent_molecule_chembl_id": "CHEMBL2107455",
+      "record_id": 3129208,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL4523586",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

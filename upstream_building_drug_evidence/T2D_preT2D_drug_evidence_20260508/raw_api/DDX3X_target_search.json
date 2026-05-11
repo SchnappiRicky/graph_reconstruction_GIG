@@ -1,0 +1,1348 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "ATP-dependent RNA helicase DDX3X",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5553",
+      "target_components": [
+        {
+          "accession": "O00571",
+          "component_description": "ATP-dependent RNA helicase DDX3X",
+          "component_id": 3844,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.6.4.13",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "ATP-dependent RNA helicase DDX3X",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CAP-Rf",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DBX",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "DBX",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DDX3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "DDX3X",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "DEAD box protein 3, X-chromosomal",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DEAD box, X isoform",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Helicase-like protein 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "HLP2",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O00571",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O00571",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005576",
+              "xref_name": "extracellular region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005739",
+              "xref_name": "mitochondrion",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005852",
+              "xref_name": "eukaryotic translation initiation factor 3 complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0010494",
+              "xref_name": "cytoplasmic stress granule",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0022627",
+              "xref_name": "cytosolic small ribosomal subunit",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030027",
+              "xref_name": "lamellipodium",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031252",
+              "xref_name": "cell leading edge",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0034774",
+              "xref_name": "secretory granule lumen",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0043186",
+              "xref_name": "P granule",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0061702",
+              "xref_name": "canonical inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0072559",
+              "xref_name": "NLRP3 inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:1904813",
+              "xref_name": "ficolin-1-rich granule lumen",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003676",
+              "xref_name": "nucleic acid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003677",
+              "xref_name": "DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003678",
+              "xref_name": "DNA helicase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003723",
+              "xref_name": "RNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003724",
+              "xref_name": "RNA helicase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003729",
+              "xref_name": "mRNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003924",
+              "xref_name": "GTPase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0004386",
+              "xref_name": "helicase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008134",
+              "xref_name": "transcription factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008143",
+              "xref_name": "poly(A) binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008190",
+              "xref_name": "eukaryotic initiation factor 4E binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016787",
+              "xref_name": "hydrolase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016887",
+              "xref_name": "ATP hydrolysis activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0017111",
+              "xref_name": "ribonucleoside triphosphate phosphatase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031369",
+              "xref_name": "translation initiation factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0033592",
+              "xref_name": "RNA strand annealing activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035591",
+              "xref_name": "signaling adaptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035613",
+              "xref_name": "RNA stem-loop binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0043015",
+              "xref_name": "gamma-tubulin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0043273",
+              "xref_name": "CTPase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0045296",
+              "xref_name": "cadherin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0048027",
+              "xref_name": "mRNA 5'-UTR binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140665",
+              "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140849",
+              "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006413",
+              "xref_name": "translational initiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007059",
+              "xref_name": "chromosome segregation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007276",
+              "xref_name": "gamete generation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010628",
+              "xref_name": "positive regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010629",
+              "xref_name": "negative regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0016055",
+              "xref_name": "Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0017148",
+              "xref_name": "negative regulation of translation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030154",
+              "xref_name": "cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030307",
+              "xref_name": "positive regulation of cell growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030308",
+              "xref_name": "negative regulation of cell growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031333",
+              "xref_name": "negative regulation of protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031954",
+              "xref_name": "positive regulation of protein autophosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032481",
+              "xref_name": "positive regulation of type I interferon production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032508",
+              "xref_name": "DNA duplex unwinding",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032727",
+              "xref_name": "positive regulation of interferon-alpha production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032728",
+              "xref_name": "positive regulation of interferon-beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034063",
+              "xref_name": "stress granule assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034157",
+              "xref_name": "positive regulation of toll-like receptor 7 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034161",
+              "xref_name": "positive regulation of toll-like receptor 8 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0036493",
+              "xref_name": "positive regulation of translation in response to endoplasmic reticulum stress",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042254",
+              "xref_name": "ribosome biogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042256",
+              "xref_name": "cytosolic ribosome assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043066",
+              "xref_name": "negative regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045070",
+              "xref_name": "positive regulation of viral genome replication",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045727",
+              "xref_name": "positive regulation of translation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045944",
+              "xref_name": "positive regulation of transcription by RNA polymerase II",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045948",
+              "xref_name": "positive regulation of translational initiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0055088",
+              "xref_name": "lipid homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070131",
+              "xref_name": "positive regulation of mitochondrial translation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071243",
+              "xref_name": "cellular response to arsenic-containing substance",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071470",
+              "xref_name": "cellular response to osmotic stress",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071651",
+              "xref_name": "positive regulation of chemokine (C-C motif) ligand 5 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071902",
+              "xref_name": "positive regulation of protein serine/threonine kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090263",
+              "xref_name": "positive regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097193",
+              "xref_name": "intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900087",
+              "xref_name": "positive regulation of G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901223",
+              "xref_name": "negative regulation of non-canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901224",
+              "xref_name": "positive regulation of non-canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901985",
+              "xref_name": "positive regulation of protein acetylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902042",
+              "xref_name": "negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902523",
+              "xref_name": "positive regulation of protein K63-linked ubiquitination",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903608",
+              "xref_name": "protein localization to cytoplasmic stress granule",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000117",
+              "xref_name": "negative regulation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001056",
+              "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001243",
+              "xref_name": "negative regulation of intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:2745",
+              "xref_name": "DDX3X",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O00571",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000629",
+              "xref_name": "RNA-helicase_DEAD-box_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001650",
+              "xref_name": "Helicase_C-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011545",
+              "xref_name": "DEAD/DEAH_box_helicase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014001",
+              "xref_name": "Helicase_ATP-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014014",
+              "xref_name": "RNA_helicase_DEAD_Q_motif",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR47958",
+              "xref_name": "ATP-DEPENDENT RNA HELICASE DBP3",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2I4I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2JGN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3JRV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4O2C",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4O2E",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4O2F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4PX9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4PXA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5E7I",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5E7J",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5E7M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6CZ5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6O5F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7LIU",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8SSW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2I4I",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2JGN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3JRV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4O2C",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4O2E",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4O2F",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4PX9",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4PXA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5E7I",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5E7J",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5E7M",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6CZ5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6O5F",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7LIU",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8SSW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00270",
+              "xref_name": "DEAD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00271",
+              "xref_name": "Helicase_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA27216",
+              "xref_name": "DEAD-box helicase 3 X-linked",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O00571",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-6798695",
+              "xref_name": "Neutrophil degranulation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8K538",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B4E3E8",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O00571",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15536",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "ATP-dependent RNA helicase DDX3X",
+      "score": 17.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3751657",
+      "target_components": [
+        {
+          "accession": "Q62167",
+          "component_description": "ATP-dependent RNA helicase DDX3X",
+          "component_id": 16907,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "3.6.4.13",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "ATP-dependent RNA helicase DDX3X",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "D1Pas1-related sequence 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "D1Pas1-rs2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Ddx3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Ddx3x",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Dead3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "DEAD box protein 3, X-chromosomal",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "DEAD box RNA helicase DEAD3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Embryonic RNA helicase",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Erh",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "mDEAD3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=D1Pas1-rs2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q62167",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q62167",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005813",
+              "xref_name": "centrosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005852",
+              "xref_name": "eukaryotic translation initiation factor 3 complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0010494",
+              "xref_name": "cytoplasmic stress granule",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0014069",
+              "xref_name": "postsynaptic density",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0022627",
+              "xref_name": "cytosolic small ribosomal subunit",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030027",
+              "xref_name": "lamellipodium",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031252",
+              "xref_name": "cell leading edge",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0061702",
+              "xref_name": "canonical inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0072559",
+              "xref_name": "NLRP3 inflammasome complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0003676",
+              "xref_name": "nucleic acid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003677",
+              "xref_name": "DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003678",
+              "xref_name": "DNA helicase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003723",
+              "xref_name": "RNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003724",
+              "xref_name": "RNA helicase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003729",
+              "xref_name": "mRNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0004386",
+              "xref_name": "helicase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005524",
+              "xref_name": "ATP binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008134",
+              "xref_name": "transcription factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008143",
+              "xref_name": "poly(A) binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008190",
+              "xref_name": "eukaryotic initiation factor 4E binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016787",
+              "xref_name": "hydrolase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016887",
+              "xref_name": "ATP hydrolysis activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0031369",
+              "xref_name": "translation initiation factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035613",
+              "xref_name": "RNA stem-loop binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0043015",
+              "xref_name": "gamma-tubulin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0048027",
+              "xref_name": "mRNA 5'-UTR binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0070878",
+              "xref_name": "primary miRNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140665",
+              "xref_name": "ATP-dependent H3-H4 histone complex chaperone activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140849",
+              "xref_name": "ATP-dependent H2AZ histone chaperone activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007059",
+              "xref_name": "chromosome segregation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0008625",
+              "xref_name": "extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0017148",
+              "xref_name": "negative regulation of translation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030307",
+              "xref_name": "positive regulation of cell growth",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031053",
+              "xref_name": "primary miRNA processing",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031333",
+              "xref_name": "negative regulation of protein-containing complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031954",
+              "xref_name": "positive regulation of protein autophosphorylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032508",
+              "xref_name": "DNA duplex unwinding",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032727",
+              "xref_name": "positive regulation of interferon-alpha production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032728",
+              "xref_name": "positive regulation of interferon-beta production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034063",
+              "xref_name": "stress granule assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034157",
+              "xref_name": "positive regulation of toll-like receptor 7 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034161",
+              "xref_name": "positive regulation of toll-like receptor 8 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0036493",
+              "xref_name": "positive regulation of translation in response to endoplasmic reticulum stress",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042254",
+              "xref_name": "ribosome biogenesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042256",
+              "xref_name": "cytosolic ribosome assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043065",
+              "xref_name": "positive regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043066",
+              "xref_name": "negative regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045727",
+              "xref_name": "positive regulation of translation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045944",
+              "xref_name": "positive regulation of transcription by RNA polymerase II",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045948",
+              "xref_name": "positive regulation of translational initiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0055088",
+              "xref_name": "lipid homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071243",
+              "xref_name": "cellular response to arsenic-containing substance",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071470",
+              "xref_name": "cellular response to osmotic stress",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071902",
+              "xref_name": "positive regulation of protein serine/threonine kinase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0090263",
+              "xref_name": "positive regulation of canonical Wnt signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097193",
+              "xref_name": "intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900087",
+              "xref_name": "positive regulation of G1/S transition of mitotic cell cycle",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1900227",
+              "xref_name": "positive regulation of NLRP3 inflammasome complex assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901223",
+              "xref_name": "negative regulation of non-canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901224",
+              "xref_name": "positive regulation of non-canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901985",
+              "xref_name": "positive regulation of protein acetylation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902042",
+              "xref_name": "negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902523",
+              "xref_name": "positive regulation of protein K63-linked ubiquitination",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000117",
+              "xref_name": "negative regulation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001056",
+              "xref_name": "positive regulation of cysteine-type endopeptidase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001243",
+              "xref_name": "negative regulation of intrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "Q62167",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000629",
+              "xref_name": "RNA-helicase_DEAD-box_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001650",
+              "xref_name": "Helicase_C-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011545",
+              "xref_name": "DEAD/DEAH_box_helicase_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014001",
+              "xref_name": "Helicase_ATP-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014014",
+              "xref_name": "RNA_helicase_DEAD_Q_motif",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR027417",
+              "xref_name": "P-loop_NTPase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR47958",
+              "xref_name": "ATP-DEPENDENT RNA HELICASE DBP3",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00270",
+              "xref_name": "DEAD",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF00271",
+              "xref_name": "Helicase_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-6798695",
+              "xref_name": "Neutrophil degranulation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "O09060",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O09143",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q62167",
+              "xref_name": "ATP-dependent RNA helicase DDX3X",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

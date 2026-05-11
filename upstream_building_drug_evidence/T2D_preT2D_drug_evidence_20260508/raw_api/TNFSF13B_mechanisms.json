@@ -1,0 +1,186 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1414,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=2fa3c528-1777-4628-8a55-a69dae2381a3",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1789843",
+      "parent_molecule_chembl_id": "CHEMBL1789843",
+      "record_id": 1394675,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5466,
+      "mechanism_comment": "High-affinity human antibody with neutralizing activity against membrane-bound and soluble BAFF.",
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "25258549",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25258549"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743075",
+      "parent_molecule_chembl_id": "CHEMBL1743075",
+      "record_id": 1392959,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5528,
+      "mechanism_comment": "Soluble receptor. Acts as a decoy receptor for TNFSF13 (APRIL) and TNFSF13B (BAFF).",
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "18046446",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/18046446"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1742986",
+      "parent_molecule_chembl_id": "CHEMBL1742986",
+      "record_id": 1392870,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5938,
+      "mechanism_comment": "Binds to both membrane-bound and soluble BAFF.",
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "22325420",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/22325420"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2107877",
+      "parent_molecule_chembl_id": "CHEMBL2107877",
+      "record_id": 1695967,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6436,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "28469828",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/28469828"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2107844",
+      "parent_molecule_chembl_id": "CHEMBL2107844",
+      "record_id": 1695903,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8679,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "31181988",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/31181988/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3990000",
+      "parent_molecule_chembl_id": "CHEMBL3990000",
+      "record_id": 2973358,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 10119,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tumor necrosis factor ligand superfamily member 13B inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://acrabstracts.org/abstract/safety-and-biological-activity-of-rozibafusp-alfa-in-subjects-with-rheumatoid-arthritis-final-results-of-a-phase-1b-randomized-double-blind-placebo-controlled-multiple-ascending-dose-study/",
+          "ref_type": "Other",
+          "ref_url": "https://acrabstracts.org/abstract/safety-and-biological-activity-of-rozibafusp-alfa-in-subjects-with-rheumatoid-arthritis-final-results-of-a-phase-1b-randomized-double-blind-placebo-controlled-multiple-ascending-dose-study/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4650245",
+      "parent_molecule_chembl_id": "CHEMBL4650245",
+      "record_id": 3490022,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364158",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 7
+  }
+}

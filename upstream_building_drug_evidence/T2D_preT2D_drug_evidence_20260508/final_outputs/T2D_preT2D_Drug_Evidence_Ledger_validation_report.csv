@@ -1,0 +1,164 @@
+Target,Candidate Drug,Original Citation,Validation Status (validated/removed/replaced_placeholder),Validation Note
+AFDN,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+AIM2,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+APAF1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+ARF6,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+ATG16L1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+AZI2,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+BCL10,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+BCL2L1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+BCL3,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+BEX3,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+BID,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+BRCC3,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CACYBP,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CARD11,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CARD16,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CARD8,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CASP1,BELNACASAN,PMID:20229566; DOI:10.1002/cmdc.200900531,validated,Matched target term 'CASPASE-1' and drug term 'VX-765' in PubMed title/abstract.
+CASP1,NIVOCASAN,PMID:21667042; DOI:10.1007/s10495-011-0620-2,validated,Matched 'GS-9450' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CASP10,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CASP4,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CASP5,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CASP8,NIVOCASAN,PMID:21667042; DOI:10.1007/s10495-011-0620-2,validated,Matched target term 'CASPASE-8' and drug term 'GS-9450' in PubMed title/abstract.
+CASP9,NIVOCASAN,PMID:21667042; DOI:10.1007/s10495-011-0620-2,validated,Matched 'GS-9450' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CBLB,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CD14,IC14,PMID:11207321; DOI:10.4049/jimmunol.166.5.3599,validated,Matched target term 'CD14' and drug term 'IC14' in PubMed title/abstract.
+CD14,VB-201,PMID:4116867; DOI:10.1016/s0140-6736(72)92517-2,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+CD247,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CD3E,TEPLIZUMAB,PMID:10716879; DOI:10.1006/cimm.2000.1617,validated,Matched 'HUMANIZED OKT3' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD3E,OTELIXIZUMAB,PMID:17641665; DOI:10.1038/nri2134,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+CD3E,VISILIZUMAB,PMID:11349730; DOI:10.1097/00007890-200104150-00020,validated,Matched 'HUM291' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD4,IBALIZUMAB,PMID:19015347; DOI:10.1128/AAC.00942-08,validated,Matched target term 'CD4' and drug term 'IBALIZUMAB' in PubMed title/abstract.
+CD4,SEMZUVOLIMAB,PMID:30995373; DOI:10.1056/NEJMoa1802264,validated,Matched target term 'CD4' and drug term 'UB-421' in PubMed title/abstract.
+CD4,CEDELIZUMAB,PMID:11004613; DOI:10.1067/mjd.2000.107945,validated,Matched 'CD4' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD40,BLESELUMAB,PMID:29679478; DOI:10.1002/bdd.2130,validated,Matched target term 'CD40' and drug term 'ASKP1240' in PubMed title/abstract.
+CD40,SOTIGALIMAB,PMID:33387490; DOI:10.1016/S1470-2045(20)30532-5,validated,Matched target term 'CD40' and drug term 'APX005M' in PubMed title/abstract.
+CD40,DACETUZUMAB,PMID:21810918; DOI:10.1158/1078-0432.CCR-10-3336,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+CD40LG,DAPIROLIZUMAB PEGOL,PMID:25784719; DOI:10.1177/0961203315574558,validated,Matched target term 'CD40L' and drug term 'CDP7657' in PubMed title/abstract.
+CD40LG,TORALIZUMAB,PMID:11360929; DOI:10.1016/s1567-5769(00)00020-5,validated,Matched 'ANTI-CD154' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+CD40LG,RAVAGALIMAB,PMID:31382872; DOI:10.1186/s12860-019-0213-4,validated,Matched target term 'CD40L' and drug term 'ABBV-323' in PubMed title/abstract.
+CD80,GALIXIMAB,PMID:22267549; DOI:10.1158/1535-7163.MCT-11-0635,validated,Matched target term 'CD80' and drug term 'GALIXIMAB' in PubMed title/abstract.
+CD86,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CD8A,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CD8B,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CDH1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CFLAR,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CLEC1B,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CLEC4D,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+CLEC4E,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CLEC7A,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CTNNA1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CTNND1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CTSD,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CUL1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CYCS,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+CYLD,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+DCHS1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+DDX3X,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+DHX33,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+DHX58,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+ERBIN,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+EXOC2,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+EXOC7,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+FADD,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+FAT4,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+FBXW11,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+FCER1A,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+FCER1G,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+FYB1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+FYN,JNJ-26483327,PMID:20823884; DOI:10.1038/sj.bjc.6605867,validated,Matched target term 'FYN' and drug term 'JNJ 26483327' in PubMed title/abstract.
+GRAP2,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+GSDMD,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+HSPB1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+ICOS,VOPRATELIMAB,PMID:32970735; DOI:10.1371/journal.pone.0239595,validated,Matched target term 'ICOS' and drug term 'JTX 2011' in PubMed title/abstract.
+ICOS,MEDI-570,PMID:28916434; DOI:10.1016/j.reprotox.2017.08.018,validated,Matched target term 'ICOS' and drug term 'MEDI 570' in PubMed title/abstract.
+IFI16,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+IFIH1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+IFNK,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+IKBKE,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+IL1B,RILONACEPT,PMID:20140476; DOI:10.1007/s10165-009-0271-0,validated,Matched 'RILONACEPT' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+IL1B,LUTIKIZUMAB,PMID:30552176; DOI:10.1136/annrheumdis-2018-213336,validated,Matched 'ABT-981' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+IL1B,GEVOKIZUMAB,PMID:21048425; DOI:10.4161/mabs.3.1.13989,validated,Matched 'GEVOKIZUMAB' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+IL1R1,AMG-108,PMID:21801403; DOI:10.1186/ar3430,validated,Matched 'AMG-108' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+IL1RAP,ASTEGOLIMAB,PMID:33872652; DOI:10.1016/j.jaci.2021.03.044,validated,Matched target term 'IL-33 RECEPTOR (ST2)' and drug term 'ASTEGOLIMAB' in PubMed title/abstract.
+IL23A,GUSELKUMAB,PMID:24679469; DOI:10.1016/j.jaci.2014.01.025,validated,Matched target term 'IL-23-A' and drug term 'GUSELKUMAB' in PubMed title/abstract.
+IL23A,TILDRAKIZUMAB,PMID:26042589; DOI:10.1111/bjd.13932,validated,Matched target term 'IL-23P19' and drug term 'MK-3222' in PubMed title/abstract.
+IL23A,MIRIKIZUMAB,PMID:30734266; DOI:10.1111/bjd.17628,validated,Matched target term 'IL-23-A' and drug term 'LY3074828' in PubMed title/abstract.
+IRF3,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+IRF7,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+ITCH,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+LAT,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+LATS1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+LATS2,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+LCK,JNJ-26483327,PMID:20823884; DOI:10.1038/sj.bjc.6605867,validated,Matched 'JNJ 26483327' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+LIMD1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+LSP1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+LY96,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+MAPKAPK2,AT-13148,PMID:22781553; DOI:10.1158/1078-0432.CCR-11-3313,validated,Matched 'AT13148' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+MAPKAPK5,GLPG-0259,PMID:22950522; DOI:10.2165/11633120-000000000-00000,validated,Matched target term 'MAPKAPK5' and drug term 'GLPG0259' in PubMed title/abstract.
+MAVS,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+MEFV,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+MFN1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+MFN2,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+MOB1A,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+MOB1B,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+MS4A2,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+NAIP,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+NF2,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+NLRC4,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+NLRP1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+NLRP3,DAPANSUTRILE,PMID:29378952; DOI:10.1073/pnas.1716095115,validated,Matched target term 'CRYOPYRIN' and drug term 'OLT1177' in PubMed title/abstract.
+NOD1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+NOD2,MIFAMURTIDE ACID,PMID:20481644; DOI:10.2165/11204910-000000000-00000,removed,PubMed title/abstract did not confidently confirm the target-drug claim.
+NOD2,No validated drug,No direct evidence found,replaced_placeholder,All candidate non-placeholder rows failed citation validation for this target.
+PIN1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+PKN2,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+PSTPIP1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+PYCARD,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+RALA,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+RALB,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+RALBP1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+RAPGEF1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+RELB,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+RGL1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+RGL2,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+RHOQ,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+RNASEL,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+RNF125,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+SAV1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+SIAH1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+SIKE1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+SIPA1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+SKAP1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+SKP1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+STING1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+STK3,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+SUGT1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+SYK,FOSTAMATINIB,PMID:19965662; DOI:10.1182/blood-2009-08-236471,validated,Matched target term 'SPLEEN TYROSINE KINASE' and drug term 'FOSTAMATINIB' in PubMed title/abstract.
+SYK,ENTOSPLETINIB,PMID:24779514; DOI:10.1021/jm500228a,validated,Matched target term 'SPLEEN TYROSINE KINASE' and drug term 'GS-9973' in PubMed title/abstract.
+SYK,R-348,PMID:18360272; DOI:10.1097/TP.0b013e318166acc4,validated,Matched 'SYK' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+TANK,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TBK1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TBKBP1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TBL1X,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+TBL1XR1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TICAM1,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+TKFC,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TLR3,BEVASIRANIB,PMID:18368052; DOI:10.1038/nature06765,validated,Matched 'TLR3' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+TLR3,RINTATOLIMOD,PMID:11607032; DOI:10.1038/35099560,validated,Matched 'TLR3' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+TLR4,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TNFRSF13C,IANALUMAB,PMID:30826774; DOI:10.1136/annrheumdis-2018-214720,validated,Matched target term 'B-CELL-ACTIVATING FACTOR RECEPTOR' and drug term 'IANALUMAB' in PubMed title/abstract.
+TNFSF13B,TABALUMAB,PMID:25258549; DOI:10.2147/JIR.S67751,validated,Matched target term 'B-CELL-ACTIVATING FACTOR' and drug term 'TABALUMAB' in PubMed title/abstract.
+TNFSF13B,ATACICEPT,PMID:18046446; DOI:10.1038/sj.leu.2405048,validated,Matched target term 'B LYMPHOCYTE STIMULATOR' and drug term 'ATACICEPT' in PubMed title/abstract.
+TNFSF13B,BLISIBIMOD,PMID:22325420; Hsu-2012,validated,Matched target term 'B-CELL-ACTIVATING FACTOR' and drug term 'A-623' in PubMed title/abstract.
+TP53BP1,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TRAF3IP2,IGURATIMOD,PMID:23116200; DOI:10.1186/ar4071,validated,Matched 'ACT1' in PubMed title/abstract; exact target-drug link is additionally curated in the ChEMBL mechanism record.
+TRAF4,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+TRIP10,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+TXN,PX-12,PMID:16459166; DOI:10.1016/j.lab.2005.09.001,validated,Matched target term 'THIOREDOXIN' and drug term 'PX-12' in PubMed title/abstract.
+TXN2,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+TXNIP,No validated drug,No direct evidence found,replaced_placeholder,No human ChEMBL target match or no curated PubMed-linked mechanism found.
+YWHAE,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+YWHAQ,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.
+ZAP70,No validated drug,No direct evidence found,replaced_placeholder,No curated mechanism row with PubMed citation was available in ChEMBL.

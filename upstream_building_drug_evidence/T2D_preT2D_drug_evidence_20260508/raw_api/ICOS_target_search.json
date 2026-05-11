@@ -1,0 +1,985 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 3
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "ICOS ligand",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3712949",
+      "target_components": [
+        {
+          "accession": "O75144",
+          "component_description": "ICOS ligand",
+          "component_id": 15103,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "B7-H2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7H2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "B7 homolog 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7-like protein Gl50",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7-related protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7RP-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7RP1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD275",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ICOSL",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "ICOSLG",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "ICOS ligand",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "KIAA0653",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Synonyms=B7H2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0048018",
+              "xref_name": "receptor ligand activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001817",
+              "xref_name": "regulation of cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006972",
+              "xref_name": "hyperosmotic response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042104",
+              "xref_name": "positive regulation of activated T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042113",
+              "xref_name": "B cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061470",
+              "xref_name": "T follicular helper cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:17087",
+              "xref_name": "ICOSLG",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR003599",
+              "xref_name": "Ig_sub",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007110",
+              "xref_name": "Ig-like_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013106",
+              "xref_name": "Ig_V-set",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050504",
+              "xref_name": "IgSF_BTN/MOG",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR053896",
+              "xref_name": "BTN3A2-like_Ig-C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24100",
+              "xref_name": "BUTYROPHILIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR24100:SF151",
+              "xref_name": "ICOS LIGAND",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X4T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6X4T",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF07686",
+              "xref_name": "V-set",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF22705",
+              "xref_name": "C2-set_3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA134977297",
+              "xref_name": "inducible T cell costimulator ligand",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-9927354",
+              "xref_name": "Co-stimulation by ICOS",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8MUZ1",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9HD18",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NRQ1",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Inducible T-cell costimulator",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL3712953",
+      "target_components": [
+        {
+          "accession": "Q9Y6W8",
+          "component_description": "Inducible T-cell costimulator",
+          "component_id": 15107,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Activation-inducible lymphocyte immunomediatory molecule",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "AILIM",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD278",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ICOS",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Inducible T-cell costimulator",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005576",
+              "xref_name": "extracellular region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038023",
+              "xref_name": "signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002517",
+              "xref_name": "T cell tolerance induction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031295",
+              "xref_name": "T cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061470",
+              "xref_name": "T follicular helper cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0098609",
+              "xref_name": "cell-cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:5351",
+              "xref_name": "ICOS",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR013106",
+              "xref_name": "Ig_V-set",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR039943",
+              "xref_name": "ICOS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR20904",
+              "xref_name": "INDUCIBLE T-CELL COSTIMULATOR ICOS",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR20904:SF0",
+              "xref_name": "INDUCIBLE T-CELL COSTIMULATOR",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7JOO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7JOO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF15910",
+              "xref_name": "V-set_2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA29599",
+              "xref_name": "inducible T cell costimulator",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1257604",
+              "xref_name": "PIP3 activates AKT signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2219530",
+              "xref_name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-6811558",
+              "xref_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9927354",
+              "xref_name": "Co-stimulation by ICOS",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q8N6W8",
+              "xref_name": "Inducible T-cell costimulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": "Inducible T-cell costimulator",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "ICOS-ICOSL",
+      "score": 17.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5482971",
+      "target_components": [
+        {
+          "accession": "O75144",
+          "component_description": "ICOS ligand",
+          "component_id": 15103,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "B7-H2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7H2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "B7 homolog 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7-like protein Gl50",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7-related protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7RP-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B7RP1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD275",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ICOSL",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "ICOSLG",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "ICOS ligand",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "KIAA0653",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Synonyms=B7H2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070062",
+              "xref_name": "extracellular exosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042802",
+              "xref_name": "identical protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0048018",
+              "xref_name": "receptor ligand activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001817",
+              "xref_name": "regulation of cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006972",
+              "xref_name": "hyperosmotic response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042104",
+              "xref_name": "positive regulation of activated T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042113",
+              "xref_name": "B cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061470",
+              "xref_name": "T follicular helper cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:17087",
+              "xref_name": "ICOSLG",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR003599",
+              "xref_name": "Ig_sub",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007110",
+              "xref_name": "Ig-like_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013106",
+              "xref_name": "Ig_V-set",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036179",
+              "xref_name": "Ig-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050504",
+              "xref_name": "IgSF_BTN/MOG",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR053896",
+              "xref_name": "BTN3A2-like_Ig-C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR24100",
+              "xref_name": "BUTYROPHILIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR24100:SF151",
+              "xref_name": "ICOS LIGAND",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X4T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6X4T",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF07686",
+              "xref_name": "V-set",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF22705",
+              "xref_name": "C2-set_3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA134977297",
+              "xref_name": "inducible T cell costimulator ligand",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-9927354",
+              "xref_name": "Co-stimulation by ICOS",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8MUZ1",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O75144",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9HD18",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NRQ1",
+              "xref_name": "ICOS ligand",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        },
+        {
+          "accession": "Q9Y6W8",
+          "component_description": "Inducible T-cell costimulator",
+          "component_id": 15107,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Activation-inducible lymphocyte immunomediatory molecule",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "AILIM",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD278",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ICOS",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Inducible T-cell costimulator",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005576",
+              "xref_name": "extracellular region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038023",
+              "xref_name": "signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002517",
+              "xref_name": "T cell tolerance induction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031295",
+              "xref_name": "T cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061470",
+              "xref_name": "T follicular helper cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0098609",
+              "xref_name": "cell-cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:5351",
+              "xref_name": "ICOS",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR013106",
+              "xref_name": "Ig_V-set",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013783",
+              "xref_name": "Ig-like_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR039943",
+              "xref_name": "ICOS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR20904",
+              "xref_name": "INDUCIBLE T-CELL COSTIMULATOR ICOS",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR20904:SF0",
+              "xref_name": "INDUCIBLE T-CELL COSTIMULATOR",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7JOO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6X4G",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7JOO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF15910",
+              "xref_name": "V-set_2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA29599",
+              "xref_name": "inducible T cell costimulator",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1257604",
+              "xref_name": "PIP3 activates AKT signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-2219530",
+              "xref_name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-6811558",
+              "xref_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9725371",
+              "xref_name": "Nuclear events stimulated by ALK signaling in cancer",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9927354",
+              "xref_name": "Co-stimulation by ICOS",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q8N6W8",
+              "xref_name": "Inducible T-cell costimulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9Y6W8",
+              "xref_name": "Inducible T-cell costimulator",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN-PROTEIN INTERACTION",
+      "tax_id": 9606
+    }
+  ]
+}

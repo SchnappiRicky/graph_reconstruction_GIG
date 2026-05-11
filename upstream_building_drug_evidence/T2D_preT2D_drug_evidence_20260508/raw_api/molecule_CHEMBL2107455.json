@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2107455",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2107455",
+    "molecule_chembl_id": "CHEMBL2107455",
+    "parent_chembl_id": "CHEMBL2107455"
+  },
+  "molecule_properties": {
+    "alogp": "2.53",
+    "aromatic_rings": 3,
+    "full_molformula": "C17H14N2O6S",
+    "full_mwt": "374.37",
+    "hba": 6,
+    "hbd": 2,
+    "heavy_atoms": 26,
+    "mw_freebase": "374.37",
+    "np_likeness_score": "-0.41",
+    "num_ro5_violations": 0,
+    "psa": "114.71",
+    "qed_weighted": "0.64",
+    "ro3_pass": "N",
+    "rtb": 6
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CS(=O)(=O)Nc1cc2occ(NC=O)c(=O)c2cc1Oc1ccccc1",
+    "molfile": "\n     RDKit          2D\n\n 26 28  0  0  0  0  0  0  0  0999 V2000\n   -1.2708   -1.5917    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0792    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8667    1.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4875   -0.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.0792   -0.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6417    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2708   -0.6917    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4875    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3000    1.1458    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.3000   -0.6917    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8667   -0.6917    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6417   -0.2375    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.2708    1.1333    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.4000   -1.4875    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.1833   -2.5375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.8667    2.0375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2167    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4417    1.1458    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    4.2167   -0.2375    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.0583   -2.0500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.0958    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.0958   -0.2042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8625    1.1500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.8625   -0.6667    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6333    0.6833    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.6333   -0.2042    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  2  5  2  0\n  3  2  1  0\n  4  7  1  0\n  5 10  1  0\n  6 12  2  0\n  7  1  1  0\n  8  4  1  0\n  9  8  2  0\n 10  4  2  0\n 11  5  1  0\n 12 11  1  0\n 13  8  1  0\n 14  1  2  0\n 15  1  2  0\n 16  3  2  0\n 17 18  1  0\n 18  6  1  0\n 19 17  2  0\n 20  1  1  0\n 21 13  1  0\n 22 21  2  0\n 23 21  1  0\n 24 22  1  0\n 25 23  2  0\n 26 25  1  0\n  9  2  1  0\n  6  3  1  0\n 24 26  2  0\nM  END\n> <chembl_id>\nCHEMBL2107455\n\n> <chembl_pref_name>\nIGURATIMOD",
+    "standard_inchi": "InChI=1S/C17H14N2O6S/c1-26(22,23)19-13-8-15-12(17(21)14(9-24-15)18-10-20)7-16(13)25-11-5-3-2-4-6-11/h2-10,19H,1H3,(H,18,20)",
+    "standard_inchi_key": "ANMATWQYLIFGOK-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Careram",
+      "syn_type": "OTHER",
+      "synonyms": "CARERAM"
+    },
+    {
+      "molecule_synonym": "Iguratimod",
+      "syn_type": "INN",
+      "synonyms": "IGURATIMOD"
+    },
+    {
+      "molecule_synonym": "Iguratimod",
+      "syn_type": "JAN",
+      "synonyms": "IGURATIMOD"
+    },
+    {
+      "molecule_synonym": "Iguratimod",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "IGURATIMOD"
+    },
+    {
+      "molecule_synonym": "Iguratimod",
+      "syn_type": "OTHER",
+      "synonyms": "IGURATIMOD"
+    },
+    {
+      "molecule_synonym": "Kolbet",
+      "syn_type": "OTHER",
+      "synonyms": "KOLBET"
+    },
+    {
+      "molecule_synonym": "T-614",
+      "syn_type": "OTHER",
+      "synonyms": "T-614"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 1,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "IGURATIMOD",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-imod",
+  "usan_stem_definition": "immunomodulators",
+  "usan_substem": "-imod",
+  "usan_year": null,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

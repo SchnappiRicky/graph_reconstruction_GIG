@@ -1,0 +1,180 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5182,
+      "mechanism_comment": "Discontinued early due to thromboses in some recipients.",
+      "mechanism_of_action": "CD40 ligand inhibitor",
+      "mechanism_refs": [],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108767",
+      "parent_molecule_chembl_id": "CHEMBL2108767",
+      "record_id": 1696542,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6059,
+      "mechanism_comment": "Binds to CD154, block CD154 binding to CD40 and inhibit T cell-dependent B cell differentiation, The latter activity is independent of FcR binding.",
+      "mechanism_of_action": "CD40 ligand inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "11360929",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11360929"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108747",
+      "parent_molecule_chembl_id": "CHEMBL2108747",
+      "record_id": 1696522,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 6120,
+      "mechanism_comment": "Inhibits, dose-dependently, antigen-specific immune responses to tetanus toxoid in Cynomolgus monkeys.",
+      "mechanism_of_action": "CD40 ligand inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "25784719",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25784719"
+        },
+        {
+          "ref_id": "26335795",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/26335795"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109478",
+      "parent_molecule_chembl_id": "CHEMBL2109478",
+      "record_id": 1706986,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7966,
+      "mechanism_comment": null,
+      "mechanism_of_action": "CD40 ligand antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.abbvie.com/our-science/pipeline/abbv-323.html",
+          "ref_type": "Other",
+          "ref_url": "https://www.abbvie.com/our-science/pipeline/abbv-323.html"
+        },
+        {
+          "ref_id": "31382872",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/31382872"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4298212",
+      "parent_molecule_chembl_id": "CHEMBL4298212",
+      "record_id": 3133911,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8255,
+      "mechanism_comment": null,
+      "mechanism_of_action": "CD40 ligand inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "NCT04322149",
+          "ref_type": "ClinicalTrials",
+          "ref_url": "https://www.clinicaltrials.gov/ct2/show/NCT04322149"
+        },
+        {
+          "ref_id": "https://eledon.com/research-and-development/at-1501_anti-cd40l-antibody/",
+          "ref_type": "Other",
+          "ref_url": "https://eledon.com/research-and-development/at-1501_anti-cd40l-antibody/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4594460",
+      "parent_molecule_chembl_id": "CHEMBL4594460",
+      "record_id": 3461130,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 8334,
+      "mechanism_comment": null,
+      "mechanism_of_action": "CD40 ligand antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://acrabstracts.org/abstract/pharmacokinetics-pharmacodynamics-and-immunogenicity-of-medi4920-a-novel-engineered-cd40-ligand-antagonist-in-healthy-volunteers/",
+          "ref_type": "Other",
+          "ref_url": "https://acrabstracts.org/abstract/pharmacokinetics-pharmacodynamics-and-immunogenicity-of-medi4920-a-novel-engineered-cd40-ligand-antagonist-in-healthy-volunteers/"
+        },
+        {
+          "ref_id": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.14897",
+          "ref_type": "Other",
+          "ref_url": "https://bpspubs.onlinelibrary.wiley.com/doi/10.1111/bph.14897"
+        },
+        {
+          "ref_id": "https://vielabio.com/products-pipeline/pipeline/",
+          "ref_type": "Other",
+          "ref_url": "https://vielabio.com/products-pipeline/pipeline/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4594331",
+      "parent_molecule_chembl_id": "CHEMBL4594331",
+      "record_id": 3460994,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 6
+  }
+}

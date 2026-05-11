@@ -1,0 +1,239 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Protein SGT1 homolog",
+      "score": 17.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL6066526",
+      "target_components": [
+        {
+          "accession": "Q9Y2Z0",
+          "component_description": "Protein SGT1 homolog",
+          "component_id": 23717,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Protein 40-6-3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Protein SGT1 homolog",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Sgt1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SUGT1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Suppressor of G2 allele of SKP1 homolog",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9Y2Z0",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "GO:0000151",
+              "xref_name": "ubiquitin ligase complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000776",
+              "xref_name": "kinetochore",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016604",
+              "xref_name": "nuclear body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051087",
+              "xref_name": "protein-folding chaperone binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0106222",
+              "xref_name": "lncRNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007051",
+              "xref_name": "spindle organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0014841",
+              "xref_name": "skeletal muscle satellite cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031647",
+              "xref_name": "regulation of protein stability",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051382",
+              "xref_name": "kinetochore assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:16987",
+              "xref_name": "SUGT1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9Y2Z0",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR007052",
+              "xref_name": "CS_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR007699",
+              "xref_name": "SGS_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR008978",
+              "xref_name": "HSP20-like_chaperone",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011990",
+              "xref_name": "TPR-like_helical_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR019734",
+              "xref_name": "TPR_rpt",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR044563",
+              "xref_name": "Sgt1-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR45862",
+              "xref_name": "PROTEIN SGT1 HOMOLOG",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1RL1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "PF04969",
+              "xref_name": "CS",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF05002",
+              "xref_name": "SGS",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF13432",
+              "xref_name": "TPR_16",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA134880121",
+              "xref_name": "SGT1 homolog, MIS12 kinetochore complex assembly cochaperone",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9Y2Z0",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-844456",
+              "xref_name": "The NLRP3 inflammasome",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9660826",
+              "xref_name": "Purinergic signaling in leishmaniasis infection",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A2A303",
+              "xref_name": "Protein SGT1 homolog",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5JAK5",
+              "xref_name": "Protein SGT1 homolog",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5TAM6",
+              "xref_name": "Protein SGT1 homolog",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q6VXY6",
+              "xref_name": "Protein SGT1 homolog",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9Y2Z0",
+              "xref_name": "Protein SGT1 homolog",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

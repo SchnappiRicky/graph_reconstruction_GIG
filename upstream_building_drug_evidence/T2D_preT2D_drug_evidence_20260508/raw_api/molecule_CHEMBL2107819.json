@@ -1,0 +1,97 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2107819",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL4802237",
+    "molecule_chembl_id": "CHEMBL2107819",
+    "parent_chembl_id": "CHEMBL2107819"
+  },
+  "molecule_properties": {
+    "alogp": "1.85",
+    "aromatic_rings": 1,
+    "full_molformula": "C24H33ClN4O6",
+    "full_mwt": "509.00",
+    "hba": 7,
+    "hbd": 3,
+    "heavy_atoms": 35,
+    "mw_freebase": "509.00",
+    "np_likeness_score": "-0.29",
+    "num_ro5_violations": 1,
+    "psa": "140.06",
+    "qed_weighted": "0.38",
+    "ro3_pass": "N",
+    "rtb": 7
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CCO[C@@H]1OC(=O)C[C@@H]1NC(=O)[C@@H]1CCCN1C(=O)[C@@H](NC(=O)c1ccc(N)c(Cl)c1)C(C)(C)C",
+    "molfile": "\n     RDKit          2D\n\n 35 37  0  0  0  0  0  0  0  0999 V2000\n    3.9749   -2.4091    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.8699   -2.2913    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.5622   -2.7035    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.7007   -3.0987    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   11.0372   -0.6778    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   10.2372   -0.8796    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   11.6119   -1.2697    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.2160   -2.6851    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.3909   -1.8789    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    7.5441   -2.5512    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.9287   -3.1006    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.6797   -0.2688    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.8599   -0.3606    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.4522   -1.0778    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    8.5192    0.3908    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    9.1286    0.9470    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    8.9628    1.7552    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    9.8458    0.5393    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    1.6723   -0.2069    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    2.2855   -0.7588    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    0.8720   -0.4075    0.0000 Cl  0  0  0  0  0  0  0  0  0  0  0  0\n    1.8437    0.6001    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    1.2305    1.1521    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    2.6283    0.8552    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.2414    0.3033    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.0700   -0.5037    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    3.6522   -1.0883    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    4.4573   -0.9083    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n    3.4994   -1.8990    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    5.0469   -1.4855    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    5.8414   -1.2635    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    6.1328   -0.4916    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    7.6272   -1.0834    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n    7.2816   -0.3343    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n    7.2117   -1.7961    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  4  1  0\n  3  2  1  0\n  5  6  1  0\n  7  5  1  0\n  8  9  1  0\n  9 31  1  0\n 10 11  1  0\n 11  8  1  0\n 12 18  1  0\n 12  6  1  1\n 13 14  1  1\n 13 15  1  0\n 13 12  1  0\n 14 33  1  0\n 15 16  1  0\n 16 17  2  0\n 18 16  1  0\n 19 20  1  0\n 19 22  2  0\n 20 26  2  0\n 21 19  1  0\n 22 23  1  0\n 22 24  1  0\n 24 25  2  0\n 26 25  1  0\n 26 27  1  0\n 27 29  2  0\n 28 27  1  0\n 30 28  1  0\n 30  2  1  6\n 30 31  1  0\n 31 32  2  0\n 33 34  2  0\n 10 35  1  0\n 35  9  1  0\n 35 33  1  6\nM  END\n> <chembl_id>\nCHEMBL2107819\n\n> <chembl_pref_name>\nBELNACASAN",
+    "standard_inchi": "InChI=1S/C24H33ClN4O6/c1-5-34-23-16(12-18(30)35-23)27-21(32)17-7-6-10-29(17)22(33)19(24(2,3)4)28-20(31)13-8-9-15(26)14(25)11-13/h8-9,11,16-17,19,23H,5-7,10,12,26H2,1-4H3,(H,27,32)(H,28,31)/t16-,17-,19+,23+/m0/s1",
+    "standard_inchi_key": "SJDDOCKBXFJEJB-MOKWFATOSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Belcanasan",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "BELCANASAN"
+    },
+    {
+      "molecule_synonym": "Belnacasan",
+      "syn_type": "INN",
+      "synonyms": "BELNACASAN"
+    },
+    {
+      "molecule_synonym": "Belnacasan",
+      "syn_type": "OTHER",
+      "synonyms": "BELNACASAN"
+    },
+    {
+      "molecule_synonym": "Belnacasan",
+      "syn_type": "USAN",
+      "synonyms": "BELNACASAN"
+    },
+    {
+      "molecule_synonym": "VX-765",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "VX-765"
+    },
+    {
+      "molecule_synonym": "Vx-765",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "VX-765"
+    },
+    {
+      "molecule_synonym": "VX765",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "VX765"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "BELNACASAN",
+  "prodrug": 1,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-casan",
+  "usan_stem_definition": "caspase inhibitors",
+  "usan_substem": "-casan",
+  "usan_year": 2012,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

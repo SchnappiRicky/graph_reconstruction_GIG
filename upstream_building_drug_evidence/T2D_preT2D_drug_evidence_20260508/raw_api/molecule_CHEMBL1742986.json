@@ -1,0 +1,86 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 25538,
+        "component_type": "Protein",
+        "description": "Sequence",
+        "organism": null,
+        "sequence": "AMRSCPEEQYWDPLLGTCMSCKTICNHQSQRTCAAFCRSLSCRKEQGKFYDHLLRDCISCASICGQHPKQCAYFCENKLRSEPKSSDKTHTCPPCPAPEAEGAPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPSSIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK",
+        "tax_id": null
+      }
+    ],
+    "description": "Atacicept (immunoadhesin)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1742986"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL1742986",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1742986",
+    "molecule_chembl_id": "CHEMBL1742986",
+    "parent_chembl_id": "CHEMBL1742986"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Atacicept",
+      "syn_type": "INN",
+      "synonyms": "ATACICEPT"
+    },
+    {
+      "molecule_synonym": "Atacicept",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "ATACICEPT"
+    },
+    {
+      "molecule_synonym": "Atacicept",
+      "syn_type": "OTHER",
+      "synonyms": "ATACICEPT"
+    },
+    {
+      "molecule_synonym": "Atacicept",
+      "syn_type": "USAN",
+      "synonyms": "ATACICEPT"
+    },
+    {
+      "molecule_synonym": "TACI-FC5",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TACI-FC5"
+    },
+    {
+      "molecule_synonym": "TACI-IG",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "TACI-IG"
+    }
+  ],
+  "molecule_type": "Protein",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "ATACICEPT",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-cept",
+  "usan_stem_definition": "receptor molecules or membrane ligands, natural, modified or modified",
+  "usan_substem": "-cept",
+  "usan_year": 2007,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

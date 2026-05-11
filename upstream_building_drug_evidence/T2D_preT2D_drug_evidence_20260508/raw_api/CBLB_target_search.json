@@ -1,0 +1,640 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "E3 ubiquitin-protein ligase CBL-B",
+      "score": 21.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4879459",
+      "target_components": [
+        {
+          "accession": "Q13191",
+          "component_description": "E3 ubiquitin-protein ligase CBL-B",
+          "component_id": 19863,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.3.2.27",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "Casitas B-lineage lymphoma proto-oncogene b",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CBLB",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "E3 ubiquitin-protein ligase CBL-B",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "RING finger protein 56",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "RING-type E3 ubiquitin transferase CBL-B",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "RNF56 ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "SH3-binding protein CBL-B",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Signal transduction protein CBL-B",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q13191",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q13191",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0045121",
+              "xref_name": "membrane raft",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098794",
+              "xref_name": "postsynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001784",
+              "xref_name": "phosphotyrosine residue binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0004842",
+              "xref_name": "ubiquitin-protein transferase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005509",
+              "xref_name": "calcium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008270",
+              "xref_name": "zinc ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016740",
+              "xref_name": "transferase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030971",
+              "xref_name": "receptor tyrosine kinase binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061630",
+              "xref_name": "ubiquitin protein ligase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002669",
+              "xref_name": "positive regulation of T cell anergy",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002870",
+              "xref_name": "T cell anergy",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007166",
+              "xref_name": "cell surface receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0023051",
+              "xref_name": "regulation of signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030155",
+              "xref_name": "regulation of cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031398",
+              "xref_name": "positive regulation of protein ubiquitination",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035739",
+              "xref_name": "CD4-positive, alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042059",
+              "xref_name": "negative regulation of epidermal growth factor receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045732",
+              "xref_name": "positive regulation of protein catabolic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050860",
+              "xref_name": "negative regulation of T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0099149",
+              "xref_name": "regulation of postsynaptic neurotransmitter receptor internalization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000562",
+              "xref_name": "negative regulation of CD4-positive, alpha-beta T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000583",
+              "xref_name": "regulation of platelet-derived growth factor receptor-alpha signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:1542",
+              "xref_name": "CBLB",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q13191",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001841",
+              "xref_name": "Znf_RING",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003153",
+              "xref_name": "Adaptor_Cbl_N_hlx",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011992",
+              "xref_name": "EF-hand-dom_pair",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR013083",
+              "xref_name": "Znf_RING/FYVE/PHD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014741",
+              "xref_name": "Adaptor_Cbl_EF_hand-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014742",
+              "xref_name": "Adaptor_Cbl_SH2-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015940",
+              "xref_name": "UBA",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR017907",
+              "xref_name": "Znf_RING_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR018957",
+              "xref_name": "Znf_C3HC4_RING-type",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024159",
+              "xref_name": "Cbl_PTB",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR024162",
+              "xref_name": "Adaptor_Cbl",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036537",
+              "xref_name": "Adaptor_Cbl_N_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036860",
+              "xref_name": "SH2_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR039520",
+              "xref_name": "CBL-B_RING-HC",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR23007",
+              "xref_name": "CBL",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR23007:SF3",
+              "xref_name": "E3 UBIQUITIN-PROTEIN LIGASE CBL-B",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2AK5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2BZ8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2DO6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2J6F",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2JNH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2LDR",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OOA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2OOB",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3PFV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3VGO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3ZNI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8GCY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QNG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QNH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QNI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QTG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QTH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QTJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8QTK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VW4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8VW5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9FQH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9FQI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "9FQJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2AK5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2BZ8",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2J6F",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OOA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2OOB",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3PFV",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3VGO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3ZNI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8GCY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QNG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QNH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QNI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QTG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QTH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QTJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8QTK",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8VW4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8VW5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "9FQH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "9FQI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "9FQJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00097",
+              "xref_name": "zf-C3HC4",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02262",
+              "xref_name": "Cbl_N",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02761",
+              "xref_name": "Cbl_N2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF02762",
+              "xref_name": "Cbl_N3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26116",
+              "xref_name": "Cbl proto-oncogene B",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q13191",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-983168",
+              "xref_name": "Antigen processing: Ubiquitination & Proteasome degradation",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8K9S7",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7WNM4",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13191",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13192",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q13193",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q3LIC0",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q63Z43",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8IVC5",
+              "xref_name": "E3 ubiquitin-protein ligase CBL-B",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

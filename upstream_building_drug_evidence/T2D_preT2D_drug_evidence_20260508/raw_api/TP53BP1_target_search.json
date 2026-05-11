@@ -1,0 +1,1131 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "TP53-binding protein 1",
+      "score": 18.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL2424509",
+      "target_components": [
+        {
+          "accession": "Q12888",
+          "component_description": "TP53-binding protein 1",
+          "component_id": 8214,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "53BP1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p53-binding protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p53BP1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TP53-binding protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TP53BP1",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q12888",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q12888",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000775",
+              "xref_name": "chromosome, centromeric region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000776",
+              "xref_name": "kinetochore",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000781",
+              "xref_name": "chromosome, telomeric region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005657",
+              "xref_name": "replication fork",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005694",
+              "xref_name": "chromosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016604",
+              "xref_name": "nuclear body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0035861",
+              "xref_name": "site of double-strand break",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:1990391",
+              "xref_name": "DNA repair complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0002039",
+              "xref_name": "p53 binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003677",
+              "xref_name": "DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003684",
+              "xref_name": "damaged DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003712",
+              "xref_name": "transcription coregulator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035064",
+              "xref_name": "methylated histone binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042162",
+              "xref_name": "telomeric DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042393",
+              "xref_name": "histone binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0043565",
+              "xref_name": "sequence-specific DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061629",
+              "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061649",
+              "xref_name": "ubiquitin-modified histone reader activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140566",
+              "xref_name": "histone reader activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0000077",
+              "xref_name": "DNA damage checkpoint signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006281",
+              "xref_name": "DNA repair",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006303",
+              "xref_name": "double-strand break repair via nonhomologous end joining",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045830",
+              "xref_name": "positive regulation of isotype switching",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045893",
+              "xref_name": "positive regulation of DNA-templated transcription",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045944",
+              "xref_name": "positive regulation of transcription by RNA polymerase II",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051260",
+              "xref_name": "protein homooligomerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071481",
+              "xref_name": "cellular response to X-ray",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097680",
+              "xref_name": "double-strand break repair via classical nonhomologous end joining",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1990166",
+              "xref_name": "protein localization to site of double-strand break",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000042",
+              "xref_name": "negative regulation of double-strand break repair via homologous recombination",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:11999",
+              "xref_name": "TP53BP1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q12888",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001357",
+              "xref_name": "BRCT_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014722",
+              "xref_name": "Rib_uL2_dom2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015125",
+              "xref_name": "53-BP1_Tudor",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036420",
+              "xref_name": "BRCT_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR047249",
+              "xref_name": "BRCT_p53bp1-like_rpt1",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR047250",
+              "xref_name": "BRCT_p53bp1-like_rpt2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR047252",
+              "xref_name": "TP53BP1-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR15321",
+              "xref_name": "TUMOR SUPPRESSOR P53-BINDING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR15321:SF3",
+              "xref_name": "TP53-BINDING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1GZH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1KZY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1XNI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2G3R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2IG0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2LVM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2MWO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2MWP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3LGF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3LGL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3LH0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4CRI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4RG2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4X34",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5ECG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5J26",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5KGF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5Z78",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "5ZCJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6CO1",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6CO2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6IU7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6IUA",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MXX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MXY",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MXZ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6MY0",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6RML",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6RMM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6UPT",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6VA5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6VIP",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7LIN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7LIO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7YQK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8EOM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8F0W",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8HKW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8SVG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8SVH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8SVI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8SVJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8SWJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8T2D",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8U4U",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1GZH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1KZY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1XNI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2G3R",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2IG0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3LGF",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3LGL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3LH0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4CRI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4RG2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4X34",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5ECG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5J26",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5Z78",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "5ZCJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6CO1",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6CO2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6IU7",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6IUA",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6MXX",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6MXY",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6MXZ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6MY0",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6RML",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6RMM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6UPT",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6VA5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6VIP",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7LIN",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7LIO",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8EOM",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8F0W",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8HKW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8SVG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8SVH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8SVI",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8SVJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8SWJ",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8T2D",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8U4U",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF09038",
+              "xref_name": "53-BP1_Tudor",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF18428",
+              "xref_name": "BRCT_3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA36680",
+              "xref_name": "tumor protein p53 binding protein 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q12888",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-3232118",
+              "xref_name": "SUMOylation of transcription factors",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5693565",
+              "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5693571",
+              "xref_name": "Nonhomologous End-Joining (NHEJ)",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5693607",
+              "xref_name": "Processing of DNA double-strand break ends",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69473",
+              "xref_name": "G2/M DNA damage checkpoint",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "F8VY86",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q12888",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q2M1Z7",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q4LE46",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5FWZ3",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z3U4",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "TP53-binding protein 1",
+      "score": 17.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4295790",
+      "target_components": [
+        {
+          "accession": "P70399",
+          "component_description": "TP53-binding protein 1",
+          "component_id": 18210,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "53BP1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p53-binding protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p53BP1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=Trp53bp1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "TP53-binding protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Tp53bp1",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "P70399",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "P70399",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000775",
+              "xref_name": "chromosome, centromeric region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000776",
+              "xref_name": "kinetochore",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0000781",
+              "xref_name": "chromosome, telomeric region",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005654",
+              "xref_name": "nucleoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005657",
+              "xref_name": "replication fork",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005694",
+              "xref_name": "chromosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016604",
+              "xref_name": "nuclear body",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0035861",
+              "xref_name": "site of double-strand break",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:1990391",
+              "xref_name": "DNA repair complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0002039",
+              "xref_name": "p53 binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003677",
+              "xref_name": "DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003684",
+              "xref_name": "damaged DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0003712",
+              "xref_name": "transcription coregulator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0035064",
+              "xref_name": "methylated histone binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0042162",
+              "xref_name": "telomeric DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0043565",
+              "xref_name": "sequence-specific DNA binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061629",
+              "xref_name": "RNA polymerase II-specific DNA-binding transcription factor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061649",
+              "xref_name": "ubiquitin-modified histone reader activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0140566",
+              "xref_name": "histone reader activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006281",
+              "xref_name": "DNA repair",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006303",
+              "xref_name": "double-strand break repair via nonhomologous end joining",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006974",
+              "xref_name": "DNA damage response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045830",
+              "xref_name": "positive regulation of isotype switching",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045944",
+              "xref_name": "positive regulation of transcription by RNA polymerase II",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0051260",
+              "xref_name": "protein homooligomerization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071481",
+              "xref_name": "cellular response to X-ray",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097680",
+              "xref_name": "double-strand break repair via classical nonhomologous end joining",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1990166",
+              "xref_name": "protein localization to site of double-strand break",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000042",
+              "xref_name": "negative regulation of double-strand break repair via homologous recombination",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "P70399",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001357",
+              "xref_name": "BRCT_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR014722",
+              "xref_name": "Rib_uL2_dom2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015125",
+              "xref_name": "53-BP1_Tudor",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036420",
+              "xref_name": "BRCT_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR047249",
+              "xref_name": "BRCT_p53bp1-like_rpt1",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR047250",
+              "xref_name": "BRCT_p53bp1-like_rpt2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR047252",
+              "xref_name": "TP53BP1-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR15321",
+              "xref_name": "TUMOR SUPPRESSOR P53-BINDING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR15321:SF3",
+              "xref_name": "TP53-BINDING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1SSF",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "PF09038",
+              "xref_name": "53-BP1_Tudor",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF18428",
+              "xref_name": "BRCT_3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-3232118",
+              "xref_name": "SUMOylation of transcription factors",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-5693565",
+              "xref_name": "Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-5693571",
+              "xref_name": "Nonhomologous End-Joining (NHEJ)",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-5693607",
+              "xref_name": "Processing of DNA double-strand break ends",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-MMU-69473",
+              "xref_name": "G2/M DNA damage checkpoint",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A2AU89",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "A2AU91",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "P70399",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q68FD0",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q8CI97",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q91YC9",
+              "xref_name": "TP53-binding protein 1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6077,
+      "mechanism_comment": "Diminishes inflammatory responses induced by  i.v. injection of LPS. ",
+      "mechanism_of_action": "Monocyte differentiation antigen CD14 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "11207321",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11207321"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109330",
+      "parent_molecule_chembl_id": "CHEMBL2109330",
+      "record_id": 1706779,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2384897",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8973,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Monocyte differentiation antigen CD14 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "4116867",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/24116867/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297333",
+      "parent_molecule_chembl_id": "CHEMBL4297333",
+      "record_id": 3132900,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2384897",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  }
+}

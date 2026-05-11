@@ -1,0 +1,278 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "FYN-binding protein 1",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL6066316",
+      "target_components": [
+        {
+          "accession": "O15117",
+          "component_description": "FYN-binding protein 1",
+          "component_id": 23507,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "ADAP",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Adhesion and degranulation promoting adaptor protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FYB",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "FYB1",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "FYB-120/130",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FYN-binding protein 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FYN-T-binding protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "p120/p130",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SLAP-130",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "SLAP130",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "SLP-76-associated phosphoprotein",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O15117",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O15117",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0015629",
+              "xref_name": "actin cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0032991",
+              "xref_name": "protein-containing complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070161",
+              "xref_name": "anchoring junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008289",
+              "xref_name": "lipid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007229",
+              "xref_name": "integrin-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0050852",
+              "xref_name": "T cell receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0072659",
+              "xref_name": "protein localization to plasma membrane",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:4036",
+              "xref_name": "FYB1",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O15117",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001452",
+              "xref_name": "SH3_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR029294",
+              "xref_name": "hSH3",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR035540",
+              "xref_name": "FYB_hSH3",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036028",
+              "xref_name": "SH3-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR043443",
+              "xref_name": "FYB1/2-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR16830",
+              "xref_name": "SH2 CONTAINING ADAPTOR PRAM-1 RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR16830:SF13",
+              "xref_name": "FYN-BINDING PROTEIN 1",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1RI9",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2GTJ",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2GTO",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "PF07653",
+              "xref_name": "SH3_2",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF14603",
+              "xref_name": "hSH3",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA28452",
+              "xref_name": "FYN binding protein 1",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O15117",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-202433",
+              "xref_name": "Generation of second messenger molecules",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-391160",
+              "xref_name": "Signal regulatory protein family interactions",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A8K2Y8",
+              "xref_name": "FYN-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B4DLN2",
+              "xref_name": "FYN-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "E9PBV9",
+              "xref_name": "FYN-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O00359",
+              "xref_name": "FYN-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15117",
+              "xref_name": "FYN-binding protein 1",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NZI9",
+              "xref_name": "FYN-binding protein 1",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

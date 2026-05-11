@@ -1,0 +1,22 @@
+| Target | Candidate Drug | Original Citation | Validation Status (validated/removed/replaced_placeholder) | Validation Note |
+| --- | --- | --- | --- | --- |
+| PYCARD | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| RALA | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| RALB | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| RALBP1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| RAPGEF1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| RELB | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| RGL1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| RGL2 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| RHOQ | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| RNASEL | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| RNF125 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| SAV1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| SIAH1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| SIKE1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| SIPA1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| SKAP1 | No validated drug | No direct evidence found | replaced_placeholder | No human ChEMBL target match or no curated PubMed-linked mechanism found. |
+| SKP1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| STING1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| STK3 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |
+| SUGT1 | No validated drug | No direct evidence found | replaced_placeholder | No curated mechanism row with PubMed citation was available in ChEMBL. |

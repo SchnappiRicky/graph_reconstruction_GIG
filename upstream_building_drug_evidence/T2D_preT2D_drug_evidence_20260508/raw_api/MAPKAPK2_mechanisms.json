@@ -1,0 +1,46 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 1,
+      "mec_id": 4131,
+      "mechanism_comment": null,
+      "mechanism_of_action": "MAP kinase-activated protein kinase 2 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "http://www.astx.com/pipeline/products/clinical",
+          "ref_type": "Other",
+          "ref_url": "http://www.astx.com/pipeline/products/clinical"
+        },
+        {
+          "ref_id": "22781553",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/22781553"
+        },
+        {
+          "ref_id": "25840982",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25840982"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3544960",
+      "parent_molecule_chembl_id": "CHEMBL3544960",
+      "record_id": 2472770,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2208",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

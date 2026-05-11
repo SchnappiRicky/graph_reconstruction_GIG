@@ -1,0 +1,72 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Cedelizumab (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108266"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL2108266",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108266",
+    "molecule_chembl_id": "CHEMBL2108266",
+    "parent_chembl_id": "CHEMBL2108266"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Cedelizumab",
+      "syn_type": "INN",
+      "synonyms": "CEDELIZUMAB"
+    },
+    {
+      "molecule_synonym": "Cedelizumab",
+      "syn_type": "USAN",
+      "synonyms": "CEDELIZUMAB"
+    },
+    {
+      "molecule_synonym": "ORTHOCLONE OKT4 A",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "ORTHOCLONE OKT4 A"
+    },
+    {
+      "molecule_synonym": "RWJ 49004",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RWJ 49004"
+    },
+    {
+      "molecule_synonym": "RWJ-49004",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "RWJ-49004"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "CEDELIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 1996,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

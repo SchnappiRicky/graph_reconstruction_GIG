@@ -1,0 +1,67 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Galiximab (chimeric mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2109191"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL2109191",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2109191",
+    "molecule_chembl_id": "CHEMBL2109191",
+    "parent_chembl_id": "CHEMBL2109191"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Galiximab",
+      "syn_type": "USAN",
+      "synonyms": "Galiximab"
+    },
+    {
+      "molecule_synonym": "Galiximab",
+      "syn_type": "INN",
+      "synonyms": "GALIXIMAB"
+    },
+    {
+      "molecule_synonym": "Galiximab",
+      "syn_type": "OTHER",
+      "synonyms": "GALIXIMAB"
+    },
+    {
+      "molecule_synonym": "IDEC-114",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "IDEC-114"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "GALIXIMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies: chimeric",
+  "usan_substem": "-mab (-ximab)",
+  "usan_year": 2003,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

@@ -1,0 +1,671 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "CASP8 and FADD-like apoptosis regulator",
+      "score": 11.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL1955713",
+      "target_components": [
+        {
+          "accession": "O15519",
+          "component_description": "CASP8 and FADD-like apoptosis regulator",
+          "component_id": 5775,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CASH",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CASH",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CASP8 and FADD-like apoptosis regulator",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CASP8 and FADD-like apoptosis regulator subunit p12",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CASP8 and FADD-like apoptosis regulator subunit p43",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CASP8AP1",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Caspase-eight-related protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Caspase homolog",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Caspase-like apoptosis regulatory protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Casper",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Cellular FLICE-like inhibitory protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CFLAR",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "c-FLIP",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "CLARP",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CLARP",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FADD-like antiapoptotic molecule 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "FLAME-1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "I-FLICE",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Inhibitor of FLICE",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MACH-related inducer of toxicity",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MRIT",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MRIT",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Usurpin",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O15519",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O15519",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005829",
+              "xref_name": "cytosol",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031264",
+              "xref_name": "death-inducing signaling complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031265",
+              "xref_name": "CD95 death-inducing signaling complex",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0097342",
+              "xref_name": "ripoptosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0002020",
+              "xref_name": "protease binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0004197",
+              "xref_name": "cysteine-type endopeptidase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005123",
+              "xref_name": "death receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0008047",
+              "xref_name": "enzyme activator activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001666",
+              "xref_name": "response to hypoxia",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006508",
+              "xref_name": "proteolysis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006915",
+              "xref_name": "apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007519",
+              "xref_name": "skeletal muscle tissue development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010667",
+              "xref_name": "negative regulation of cardiac muscle cell apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0010976",
+              "xref_name": "positive regulation of neuron projection development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0014842",
+              "xref_name": "regulation of skeletal muscle satellite cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0014866",
+              "xref_name": "skeletal myofibril assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030182",
+              "xref_name": "neuron differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030216",
+              "xref_name": "keratinocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030218",
+              "xref_name": "erythrocyte differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032869",
+              "xref_name": "cellular response to insulin stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042981",
+              "xref_name": "regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043066",
+              "xref_name": "negative regulation of apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043403",
+              "xref_name": "skeletal muscle tissue regeneration",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043525",
+              "xref_name": "positive regulation of neuron apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0060544",
+              "xref_name": "regulation of necroptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070374",
+              "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071392",
+              "xref_name": "cellular response to estradiol stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071456",
+              "xref_name": "cellular response to hypoxia",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071549",
+              "xref_name": "cellular response to dexamethasone stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071732",
+              "xref_name": "cellular response to nitric oxide",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0072126",
+              "xref_name": "positive regulation of glomerular mesangial cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097194",
+              "xref_name": "execution phase of apoptosis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1901740",
+              "xref_name": "negative regulation of myoblast fusion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1902042",
+              "xref_name": "negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903055",
+              "xref_name": "positive regulation of extracellular matrix organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903427",
+              "xref_name": "negative regulation of reactive oxygen species biosynthetic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903845",
+              "xref_name": "negative regulation of cellular response to transforming growth factor beta stimulus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1903944",
+              "xref_name": "negative regulation of hepatocyte apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1904036",
+              "xref_name": "negative regulation of epithelial cell apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2000347",
+              "xref_name": "positive regulation of hepatocyte proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:2001237",
+              "xref_name": "negative regulation of extrinsic apoptotic signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:1876",
+              "xref_name": "CFLAR",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O15519",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001309",
+              "xref_name": "Pept_C14_p20",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001875",
+              "xref_name": "DED_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011029",
+              "xref_name": "DEATH-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011600",
+              "xref_name": "Pept_C14_caspase",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR015917",
+              "xref_name": "Pept_C14A",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR029030",
+              "xref_name": "Caspase-like_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR48169",
+              "xref_name": "DED DOMAIN-CONTAINING PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR48169:SF3",
+              "xref_name": "CASP8 AND FADD LIKE APOPTOSIS REGULATOR",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "2N5R",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3H11",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3H13",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6M6O",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7DEE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7LXC",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YBX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YD7",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YD8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YM4",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YM5",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YM6",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YNI",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YNK",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YNL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YNM",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "8YNN",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3H11",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3H13",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8YD7",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8YD8",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8YM4",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8YM5",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "8YM6",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00656",
+              "xref_name": "Peptidase_C14",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF01335",
+              "xref_name": "DED",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26425",
+              "xref_name": "CASP8 and FADD like apoptosis regulator",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O15519",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-3371378",
+              "xref_name": "Regulation by c-FLIP",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5213460",
+              "xref_name": "RIPK1-mediated regulated necrosis",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5218900",
+              "xref_name": "CASP8 activity is inhibited",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5357905",
+              "xref_name": "Regulation of TNFR1 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-69416",
+              "xref_name": "Dimerization of procaspase-8",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-75158",
+              "xref_name": "TRAIL signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B4DJE0",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7Z9F9",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O14673",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O14674",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O14675",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15137",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15138",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15356",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15510",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O15519",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O43618",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O43619",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O43620",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O60458",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O60459",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q53TS6",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q54AF1",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96TE4",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9UEW1",
+              "xref_name": "CASP8 and FADD-like apoptosis regulator",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

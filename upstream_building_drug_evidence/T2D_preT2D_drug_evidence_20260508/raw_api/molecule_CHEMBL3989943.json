@@ -1,0 +1,92 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": null,
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 2,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "2.0",
+  "molecule_chembl_id": "CHEMBL3989943",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL3989943",
+    "molecule_chembl_id": "CHEMBL3989943",
+    "parent_chembl_id": "CHEMBL3989943"
+  },
+  "molecule_properties": {
+    "alogp": "-0.06",
+    "aromatic_rings": 0,
+    "full_molformula": "C4H7NO2S",
+    "full_mwt": "133.17",
+    "hba": 3,
+    "hbd": 0,
+    "heavy_atoms": 8,
+    "mw_freebase": "133.17",
+    "np_likeness_score": "-1.34",
+    "num_ro5_violations": 0,
+    "psa": "57.93",
+    "qed_weighted": "0.53",
+    "ro3_pass": "Y",
+    "rtb": 2
+  },
+  "molecule_structures": {
+    "canonical_smiles": "CS(=O)(=O)CCC#N",
+    "molfile": "\n     RDKit          2D\n\n  8  7  0  0  0  0  0  0  0  0999 V2000\n   -3.8376    1.2272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0126    1.2272    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0098    2.0698    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -3.0316    0.4024    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   -2.1876    1.2272    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -1.7751    1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.9501    1.9417    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   -0.1251    1.9417    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n  1  2  1  0\n  2  3  2  0\n  2  4  2  0\n  2  5  1  0\n  5  6  1  0\n  6  7  1  0\n  7  8  3  0\nM  END\n> <chembl_id>\nCHEMBL3989943\n\n> <chembl_pref_name>\nDAPANSUTRILE",
+    "standard_inchi": "InChI=1S/C4H7NO2S/c1-8(6,7)4-2-3-5/h2,4H2,1H3",
+    "standard_inchi_key": "LQFRYKBDZNPJSW-UHFFFAOYSA-N"
+  },
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Dapansutrile",
+      "syn_type": "INN",
+      "synonyms": "DAPANSUTRILE"
+    },
+    {
+      "molecule_synonym": "Dapansutrile",
+      "syn_type": "OTHER",
+      "synonyms": "DAPANSUTRILE"
+    },
+    {
+      "molecule_synonym": "Dapansutrile",
+      "syn_type": "USAN",
+      "synonyms": "DAPANSUTRILE"
+    },
+    {
+      "molecule_synonym": "Dapansutrilo",
+      "syn_type": "INN_SPANISH",
+      "synonyms": "DAPANSUTRILO"
+    },
+    {
+      "molecule_synonym": "OLT-1177",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "OLT-1177"
+    },
+    {
+      "molecule_synonym": "OLT1177",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "OLT1177"
+    }
+  ],
+  "molecule_type": "Small molecule",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "DAPANSUTRILE",
+  "prodrug": 0,
+  "structure_type": "MOL",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": null,
+  "usan_stem_definition": null,
+  "usan_substem": null,
+  "usan_year": 2016,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

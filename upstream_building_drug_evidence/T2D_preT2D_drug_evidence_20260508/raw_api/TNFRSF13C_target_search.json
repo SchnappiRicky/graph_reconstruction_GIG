@@ -1,0 +1,245 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "Tumor necrosis factor receptor superfamily member 13C",
+      "score": 16.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4630882",
+      "target_components": [
+        {
+          "accession": "Q96RJ3",
+          "component_description": "Tumor necrosis factor receptor superfamily member 13C",
+          "component_id": 19496,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "BAFF-R",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BAFFR",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "BAFF receptor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "B-cell-activating factor receptor",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BLyS receptor 3",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "BR3",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "CD_antigen=CD268",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TNFRSF13C",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Tumor necrosis factor receptor superfamily member 13C",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q96RJ3",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q96RJ3",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0038023",
+              "xref_name": "signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0002250",
+              "xref_name": "adaptive immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030890",
+              "xref_name": "positive regulation of B cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031295",
+              "xref_name": "T cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0031296",
+              "xref_name": "B cell costimulation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033209",
+              "xref_name": "tumor necrosis factor-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042102",
+              "xref_name": "positive regulation of T cell proliferation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:17755",
+              "xref_name": "TNFRSF13C",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q96RJ3",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR015336",
+              "xref_name": "TNFR_13C_TALL-1-bd",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR022338",
+              "xref_name": "TNFR_13C",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR043521",
+              "xref_name": "TNFR_13C/17",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR20437",
+              "xref_name": "TUMOR NECROSIS FACTOR RECEPTOR SUBFAMILY MEMBER 13/17",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR20437:SF2",
+              "xref_name": "TUMOR NECROSIS FACTOR RECEPTOR SUPERFAMILY MEMBER 13C",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1MPV",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1OQE",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1OSX",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2HFG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3V56",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "4V46",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1OQE",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2HFG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3V56",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "4V46",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF09256",
+              "xref_name": "BaffR-Tall_bind",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA38466",
+              "xref_name": "TNF receptor superfamily member 13C",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q96RJ3",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-5668541",
+              "xref_name": "TNFR2 non-canonical NF-kB pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-5676594",
+              "xref_name": "TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q96RJ3",
+              "xref_name": "Tumor necrosis factor receptor superfamily member 13C",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

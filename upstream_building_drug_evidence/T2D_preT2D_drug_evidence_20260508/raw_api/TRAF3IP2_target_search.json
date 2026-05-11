@@ -1,0 +1,400 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "E3 ubiquitin ligase TRAF3IP2",
+      "score": 17.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4523586",
+      "target_components": [
+        {
+          "accession": "O43734",
+          "component_description": "E3 ubiquitin ligase TRAF3IP2",
+          "component_id": 19027,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "2.3.2.27",
+              "syn_type": "EC_NUMBER"
+            },
+            {
+              "component_synonym": "ACT1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Adapter protein CIKS",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C6orf2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "C6orf4",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "C6orf5",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "C6orf6",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Connection to IKK and SAPK/JNK",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "E3 ubiquitin ligase TRAF3IP2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "E3 ubiquitin-protein ligase CIKS",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Nuclear factor NF-kappa-B activator 1",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=C6orf2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "TRAF3-interacting protein 2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "TRAF3IP2",
+              "syn_type": "GENE_SYMBOL"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "O43734",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "O43734",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031234",
+              "xref_name": "extrinsic component of cytoplasmic side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0016740",
+              "xref_name": "transferase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0061630",
+              "xref_name": "ubiquitin protein ligase activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001782",
+              "xref_name": "B cell homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001783",
+              "xref_name": "B cell apoptotic process",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0001822",
+              "xref_name": "kidney development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002230",
+              "xref_name": "positive regulation of defense response to virus by host",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002269",
+              "xref_name": "leukocyte activation involved in inflammatory response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002334",
+              "xref_name": "transitional two stage B cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002344",
+              "xref_name": "B cell affinity maturation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002447",
+              "xref_name": "eosinophil mediated immunity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006959",
+              "xref_name": "humoral immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007507",
+              "xref_name": "heart development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019221",
+              "xref_name": "cytokine-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0019724",
+              "xref_name": "B cell mediated immunity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0023019",
+              "xref_name": "signal transduction involved in regulation of gene expression",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0023035",
+              "xref_name": "CD40 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030217",
+              "xref_name": "T cell differentiation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0033209",
+              "xref_name": "tumor necrosis factor-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0034504",
+              "xref_name": "protein localization to nucleus",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0038173",
+              "xref_name": "interleukin-17A-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042092",
+              "xref_name": "type 2 immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042110",
+              "xref_name": "T cell activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0042119",
+              "xref_name": "neutrophil activation",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043123",
+              "xref_name": "positive regulation of canonical NF-kappaB signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043588",
+              "xref_name": "skin development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048255",
+              "xref_name": "mRNA stabilization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048535",
+              "xref_name": "lymph node development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0048536",
+              "xref_name": "spleen development",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070254",
+              "xref_name": "mucus secretion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0072538",
+              "xref_name": "T-helper 17 type immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0097400",
+              "xref_name": "interleukin-17-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0110012",
+              "xref_name": "protein localization to P-body",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:1990959",
+              "xref_name": "eosinophil homeostasis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:1343",
+              "xref_name": "TRAF3IP2",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "O43734",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR013568",
+              "xref_name": "SEFIR_dom",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR053047",
+              "xref_name": "E3_ubiq_ligase_TRAF3IP2",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR34257",
+              "xref_name": "ADAPTER PROTEIN CIKS",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR34257:SF2",
+              "xref_name": "E3 UBIQUITIN LIGASE TRAF3IP2",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF08357",
+              "xref_name": "SEFIR",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA25938",
+              "xref_name": "TRAF3 interacting protein 2",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "O43734",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "B2RAY9",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "E1P555",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "O43734",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q5R3A3",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z6Q1",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z6Q2",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q7Z6Q3",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H5W2",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9H6Y3",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NS14",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9UG72",
+              "xref_name": "E3 ubiquitin ligase TRAF3IP2",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    }
+  ]
+}

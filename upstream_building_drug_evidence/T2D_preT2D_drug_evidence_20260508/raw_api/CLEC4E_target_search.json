@@ -1,0 +1,472 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 2
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "C-type lectin domain family 4 member E",
+      "score": 15.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4105898",
+      "target_components": [
+        {
+          "accession": "Q9ULY5",
+          "component_description": "C-type lectin domain family 4 member E",
+          "component_id": 17750,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "CLEC4E",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "C-type lectin domain family 4 member E",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C-type lectin superfamily member 9",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Macrophage-inducible C-type lectin",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "MINCLE",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "MINCLE",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=CLECSF9",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9ULY5",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9ULY5",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0001891",
+              "xref_name": "phagocytic cup",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009897",
+              "xref_name": "external side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030670",
+              "xref_name": "phagocytic vesicle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005509",
+              "xref_name": "calcium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030246",
+              "xref_name": "carbohydrate binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038023",
+              "xref_name": "signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038187",
+              "xref_name": "pattern recognition receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051861",
+              "xref_name": "glycolipid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001819",
+              "xref_name": "positive regulation of cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002221",
+              "xref_name": "pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002292",
+              "xref_name": "T cell differentiation involved in immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0038094",
+              "xref_name": "Fc-gamma receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061760",
+              "xref_name": "antifungal innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:14555",
+              "xref_name": "CLEC4E",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q9ULY5",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001304",
+              "xref_name": "C-type_lectin-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016186",
+              "xref_name": "C-type_lectin-like/link_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016187",
+              "xref_name": "CTDL_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR033989",
+              "xref_name": "CD209-like_CTLD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050111",
+              "xref_name": "C-type_lectin/snaclec_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR22803",
+              "xref_name": "MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "3WH2",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3WH3",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3WH2",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3WH3",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00059",
+              "xref_name": "Lectin_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA26586",
+              "xref_name": "C-type lectin domain family 4 member E",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q9ULY5",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-5621480",
+              "xref_name": "Dectin-2 family",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "B2R6Q6",
+              "xref_name": "C-type lectin domain family 4 member E",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9ULY5",
+              "xref_name": "C-type lectin domain family 4 member E",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 9606
+    },
+    {
+      "cross_references": [],
+      "organism": "Mus musculus",
+      "pref_name": "C-type lectin domain family 4 member E",
+      "score": 13.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL4105754",
+      "target_components": [
+        {
+          "accession": "Q9R0Q8",
+          "component_description": "C-type lectin domain family 4 member E",
+          "component_id": 17608,
+          "component_type": "PROTEIN",
+          "relationship": "SINGLE PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Clec4e",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "C-type lectin domain family 4 member E",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "C-type lectin superfamily member 9",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Macrophage-inducible C-type lectin",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mincle",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Mincle",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Mincle {ECO:0000303|PubMed:18776906",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Synonyms=Clecsf9",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q9R0Q8",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q9R0Q8",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0001891",
+              "xref_name": "phagocytic cup",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016020",
+              "xref_name": "membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030670",
+              "xref_name": "phagocytic vesicle membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0042995",
+              "xref_name": "cell projection",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005509",
+              "xref_name": "calcium ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0030246",
+              "xref_name": "carbohydrate binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038023",
+              "xref_name": "signaling receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0038187",
+              "xref_name": "pattern recognition receptor activity",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0046872",
+              "xref_name": "metal ion binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0051861",
+              "xref_name": "glycolipid binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0001819",
+              "xref_name": "positive regulation of cytokine production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002221",
+              "xref_name": "pattern recognition receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0002292",
+              "xref_name": "T cell differentiation involved in immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0006955",
+              "xref_name": "immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0038094",
+              "xref_name": "Fc-gamma receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045087",
+              "xref_name": "innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0061760",
+              "xref_name": "antifungal innate immune response",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "IPR001304",
+              "xref_name": "C-type_lectin-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016186",
+              "xref_name": "C-type_lectin-like/link_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016187",
+              "xref_name": "CTDL_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR018378",
+              "xref_name": "C-type_lectin_CS",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR033989",
+              "xref_name": "CD209-like_CTLD",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050111",
+              "xref_name": "C-type_lectin/snaclec_domain",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR22803",
+              "xref_name": "MANNOSE, PHOSPHOLIPASE, LECTIN RECEPTOR RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00059",
+              "xref_name": "Lectin_C",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "R-MMU-5621480",
+              "xref_name": "Dectin-2 family",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q9R0Q8",
+              "xref_name": "C-type lectin domain family 4 member E",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "SINGLE PROTEIN",
+      "tax_id": 10090
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "BINDING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 8136,
+      "mechanism_comment": "Dual mechanism: BAFF-R blocker and depletes B-cells by antibody-dependent cytotoxicity.",
+      "mechanism_of_action": "Tumor necrosis factor receptor superfamily member 13C binding agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://bit.ly/3xtu4YP",
+          "ref_type": "Other",
+          "ref_url": "https://bit.ly/3xtu4YP"
+        },
+        {
+          "ref_id": "https://www.morphosys.com/pipeline",
+          "ref_type": "Other",
+          "ref_url": "https://www.morphosys.com/pipeline"
+        },
+        {
+          "ref_id": "30826774",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/30826774"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4594357",
+      "parent_molecule_chembl_id": "CHEMBL4594357",
+      "record_id": 3461027,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL4630882",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  }
+}

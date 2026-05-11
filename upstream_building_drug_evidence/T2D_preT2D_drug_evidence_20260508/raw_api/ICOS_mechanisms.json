@@ -1,0 +1,116 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 1,
+      "mec_id": 7185,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Inducible T-cell costimulator inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=774809",
+          "ref_type": "Other",
+          "ref_url": "https://www.cancer.gov/publications/dictionaries/cancer-drug?cdrid=774809"
+        },
+        {
+          "ref_id": "28916434",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/28916434"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109449",
+      "parent_molecule_chembl_id": "CHEMBL2109449",
+      "record_id": 1706945,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3712953",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 7996,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Inducible T-cell costimulator agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.gsk.com/en-gb/research-and-development/our-pipeline/",
+          "ref_type": "Other",
+          "ref_url": "https://www.gsk.com/en-gb/research-and-development/our-pipeline/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297969",
+      "parent_molecule_chembl_id": "CHEMBL4297969",
+      "record_id": 3133624,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3712953",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8843,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Inducible T-cell costimulator agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "32970735",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/32970735/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4298004",
+      "parent_molecule_chembl_id": "CHEMBL4298004",
+      "record_id": 3133667,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3712953",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 10117,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Inducible T-cell costimulator inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://acrabstracts.org/abstract/safety-and-biological-activity-of-rozibafusp-alfa-in-subjects-with-rheumatoid-arthritis-final-results-of-a-phase-1b-randomized-double-blind-placebo-controlled-multiple-ascending-dose-study/",
+          "ref_type": "Other",
+          "ref_url": "https://acrabstracts.org/abstract/safety-and-biological-activity-of-rozibafusp-alfa-in-subjects-with-rheumatoid-arthritis-final-results-of-a-phase-1b-randomized-double-blind-placebo-controlled-multiple-ascending-dose-study/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4650245",
+      "parent_molecule_chembl_id": "CHEMBL4650245",
+      "record_id": 3490022,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3712953",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 4
+  }
+}

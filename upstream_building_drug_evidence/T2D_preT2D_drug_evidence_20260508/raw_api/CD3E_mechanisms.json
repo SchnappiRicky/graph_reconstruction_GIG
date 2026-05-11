@@ -1,0 +1,191 @@
+{
+  "mechanisms": [
+    {
+      "action_type": "BINDING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5462,
+      "mechanism_comment": "Modulates the T-cell receptor (TCR)\u2013CD3 complex resulting in the cells becoming 'blind' to antigen (a process that is also known as antigenic modulation). In addition, the monoclonal antibody preferentially induces anergy or apoptosis of activated T cells through alterations in TCR-mediated signal transduction.",
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain binding agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "17641665",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/17641665"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743053",
+      "parent_molecule_chembl_id": "CHEMBL1743053",
+      "record_id": 1392937,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "OTHER",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 5467,
+      "mechanism_comment": "It binds to an epitope of the CD3-epsilon chain expressed on mature T cells. Modulates the T-cell receptor (TCR)\u2013CD3 complex resulting in the cells becoming 'blind' to antigen (antigenic immunomodulation of the TCR complex).",
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain other",
+      "mechanism_refs": [
+        {
+          "ref_id": "10716879",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/10716879"
+        },
+        {
+          "ref_id": "17641665",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/17641665"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1743078",
+      "parent_molecule_chembl_id": "CHEMBL1743078",
+      "record_id": 1392962,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5488,
+      "mechanism_comment": " Non\u2013FcR-binding anti-CD3 monoclonal antibody (mAb) directed against the invariant CD3e chain of the TCR.",
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "11349730",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11349730"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108811",
+      "parent_molecule_chembl_id": "CHEMBL2108811",
+      "record_id": 1696586,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "CROSS-LINKING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6034,
+      "mechanism_comment": "Immunomodulator. Trifunctional bispecific monoclonal antibody (mAb) has the capacity to enhance immunological effector functions such as antibody dependent cell-mediated cytotoxicity (ADCC) and antibody-dependent cellular phagocytosis (ADCP). Designed to induce the formation of tri-cell-complexes consisting of Her2-positive tumor cells, CD3+ T cells, and Fc\u03b3-receptor positive accessory cells. ",
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain cross-linking agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "16707606",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/16707606"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108029",
+      "parent_molecule_chembl_id": "CHEMBL2108029",
+      "record_id": 1706887,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 6341,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "20095914",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/20095914"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109253",
+      "parent_molecule_chembl_id": "CHEMBL2109253",
+      "record_id": 1706669,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "CROSS-LINKING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 1,
+      "mec_id": 7115,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain cross-linking agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "25484061",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25484061"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109372",
+      "parent_molecule_chembl_id": "CHEMBL2109372",
+      "record_id": 1706846,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "BINDING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 9334,
+      "mechanism_comment": null,
+      "mechanism_of_action": "T-cell surface glycoprotein CD3 epsilon chain binding agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "25795722",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/25795722/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297555",
+      "parent_molecule_chembl_id": "CHEMBL4297555",
+      "record_id": 3133135,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1975",
+      "variant_sequence": null
+    }
+  ],
+  "page_meta": {
+    "limit": 1000,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 7
+  }
+}

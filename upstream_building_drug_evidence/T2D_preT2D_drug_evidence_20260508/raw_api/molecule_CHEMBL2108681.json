@@ -1,0 +1,125 @@
+{
+  "atc_classifications": [
+    "L04AC17"
+  ],
+  "availability_type": -1,
+  "biotherapeutic": {
+    "biocomponents": [],
+    "description": "Tildrakizumab (humanized mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL2108681"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [
+    {
+      "xref_id": "tildrakizumab-asmn",
+      "xref_name": "tildrakizumab-asmn",
+      "xref_src": "DailyMed"
+    },
+    {
+      "xref_id": "human/EPAR/ilumetri",
+      "xref_name": "ilumetri",
+      "xref_src": "EMA"
+    }
+  ],
+  "dosed_ingredient": true,
+  "first_approval": 2018,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "4.0",
+  "molecule_chembl_id": "CHEMBL2108681",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL2108681",
+    "molecule_chembl_id": "CHEMBL2108681",
+    "parent_chembl_id": "CHEMBL2108681"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "Ilumetri",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "ILUMETRI"
+    },
+    {
+      "molecule_synonym": "Ilumya",
+      "syn_type": "TRADE_NAME",
+      "synonyms": "Ilumya"
+    },
+    {
+      "molecule_synonym": "MK-3222",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "MK-3222"
+    },
+    {
+      "molecule_synonym": "SCH-900222",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "SCH-900222"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "ATC",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "BNF",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "EMA",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "INN",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "MERCK_INDEX",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "OTHER",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab",
+      "syn_type": "USAN",
+      "synonyms": "TILDRAKIZUMAB"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab asmn",
+      "syn_type": "OTHER",
+      "synonyms": "TILDRAKIZUMAB ASMN"
+    },
+    {
+      "molecule_synonym": "Tildrakizumab-asmn",
+      "syn_type": "FDA",
+      "synonyms": "TILDRAKIZUMAB-ASMN"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": true,
+  "polymer_flag": 0,
+  "pref_name": "TILDRAKIZUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": true,
+  "topical": false,
+  "usan_stem": "-mab; -mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human; monoclonal antibodies: humanized",
+  "usan_substem": "-mab (-umab); -mab (-zumab)",
+  "usan_year": 2012,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}

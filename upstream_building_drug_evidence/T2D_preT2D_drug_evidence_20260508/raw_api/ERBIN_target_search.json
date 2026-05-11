@@ -1,0 +1,829 @@
+{
+  "page_meta": {
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total_count": 1
+  },
+  "targets": [
+    {
+      "cross_references": [],
+      "organism": "Homo sapiens",
+      "pref_name": "ERBIN-P0071",
+      "score": 22.0,
+      "species_group_flag": false,
+      "target_chembl_id": "CHEMBL5483009",
+      "target_components": [
+        {
+          "accession": "Q96RT1",
+          "component_description": "Erbin",
+          "component_id": 22942,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "Densin-180-like protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Erbb2-interacting protein",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Erbin",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "ERBIN",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "KIAA1225 GN  ",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "LAP2",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            },
+            {
+              "component_synonym": "Protein LAP2",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "Synonyms=ERBB2IP",
+              "syn_type": "GENE_SYMBOL_OTHER"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q96RT1",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q96RT1",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009925",
+              "xref_name": "basal plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016323",
+              "xref_name": "basolateral plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0016607",
+              "xref_name": "nuclear speck",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030054",
+              "xref_name": "cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030056",
+              "xref_name": "hemidesmosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031594",
+              "xref_name": "neuromuscular junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0031965",
+              "xref_name": "nuclear membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070161",
+              "xref_name": "anchoring junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098794",
+              "xref_name": "postsynapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0098978",
+              "xref_name": "glutamatergic synapse",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0099572",
+              "xref_name": "postsynaptic specialization",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005102",
+              "xref_name": "signaling receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005176",
+              "xref_name": "ErbB-2 class receptor binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005200",
+              "xref_name": "structural constituent of cytoskeleton",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0006605",
+              "xref_name": "protein targeting",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007155",
+              "xref_name": "cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007165",
+              "xref_name": "signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007173",
+              "xref_name": "epidermal growth factor receptor signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007229",
+              "xref_name": "integrin-mediated signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0035556",
+              "xref_name": "intracellular signal transduction",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045104",
+              "xref_name": "intermediate filament cytoskeleton organization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0045175",
+              "xref_name": "basal protein localization",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0070433",
+              "xref_name": "negative regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0071638",
+              "xref_name": "negative regulation of monocyte chemotactic protein-1 production",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0099072",
+              "xref_name": "regulation of postsynaptic membrane neurotransmitter receptor levels",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:15842",
+              "xref_name": "ERBIN",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q96RT1",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR001478",
+              "xref_name": "PDZ",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR001611",
+              "xref_name": "Leu-rich_rpt",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR003591",
+              "xref_name": "Leu-rich_rpt_typical-subtyp",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR032675",
+              "xref_name": "LRR_dom_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR036034",
+              "xref_name": "PDZ_sf",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR050614",
+              "xref_name": "Synaptic_Scaffolding_LAP-MAGUK",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR055414",
+              "xref_name": "LRR_R13L4/SHOC2-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR23119",
+              "xref_name": "DISCS LARGE",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR23119:SF46",
+              "xref_name": "ERBB2 INTERACTING PROTEIN",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "1MFG",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1MFL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1N7T",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2H3L",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "2QBW",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "3CH8",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6Q0M",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6Q0N",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6Q0U",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "6UBH",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "7LUL",
+              "xref_name": null,
+              "xref_src_db": "PDB"
+            },
+            {
+              "xref_id": "1MFG",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "1MFL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2H3L",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "2QBW",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "3CH8",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6Q0M",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6Q0N",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6Q0U",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "6UBH",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "7LUL",
+              "xref_name": "A",
+              "xref_src_db": "PDBe"
+            },
+            {
+              "xref_id": "PF00595",
+              "xref_name": "PDZ",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF13855",
+              "xref_name": "LRR_8",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PF23598",
+              "xref_name": "LRR_14",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA27845",
+              "xref_name": "erbb2 interacting protein",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q96RT1",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-1227986",
+              "xref_name": "Signaling by ERBB2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8863795",
+              "xref_name": "Downregulation of ERBB2 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-8980692",
+              "xref_name": "RHOA GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013026",
+              "xref_name": "RHOB GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013106",
+              "xref_name": "RHOC GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013149",
+              "xref_name": "RAC1 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013404",
+              "xref_name": "RAC2 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013408",
+              "xref_name": "RHOG GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9013423",
+              "xref_name": "RAC3 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9634285",
+              "xref_name": "Constitutive Signaling by Overexpressed ERBB2",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9652282",
+              "xref_name": "Drug-mediated inhibition of ERBB2 signaling",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9664565",
+              "xref_name": "Signaling by ERBB2 KD Mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665233",
+              "xref_name": "Resistance of ERBB2 KD mutants to trastuzumab",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665244",
+              "xref_name": "Resistance of ERBB2 KD mutants to sapitinib",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665245",
+              "xref_name": "Resistance of ERBB2 KD mutants to tesevatinib",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665246",
+              "xref_name": "Resistance of ERBB2 KD mutants to neratinib",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665247",
+              "xref_name": "Resistance of ERBB2 KD mutants to osimertinib",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665249",
+              "xref_name": "Resistance of ERBB2 KD mutants to afatinib",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665250",
+              "xref_name": "Resistance of ERBB2 KD mutants to AEE788",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665251",
+              "xref_name": "Resistance of ERBB2 KD mutants to lapatinib",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665348",
+              "xref_name": "Signaling by ERBB2 ECD mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665686",
+              "xref_name": "Signaling by ERBB2 TMD/JMD mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9665737",
+              "xref_name": "Drug resistance in ERBB2 TMD/JMD mutants",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "A0AVR1",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B4E3F1",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "B7ZLV9",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "E7EQW9",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "E9PCR8",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q1RMD0",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q86W38",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q96RT1",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NR18",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9NW48",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q9ULJ5",
+              "xref_name": "Erbin",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        },
+        {
+          "accession": "Q99569",
+          "component_description": "Plakophilin-4",
+          "component_id": 22943,
+          "component_type": "PROTEIN",
+          "relationship": "INTERACTING PROTEIN",
+          "target_component_synonyms": [
+            {
+              "component_synonym": "p0071",
+              "syn_type": "UNIPROT"
+            },
+            {
+              "component_synonym": "PKP4",
+              "syn_type": "GENE_SYMBOL"
+            },
+            {
+              "component_synonym": "Plakophilin-4",
+              "syn_type": "UNIPROT"
+            }
+          ],
+          "target_component_xrefs": [
+            {
+              "xref_id": "Q99569",
+              "xref_name": null,
+              "xref_src_db": "AlphaFoldDB"
+            },
+            {
+              "xref_id": "Q99569",
+              "xref_name": null,
+              "xref_src_db": "ExpressionAtlas"
+            },
+            {
+              "xref_id": "GO:0000922",
+              "xref_name": "spindle pole",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0001533",
+              "xref_name": "cornified envelope",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005634",
+              "xref_name": "nucleus",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005737",
+              "xref_name": "cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005856",
+              "xref_name": "cytoskeleton",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005886",
+              "xref_name": "plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005911",
+              "xref_name": "cell-cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005912",
+              "xref_name": "adherens junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0009898",
+              "xref_name": "cytoplasmic side of plasma membrane",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0014069",
+              "xref_name": "postsynaptic density",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030054",
+              "xref_name": "cell junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030057",
+              "xref_name": "desmosome",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0030496",
+              "xref_name": "midbody",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0044291",
+              "xref_name": "cell-cell contact zone",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0048471",
+              "xref_name": "perinuclear region of cytoplasm",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0051233",
+              "xref_name": "spindle midzone",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0070161",
+              "xref_name": "anchoring junction",
+              "xref_src_db": "GoComponent"
+            },
+            {
+              "xref_id": "GO:0005515",
+              "xref_name": "protein binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0045296",
+              "xref_name": "cadherin binding",
+              "xref_src_db": "GoFunction"
+            },
+            {
+              "xref_id": "GO:0007043",
+              "xref_name": "cell-cell junction assembly",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007155",
+              "xref_name": "cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0007267",
+              "xref_name": "cell-cell signaling",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0030155",
+              "xref_name": "regulation of cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0032467",
+              "xref_name": "positive regulation of cytokinesis",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0043547",
+              "xref_name": "positive regulation of GTPase activity",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "GO:0098609",
+              "xref_name": "cell-cell adhesion",
+              "xref_src_db": "GoProcess"
+            },
+            {
+              "xref_id": "HGNC:9026",
+              "xref_name": "PKP4",
+              "xref_src_db": "HGNC"
+            },
+            {
+              "xref_id": "Q99569",
+              "xref_name": null,
+              "xref_src_db": "IntAct"
+            },
+            {
+              "xref_id": "IPR000225",
+              "xref_name": "Armadillo",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR011989",
+              "xref_name": "ARM-like",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR016024",
+              "xref_name": "ARM-type_fold",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "IPR028435",
+              "xref_name": "Plakophilin/d_Catenin",
+              "xref_src_db": "InterPro"
+            },
+            {
+              "xref_id": "PTHR10372",
+              "xref_name": "PLAKOPHILLIN-RELATED",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PTHR10372:SF8",
+              "xref_name": "PLAKOPHILIN-4",
+              "xref_src_db": "PANTHER"
+            },
+            {
+              "xref_id": "PF00514",
+              "xref_name": "Arm",
+              "xref_src_db": "Pfam"
+            },
+            {
+              "xref_id": "PA33359",
+              "xref_name": "plakophilin 4",
+              "xref_src_db": "PharmGKB"
+            },
+            {
+              "xref_id": "Q99569",
+              "xref_name": null,
+              "xref_src_db": "Pharos"
+            },
+            {
+              "xref_id": "R-HSA-6805567",
+              "xref_name": "Keratinization",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-6809371",
+              "xref_name": "Formation of the cornified envelope",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9696264",
+              "xref_name": "RND3 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9696270",
+              "xref_name": "RND2 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "R-HSA-9696273",
+              "xref_name": "RND1 GTPase cycle",
+              "xref_src_db": "Reactome"
+            },
+            {
+              "xref_id": "Q86W91",
+              "xref_name": "Plakophilin-4",
+              "xref_src_db": "UniProt"
+            },
+            {
+              "xref_id": "Q99569",
+              "xref_name": "Plakophilin-4",
+              "xref_src_db": "UniProt"
+            }
+          ]
+        }
+      ],
+      "target_type": "PROTEIN-PROTEIN INTERACTION",
+      "tax_id": 9606
+    }
+  ]
+}

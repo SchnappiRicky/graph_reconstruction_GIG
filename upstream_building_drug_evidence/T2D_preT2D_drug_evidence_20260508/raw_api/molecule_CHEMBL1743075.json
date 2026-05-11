@@ -1,0 +1,94 @@
+{
+  "atc_classifications": [],
+  "availability_type": null,
+  "biotherapeutic": {
+    "biocomponents": [
+      {
+        "component_id": 24511,
+        "component_type": "Protein",
+        "description": "Heavy chain",
+        "organism": "Homo sapiens",
+        "sequence": "QVQLQQWGAGLLKPSETLSLTCAVYGGSFSGYYWSWIRQPPGKGLEWIGEINHSGSTNYNPSLKSRVTISVDTSKNQFSLKLSSVTAADTAVYYCARGYYDILTGYYYYFDYWGQGTLVTVSSASTKGPSVFPLAPCSRSTSESTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYSLSSVVTVPSSSLGTKTYTCNVDHKPSNTKVDKRVESKYGPPCPPCPAPEFLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSQEDPEVQFNWYVDGVEVHNAKTKPREEQFNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKGLPSSIEKTISKAKGQPREPQVYTLPPSQEEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSRLTVDKSRWQEGNVFSCSVMHEALHNHYTQKSLSLSLGK",
+        "tax_id": 9606
+      },
+      {
+        "component_id": 25137,
+        "component_type": "Protein",
+        "description": "Light chain",
+        "organism": null,
+        "sequence": "EIVLTQSPATLSLSPGERATLSCRASQSVSRYLAWYQQKPGQAPRLLIYDASNRATGIPARFSGSGSGTDSTLTISSLEPEDFAVYYCQQRSNWPRTFGQGTKVEIKRTVAAPSVFIFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSNTLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC",
+        "tax_id": null
+      }
+    ],
+    "description": "Tabalumab (human mab)",
+    "helm_notation": null,
+    "molecule_chembl_id": "CHEMBL1743075"
+  },
+  "black_box_warning": 0,
+  "chemical_probe": 0,
+  "chirality": 1,
+  "cross_references": [],
+  "dosed_ingredient": false,
+  "first_approval": null,
+  "first_in_class": 0,
+  "helm_notation": null,
+  "inorganic_flag": 0,
+  "max_phase": "3.0",
+  "molecule_chembl_id": "CHEMBL1743075",
+  "molecule_hierarchy": {
+    "active_chembl_id": "CHEMBL1743075",
+    "molecule_chembl_id": "CHEMBL1743075",
+    "parent_chembl_id": "CHEMBL1743075"
+  },
+  "molecule_properties": null,
+  "molecule_structures": null,
+  "molecule_synonyms": [
+    {
+      "molecule_synonym": "LY-2127399",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY-2127399"
+    },
+    {
+      "molecule_synonym": "LY2127399",
+      "syn_type": "RESEARCH_CODE",
+      "synonyms": "LY2127399"
+    },
+    {
+      "molecule_synonym": "Tabalumab",
+      "syn_type": "USAN",
+      "synonyms": "Tabalumab"
+    },
+    {
+      "molecule_synonym": "Tabalumab",
+      "syn_type": "INN",
+      "synonyms": "TABALUMAB"
+    },
+    {
+      "molecule_synonym": "Tabalumab",
+      "syn_type": "JAN",
+      "synonyms": "TABALUMAB"
+    },
+    {
+      "molecule_synonym": "Tabalumab",
+      "syn_type": "OTHER",
+      "synonyms": "TABALUMAB"
+    }
+  ],
+  "molecule_type": "Antibody",
+  "natural_product": 0,
+  "oral": false,
+  "orphan": 0,
+  "parenteral": false,
+  "polymer_flag": 0,
+  "pref_name": "TABALUMAB",
+  "prodrug": 0,
+  "structure_type": "SEQ",
+  "therapeutic_flag": false,
+  "topical": false,
+  "usan_stem": "-mab",
+  "usan_stem_definition": "monoclonal antibodies: fully human",
+  "usan_substem": "-mab (-umab)",
+  "usan_year": 2010,
+  "veterinary": 0,
+  "withdrawn_flag": false
+}
