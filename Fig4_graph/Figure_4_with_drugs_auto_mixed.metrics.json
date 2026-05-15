@@ -1,0 +1,127 @@
+{
+  "input": "Figure_4_with_drugs.json",
+  "output_svg": "Figure_4_with_drugs_auto_mixed.svg",
+  "schema": {
+    "node_fields_required": [
+      "id"
+    ],
+    "edge_fields_required": [
+      "source",
+      "target"
+    ],
+    "node_fields_optional": [
+      "type",
+      "weight",
+      "status"
+    ],
+    "edge_fields_optional": [
+      "type",
+      "evidence",
+      "weight"
+    ]
+  },
+  "canvas": {
+    "width": 2400,
+    "height": 1400
+  },
+  "input_quality": {
+    "node_count": 163.0,
+    "edge_count": 184.0,
+    "gene_nodes": 144.0,
+    "drug_nodes": 19.0,
+    "gene_gene_edges": 163.0,
+    "target_drug_edges": 21.0,
+    "dropped_edges_missing_nodes": 0.0,
+    "dropped_self_loops": 0.0,
+    "normalized_bad_node_weights": 0.0,
+    "normalized_bad_edge_weights": 0.0,
+    "empty_node_names_fixed": 0.0,
+    "unknown_node_types_defaulted": 0.0,
+    "unknown_edge_types_defaulted": 0.0
+  },
+  "attempts": [
+    {
+      "seed": 42,
+      "score": 86.61635613344009,
+      "layout_seconds": 3.1251631070003896,
+      "node_overlap_pairs": 0.0,
+      "label_overlap_pairs": 0.0,
+      "label_node_overlap_pairs": 0.0,
+      "edge_crossings_estimate": 23.0,
+      "edge_crossing_checks": 16441.0,
+      "whitespace_ratio": 0.37907434606109136,
+      "node_count": 163.0,
+      "edge_count": 184.0
+    },
+    {
+      "seed": 10015,
+      "score": 90.59262782493393,
+      "layout_seconds": 3.197280926000076,
+      "node_overlap_pairs": 0.0,
+      "label_overlap_pairs": 0.0,
+      "label_node_overlap_pairs": 0.0,
+      "edge_crossings_estimate": 35.0,
+      "edge_crossing_checks": 16441.0,
+      "whitespace_ratio": 0.3895119446587906,
+      "node_count": 163.0,
+      "edge_count": 184.0
+    },
+    {
+      "seed": 19988,
+      "score": 80.04703850604157,
+      "layout_seconds": 2.950738293000086,
+      "node_overlap_pairs": 0.0,
+      "label_overlap_pairs": 0.0,
+      "label_node_overlap_pairs": 0.0,
+      "edge_crossings_estimate": 31.0,
+      "edge_crossing_checks": 16441.0,
+      "whitespace_ratio": 0.34412290230018894,
+      "node_count": 163.0,
+      "edge_count": 184.0
+    },
+    {
+      "seed": 29961,
+      "score": 111.96901945521721,
+      "layout_seconds": 2.9164945429997715,
+      "node_overlap_pairs": 0.0,
+      "label_overlap_pairs": 0.0,
+      "label_node_overlap_pairs": 0.0,
+      "edge_crossings_estimate": 57.0,
+      "edge_crossing_checks": 16441.0,
+      "whitespace_ratio": 0.4726773611600782,
+      "node_count": 163.0,
+      "edge_count": 184.0
+    },
+    {
+      "seed": 39934,
+      "score": 93.58849304711494,
+      "layout_seconds": 3.035208977000366,
+      "node_overlap_pairs": 0.0,
+      "label_overlap_pairs": 0.0,
+      "label_node_overlap_pairs": 0.0,
+      "edge_crossings_estimate": 30.0,
+      "edge_crossing_checks": 16441.0,
+      "whitespace_ratio": 0.4063113320323406,
+      "node_count": 163.0,
+      "edge_count": 184.0
+    }
+  ],
+  "selected": {
+    "seed": 19988,
+    "score": 80.04703850604157,
+    "layout_seconds": 2.950738293000086,
+    "node_overlap_pairs": 0.0,
+    "label_overlap_pairs": 0.0,
+    "label_node_overlap_pairs": 0.0,
+    "edge_crossings_estimate": 31.0,
+    "edge_crossing_checks": 16441.0,
+    "whitespace_ratio": 0.34412290230018894,
+    "node_count": 163.0,
+    "edge_count": 184.0
+  },
+  "timing": {
+    "layout_total_seconds": 15.224885846000689,
+    "svg_write_seconds": 0.002078803999665979,
+    "run_total_seconds": 15.22862024799997
+  }
+}

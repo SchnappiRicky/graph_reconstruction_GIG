@@ -1,0 +1,590 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1400" viewBox="0 0 2400 1400">
+<rect width="100%" height="100%" fill="white"/>
+<g id="edges" fill="none" stroke-linecap="round">
+<path d="M 1281.41,490.96 Q 1213.07,450.61 1162.57,389.40" stroke="#a5a5a5" stroke-width="1.90" stroke-opacity="0.87"/>
+<path d="M 1736.30,617.85 Q 1653.84,625.26 1573.50,605.29" stroke="#a5a5a5" stroke-width="1.90" stroke-opacity="0.87"/>
+<path d="M 1130.78,465.14 Q 1208.41,464.53 1281.41,490.96" stroke="#a5a5a5" stroke-width="1.91" stroke-opacity="0.87"/>
+<path d="M 1733.11,855.16 Q 1774.62,923.51 1836.77,973.85" stroke="#a5a5a5" stroke-width="1.91" stroke-opacity="0.87"/>
+<path d="M 1720.83,775.30 Q 1670.54,712.23 1602.05,669.61" stroke="#a5a5a5" stroke-width="1.92" stroke-opacity="0.87"/>
+<path d="M 608.02,525.90 Q 592.77,446.10 551.93,375.88" stroke="#a4a4a4" stroke-width="1.93" stroke-opacity="0.87"/>
+<path d="M 412.58,438.94 Q 487.88,419.84 551.93,375.88" stroke="#a4a4a4" stroke-width="1.93" stroke-opacity="0.87"/>
+<path d="M 1736.30,617.85 Q 1799.29,663.13 1842.72,727.40" stroke="#a4a4a4" stroke-width="1.93" stroke-opacity="0.87"/>
+<path d="M 1431.36,1369.15 Q 1403.92,1296.20 1353.06,1237.14" stroke="#a4a4a4" stroke-width="1.94" stroke-opacity="0.87"/>
+<path d="M 1353.06,1237.14 Q 1289.59,1194.77 1215.30,1177.36" stroke="#a3a3a3" stroke-width="1.94" stroke-opacity="0.87"/>
+<path d="M 1238.81,984.02 Q 1268.20,911.82 1270.99,833.92" stroke="#a3a3a3" stroke-width="1.94" stroke-opacity="0.87"/>
+<path d="M 1539.60,956.11 Q 1538.93,1034.55 1511.54,1108.05" stroke="#a3a3a3" stroke-width="1.95" stroke-opacity="0.87"/>
+<path d="M 935.83,174.78 Q 885.79,109.16 817.14,63.36" stroke="#a3a3a3" stroke-width="1.95" stroke-opacity="0.87"/>
+<path d="M 1247.25,388.91 Q 1299.07,321.50 1369.50,273.87" stroke="#a3a3a3" stroke-width="1.95" stroke-opacity="0.87"/>
+<path d="M 984.86,811.15 Q 941.22,876.75 877.93,923.67" stroke="#a3a3a3" stroke-width="1.96" stroke-opacity="0.87"/>
+<path d="M 1511.54,1108.05 Q 1471.23,1041.72 1410.56,993.29" stroke="#a3a3a3" stroke-width="1.96" stroke-opacity="0.87"/>
+<path d="M 888.08,839.60 Q 810.05,857.33 730.57,848.01" stroke="#a3a3a3" stroke-width="1.96" stroke-opacity="0.87"/>
+<path d="M 1736.30,617.85 Q 1674.04,656.36 1602.05,669.61" stroke="#a3a3a3" stroke-width="1.96" stroke-opacity="0.87"/>
+<path d="M 1238.83,1300.05 Q 1240.36,1236.15 1215.30,1177.36" stroke="#a2a2a2" stroke-width="1.96" stroke-opacity="0.87"/>
+<path d="M 1708.03,549.62 Q 1635.60,564.98 1573.50,605.29" stroke="#a2a2a2" stroke-width="1.97" stroke-opacity="0.87"/>
+<path d="M 599.52,931.99 Q 657.77,878.64 730.57,848.01" stroke="#a2a2a2" stroke-width="1.98" stroke-opacity="0.87"/>
+<path d="M 1218.60,1367.51 Q 1203.48,1272.67 1215.30,1177.36" stroke="#a2a2a2" stroke-width="1.98" stroke-opacity="0.87"/>
+<path d="M 1423.21,334.20 Q 1518.51,323.33 1613.08,339.35" stroke="#a1a1a1" stroke-width="1.99" stroke-opacity="0.87"/>
+<path d="M 459.24,574.50 Q 426.70,642.79 372.35,695.40" stroke="#a1a1a1" stroke-width="2.00" stroke-opacity="0.87"/>
+<path d="M 1515.30,419.82 Q 1547.00,488.27 1600.66,541.30" stroke="#a1a1a1" stroke-width="2.00" stroke-opacity="0.87"/>
+<path d="M 877.93,923.67 Q 872.11,1004.26 840.22,1078.49" stroke="#a1a1a1" stroke-width="2.00" stroke-opacity="0.87"/>
+<path d="M 847.88,767.52 Q 876.03,843.07 877.93,923.67" stroke="#a0a0a0" stroke-width="2.02" stroke-opacity="0.87"/>
+<path d="M 877.93,923.67 Q 940.10,974.14 982.27,1042.22" stroke="#a0a0a0" stroke-width="2.03" stroke-opacity="0.87"/>
+<path d="M 459.24,574.50 Q 480.87,649.40 526.44,712.66" stroke="#9f9f9f" stroke-width="2.03" stroke-opacity="0.87"/>
+<path d="M 1137.31,231.84 Q 1136.81,312.73 1162.57,389.40" stroke="#9f9f9f" stroke-width="2.04" stroke-opacity="0.87"/>
+<path d="M 1162.57,389.40 Q 1200.95,319.60 1214.20,241.06" stroke="#9f9f9f" stroke-width="2.04" stroke-opacity="0.87"/>
+<path d="M 1218.60,1367.51 Q 1143.96,1330.79 1084.73,1272.38" stroke="#9f9f9f" stroke-width="2.04" stroke-opacity="0.87"/>
+<path d="M 1522.85,239.92 Q 1463.91,277.43 1423.21,334.20" stroke="#9f9f9f" stroke-width="2.05" stroke-opacity="0.87"/>
+<path d="M 580.80,1107.73 Q 638.84,1059.38 676.61,993.96" stroke="#9f9f9f" stroke-width="2.05" stroke-opacity="0.87"/>
+<path d="M 1369.50,273.87 Q 1338.27,342.30 1332.71,417.31" stroke="#9f9f9f" stroke-width="2.05" stroke-opacity="0.87"/>
+<path d="M 888.08,839.60 Q 817.73,876.52 763.38,934.47" stroke="#9e9e9e" stroke-width="2.06" stroke-opacity="0.87"/>
+<path d="M 1238.83,1300.05 Q 1164.11,1273.21 1084.73,1272.38" stroke="#9e9e9e" stroke-width="2.07" stroke-opacity="0.87"/>
+<path d="M 1504.91,1237.26 Q 1428.99,1224.00 1353.06,1237.14" stroke="#9e9e9e" stroke-width="2.07" stroke-opacity="0.87"/>
+<path d="M 1194.15,87.35 Q 1153.47,154.78 1137.31,231.84" stroke="#9e9e9e" stroke-width="2.08" stroke-opacity="0.87"/>
+<path d="M 1733.11,855.16 Q 1747.20,781.34 1734.95,707.21" stroke="#9e9e9e" stroke-width="2.08" stroke-opacity="0.87"/>
+<path d="M 1238.83,1300.05 Q 1152.56,1320.40 1076.06,1365.19" stroke="#9d9d9d" stroke-width="2.08" stroke-opacity="0.87"/>
+<path d="M 372.35,695.40 Q 450.86,690.96 526.44,712.66" stroke="#9d9d9d" stroke-width="2.08" stroke-opacity="0.87"/>
+<path d="M 1305.66,250.94 Q 1306.21,336.23 1332.71,417.31" stroke="#9d9d9d" stroke-width="2.09" stroke-opacity="0.87"/>
+<path d="M 1218.60,1367.51 Q 1147.12,1379.49 1076.06,1365.19" stroke="#9d9d9d" stroke-width="2.09" stroke-opacity="0.87"/>
+<path d="M 1733.11,855.16 Q 1731.25,934.99 1703.58,1009.90" stroke="#9d9d9d" stroke-width="2.09" stroke-opacity="0.87"/>
+<path d="M 1515.30,419.82 Q 1490.20,490.11 1442.36,547.39" stroke="#9c9c9c" stroke-width="2.10" stroke-opacity="0.87"/>
+<path d="M 1247.25,388.91 Q 1288.52,325.03 1305.66,250.94" stroke="#9c9c9c" stroke-width="2.10" stroke-opacity="0.87"/>
+<path d="M 954.13,671.64 Q 880.51,706.49 799.65,716.22" stroke="#9c9c9c" stroke-width="2.11" stroke-opacity="0.88"/>
+<path d="M 1140.27,912.29 Q 1198.92,861.91 1270.99,833.92" stroke="#9c9c9c" stroke-width="2.11" stroke-opacity="0.88"/>
+<path d="M 590.88,269.47 Q 666.66,279.56 734.63,314.53" stroke="#9c9c9c" stroke-width="2.12" stroke-opacity="0.88"/>
+<path d="M 935.83,174.78 Q 1018.19,172.15 1095.61,143.93" stroke="#9c9c9c" stroke-width="2.12" stroke-opacity="0.88"/>
+<path d="M 850.20,582.51 Q 862.06,675.18 847.88,767.52" stroke="#9b9b9b" stroke-width="2.12" stroke-opacity="0.88"/>
+<path d="M 1734.95,707.21 Q 1672.04,675.88 1602.05,669.61" stroke="#9b9b9b" stroke-width="2.12" stroke-opacity="0.88"/>
+<path d="M 1327.88,875.82 Q 1407.84,858.14 1478.20,816.25" stroke="#9b9b9b" stroke-width="2.12" stroke-opacity="0.88"/>
+<path d="M 730.57,848.01 Q 715.79,925.50 676.61,993.96" stroke="#9b9b9b" stroke-width="2.13" stroke-opacity="0.88"/>
+<path d="M 975.82,31.26 Q 893.90,34.57 817.14,63.36" stroke="#9b9b9b" stroke-width="2.13" stroke-opacity="0.88"/>
+<path d="M 954.13,671.64 Q 1025.92,702.36 1103.81,707.83" stroke="#9b9b9b" stroke-width="2.13" stroke-opacity="0.88"/>
+<path d="M 869.64,245.95 Q 796.25,268.65 734.63,314.53" stroke="#9b9b9b" stroke-width="2.13" stroke-opacity="0.88"/>
+<path d="M 975.82,31.26 Q 1054.79,21.50 1132.69,37.70" stroke="#9b9b9b" stroke-width="2.13" stroke-opacity="0.88"/>
+<path d="M 812.34,180.69 Q 762.26,241.10 734.63,314.53" stroke="#9b9b9b" stroke-width="2.14" stroke-opacity="0.88"/>
+<path d="M 954.13,671.64 Q 1010.95,615.85 1046.82,544.76" stroke="#9b9b9b" stroke-width="2.14" stroke-opacity="0.88"/>
+<path d="M 580.80,1107.73 Q 649.45,1145.23 726.58,1158.27" stroke="#9a9a9a" stroke-width="2.15" stroke-opacity="0.88"/>
+<path d="M 653.65,848.77 Q 652.35,923.39 676.61,993.96" stroke="#9a9a9a" stroke-width="2.15" stroke-opacity="0.88"/>
+<path d="M 954.13,671.64 Q 912.61,603.85 895.05,526.32" stroke="#9a9a9a" stroke-width="2.15" stroke-opacity="0.88"/>
+<path d="M 1220.73,632.11 Q 1262.93,566.63 1281.41,490.96" stroke="#9a9a9a" stroke-width="2.16" stroke-opacity="0.88"/>
+<path d="M 1426.21,450.91 Q 1350.37,458.50 1281.41,490.96" stroke="#9a9a9a" stroke-width="2.16" stroke-opacity="0.88"/>
+<path d="M 1100.23,989.87 Q 1168.97,974.05 1238.81,984.02" stroke="#9a9a9a" stroke-width="2.16" stroke-opacity="0.88"/>
+<path d="M 799.65,716.22 Q 847.54,654.74 912.84,612.20" stroke="#999999" stroke-width="2.17" stroke-opacity="0.88"/>
+<path d="M 1703.58,1009.90 Q 1692.08,927.97 1655.98,853.54" stroke="#999999" stroke-width="2.17" stroke-opacity="0.88"/>
+<path d="M 989.13,1162.94 Q 947.05,1229.46 928.66,1306.00" stroke="#999999" stroke-width="2.18" stroke-opacity="0.88"/>
+<path d="M 1600.66,541.30 Q 1537.55,588.01 1462.76,611.85" stroke="#999999" stroke-width="2.18" stroke-opacity="0.88"/>
+<path d="M 1539.60,956.11 Q 1613.41,931.17 1691.32,931.58" stroke="#999999" stroke-width="2.18" stroke-opacity="0.88"/>
+<path d="M 1734.95,707.21 Q 1684.17,774.28 1655.98,853.54" stroke="#999999" stroke-width="2.18" stroke-opacity="0.88"/>
+<path d="M 430.08,837.46 Q 468.14,767.25 526.44,712.66" stroke="#989898" stroke-width="2.19" stroke-opacity="0.88"/>
+<path d="M 1160.84,582.35 Q 1213.40,526.46 1281.41,490.96" stroke="#989898" stroke-width="2.19" stroke-opacity="0.88"/>
+<path d="M 1576.12,1368.19 Q 1529.30,1308.83 1504.91,1237.26" stroke="#989898" stroke-width="2.20" stroke-opacity="0.88"/>
+<path d="M 1130.78,465.14 Q 1114.08,387.07 1122.88,307.73" stroke="#989898" stroke-width="2.20" stroke-opacity="0.88"/>
+<path d="M 1600.66,541.30 Q 1521.02,531.60 1442.36,547.39" stroke="#989898" stroke-width="2.21" stroke-opacity="0.88"/>
+<path d="M 1368.30,1063.66 Q 1296.89,1034.68 1238.81,984.02" stroke="#979797" stroke-width="2.21" stroke-opacity="0.88"/>
+<path d="M 695.60,167.40 Q 727.41,237.71 734.63,314.53" stroke="#979797" stroke-width="2.21" stroke-opacity="0.88"/>
+<path d="M 1095.61,143.93 Q 1044.42,78.33 975.82,31.26" stroke="#979797" stroke-width="2.22" stroke-opacity="0.88"/>
+<path d="M 1076.06,1365.19 Q 1007.08,1323.84 928.66,1306.00" stroke="#979797" stroke-width="2.23" stroke-opacity="0.88"/>
+<path d="M 1084.73,1272.38 Q 1009.36,1301.57 928.66,1306.00" stroke="#979797" stroke-width="2.23" stroke-opacity="0.88"/>
+<path d="M 984.86,811.15 Q 920.21,777.28 847.88,767.52" stroke="#969696" stroke-width="2.24" stroke-opacity="0.88"/>
+<path d="M 790.42,455.90 Q 750.89,389.81 734.63,314.53" stroke="#949494" stroke-width="2.28" stroke-opacity="0.88"/>
+<path d="M 1522.85,239.92 Q 1577.20,281.26 1613.08,339.35" stroke="#949494" stroke-width="2.30" stroke-opacity="0.88"/>
+<path d="M 505.71,815.82 Q 574.32,780.79 650.52,769.52" stroke="#949494" stroke-width="2.30" stroke-opacity="0.88"/>
+<path d="M 985.00,368.82 Q 1048.89,326.88 1122.88,307.73" stroke="#949494" stroke-width="2.30" stroke-opacity="0.88"/>
+<path d="M 1462.76,611.85 Q 1537.17,629.21 1602.05,669.61" stroke="#949494" stroke-width="2.30" stroke-opacity="0.88"/>
+<path d="M 1515.30,419.82 Q 1556.28,369.98 1613.08,339.35" stroke="#949494" stroke-width="2.30" stroke-opacity="0.88"/>
+<path d="M 1327.88,875.82 Q 1367.15,801.44 1426.47,741.81" stroke="#949494" stroke-width="2.30" stroke-opacity="0.88"/>
+<path d="M 847.88,767.52 Q 887.75,833.01 946.46,882.31" stroke="#939393" stroke-width="2.31" stroke-opacity="0.88"/>
+<path d="M 1515.30,419.82 Q 1531.35,330.39 1522.85,239.92" stroke="#919191" stroke-width="2.35" stroke-opacity="0.88"/>
+<path d="M 1092.64,603.01 Q 1028.83,648.33 954.13,671.64" stroke="#919191" stroke-width="2.35" stroke-opacity="0.88"/>
+<path d="M 1291.50,637.42 Q 1274.27,565.03 1281.41,490.96" stroke="#919191" stroke-width="2.37" stroke-opacity="0.89"/>
+<path d="M 1301.54,344.03 Q 1303.58,419.15 1281.41,490.96" stroke="#919191" stroke-width="2.37" stroke-opacity="0.89"/>
+<path d="M 1009.10,1312.35 Q 959.03,1243.99 891.54,1192.77" stroke="#919191" stroke-width="2.37" stroke-opacity="0.89"/>
+<path d="M 852.48,1363.41 Q 927.00,1326.26 1009.10,1312.35" stroke="#919191" stroke-width="2.37" stroke-opacity="0.89"/>
+<path d="M 1027.65,1105.37 Q 1094.15,1150.16 1144.20,1212.81" stroke="#8f8f8f" stroke-width="2.40" stroke-opacity="0.89"/>
+<path d="M 1355.33,117.35 Q 1350.36,196.70 1369.50,273.87" stroke="#8f8f8f" stroke-width="2.41" stroke-opacity="0.89"/>
+<path d="M 1515.30,419.82 Q 1477.49,368.15 1423.21,334.20" stroke="#8f8f8f" stroke-width="2.41" stroke-opacity="0.89"/>
+<path d="M 1708.03,549.62 Q 1646.02,601.65 1602.05,669.61" stroke="#8e8e8e" stroke-width="2.43" stroke-opacity="0.89"/>
+<path d="M 1305.66,250.94 Q 1341.76,188.33 1355.33,117.35" stroke="#8e8e8e" stroke-width="2.43" stroke-opacity="0.89"/>
+<path d="M 505.71,815.82 Q 577.08,843.96 653.65,848.77" stroke="#8d8d8d" stroke-width="2.46" stroke-opacity="0.89"/>
+<path d="M 1359.32,1140.80 Q 1373.68,1063.13 1410.56,993.29" stroke="#8d8d8d" stroke-width="2.46" stroke-opacity="0.89"/>
+<path d="M 430.08,837.46 Q 390.17,770.92 372.35,695.40" stroke="#8c8c8c" stroke-width="2.47" stroke-opacity="0.89"/>
+<path d="M 412.58,438.94 Q 424.64,510.60 459.24,574.50" stroke="#8c8c8c" stroke-width="2.47" stroke-opacity="0.89"/>
+<path d="M 608.02,525.90 Q 529.93,538.87 459.24,574.50" stroke="#8c8c8c" stroke-width="2.47" stroke-opacity="0.89"/>
+<path d="M 1720.83,775.30 Q 1740.35,697.74 1736.30,617.85" stroke="#8c8c8c" stroke-width="2.49" stroke-opacity="0.89"/>
+<path d="M 1539.60,956.11 Q 1498.06,890.94 1478.20,816.25" stroke="#8b8b8b" stroke-width="2.49" stroke-opacity="0.89"/>
+<path d="M 1092.64,603.01 Q 1049.14,544.12 989.14,502.17" stroke="#8b8b8b" stroke-width="2.49" stroke-opacity="0.89"/>
+<path d="M 1426.82,146.40 Q 1358.54,189.75 1305.66,250.94" stroke="#8b8b8b" stroke-width="2.51" stroke-opacity="0.89"/>
+<path d="M 1800.97,429.63 Q 1763.79,496.82 1708.03,549.62" stroke="#8a8a8a" stroke-width="2.52" stroke-opacity="0.89"/>
+<path d="M 1608.18,437.67 Q 1666.87,485.83 1708.03,549.62" stroke="#8a8a8a" stroke-width="2.52" stroke-opacity="0.89"/>
+<path d="M 1878.04,599.37 Q 1808.68,620.24 1736.30,617.85" stroke="#8a8a8a" stroke-width="2.53" stroke-opacity="0.89"/>
+<path d="M 1039.25,433.62 Q 1071.30,364.19 1122.88,307.73" stroke="#8a8a8a" stroke-width="2.53" stroke-opacity="0.89"/>
+<path d="M 1695.48,398.45 Q 1713.43,473.07 1708.03,549.62" stroke="#8a8a8a" stroke-width="2.53" stroke-opacity="0.89"/>
+<path d="M 1144.20,1212.81 Q 1070.25,1176.73 989.13,1162.94" stroke="#8a8a8a" stroke-width="2.53" stroke-opacity="0.89"/>
+<path d="M 1863.39,1121.93 Q 1861.56,1045.82 1836.77,973.85" stroke="#898989" stroke-width="2.54" stroke-opacity="0.89"/>
+<path d="M 799.65,716.22 Q 853.33,771.13 888.08,839.60" stroke="#898989" stroke-width="2.55" stroke-opacity="0.89"/>
+<path d="M 1730.75,1082.67 Q 1775.47,1020.18 1836.77,973.85" stroke="#888888" stroke-width="2.57" stroke-opacity="0.89"/>
+<path d="M 1426.82,146.40 Q 1387.61,205.39 1369.50,273.87" stroke="#888888" stroke-width="2.58" stroke-opacity="0.89"/>
+<path d="M 1431.36,1369.15 Q 1478.23,1308.83 1504.91,1237.26" stroke="#878787" stroke-width="2.58" stroke-opacity="0.89"/>
+<path d="M 1599.59,804.40 Q 1660.54,746.44 1734.95,707.21" stroke="#878787" stroke-width="2.59" stroke-opacity="0.89"/>
+<path d="M 1922.71,727.75 Q 1911.41,804.75 1878.17,875.12" stroke="#868686" stroke-width="2.61" stroke-opacity="0.89"/>
+<path d="M 622.45,700.34 Q 649.14,772.22 653.65,848.77" stroke="#858585" stroke-width="2.65" stroke-opacity="0.90"/>
+<path d="M 1605.63,997.00 Q 1616.20,1070.06 1604.14,1142.88" stroke="#848484" stroke-width="2.65" stroke-opacity="0.90"/>
+<path d="M 594.03,630.03 Q 530.92,591.86 459.24,574.50" stroke="#838383" stroke-width="2.67" stroke-opacity="0.90"/>
+<path d="M 1366.84,673.73 Q 1290.73,663.65 1220.73,632.11" stroke="#828282" stroke-width="2.70" stroke-opacity="0.90"/>
+<path d="M 1599.59,804.40 Q 1579.91,884.34 1539.60,956.11" stroke="#818181" stroke-width="2.72" stroke-opacity="0.90"/>
+<path d="M 1605.63,997.00 Q 1566.98,1059.64 1511.54,1108.05" stroke="#808080" stroke-width="2.75" stroke-opacity="0.90"/>
+<path d="M 1576.12,1368.19 Q 1503.82,1379.67 1431.36,1369.15" stroke="#808080" stroke-width="2.75" stroke-opacity="0.90"/>
+<path d="M 1005.77,301.86 Q 980.43,233.01 935.83,174.78" stroke="#808080" stroke-width="2.75" stroke-opacity="0.90"/>
+<path d="M 954.13,671.64 Q 908.32,727.69 847.88,767.52" stroke="#7f7f7f" stroke-width="2.77" stroke-opacity="0.90"/>
+<path d="M 1005.77,301.86 Q 1076.66,276.47 1137.31,231.84" stroke="#7f7f7f" stroke-width="2.78" stroke-opacity="0.90"/>
+<path d="M 1247.25,388.91 Q 1179.12,357.43 1122.88,307.73" stroke="#7e7e7e" stroke-width="2.79" stroke-opacity="0.90"/>
+<path d="M 910.18,1069.86 Q 904.64,994.43 877.93,923.67" stroke="#7e7e7e" stroke-width="2.80" stroke-opacity="0.90"/>
+<path d="M 998.45,736.96 Q 921.03,741.70 847.88,767.52" stroke="#7d7d7d" stroke-width="2.83" stroke-opacity="0.90"/>
+<path d="M 599.52,931.99 Q 544.52,880.44 505.71,815.82" stroke="#787878" stroke-width="2.93" stroke-opacity="0.91"/>
+<path d="M 1121.81,786.31 Q 1055.18,808.88 984.86,811.15" stroke="#777777" stroke-width="2.96" stroke-opacity="0.91"/>
+<path d="M 1130.78,465.14 Q 1062.54,493.55 989.14,502.17" stroke="#757575" stroke-width="2.99" stroke-opacity="0.91"/>
+<path d="M 1100.23,989.87 Q 1055.28,1042.18 1027.65,1105.37" stroke="#757575" stroke-width="2.99" stroke-opacity="0.91"/>
+<path d="M 1014.89,975.72 Q 942.78,959.26 877.93,923.67" stroke="#757575" stroke-width="2.99" stroke-opacity="0.91"/>
+<path d="M 594.03,630.03 Q 612.80,703.61 650.52,769.52" stroke="#757575" stroke-width="2.99" stroke-opacity="0.91"/>
+<path d="M 1009.10,1312.35 Q 1009.25,1236.29 989.13,1162.94" stroke="#757575" stroke-width="2.99" stroke-opacity="0.91"/>
+<path d="M 1229.68,1080.97 Q 1178.36,1141.33 1144.20,1212.81" stroke="#757575" stroke-width="2.99" stroke-opacity="0.91"/>
+<path d="M 1170.82,840.32 Q 1146.42,769.47 1103.81,707.83" stroke="#757575" stroke-width="3.00" stroke-opacity="0.91"/>
+<path d="M 1069.56,924.48 Q 1035.35,861.73 984.86,811.15" stroke="#757575" stroke-width="3.01" stroke-opacity="0.91"/>
+<path d="M 1223.14,779.97 Q 1232.04,705.87 1220.73,632.11" stroke="#747474" stroke-width="3.03" stroke-opacity="0.91"/>
+<path d="M 1313.24,752.60 Q 1259.42,698.16 1220.73,632.11" stroke="#6c6c6c" stroke-width="3.20" stroke-opacity="0.92"/>
+<path d="M 1191.39,706.65 Q 1135.43,661.10 1092.64,603.01" stroke="#666666" stroke-width="3.34" stroke-opacity="0.92"/>
+<path d="M 1878.17,875.12 Q 1804.41,874.13 1733.11,855.16" stroke="#666666" stroke-width="3.35" stroke-opacity="0.92"/>
+<path d="M 1474.77,907.28 Q 1403.22,882.68 1327.88,875.82" stroke="#666666" stroke-width="3.35" stroke-opacity="0.92"/>
+<path d="M 1359.14,1366.48 Q 1288.94,1376.07 1218.60,1367.51" stroke="#666666" stroke-width="3.35" stroke-opacity="0.92"/>
+<path d="M 1922.71,727.75 Q 1963.10,789.75 1987.46,859.61" stroke="#646464" stroke-width="3.39" stroke-opacity="0.92"/>
+<path d="M 1931.87,991.08 Q 1967.89,928.82 1987.46,859.61" stroke="#646464" stroke-width="3.39" stroke-opacity="0.92"/>
+<path d="M 929.10,463.79 Q 897.09,528.09 850.20,582.51" stroke="#646464" stroke-width="3.39" stroke-opacity="0.92"/>
+<path d="M 790.42,455.90 Q 812.24,523.02 850.20,582.51" stroke="#646464" stroke-width="3.39" stroke-opacity="0.92"/>
+<path d="M 1359.14,1366.48 Q 1303.23,1325.57 1238.83,1300.05" stroke="#626262" stroke-width="3.44" stroke-opacity="0.93"/>
+<path d="M 599.52,931.99 Q 543.99,970.23 496.12,1017.71" stroke="#3c3c3c" stroke-width="4.30" stroke-opacity="0.96"/>
+<path d="M 1318.94,37.76 Q 1254.33,56.98 1194.15,87.35" stroke="#3c3c3c" stroke-width="4.30" stroke-opacity="0.96"/>
+<path d="M 778.14,1246.94 Q 820.37,1301.95 852.48,1363.41" stroke="#3c3c3c" stroke-width="4.30" stroke-opacity="0.96"/>
+<path d="M 1356.99,573.66 Q 1386.38,509.34 1426.21,450.91" stroke="#3c3c3c" stroke-width="4.30" stroke-opacity="0.96"/>
+<path d="M 847.88,767.52 Q 820.20,695.73 778.28,631.23" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 847.88,767.52 Q 774.46,743.32 707.60,704.52" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 653.65,848.77 Q 673.13,773.84 707.60,704.52" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1878.04,599.37 Q 1914.81,527.19 1965.05,463.65" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1878.04,599.37 Q 1944.95,644.99 2019.53,676.57" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1695.48,398.45 Q 1655.56,325.42 1630.35,246.11" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1695.48,398.45 Q 1724.27,321.11 1737.59,239.68" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1695.48,398.45 Q 1765.35,351.88 1842.78,319.41" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1736.30,617.85 Q 1794.66,556.53 1863.52,507.28" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 850.20,582.51 Q 779.94,526.55 700.87,483.94" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 850.20,582.51 Q 765.35,594.96 679.66,591.43" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 850.20,582.51 Q 865.57,493.45 865.00,403.08" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 929.10,463.79 Q 928.42,387.47 911.85,312.96" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 790.42,455.90 Q 711.66,425.78 640.02,381.32" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1604.14,1142.88 Q 1683.02,1156.02 1757.70,1184.60" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1604.14,1142.88 Q 1523.46,1148.84 1445.52,1170.57" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1604.14,1142.88 Q 1635.21,1221.24 1650.91,1304.06" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1708.03,549.62 Q 1783.67,520.74 1863.52,507.28" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1478.20,816.25 Q 1491.83,740.08 1520.84,668.34" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 1474.77,907.28 Q 1394.95,933.44 1321.54,974.27" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+<path d="M 877.93,923.67 Q 824.25,985.57 759.56,1035.85" stroke="#a16207" stroke-width="4.40" stroke-opacity="0.95" stroke-dasharray="6 4"/>
+</g>
+<g id="edge-labels">
+<rect x="793.14" y="685.86" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="827.33" y="694.85" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:20229566</text>
+<rect x="743.56" y="729.78" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="777.74" y="738.77" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:21667042</text>
+<rect x="646.44" y="770.41" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="680.62" y="779.40" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:21667042</text>
+<rect x="1887.35" y="525.28" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1921.54" y="534.26" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:10716879</text>
+<rect x="1906.93" y="645.78" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1941.12" y="654.77" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:11349730</text>
+<rect x="1628.73" y="316.04" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1662.91" y="325.03" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:11004613</text>
+<rect x="1697.81" y="316.93" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1732.00" y="325.92" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:19015347</text>
+<rect x="1734.94" y="352.69" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1769.13" y="361.68" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:30995373</text>
+<rect x="1765.72" y="556.33" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1799.91" y="565.32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:20823884</text>
+<rect x="750.16" y="513.64" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="784.35" y="522.62" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:21048425</text>
+<rect x="730.75" y="580.73" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="764.93" y="589.72" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:30552176</text>
+<rect x="839.36" y="487.87" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="873.55" y="496.86" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:20140476</text>
+<rect x="902.18" y="380.32" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="936.37" y="389.31" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:21801403</text>
+<rect x="681.03" y="412.38" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="715.22" y="421.37" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:33872652</text>
+<rect x="1646.73" y="1157.51" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1680.92" y="1166.49" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:24679469</text>
+<rect x="1487.89" y="1134.73" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1522.08" y="1143.72" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:30734266</text>
+<rect x="1593.34" y="1217.24" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1627.52" y="1226.22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:26042589</text>
+<rect x="1751.59" y="522.22" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1785.77" y="531.21" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:20823884</text>
+<rect x="1465.33" y="736.06" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1499.52" y="745.05" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:22781553</text>
+<rect x="1357.56" y="919.88" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="1391.75" y="928.86" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:22950522</text>
+<rect x="784.56" y="973.53" width="68.37" height="12.47" rx="3.0" ry="3.0" fill="white" fill-opacity="0.84" stroke="#d6b98e" stroke-width="0.6"/>
+<text x="818.75" y="982.52" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="8.6" font-weight="600" fill="#7c4f12">PMID:29378952</text>
+</g>
+<g id="nodes">
+<circle cx="1842.72" cy="727.40" r="20.79" fill="#c0dcea" stroke="none" stroke-width="0.00"/>
+<text x="1842.72" y="731.43" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.2" font-weight="600" fill="#374151">GAB2</text>
+<circle cx="1215.30" cy="1177.36" r="21.20" fill="#bdd7e7" stroke="none" stroke-width="0.00"/>
+<text x="1215.30" y="1181.42" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">GLI1</text>
+<circle cx="912.84" cy="612.20" r="21.21" fill="#bdd7e6" stroke="none" stroke-width="0.00"/>
+<text x="912.84" y="616.27" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">BCL2</text>
+<circle cx="551.93" cy="375.88" r="21.21" fill="#bdd7e6" stroke="none" stroke-width="0.00"/>
+<text x="551.93" y="379.94" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">APC2</text>
+<circle cx="1270.99" cy="833.92" r="23.04" fill="#bdd7e6" stroke="none" stroke-width="0.00"/>
+<text x="1270.99" y="837.99" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">TRAF5</text>
+<circle cx="726.58" cy="1158.27" r="26.30" fill="#bdd7e6" stroke="none" stroke-width="0.00"/>
+<text x="726.58" y="1162.34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">RASSF1</text>
+<circle cx="763.38" cy="934.47" r="21.26" fill="#bcd7e6" stroke="none" stroke-width="0.00"/>
+<text x="763.38" y="938.54" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">BAD</text>
+<circle cx="1332.71" cy="417.31" r="26.33" fill="#bcd6e6" stroke="none" stroke-width="0.00"/>
+<text x="1332.71" y="421.38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.3" font-weight="600" fill="#374151">RALGDS</text>
+<circle cx="676.61" cy="993.96" r="23.11" fill="#bbd6e5" stroke="none" stroke-width="0.00"/>
+<text x="676.61" y="998.04" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">CASP3</text>
+<circle cx="1214.20" cy="241.06" r="23.12" fill="#bbd5e5" stroke="none" stroke-width="0.00"/>
+<text x="1214.20" y="245.15" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">ATG12</text>
+<circle cx="1132.69" cy="37.70" r="29.70" fill="#bbd5e5" stroke="none" stroke-width="0.00"/>
+<text x="1132.69" y="41.78" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">HSP90B1</text>
+<circle cx="1238.81" cy="984.02" r="21.45" fill="#bbd5e4" stroke="none" stroke-width="0.00"/>
+<text x="1238.81" y="988.10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">LTBR</text>
+<circle cx="928.66" cy="1306.00" r="23.14" fill="#bbd5e4" stroke="none" stroke-width="0.00"/>
+<text x="928.66" y="1310.09" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">SMAD7</text>
+<circle cx="946.46" cy="882.31" r="21.47" fill="#bbd5e4" stroke="none" stroke-width="0.00"/>
+<text x="946.46" y="886.40" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">IL18</text>
+<circle cx="734.63" cy="314.53" r="23.15" fill="#bad4e4" stroke="none" stroke-width="0.00"/>
+<text x="734.63" y="318.63" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">MYD88</text>
+<circle cx="1410.56" cy="993.29" r="23.16" fill="#bad4e4" stroke="none" stroke-width="0.00"/>
+<text x="1410.56" y="997.38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">IKBKE</text>
+<circle cx="817.14" cy="63.36" r="33.12" fill="#bad4e4" stroke="none" stroke-width="0.00"/>
+<text x="817.14" y="67.46" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">HSP90AB1</text>
+<circle cx="1426.47" cy="741.81" r="33.14" fill="#bad4e4" stroke="none" stroke-width="0.00"/>
+<text x="1426.47" y="745.91" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">MAPKAPK3</text>
+<circle cx="1140.27" cy="912.29" r="23.18" fill="#bad4e4" stroke="none" stroke-width="0.00"/>
+<text x="1140.27" y="916.39" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">USP25</text>
+<circle cx="1604.14" cy="1142.88" r="23.18" fill="#bad4e3" stroke="none" stroke-width="0.00"/>
+<text x="1604.14" y="1146.98" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">IL23A</text>
+<circle cx="580.80" cy="1107.73" r="21.56" fill="#bad4e3" stroke="none" stroke-width="0.00"/>
+<text x="580.80" y="1111.83" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.4" font-weight="600" fill="#374151">STK4</text>
+<circle cx="1478.20" cy="816.25" r="33.25" fill="#b8d2e2" stroke="none" stroke-width="0.00"/>
+<text x="1478.20" y="820.36" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">MAPKAPK2</text>
+<circle cx="975.82" cy="31.26" r="23.26" fill="#b8d1e2" stroke="none" stroke-width="0.00"/>
+<text x="975.82" y="35.38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">CDC37</text>
+<circle cx="1162.57" cy="389.40" r="21.77" fill="#b8d1e2" stroke="none" stroke-width="0.00"/>
+<text x="1162.57" y="393.51" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">ATG5</text>
+<circle cx="730.57" cy="848.01" r="21.79" fill="#b8d1e1" stroke="none" stroke-width="0.00"/>
+<text x="730.57" y="852.13" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">BAX</text>
+<circle cx="1602.05" cy="669.61" r="23.28" fill="#b8d1e1" stroke="none" stroke-width="0.00"/>
+<text x="1602.05" y="673.73" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">ZAP70</text>
+<circle cx="1691.32" cy="931.58" r="33.30" fill="#b8d1e1" stroke="none" stroke-width="0.00"/>
+<text x="1691.32" y="935.70" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">ARHGEF12</text>
+<circle cx="1655.98" cy="853.54" r="23.29" fill="#b7d1e1" stroke="none" stroke-width="0.00"/>
+<text x="1655.98" y="857.66" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">SH2B2</text>
+<circle cx="1573.50" cy="605.29" r="23.30" fill="#b7d0e1" stroke="none" stroke-width="0.00"/>
+<text x="1573.50" y="609.41" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">PTPRC</text>
+<circle cx="1095.61" cy="143.93" r="33.34" fill="#b7d0e1" stroke="none" stroke-width="0.00"/>
+<text x="1095.61" y="148.06" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">HSP90AA1</text>
+<circle cx="1281.41" cy="490.96" r="21.87" fill="#b7d0e1" stroke="none" stroke-width="0.00"/>
+<text x="1281.41" y="495.08" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">MAVS</text>
+<circle cx="1736.30" cy="617.85" r="21.90" fill="#b7d0e0" stroke="none" stroke-width="0.00"/>
+<text x="1736.30" y="621.98" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">FYN</text>
+<circle cx="1353.06" cy="1237.14" r="21.91" fill="#b7d0e0" stroke="none" stroke-width="0.00"/>
+<text x="1353.06" y="1241.27" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">SUFU</text>
+<circle cx="1442.36" cy="547.39" r="21.95" fill="#b6cfe0" stroke="none" stroke-width="0.00"/>
+<text x="1442.36" y="551.52" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">DLG4</text>
+<circle cx="1613.08" cy="339.35" r="21.97" fill="#b6cfe0" stroke="none" stroke-width="0.00"/>
+<text x="1613.08" y="343.49" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">DLG5</text>
+<circle cx="1703.58" cy="1009.90" r="21.98" fill="#b6cfe0" stroke="none" stroke-width="0.00"/>
+<text x="1703.58" y="1014.03" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">CBL</text>
+<circle cx="1423.21" cy="334.20" r="23.36" fill="#b6cfdf" stroke="none" stroke-width="0.00"/>
+<text x="1423.21" y="338.33" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">LLGL2</text>
+<circle cx="840.22" cy="1078.49" r="22.02" fill="#b6cfdf" stroke="none" stroke-width="0.00"/>
+<text x="840.22" y="1082.63" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#374151">CTSB</text>
+<circle cx="888.08" cy="839.60" r="26.69" fill="#b6cedf" stroke="none" stroke-width="0.00"/>
+<text x="888.08" y="843.74" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">BCL2L1</text>
+<circle cx="526.44" cy="712.66" r="22.06" fill="#b6cedf" stroke="none" stroke-width="0.00"/>
+<text x="526.44" y="716.81" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">BTRC</text>
+<circle cx="982.27" cy="1042.22" r="22.09" fill="#b5cedf" stroke="none" stroke-width="0.00"/>
+<text x="982.27" y="1046.36" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">NEK7</text>
+<circle cx="1122.88" cy="307.73" r="22.09" fill="#b5cedf" stroke="none" stroke-width="0.00"/>
+<text x="1122.88" y="311.87" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">TBK1</text>
+<circle cx="372.35" cy="695.40" r="22.09" fill="#b5cedf" stroke="none" stroke-width="0.00"/>
+<text x="372.35" y="699.55" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">CUL1</text>
+<circle cx="1734.95" cy="707.21" r="22.12" fill="#b5cedf" stroke="none" stroke-width="0.00"/>
+<text x="1734.95" y="711.36" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">CBLB</text>
+<circle cx="1462.76" cy="611.85" r="22.12" fill="#b5cede" stroke="none" stroke-width="0.00"/>
+<text x="1462.76" y="616.00" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">DLG1</text>
+<circle cx="459.24" cy="574.50" r="22.13" fill="#b5cede" stroke="none" stroke-width="0.00"/>
+<text x="459.24" y="578.65" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">SKP1</text>
+<circle cx="1600.66" cy="541.30" r="22.15" fill="#b5cdde" stroke="none" stroke-width="0.00"/>
+<text x="1600.66" y="545.46" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">DLG3</text>
+<circle cx="1369.50" cy="273.87" r="22.19" fill="#b4cdde" stroke="none" stroke-width="0.00"/>
+<text x="1369.50" y="278.03" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">RALA</text>
+<circle cx="1355.33" cy="117.35" r="22.22" fill="#b4cdde" stroke="none" stroke-width="0.00"/>
+<text x="1355.33" y="121.51" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">RGL2</text>
+<circle cx="1305.66" cy="250.94" r="22.22" fill="#b4cdde" stroke="none" stroke-width="0.00"/>
+<text x="1305.66" y="255.09" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">RALB</text>
+<circle cx="1084.73" cy="1272.38" r="26.79" fill="#b4ccdd" stroke="none" stroke-width="0.00"/>
+<text x="1084.73" y="1276.54" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">SMURF2</text>
+<circle cx="653.65" cy="848.77" r="23.48" fill="#b4ccdd" stroke="none" stroke-width="0.00"/>
+<text x="653.65" y="852.93" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">CASP9</text>
+<circle cx="1076.06" cy="1365.19" r="26.81" fill="#b3ccdd" stroke="none" stroke-width="0.00"/>
+<text x="1076.06" y="1369.36" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">SMURF1</text>
+<circle cx="590.88" cy="269.47" r="22.31" fill="#b3ccdd" stroke="none" stroke-width="0.00"/>
+<text x="590.88" y="273.64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">TLR8</text>
+<circle cx="869.64" cy="245.95" r="22.34" fill="#b3cbdd" stroke="none" stroke-width="0.00"/>
+<text x="869.64" y="250.11" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">TLR7</text>
+<circle cx="650.52" cy="769.52" r="23.50" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="650.52" y="773.69" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">SIAH1</text>
+<circle cx="812.34" cy="180.69" r="22.36" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="812.34" y="184.86" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">TLR9</text>
+<circle cx="1522.85" cy="239.92" r="23.51" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="1522.85" y="244.09" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">LLGL1</text>
+<circle cx="1046.82" cy="544.76" r="23.51" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="1046.82" y="548.93" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">NLRP7</text>
+<circle cx="895.05" cy="526.32" r="23.52" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="895.05" y="530.49" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">NLRP6</text>
+<circle cx="1511.54" cy="1108.05" r="22.41" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="1511.54" y="1112.23" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.6" font-weight="600" fill="#374151">CYLD</text>
+<circle cx="877.93" cy="923.67" r="23.53" fill="#b3cbdc" stroke="none" stroke-width="0.00"/>
+<text x="877.93" y="927.85" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">NLRP3</text>
+<circle cx="799.65" cy="716.22" r="23.53" fill="#b2cadc" stroke="none" stroke-width="0.00"/>
+<text x="799.65" y="720.40" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">NLRP1</text>
+<circle cx="1426.82" cy="146.40" r="22.43" fill="#b2cadc" stroke="none" stroke-width="0.00"/>
+<text x="1426.82" y="150.57" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">RGL1</text>
+<circle cx="1836.77" cy="973.85" r="22.44" fill="#b2cadc" stroke="none" stroke-width="0.00"/>
+<text x="1836.77" y="978.02" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">RHOQ</text>
+<circle cx="1515.30" cy="419.82" r="23.55" fill="#b2cadb" stroke="none" stroke-width="0.00"/>
+<text x="1515.30" y="424.00" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">SCRIB</text>
+<circle cx="608.02" cy="525.90" r="30.28" fill="#b2cadb" stroke="none" stroke-width="0.00"/>
+<text x="608.02" y="530.08" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">TBL1XR1</text>
+<circle cx="412.58" cy="438.94" r="23.55" fill="#b2cadb" stroke="none" stroke-width="0.00"/>
+<text x="412.58" y="443.12" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">TBL1X</text>
+<circle cx="1160.84" cy="582.35" r="23.56" fill="#b2cadb" stroke="none" stroke-width="0.00"/>
+<text x="1160.84" y="586.54" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">NLRX1</text>
+<circle cx="935.83" cy="174.78" r="23.56" fill="#b2cadb" stroke="none" stroke-width="0.00"/>
+<text x="935.83" y="178.96" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">SUGT1</text>
+<circle cx="989.13" cy="1162.94" r="22.54" fill="#b2c9db" stroke="none" stroke-width="0.00"/>
+<text x="989.13" y="1167.12" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">TNF</text>
+<circle cx="1720.83" cy="775.30" r="23.58" fill="#b2c9db" stroke="none" stroke-width="0.00"/>
+<text x="1720.83" y="779.49" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">CD247</text>
+<circle cx="1368.30" cy="1063.66" r="30.33" fill="#b1c9db" stroke="none" stroke-width="0.00"/>
+<text x="1368.30" y="1067.85" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">TNFSF14</text>
+<circle cx="695.60" cy="167.40" r="22.55" fill="#b1c9db" stroke="none" stroke-width="0.00"/>
+<text x="695.60" y="171.59" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">TLR5</text>
+<circle cx="1137.31" cy="231.84" r="30.33" fill="#b1c9db" stroke="none" stroke-width="0.00"/>
+<text x="1137.31" y="236.03" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">ATG16L1</text>
+<circle cx="430.08" cy="837.46" r="26.95" fill="#b1c9da" stroke="none" stroke-width="0.00"/>
+<text x="430.08" y="841.65" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">FBXW11</text>
+<circle cx="1504.91" cy="1237.26" r="22.61" fill="#b1c9da" stroke="none" stroke-width="0.00"/>
+<text x="1504.91" y="1241.45" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">SPOP</text>
+<circle cx="1539.60" cy="956.11" r="22.62" fill="#b1c8da" stroke="none" stroke-width="0.00"/>
+<text x="1539.60" y="960.30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">LSP1</text>
+<circle cx="1733.11" cy="855.16" r="30.39" fill="#b0c8da" stroke="none" stroke-width="0.00"/>
+<text x="1733.11" y="859.35" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">RAPGEF1</text>
+<circle cx="985.00" cy="368.82" r="22.76" fill="#b0c7d9" stroke="none" stroke-width="0.00"/>
+<text x="985.00" y="373.02" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.7" font-weight="600" fill="#374151">REL</text>
+<circle cx="1605.63" cy="997.00" r="22.82" fill="#afc6d8" stroke="none" stroke-width="0.00"/>
+<text x="1605.63" y="1001.21" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">BCL3</text>
+<circle cx="1431.36" cy="1369.15" r="22.85" fill="#afc6d8" stroke="none" stroke-width="0.00"/>
+<text x="1431.36" y="1373.37" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">CUL3</text>
+<circle cx="847.88" cy="767.52" r="23.70" fill="#afc6d8" stroke="none" stroke-width="0.00"/>
+<text x="847.88" y="771.73" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">CASP1</text>
+<circle cx="1103.81" cy="707.83" r="23.71" fill="#afc6d8" stroke="none" stroke-width="0.00"/>
+<text x="1103.81" y="712.04" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">NLRC4</text>
+<circle cx="1708.03" cy="549.62" r="22.88" fill="#afc6d8" stroke="none" stroke-width="0.00"/>
+<text x="1708.03" y="553.84" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">LCK</text>
+<circle cx="891.54" cy="1192.77" r="22.95" fill="#aec5d7" stroke="none" stroke-width="0.00"/>
+<text x="891.54" y="1196.99" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">BAG4</text>
+<circle cx="1291.50" cy="637.42" r="22.95" fill="#aec5d7" stroke="none" stroke-width="0.00"/>
+<text x="1291.50" y="641.64" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">MFN1</text>
+<circle cx="1301.54" cy="344.03" r="22.95" fill="#aec5d7" stroke="none" stroke-width="0.00"/>
+<text x="1301.54" y="348.25" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">MFN2</text>
+<circle cx="1144.20" cy="1212.81" r="34.06" fill="#adc4d7" stroke="none" stroke-width="0.00"/>
+<text x="1144.20" y="1217.04" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">TNFRSF1B</text>
+<circle cx="1576.12" cy="1368.19" r="23.81" fill="#adc3d6" stroke="none" stroke-width="0.00"/>
+<text x="1576.12" y="1372.43" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">SPOPL</text>
+<circle cx="984.86" cy="811.15" r="23.81" fill="#adc3d6" stroke="none" stroke-width="0.00"/>
+<text x="984.86" y="815.39" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">GSDMD</text>
+<circle cx="954.13" cy="671.64" r="27.20" fill="#acc3d6" stroke="none" stroke-width="0.00"/>
+<text x="954.13" y="675.88" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.8" font-weight="600" fill="#374151">PYCARD</text>
+<circle cx="1359.32" cy="1140.80" r="23.84" fill="#acc3d5" stroke="none" stroke-width="0.00"/>
+<text x="1359.32" y="1145.04" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">SIKE1</text>
+<circle cx="1247.25" cy="388.91" r="23.84" fill="#acc2d5" stroke="none" stroke-width="0.00"/>
+<text x="1247.25" y="393.15" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">EXOC2</text>
+<circle cx="1229.68" cy="1080.97" r="27.24" fill="#acc2d5" stroke="none" stroke-width="0.00"/>
+<text x="1229.68" y="1085.22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">DAB2IP</text>
+<circle cx="1599.59" cy="804.40" r="27.25" fill="#acc2d5" stroke="none" stroke-width="0.00"/>
+<text x="1599.59" y="808.65" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">CLEC7A</text>
+<circle cx="1027.65" cy="1105.37" r="23.24" fill="#acc2d5" stroke="none" stroke-width="0.00"/>
+<text x="1027.65" y="1109.61" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">LTA</text>
+<circle cx="989.14" cy="502.17" r="23.89" fill="#abc1d4" stroke="none" stroke-width="0.00"/>
+<text x="989.14" y="506.42" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">IFI16</text>
+<circle cx="1800.97" cy="429.63" r="23.32" fill="#abc1d4" stroke="none" stroke-width="0.00"/>
+<text x="1800.97" y="433.88" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">CD8A</text>
+<circle cx="1608.18" cy="437.67" r="23.32" fill="#abc1d4" stroke="none" stroke-width="0.00"/>
+<text x="1608.18" y="441.93" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">CD8B</text>
+<circle cx="1878.04" cy="599.37" r="23.34" fill="#abc1d4" stroke="none" stroke-width="0.00"/>
+<text x="1878.04" y="603.63" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">CD3E</text>
+<circle cx="1039.25" cy="433.62" r="23.90" fill="#abc1d4" stroke="none" stroke-width="0.00"/>
+<text x="1039.25" y="437.88" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">DDX3X</text>
+<circle cx="1695.48" cy="398.45" r="23.34" fill="#abc1d4" stroke="none" stroke-width="0.00"/>
+<text x="1695.48" y="402.70" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">CD4</text>
+<circle cx="1863.39" cy="1121.93" r="27.32" fill="#aac0d4" stroke="none" stroke-width="0.00"/>
+<text x="1863.39" y="1126.19" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">TRIP10</text>
+<circle cx="505.71" cy="815.82" r="23.41" fill="#aac0d3" stroke="none" stroke-width="0.00"/>
+<text x="505.71" y="820.08" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">CYCS</text>
+<circle cx="1009.10" cy="1312.35" r="34.30" fill="#aac0d3" stroke="none" stroke-width="0.00"/>
+<text x="1009.10" y="1316.61" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">TNFRSF1A</text>
+<circle cx="1730.75" cy="1082.67" r="23.95" fill="#aac0d3" stroke="none" stroke-width="0.00"/>
+<text x="1730.75" y="1086.93" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">EXOC7</text>
+<circle cx="1005.77" cy="301.86" r="23.46" fill="#aac0d3" stroke="none" stroke-width="0.00"/>
+<text x="1005.77" y="306.12" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12.9" font-weight="600" fill="#374151">NOD1</text>
+<circle cx="1130.78" cy="465.14" r="27.40" fill="#a9bfd2" stroke="none" stroke-width="0.00"/>
+<text x="1130.78" y="469.41" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">STING1</text>
+<circle cx="1220.73" cy="632.11" r="24.01" fill="#a8bed2" stroke="none" stroke-width="0.00"/>
+<text x="1220.73" y="636.39" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">IFIH1</text>
+<circle cx="1100.23" cy="989.87" r="23.61" fill="#a8bed1" stroke="none" stroke-width="0.00"/>
+<text x="1100.23" y="994.15" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">LTB</text>
+<circle cx="622.45" cy="700.34" r="24.02" fill="#a8bed1" stroke="none" stroke-width="0.00"/>
+<text x="622.45" y="704.62" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">APAF1</text>
+<circle cx="1327.88" cy="875.82" r="24.07" fill="#a7bdd0" stroke="none" stroke-width="0.00"/>
+<text x="1327.88" y="880.11" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">HSPB1</text>
+<circle cx="1092.64" cy="603.01" r="23.76" fill="#a7bcd0" stroke="none" stroke-width="0.00"/>
+<text x="1092.64" y="607.31" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">AIM2</text>
+<circle cx="1366.84" cy="673.73" r="23.78" fill="#a7bcd0" stroke="none" stroke-width="0.00"/>
+<text x="1366.84" y="678.02" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">TKFC</text>
+<circle cx="1474.77" cy="907.28" r="34.57" fill="#a6bccf" stroke="none" stroke-width="0.00"/>
+<text x="1474.77" y="911.58" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.0" font-weight="600" fill="#374151">MAPKAPK5</text>
+<circle cx="1987.46" cy="859.61" r="23.92" fill="#a6bbcf" stroke="none" stroke-width="0.00"/>
+<text x="1987.46" y="863.92" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">AFDN</text>
+<circle cx="850.20" cy="582.51" r="23.96" fill="#a5bace" stroke="none" stroke-width="0.00"/>
+<text x="850.20" y="586.82" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">IL1B</text>
+<circle cx="1931.87" cy="991.08" r="24.16" fill="#a5bace" stroke="none" stroke-width="0.00"/>
+<text x="1931.87" y="995.39" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">SIPA1</text>
+<circle cx="1878.17" cy="875.12" r="24.02" fill="#a5bace" stroke="none" stroke-width="0.00"/>
+<text x="1878.17" y="879.44" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">CDH1</text>
+<circle cx="929.10" cy="463.79" r="24.18" fill="#a5bace" stroke="none" stroke-width="0.00"/>
+<text x="929.10" y="468.11" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">IL1R1</text>
+<circle cx="910.18" cy="1069.86" r="24.18" fill="#a5bace" stroke="none" stroke-width="0.00"/>
+<text x="910.18" y="1074.18" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">BRCC3</text>
+<circle cx="998.45" cy="736.96" r="27.66" fill="#a4b9cd" stroke="none" stroke-width="0.00"/>
+<text x="998.45" y="741.28" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">CARD16</text>
+<circle cx="1218.60" cy="1367.51" r="24.21" fill="#a4b9cd" stroke="none" stroke-width="0.00"/>
+<text x="1218.60" y="1371.83" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">PTCH2</text>
+<circle cx="594.03" cy="630.03" r="27.68" fill="#a4b9cd" stroke="none" stroke-width="0.00"/>
+<text x="594.03" y="634.35" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">CACYBP</text>
+<circle cx="1238.83" cy="1300.05" r="24.27" fill="#a3b7cc" stroke="none" stroke-width="0.00"/>
+<text x="1238.83" y="1304.38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.1" font-weight="600" fill="#374151">PTCH1</text>
+<circle cx="790.42" cy="455.90" r="27.78" fill="#a2b6cb" stroke="none" stroke-width="0.00"/>
+<text x="790.42" y="460.25" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">IL1RAP</text>
+<circle cx="1121.81" cy="786.31" r="24.44" fill="#a1b5ca" stroke="none" stroke-width="0.00"/>
+<text x="1121.81" y="790.66" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">CASP5</text>
+<circle cx="1014.89" cy="975.72" r="24.50" fill="#a1b5ca" stroke="none" stroke-width="0.00"/>
+<text x="1014.89" y="980.08" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">CARD8</text>
+<circle cx="1170.82" cy="840.32" r="24.53" fill="#a1b4ca" stroke="none" stroke-width="0.00"/>
+<circle cx="1170.82" cy="840.32" r="27.53" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1170.82" y="844.68" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">NAIP</text>
+<circle cx="1069.56" cy="924.48" r="24.55" fill="#a0b4c9" stroke="none" stroke-width="0.00"/>
+<circle cx="1069.56" cy="924.48" r="27.55" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1069.56" y="928.84" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">CASP4</text>
+<circle cx="1223.14" cy="779.97" r="24.60" fill="#a0b4c9" stroke="none" stroke-width="0.00"/>
+<circle cx="1223.14" cy="779.97" r="27.60" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1223.14" y="784.34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">DHX58</text>
+<circle cx="1922.71" cy="727.75" r="27.92" fill="#a0b3c9" stroke="none" stroke-width="0.00"/>
+<circle cx="1922.71" cy="727.75" r="30.92" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1922.71" y="732.12" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.2" font-weight="600" fill="#374151">CTNND1</text>
+<circle cx="1313.24" cy="752.60" r="28.11" fill="#9cafc5" stroke="none" stroke-width="0.00"/>
+<circle cx="1313.24" cy="752.60" r="31.11" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1313.24" y="757.01" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.4" font-weight="600" fill="#374151">RNF125</text>
+<circle cx="1191.39" cy="706.65" r="31.88" fill="#99abc2" stroke="none" stroke-width="0.00"/>
+<circle cx="1191.39" cy="706.65" r="34.88" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1191.39" y="711.09" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#374151">TP53BP1</text>
+<circle cx="1359.14" cy="1366.48" r="25.52" fill="#98aac1" stroke="none" stroke-width="0.00"/>
+<circle cx="1359.14" cy="1366.48" r="28.52" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1359.14" y="1370.93" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#374151">CDON</text>
+<circle cx="496.12" cy="1017.71" r="25.56" fill="#98aac1" stroke="none" stroke-width="0.00"/>
+<circle cx="496.12" cy="1017.71" r="28.56" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="496.12" y="1022.16" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#374151">CTSD</text>
+<circle cx="1194.15" cy="87.35" r="25.61" fill="#98a9c0" stroke="none" stroke-width="0.00"/>
+<circle cx="1194.15" cy="87.35" r="28.61" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1194.15" y="91.81" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.5" font-weight="600" fill="#374151">NOD2</text>
+<circle cx="1426.21" cy="450.91" r="25.77" fill="#96a7bf" stroke="none" stroke-width="0.00"/>
+<circle cx="1426.21" cy="450.91" r="28.77" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1426.21" y="455.38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.6" font-weight="600" fill="#374151">DHX33</text>
+<circle cx="852.48" cy="1363.41" r="25.90" fill="#95a6be" stroke="none" stroke-width="0.00"/>
+<circle cx="852.48" cy="1363.41" r="28.90" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="852.48" y="1367.89" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.6" font-weight="600" fill="#374151">NSMAF</text>
+<circle cx="599.52" cy="931.99" r="26.01" fill="#94a5bd" stroke="none" stroke-width="0.00"/>
+<circle cx="599.52" cy="931.99" r="29.01" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="599.52" y="936.48" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13.6" font-weight="600" fill="#374151">BID</text>
+<circle cx="1318.94" cy="37.76" r="27.80" fill="#8592ad" stroke="none" stroke-width="0.00"/>
+<circle cx="1318.94" cy="37.76" r="30.80" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1318.94" y="42.42" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.1" font-weight="600" fill="#374151">ERBIN</text>
+<circle cx="1356.99" cy="573.66" r="29.43" fill="#8592ad" stroke="none" stroke-width="0.00"/>
+<circle cx="1356.99" cy="573.66" r="32.43" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="1356.99" y="578.31" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.1" font-weight="600" fill="#374151">RNASEL</text>
+<circle cx="778.14" cy="1246.94" r="27.80" fill="#8592ad" stroke="none" stroke-width="0.00"/>
+<circle cx="778.14" cy="1246.94" r="30.80" fill="none" stroke="#ef7d00" stroke-width="2.0"/>
+<text x="778.14" y="1251.60" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14.1" font-weight="600" fill="#374151">SMPD2</text>
+<rect x="882.85" y="299.96" width="58.00" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="911.85" y="316.46" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">AMG-108</text>
+<rect x="600.54" y="368.32" width="78.96" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="640.02" y="384.82" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">ASTEGOLIMAB</text>
+<rect x="1489.94" y="655.34" width="61.79" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1520.84" y="671.84" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">AT-13148</text>
+<rect x="741.66" y="618.23" width="73.24" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="778.28" y="634.73" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">BELNACASAN</text>
+<rect x="1590.87" y="233.11" width="78.96" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1630.35" y="249.61" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">CEDELIZUMAB</text>
+<rect x="717.22" y="1022.85" width="84.69" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="759.56" y="1039.35" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">DAPANSUTRILE</text>
+<rect x="661.39" y="470.94" width="78.96" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="700.87" y="487.44" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">GEVOKIZUMAB</text>
+<rect x="1287.78" y="961.27" width="67.52" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1321.54" y="977.76" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">GLPG-0259</text>
+<rect x="1721.08" y="1171.60" width="73.24" height="26.00" rx="10.92" ry="10.92" fill="#d1fae5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1757.70" y="1188.10" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">GUSELKUMAB</text>
+<rect x="1700.97" y="226.68" width="73.24" height="26.00" rx="10.92" ry="10.92" fill="#d1fae5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1737.59" y="243.17" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">IBALIZUMAB</text>
+<rect x="640.18" y="578.43" width="78.96" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="679.66" y="594.93" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">LUTIKIZUMAB</text>
+<rect x="1406.04" y="1157.57" width="78.96" height="26.00" rx="10.92" ry="10.92" fill="#d1fae5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1445.52" y="1174.06" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">MIRIKIZUMAB</text>
+<rect x="828.38" y="390.08" width="73.24" height="26.00" rx="10.92" ry="10.92" fill="#d1fae5" stroke="#92400e" stroke-width="1.40"/>
+<text x="865.00" y="406.57" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">RILONACEPT</text>
+<rect x="1800.44" y="306.41" width="84.69" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1842.78" y="322.90" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">SEMZUVOLIMAB</text>
+<rect x="1928.43" y="450.65" width="73.24" height="26.00" rx="10.92" ry="10.92" fill="#d1fae5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1965.05" y="467.15" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">TEPLIZUMAB</text>
+<rect x="1605.70" y="1291.06" width="90.41" height="26.00" rx="10.92" ry="10.92" fill="#d1fae5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1650.91" y="1307.56" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">TILDRAKIZUMAB</text>
+<rect x="1980.04" y="663.57" width="78.96" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="2019.53" y="680.07" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.6" font-weight="600" fill="#374151">VISILIZUMAB</text>
+<rect x="1820.94" y="494.28" width="85.16" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="1863.52" y="510.81" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.7" font-weight="600" fill="#374151">JNJ-26483327</text>
+<rect x="673.67" y="691.52" width="67.87" height="26.00" rx="10.92" ry="10.92" fill="#ffedd5" stroke="#92400e" stroke-width="1.40"/>
+<text x="707.60" y="708.04" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="10.7" font-weight="600" fill="#374151">NIVOCASAN</text>
+</g>
+<g id="legend">
+<circle cx="112" cy="40" r="7" fill="#c7e4f1"/>
+<text x="126" y="44" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#4b5563">Gene</text>
+<rect x="104" y="54" width="16" height="14" rx="5" ry="5" fill="#ffedd5" stroke="#92400e" stroke-width="1.2"/>
+<text x="126" y="66" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#4b5563">Drug (investigational)</text>
+<rect x="104" y="76" width="16" height="14" rx="5" ry="5" fill="#d1fae5" stroke="#92400e" stroke-width="1.2"/>
+<text x="126" y="88" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#4b5563">Drug (approved)</text>
+<path d="M 109,106 Q 123,96 137,106" stroke="#7b7b7b" stroke-width="2" fill="none"/>
+<text x="147" y="110" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#4b5563">Gene-Gene edge</text>
+<path d="M 109,128 Q 123,118 137,128" stroke="#a16207" stroke-width="2.2" stroke-dasharray="6 4" fill="none"/>
+<text x="147" y="132" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#4b5563">Target-Drug edge</text>
+<circle cx="112" cy="150" r="7" fill="none" stroke="#ef7d00" stroke-width="2"/>
+<text x="126" y="154" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#4b5563">Top-weight gene hub</text>
+</g>
+</svg>

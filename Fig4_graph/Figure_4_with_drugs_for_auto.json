@@ -1,0 +1,1991 @@
+{
+  "nodes": [
+    {
+      "id": "ERBIN",
+      "type": "gene",
+      "weight": 1
+    },
+    {
+      "id": "RNASEL",
+      "type": "gene",
+      "weight": 1
+    },
+    {
+      "id": "SMPD2",
+      "type": "gene",
+      "weight": 1
+    },
+    {
+      "id": "BID",
+      "type": "gene",
+      "weight": 0.5939
+    },
+    {
+      "id": "NSMAF",
+      "type": "gene",
+      "weight": 0.5714
+    },
+    {
+      "id": "DHX33",
+      "type": "gene",
+      "weight": 0.5479
+    },
+    {
+      "id": "NOD2",
+      "type": "gene",
+      "weight": 0.5176
+    },
+    {
+      "id": "CTSD",
+      "type": "gene",
+      "weight": 0.5072
+    },
+    {
+      "id": "CDON",
+      "type": "gene",
+      "weight": 0.5
+    },
+    {
+      "id": "TP53BP1",
+      "type": "gene",
+      "weight": 0.4771
+    },
+    {
+      "id": "RNF125",
+      "type": "gene",
+      "weight": 0.4181
+    },
+    {
+      "id": "CTNND1",
+      "type": "gene",
+      "weight": 0.3529
+    },
+    {
+      "id": "DHX58",
+      "type": "gene",
+      "weight": 0.3473
+    },
+    {
+      "id": "CASP4",
+      "type": "gene",
+      "weight": 0.3403
+    },
+    {
+      "id": "NAIP",
+      "type": "gene",
+      "weight": 0.3367
+    },
+    {
+      "id": "CARD8",
+      "type": "gene",
+      "weight": 0.3333
+    },
+    {
+      "id": "CASP5",
+      "type": "gene",
+      "weight": 0.3233
+    },
+    {
+      "id": "IL1RAP",
+      "type": "gene",
+      "weight": 0.3111
+    },
+    {
+      "id": "PTCH1",
+      "type": "gene",
+      "weight": 0.2966
+    },
+    {
+      "id": "CACYBP",
+      "type": "gene",
+      "weight": 0.2794
+    },
+    {
+      "id": "PTCH2",
+      "type": "gene",
+      "weight": 0.2764
+    },
+    {
+      "id": "CARD16",
+      "type": "gene",
+      "weight": 0.2752
+    },
+    {
+      "id": "BRCC3",
+      "type": "gene",
+      "weight": 0.2662
+    },
+    {
+      "id": "IL1R1",
+      "type": "gene",
+      "weight": 0.2661
+    },
+    {
+      "id": "CDH1",
+      "type": "gene",
+      "weight": 0.266
+    },
+    {
+      "id": "SIPA1",
+      "type": "gene",
+      "weight": 0.2614
+    },
+    {
+      "id": "IL1B",
+      "type": "gene",
+      "weight": 0.2583
+    },
+    {
+      "id": "AFDN",
+      "type": "gene",
+      "weight": 0.2524
+    },
+    {
+      "id": "MAPKAPK5",
+      "type": "gene",
+      "weight": 0.2435
+    },
+    {
+      "id": "TKFC",
+      "type": "gene",
+      "weight": 0.2346
+    },
+    {
+      "id": "AIM2",
+      "type": "gene",
+      "weight": 0.2321
+    },
+    {
+      "id": "HSPB1",
+      "type": "gene",
+      "weight": 0.2318
+    },
+    {
+      "id": "APAF1",
+      "type": "gene",
+      "weight": 0.2175
+    },
+    {
+      "id": "LTB",
+      "type": "gene",
+      "weight": 0.2146
+    },
+    {
+      "id": "IFIH1",
+      "type": "gene",
+      "weight": 0.2145
+    },
+    {
+      "id": "STING1",
+      "type": "gene",
+      "weight": 0.2058
+    },
+    {
+      "id": "NOD1",
+      "type": "gene",
+      "weight": 0.197
+    },
+    {
+      "id": "EXOC7",
+      "type": "gene",
+      "weight": 0.1957
+    },
+    {
+      "id": "TNFRSF1A",
+      "type": "gene",
+      "weight": 0.1922
+    },
+    {
+      "id": "CYCS",
+      "type": "gene",
+      "weight": 0.1914
+    },
+    {
+      "id": "TRIP10",
+      "type": "gene",
+      "weight": 0.1875
+    },
+    {
+      "id": "CD4",
+      "type": "gene",
+      "weight": 0.1832
+    },
+    {
+      "id": "DDX3X",
+      "type": "gene",
+      "weight": 0.183
+    },
+    {
+      "id": "CD3E",
+      "type": "gene",
+      "weight": 0.1829
+    },
+    {
+      "id": "CD8B",
+      "type": "gene",
+      "weight": 0.1815
+    },
+    {
+      "id": "CD8A",
+      "type": "gene",
+      "weight": 0.181
+    },
+    {
+      "id": "IFI16",
+      "type": "gene",
+      "weight": 0.1795
+    },
+    {
+      "id": "LTA",
+      "type": "gene",
+      "weight": 0.1724
+    },
+    {
+      "id": "CLEC7A",
+      "type": "gene",
+      "weight": 0.1706
+    },
+    {
+      "id": "DAB2IP",
+      "type": "gene",
+      "weight": 0.1693
+    },
+    {
+      "id": "EXOC2",
+      "type": "gene",
+      "weight": 0.167
+    },
+    {
+      "id": "SIKE1",
+      "type": "gene",
+      "weight": 0.1661
+    },
+    {
+      "id": "PYCARD",
+      "type": "gene",
+      "weight": 0.1614
+    },
+    {
+      "id": "GSDMD",
+      "type": "gene",
+      "weight": 0.1591
+    },
+    {
+      "id": "SPOPL",
+      "type": "gene",
+      "weight": 0.1587
+    },
+    {
+      "id": "TNFRSF1B",
+      "type": "gene",
+      "weight": 0.1501
+    },
+    {
+      "id": "BAG4",
+      "type": "gene",
+      "weight": 0.1429
+    },
+    {
+      "id": "MFN1",
+      "type": "gene",
+      "weight": 0.1429
+    },
+    {
+      "id": "MFN2",
+      "type": "gene",
+      "weight": 0.1429
+    },
+    {
+      "id": "LCK",
+      "type": "gene",
+      "weight": 0.1365
+    },
+    {
+      "id": "NLRC4",
+      "type": "gene",
+      "weight": 0.1341
+    },
+    {
+      "id": "CASP1",
+      "type": "gene",
+      "weight": 0.1337
+    },
+    {
+      "id": "CUL3",
+      "type": "gene",
+      "weight": 0.1332
+    },
+    {
+      "id": "BCL3",
+      "type": "gene",
+      "weight": 0.131
+    },
+    {
+      "id": "REL",
+      "type": "gene",
+      "weight": 0.125
+    },
+    {
+      "id": "RAPGEF1",
+      "type": "gene",
+      "weight": 0.1171
+    },
+    {
+      "id": "LSP1",
+      "type": "gene",
+      "weight": 0.1131
+    },
+    {
+      "id": "SPOP",
+      "type": "gene",
+      "weight": 0.1121
+    },
+    {
+      "id": "FBXW11",
+      "type": "gene",
+      "weight": 0.1103
+    },
+    {
+      "id": "ATG16L1",
+      "type": "gene",
+      "weight": 0.1082
+    },
+    {
+      "id": "TLR5",
+      "type": "gene",
+      "weight": 0.1072
+    },
+    {
+      "id": "TNFSF14",
+      "type": "gene",
+      "weight": 0.1071
+    },
+    {
+      "id": "CD247",
+      "type": "gene",
+      "weight": 0.106
+    },
+    {
+      "id": "TNF",
+      "type": "gene",
+      "weight": 0.1058
+    },
+    {
+      "id": "SUGT1",
+      "type": "gene",
+      "weight": 0.1032
+    },
+    {
+      "id": "NLRX1",
+      "type": "gene",
+      "weight": 0.103
+    },
+    {
+      "id": "TBL1X",
+      "type": "gene",
+      "weight": 0.101
+    },
+    {
+      "id": "TBL1XR1",
+      "type": "gene",
+      "weight": 0.1006
+    },
+    {
+      "id": "SCRIB",
+      "type": "gene",
+      "weight": 0.1001
+    },
+    {
+      "id": "RHOQ",
+      "type": "gene",
+      "weight": 0.0981
+    },
+    {
+      "id": "NLRP1",
+      "type": "gene",
+      "weight": 0.0971
+    },
+    {
+      "id": "RGL1",
+      "type": "gene",
+      "weight": 0.0971
+    },
+    {
+      "id": "NLRP3",
+      "type": "gene",
+      "weight": 0.0962
+    },
+    {
+      "id": "CYLD",
+      "type": "gene",
+      "weight": 0.0955
+    },
+    {
+      "id": "NLRP6",
+      "type": "gene",
+      "weight": 0.0941
+    },
+    {
+      "id": "NLRP7",
+      "type": "gene",
+      "weight": 0.092
+    },
+    {
+      "id": "LLGL1",
+      "type": "gene",
+      "weight": 0.0917
+    },
+    {
+      "id": "TLR9",
+      "type": "gene",
+      "weight": 0.0914
+    },
+    {
+      "id": "SIAH1",
+      "type": "gene",
+      "weight": 0.0913
+    },
+    {
+      "id": "TLR7",
+      "type": "gene",
+      "weight": 0.0903
+    },
+    {
+      "id": "TLR8",
+      "type": "gene",
+      "weight": 0.0874
+    },
+    {
+      "id": "SMURF1",
+      "type": "gene",
+      "weight": 0.0873
+    },
+    {
+      "id": "CASP9",
+      "type": "gene",
+      "weight": 0.0861
+    },
+    {
+      "id": "SMURF2",
+      "type": "gene",
+      "weight": 0.0842
+    },
+    {
+      "id": "RALB",
+      "type": "gene",
+      "weight": 0.0809
+    },
+    {
+      "id": "RGL2",
+      "type": "gene",
+      "weight": 0.0807
+    },
+    {
+      "id": "RALA",
+      "type": "gene",
+      "weight": 0.0788
+    },
+    {
+      "id": "DLG3",
+      "type": "gene",
+      "weight": 0.0763
+    },
+    {
+      "id": "SKP1",
+      "type": "gene",
+      "weight": 0.0743
+    },
+    {
+      "id": "DLG1",
+      "type": "gene",
+      "weight": 0.0741
+    },
+    {
+      "id": "CBLB",
+      "type": "gene",
+      "weight": 0.0736
+    },
+    {
+      "id": "TBK1",
+      "type": "gene",
+      "weight": 0.0717
+    },
+    {
+      "id": "CUL1",
+      "type": "gene",
+      "weight": 0.0717
+    },
+    {
+      "id": "NEK7",
+      "type": "gene",
+      "weight": 0.0715
+    },
+    {
+      "id": "BTRC",
+      "type": "gene",
+      "weight": 0.0699
+    },
+    {
+      "id": "BCL2L1",
+      "type": "gene",
+      "weight": 0.069
+    },
+    {
+      "id": "CTSB",
+      "type": "gene",
+      "weight": 0.0671
+    },
+    {
+      "id": "LLGL2",
+      "type": "gene",
+      "weight": 0.0664
+    },
+    {
+      "id": "CBL",
+      "type": "gene",
+      "weight": 0.0643
+    },
+    {
+      "id": "DLG5",
+      "type": "gene",
+      "weight": 0.0639
+    },
+    {
+      "id": "DLG4",
+      "type": "gene",
+      "weight": 0.0628
+    },
+    {
+      "id": "SUFU",
+      "type": "gene",
+      "weight": 0.0602
+    },
+    {
+      "id": "FYN",
+      "type": "gene",
+      "weight": 0.0596
+    },
+    {
+      "id": "MAVS",
+      "type": "gene",
+      "weight": 0.0575
+    },
+    {
+      "id": "HSP90AA1",
+      "type": "gene",
+      "weight": 0.0572
+    },
+    {
+      "id": "PTPRC",
+      "type": "gene",
+      "weight": 0.0571
+    },
+    {
+      "id": "SH2B2",
+      "type": "gene",
+      "weight": 0.0555
+    },
+    {
+      "id": "ARHGEF12",
+      "type": "gene",
+      "weight": 0.0537
+    },
+    {
+      "id": "ZAP70",
+      "type": "gene",
+      "weight": 0.0531
+    },
+    {
+      "id": "BAX",
+      "type": "gene",
+      "weight": 0.0529
+    },
+    {
+      "id": "ATG5",
+      "type": "gene",
+      "weight": 0.0515
+    },
+    {
+      "id": "CDC37",
+      "type": "gene",
+      "weight": 0.051
+    },
+    {
+      "id": "MAPKAPK2",
+      "type": "gene",
+      "weight": 0.049
+    },
+    {
+      "id": "STK4",
+      "type": "gene",
+      "weight": 0.04
+    },
+    {
+      "id": "IL23A",
+      "type": "gene",
+      "weight": 0.0395
+    },
+    {
+      "id": "USP25",
+      "type": "gene",
+      "weight": 0.0394
+    },
+    {
+      "id": "MAPKAPK3",
+      "type": "gene",
+      "weight": 0.0392
+    },
+    {
+      "id": "HSP90AB1",
+      "type": "gene",
+      "weight": 0.038
+    },
+    {
+      "id": "IKBKE",
+      "type": "gene",
+      "weight": 0.0376
+    },
+    {
+      "id": "MYD88",
+      "type": "gene",
+      "weight": 0.0359
+    },
+    {
+      "id": "IL18",
+      "type": "gene",
+      "weight": 0.0357
+    },
+    {
+      "id": "SMAD7",
+      "type": "gene",
+      "weight": 0.0348
+    },
+    {
+      "id": "LTBR",
+      "type": "gene",
+      "weight": 0.0347
+    },
+    {
+      "id": "HSP90B1",
+      "type": "gene",
+      "weight": 0.0325
+    },
+    {
+      "id": "ATG12",
+      "type": "gene",
+      "weight": 0.0323
+    },
+    {
+      "id": "CASP3",
+      "type": "gene",
+      "weight": 0.0311
+    },
+    {
+      "id": "RALGDS",
+      "type": "gene",
+      "weight": 0.0272
+    },
+    {
+      "id": "BAD",
+      "type": "gene",
+      "weight": 0.0262
+    },
+    {
+      "id": "RASSF1",
+      "type": "gene",
+      "weight": 0.0248
+    },
+    {
+      "id": "APC2",
+      "type": "gene",
+      "weight": 0.0242
+    },
+    {
+      "id": "TRAF5",
+      "type": "gene",
+      "weight": 0.0242
+    },
+    {
+      "id": "BCL2",
+      "type": "gene",
+      "weight": 0.0239
+    },
+    {
+      "id": "GLI1",
+      "type": "gene",
+      "weight": 0.0236
+    },
+    {
+      "id": "GAB2",
+      "type": "gene",
+      "weight": 0.0103
+    },
+    {
+      "id": "AMG-108",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "ASTEGOLIMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "AT-13148",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "BELNACASAN",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "CEDELIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "DAPANSUTRILE",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "GEVOKIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "GLPG-0259",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "GUSELKUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "approved"
+    },
+    {
+      "id": "IBALIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "approved"
+    },
+    {
+      "id": "JNJ-26483327",
+      "type": "drug",
+      "weight": 2,
+      "status": "investigational"
+    },
+    {
+      "id": "LUTIKIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "MIRIKIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "approved"
+    },
+    {
+      "id": "NIVOCASAN",
+      "type": "drug",
+      "weight": 2,
+      "status": "investigational"
+    },
+    {
+      "id": "RILONACEPT",
+      "type": "drug",
+      "weight": 1,
+      "status": "approved"
+    },
+    {
+      "id": "SEMZUVOLIMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    },
+    {
+      "id": "TEPLIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "approved"
+    },
+    {
+      "id": "TILDRAKIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "approved"
+    },
+    {
+      "id": "VISILIZUMAB",
+      "type": "drug",
+      "weight": 1,
+      "status": "investigational"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AFDN",
+      "target": "CTNND1",
+      "type": "gene-gene",
+      "weight": 0.5
+    },
+    {
+      "source": "AFDN",
+      "target": "SIPA1",
+      "type": "gene-gene",
+      "weight": 0.5
+    },
+    {
+      "source": "AIM2",
+      "target": "PYCARD",
+      "type": "gene-gene",
+      "weight": 0.1385
+    },
+    {
+      "source": "APAF1",
+      "target": "CASP9",
+      "type": "gene-gene",
+      "weight": 0.2175
+    },
+    {
+      "source": "ATG12",
+      "target": "ATG5",
+      "type": "gene-gene",
+      "weight": 0.0729
+    },
+    {
+      "source": "ATG16L1",
+      "target": "ATG5",
+      "type": "gene-gene",
+      "weight": 0.0727
+    },
+    {
+      "source": "ATG5",
+      "target": "MAVS",
+      "type": "gene-gene",
+      "weight": 0.0515
+    },
+    {
+      "source": "BAD",
+      "target": "BCL2L1",
+      "type": "gene-gene",
+      "weight": 0.0777
+    },
+    {
+      "source": "BAX",
+      "target": "CASP3",
+      "type": "gene-gene",
+      "weight": 0.0899
+    },
+    {
+      "source": "BCL2",
+      "target": "NLRP1",
+      "type": "gene-gene",
+      "weight": 0.0984
+    },
+    {
+      "source": "BCL2L1",
+      "target": "BAX",
+      "type": "gene-gene",
+      "weight": 0.0603
+    },
+    {
+      "source": "BCL2L1",
+      "target": "NLRP1",
+      "type": "gene-gene",
+      "weight": 0.1898
+    },
+    {
+      "source": "BCL3",
+      "target": "IL23A",
+      "type": "gene-gene",
+      "weight": 0.2191
+    },
+    {
+      "source": "BID",
+      "target": "BAX",
+      "type": "gene-gene",
+      "weight": 0.063
+    },
+    {
+      "source": "BID",
+      "target": "CYCS",
+      "type": "gene-gene",
+      "weight": 0.3127
+    },
+    {
+      "source": "BRCC3",
+      "target": "NLRP3",
+      "type": "gene-gene",
+      "weight": 0.2662
+    },
+    {
+      "source": "BTRC",
+      "target": "SKP1",
+      "type": "gene-gene",
+      "weight": 0.0722
+    },
+    {
+      "source": "CACYBP",
+      "target": "SKP1",
+      "type": "gene-gene",
+      "weight": 0.2255
+    },
+    {
+      "source": "CARD16",
+      "target": "CASP1",
+      "type": "gene-gene",
+      "weight": 0.2752
+    },
+    {
+      "source": "CASP1",
+      "target": "GSDMD",
+      "type": "gene-gene",
+      "weight": 0.1122
+    },
+    {
+      "source": "CASP1",
+      "target": "IL18",
+      "type": "gene-gene",
+      "weight": 0.1278
+    },
+    {
+      "source": "CASP1",
+      "target": "IL1B",
+      "type": "gene-gene",
+      "weight": 0.0887
+    },
+    {
+      "source": "CASP3",
+      "target": "STK4",
+      "type": "gene-gene",
+      "weight": 0.0756
+    },
+    {
+      "source": "CASP4",
+      "target": "GSDMD",
+      "type": "gene-gene",
+      "weight": 0.3403
+    },
+    {
+      "source": "CASP5",
+      "target": "GSDMD",
+      "type": "gene-gene",
+      "weight": 0.3233
+    },
+    {
+      "source": "CASP9",
+      "target": "CASP3",
+      "type": "gene-gene",
+      "weight": 0.0934
+    },
+    {
+      "source": "CBLB",
+      "target": "CLEC7A",
+      "type": "gene-gene",
+      "weight": 0.2
+    },
+    {
+      "source": "CBLB",
+      "target": "ZAP70",
+      "type": "gene-gene",
+      "weight": 0.089
+    },
+    {
+      "source": "CD247",
+      "target": "FYN",
+      "type": "gene-gene",
+      "weight": 0.1723
+    },
+    {
+      "source": "CD3E",
+      "target": "FYN",
+      "type": "gene-gene",
+      "weight": 0.1829
+    },
+    {
+      "source": "CD4",
+      "target": "LCK",
+      "type": "gene-gene",
+      "weight": 0.1832
+    },
+    {
+      "source": "CD8A",
+      "target": "LCK",
+      "type": "gene-gene",
+      "weight": 0.181
+    },
+    {
+      "source": "CD8B",
+      "target": "LCK",
+      "type": "gene-gene",
+      "weight": 0.1815
+    },
+    {
+      "source": "CDC37",
+      "target": "HSP90AA1",
+      "type": "gene-gene",
+      "weight": 0.1079
+    },
+    {
+      "source": "CDC37",
+      "target": "HSP90AB1",
+      "type": "gene-gene",
+      "weight": 0.0901
+    },
+    {
+      "source": "CDC37",
+      "target": "HSP90B1",
+      "type": "gene-gene",
+      "weight": 0.0907
+    },
+    {
+      "source": "CDH1",
+      "target": "RAPGEF1",
+      "type": "gene-gene",
+      "weight": 0.4795
+    },
+    {
+      "source": "CLEC7A",
+      "target": "LSP1",
+      "type": "gene-gene",
+      "weight": 0.2407
+    },
+    {
+      "source": "CTNND1",
+      "target": "CDH1",
+      "type": "gene-gene",
+      "weight": 0.2057
+    },
+    {
+      "source": "CTSB",
+      "target": "NLRP3",
+      "type": "gene-gene",
+      "weight": 0.0671
+    },
+    {
+      "source": "CTSD",
+      "target": "BID",
+      "type": "gene-gene",
+      "weight": 1
+    },
+    {
+      "source": "CUL1",
+      "target": "BTRC",
+      "type": "gene-gene",
+      "weight": 0.081
+    },
+    {
+      "source": "CUL1",
+      "target": "FBXW11",
+      "type": "gene-gene",
+      "weight": 0.1667
+    },
+    {
+      "source": "CUL3",
+      "target": "SPOP",
+      "type": "gene-gene",
+      "weight": 0.1456
+    },
+    {
+      "source": "CUL3",
+      "target": "SPOPL",
+      "type": "gene-gene",
+      "weight": 0.25
+    },
+    {
+      "source": "CUL3",
+      "target": "SUFU",
+      "type": "gene-gene",
+      "weight": 0.0567
+    },
+    {
+      "source": "CYCS",
+      "target": "CASP9",
+      "type": "gene-gene",
+      "weight": 0.164
+    },
+    {
+      "source": "CYLD",
+      "target": "BCL3",
+      "type": "gene-gene",
+      "weight": 0.2494
+    },
+    {
+      "source": "DDX3X",
+      "target": "TBK1",
+      "type": "gene-gene",
+      "weight": 0.183
+    },
+    {
+      "source": "DHX33",
+      "target": "MAVS",
+      "type": "gene-gene",
+      "weight": 0.0959
+    },
+    {
+      "source": "DHX58",
+      "target": "IFIH1",
+      "type": "gene-gene",
+      "weight": 0.3473
+    },
+    {
+      "source": "DLG1",
+      "target": "DLG3",
+      "type": "gene-gene",
+      "weight": 0.1
+    },
+    {
+      "source": "DLG3",
+      "target": "DLG4",
+      "type": "gene-gene",
+      "weight": 0.1052
+    },
+    {
+      "source": "DLG3",
+      "target": "SCRIB",
+      "type": "gene-gene",
+      "weight": 0.0669
+    },
+    {
+      "source": "DLG4",
+      "target": "SCRIB",
+      "type": "gene-gene",
+      "weight": 0.0844
+    },
+    {
+      "source": "ERBIN",
+      "target": "NOD2",
+      "type": "gene-gene",
+      "weight": 1
+    },
+    {
+      "source": "EXOC2",
+      "target": "TBK1",
+      "type": "gene-gene",
+      "weight": 0.2626
+    },
+    {
+      "source": "EXOC7",
+      "target": "RHOQ",
+      "type": "gene-gene",
+      "weight": 0.1957
+    },
+    {
+      "source": "FBXW11",
+      "target": "BTRC",
+      "type": "gene-gene",
+      "weight": 0.1029
+    },
+    {
+      "source": "FBXW11",
+      "target": "CUL1",
+      "type": "gene-gene",
+      "weight": 0.1208
+    },
+    {
+      "source": "FYN",
+      "target": "GAB2",
+      "type": "gene-gene",
+      "weight": 0.0561
+    },
+    {
+      "source": "FYN",
+      "target": "ZAP70",
+      "type": "gene-gene",
+      "weight": 0.0606
+    },
+    {
+      "source": "GLI1",
+      "target": "PTCH1",
+      "type": "gene-gene",
+      "weight": 0.0607
+    },
+    {
+      "source": "GLI1",
+      "target": "PTCH2",
+      "type": "gene-gene",
+      "weight": 0.0636
+    },
+    {
+      "source": "GLI1",
+      "target": "SUFU",
+      "type": "gene-gene",
+      "weight": 0.0575
+    },
+    {
+      "source": "GSDMD",
+      "target": "NLRP3",
+      "type": "gene-gene",
+      "weight": 0.0596
+    },
+    {
+      "source": "IFI16",
+      "target": "AIM2",
+      "type": "gene-gene",
+      "weight": 0.1743
+    },
+    {
+      "source": "IFI16",
+      "target": "STING1",
+      "type": "gene-gene",
+      "weight": 0.3333
+    },
+    {
+      "source": "IFIH1",
+      "target": "MAVS",
+      "type": "gene-gene",
+      "weight": 0.0956
+    },
+    {
+      "source": "IKBKE",
+      "target": "CYLD",
+      "type": "gene-gene",
+      "weight": 0.0597
+    },
+    {
+      "source": "IL1B",
+      "target": "IL1R1",
+      "type": "gene-gene",
+      "weight": 0.5
+    },
+    {
+      "source": "IL1B",
+      "target": "IL1RAP",
+      "type": "gene-gene",
+      "weight": 0.5
+    },
+    {
+      "source": "IL1RAP",
+      "target": "MYD88",
+      "type": "gene-gene",
+      "weight": 0.1222
+    },
+    {
+      "source": "LCK",
+      "target": "ZAP70",
+      "type": "gene-gene",
+      "weight": 0.1579
+    },
+    {
+      "source": "LLGL1",
+      "target": "DLG5",
+      "type": "gene-gene",
+      "weight": 0.1248
+    },
+    {
+      "source": "LLGL2",
+      "target": "DLG5",
+      "type": "gene-gene",
+      "weight": 0.0649
+    },
+    {
+      "source": "LLGL2",
+      "target": "LLGL1",
+      "type": "gene-gene",
+      "weight": 0.0749
+    },
+    {
+      "source": "LSP1",
+      "target": "ARHGEF12",
+      "type": "gene-gene",
+      "weight": 0.1
+    },
+    {
+      "source": "LSP1",
+      "target": "CYLD",
+      "type": "gene-gene",
+      "weight": 0.0582
+    },
+    {
+      "source": "LTA",
+      "target": "LTB",
+      "type": "gene-gene",
+      "weight": 0.3333
+    },
+    {
+      "source": "LTA",
+      "target": "TNFRSF1B",
+      "type": "gene-gene",
+      "weight": 0.1491
+    },
+    {
+      "source": "LTB",
+      "target": "LTBR",
+      "type": "gene-gene",
+      "weight": 0.0959
+    },
+    {
+      "source": "LTBR",
+      "target": "TRAF5",
+      "type": "gene-gene",
+      "weight": 0.0576
+    },
+    {
+      "source": "MAPKAPK2",
+      "target": "HSPB1",
+      "type": "gene-gene",
+      "weight": 0.089
+    },
+    {
+      "source": "MAPKAPK2",
+      "target": "LSP1",
+      "type": "gene-gene",
+      "weight": 0.1728
+    },
+    {
+      "source": "MAPKAPK3",
+      "target": "HSPB1",
+      "type": "gene-gene",
+      "weight": 0.1266
+    },
+    {
+      "source": "MAPKAPK5",
+      "target": "HSPB1",
+      "type": "gene-gene",
+      "weight": 0.4798
+    },
+    {
+      "source": "MAVS",
+      "target": "MFN1",
+      "type": "gene-gene",
+      "weight": 0.1429
+    },
+    {
+      "source": "MAVS",
+      "target": "MFN2",
+      "type": "gene-gene",
+      "weight": 0.1429
+    },
+    {
+      "source": "NAIP",
+      "target": "NLRC4",
+      "type": "gene-gene",
+      "weight": 0.3367
+    },
+    {
+      "source": "NEK7",
+      "target": "NLRP3",
+      "type": "gene-gene",
+      "weight": 0.0715
+    },
+    {
+      "source": "NLRC4",
+      "target": "PYCARD",
+      "type": "gene-gene",
+      "weight": 0.0903
+    },
+    {
+      "source": "NLRP1",
+      "target": "PYCARD",
+      "type": "gene-gene",
+      "weight": 0.0856
+    },
+    {
+      "source": "NLRP3",
+      "target": "CARD8",
+      "type": "gene-gene",
+      "weight": 0.3333
+    },
+    {
+      "source": "NLRP3",
+      "target": "CASP1",
+      "type": "gene-gene",
+      "weight": 0.0694
+    },
+    {
+      "source": "NLRP6",
+      "target": "PYCARD",
+      "type": "gene-gene",
+      "weight": 0.0941
+    },
+    {
+      "source": "NLRP7",
+      "target": "PYCARD",
+      "type": "gene-gene",
+      "weight": 0.092
+    },
+    {
+      "source": "NLRX1",
+      "target": "MAVS",
+      "type": "gene-gene",
+      "weight": 0.103
+    },
+    {
+      "source": "NOD1",
+      "target": "ATG16L1",
+      "type": "gene-gene",
+      "weight": 0.2606
+    },
+    {
+      "source": "NOD2",
+      "target": "ATG16L1",
+      "type": "gene-gene",
+      "weight": 0.0798
+    },
+    {
+      "source": "NSMAF",
+      "target": "SMPD2",
+      "type": "gene-gene",
+      "weight": 1
+    },
+    {
+      "source": "PTCH1",
+      "target": "CDON",
+      "type": "gene-gene",
+      "weight": 0.5199
+    },
+    {
+      "source": "PTCH2",
+      "target": "CDON",
+      "type": "gene-gene",
+      "weight": 0.4801
+    },
+    {
+      "source": "PTPRC",
+      "target": "FYN",
+      "type": "gene-gene",
+      "weight": 0.0517
+    },
+    {
+      "source": "PTPRC",
+      "target": "LCK",
+      "type": "gene-gene",
+      "weight": 0.0624
+    },
+    {
+      "source": "PYCARD",
+      "target": "CASP1",
+      "type": "gene-gene",
+      "weight": 0.2578
+    },
+    {
+      "source": "RALA",
+      "target": "EXOC2",
+      "type": "gene-gene",
+      "weight": 0.0584
+    },
+    {
+      "source": "RALB",
+      "target": "EXOC2",
+      "type": "gene-gene",
+      "weight": 0.0844
+    },
+    {
+      "source": "RALGDS",
+      "target": "RALA",
+      "type": "gene-gene",
+      "weight": 0.0758
+    },
+    {
+      "source": "RALGDS",
+      "target": "RALB",
+      "type": "gene-gene",
+      "weight": 0.0816
+    },
+    {
+      "source": "RAPGEF1",
+      "target": "CBL",
+      "type": "gene-gene",
+      "weight": 0.0822
+    },
+    {
+      "source": "RAPGEF1",
+      "target": "CBLB",
+      "type": "gene-gene",
+      "weight": 0.0799
+    },
+    {
+      "source": "RAPGEF1",
+      "target": "RHOQ",
+      "type": "gene-gene",
+      "weight": 0.053
+    },
+    {
+      "source": "RASSF1",
+      "target": "STK4",
+      "type": "gene-gene",
+      "weight": 0.0933
+    },
+    {
+      "source": "RGL1",
+      "target": "RALA",
+      "type": "gene-gene",
+      "weight": 0.197
+    },
+    {
+      "source": "RGL1",
+      "target": "RALB",
+      "type": "gene-gene",
+      "weight": 0.1784
+    },
+    {
+      "source": "RGL2",
+      "target": "RALA",
+      "type": "gene-gene",
+      "weight": 0.1513
+    },
+    {
+      "source": "RGL2",
+      "target": "RALB",
+      "type": "gene-gene",
+      "weight": 0.1584
+    },
+    {
+      "source": "RNASEL",
+      "target": "DHX33",
+      "type": "gene-gene",
+      "weight": 1
+    },
+    {
+      "source": "RNF125",
+      "target": "IFIH1",
+      "type": "gene-gene",
+      "weight": 0.4181
+    },
+    {
+      "source": "SCRIB",
+      "target": "DLG5",
+      "type": "gene-gene",
+      "weight": 0.1261
+    },
+    {
+      "source": "SCRIB",
+      "target": "LLGL1",
+      "type": "gene-gene",
+      "weight": 0.1381
+    },
+    {
+      "source": "SCRIB",
+      "target": "LLGL2",
+      "type": "gene-gene",
+      "weight": 0.1524
+    },
+    {
+      "source": "SH2B2",
+      "target": "CBL",
+      "type": "gene-gene",
+      "weight": 0.0986
+    },
+    {
+      "source": "SH2B2",
+      "target": "CBLB",
+      "type": "gene-gene",
+      "weight": 0.1003
+    },
+    {
+      "source": "SIAH1",
+      "target": "CACYBP",
+      "type": "gene-gene",
+      "weight": 0.3333
+    },
+    {
+      "source": "SIAH1",
+      "target": "CYCS",
+      "type": "gene-gene",
+      "weight": 0.1249
+    },
+    {
+      "source": "SIKE1",
+      "target": "IKBKE",
+      "type": "gene-gene",
+      "weight": 0.1661
+    },
+    {
+      "source": "SKP1",
+      "target": "CUL1",
+      "type": "gene-gene",
+      "weight": 0.066
+    },
+    {
+      "source": "SKP1",
+      "target": "TBL1X",
+      "type": "gene-gene",
+      "weight": 0.1667
+    },
+    {
+      "source": "SKP1",
+      "target": "TBL1XR1",
+      "type": "gene-gene",
+      "weight": 0.1667
+    },
+    {
+      "source": "SMAD7",
+      "target": "SMURF1",
+      "type": "gene-gene",
+      "weight": 0.1111
+    },
+    {
+      "source": "SMAD7",
+      "target": "SMURF2",
+      "type": "gene-gene",
+      "weight": 0.1111
+    },
+    {
+      "source": "SMURF1",
+      "target": "PTCH1",
+      "type": "gene-gene",
+      "weight": 0.0809
+    },
+    {
+      "source": "SMURF1",
+      "target": "PTCH2",
+      "type": "gene-gene",
+      "weight": 0.0817
+    },
+    {
+      "source": "SMURF2",
+      "target": "PTCH1",
+      "type": "gene-gene",
+      "weight": 0.0781
+    },
+    {
+      "source": "SMURF2",
+      "target": "PTCH2",
+      "type": "gene-gene",
+      "weight": 0.0729
+    },
+    {
+      "source": "SPOP",
+      "target": "CUL3",
+      "type": "gene-gene",
+      "weight": 0.1979
+    },
+    {
+      "source": "SPOP",
+      "target": "SUFU",
+      "type": "gene-gene",
+      "weight": 0.0784
+    },
+    {
+      "source": "SPOPL",
+      "target": "CUL3",
+      "type": "gene-gene",
+      "weight": 0.1016
+    },
+    {
+      "source": "SPOPL",
+      "target": "SPOP",
+      "type": "gene-gene",
+      "weight": 0.1044
+    },
+    {
+      "source": "STING1",
+      "target": "MAVS",
+      "type": "gene-gene",
+      "weight": 0.0521
+    },
+    {
+      "source": "STING1",
+      "target": "TBK1",
+      "type": "gene-gene",
+      "weight": 0.1044
+    },
+    {
+      "source": "SUGT1",
+      "target": "HSP90AA1",
+      "type": "gene-gene",
+      "weight": 0.0882
+    },
+    {
+      "source": "SUGT1",
+      "target": "HSP90AB1",
+      "type": "gene-gene",
+      "weight": 0.0582
+    },
+    {
+      "source": "SUGT1",
+      "target": "NOD1",
+      "type": "gene-gene",
+      "weight": 0.25
+    },
+    {
+      "source": "TBK1",
+      "target": "REL",
+      "type": "gene-gene",
+      "weight": 0.125
+    },
+    {
+      "source": "TBL1X",
+      "target": "APC2",
+      "type": "gene-gene",
+      "weight": 0.0555
+    },
+    {
+      "source": "TBL1XR1",
+      "target": "APC2",
+      "type": "gene-gene",
+      "weight": 0.0549
+    },
+    {
+      "source": "TKFC",
+      "target": "IFIH1",
+      "type": "gene-gene",
+      "weight": 0.2346
+    },
+    {
+      "source": "TLR5",
+      "target": "MYD88",
+      "type": "gene-gene",
+      "weight": 0.1072
+    },
+    {
+      "source": "TLR7",
+      "target": "MYD88",
+      "type": "gene-gene",
+      "weight": 0.0903
+    },
+    {
+      "source": "TLR8",
+      "target": "MYD88",
+      "type": "gene-gene",
+      "weight": 0.0874
+    },
+    {
+      "source": "TLR9",
+      "target": "MYD88",
+      "type": "gene-gene",
+      "weight": 0.0914
+    },
+    {
+      "source": "TNF",
+      "target": "SMAD7",
+      "type": "gene-gene",
+      "weight": 0.099
+    },
+    {
+      "source": "TNF",
+      "target": "TNFRSF1A",
+      "type": "gene-gene",
+      "weight": 0.3333
+    },
+    {
+      "source": "TNF",
+      "target": "TNFRSF1B",
+      "type": "gene-gene",
+      "weight": 0.1842
+    },
+    {
+      "source": "TNFRSF1A",
+      "target": "BAG4",
+      "type": "gene-gene",
+      "weight": 0.1429
+    },
+    {
+      "source": "TNFRSF1A",
+      "target": "NSMAF",
+      "type": "gene-gene",
+      "weight": 0.1429
+    },
+    {
+      "source": "TNFRSF1B",
+      "target": "DAB2IP",
+      "type": "gene-gene",
+      "weight": 0.3333
+    },
+    {
+      "source": "TNFSF14",
+      "target": "LTBR",
+      "type": "gene-gene",
+      "weight": 0.1071
+    },
+    {
+      "source": "TP53BP1",
+      "target": "AIM2",
+      "type": "gene-gene",
+      "weight": 0.4771
+    },
+    {
+      "source": "TRIP10",
+      "target": "RHOQ",
+      "type": "gene-gene",
+      "weight": 0.1875
+    },
+    {
+      "source": "USP25",
+      "target": "TRAF5",
+      "type": "gene-gene",
+      "weight": 0.0869
+    },
+    {
+      "source": "ZAP70",
+      "target": "CD247",
+      "type": "gene-gene",
+      "weight": 0.0533
+    },
+    {
+      "source": "ZAP70",
+      "target": "DLG1",
+      "type": "gene-gene",
+      "weight": 0.125
+    },
+    {
+      "source": "CASP1",
+      "target": "BELNACASAN",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:20229566"
+    },
+    {
+      "source": "CASP1",
+      "target": "NIVOCASAN",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:21667042"
+    },
+    {
+      "source": "CASP9",
+      "target": "NIVOCASAN",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:21667042"
+    },
+    {
+      "source": "CD3E",
+      "target": "TEPLIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:10716879"
+    },
+    {
+      "source": "CD3E",
+      "target": "VISILIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:11349730"
+    },
+    {
+      "source": "CD4",
+      "target": "CEDELIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:11004613"
+    },
+    {
+      "source": "CD4",
+      "target": "IBALIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:19015347"
+    },
+    {
+      "source": "CD4",
+      "target": "SEMZUVOLIMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:30995373"
+    },
+    {
+      "source": "FYN",
+      "target": "JNJ-26483327",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:20823884"
+    },
+    {
+      "source": "IL1B",
+      "target": "GEVOKIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:21048425"
+    },
+    {
+      "source": "IL1B",
+      "target": "LUTIKIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:30552176"
+    },
+    {
+      "source": "IL1B",
+      "target": "RILONACEPT",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:20140476"
+    },
+    {
+      "source": "IL1R1",
+      "target": "AMG-108",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:21801403"
+    },
+    {
+      "source": "IL1RAP",
+      "target": "ASTEGOLIMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:33872652"
+    },
+    {
+      "source": "IL23A",
+      "target": "GUSELKUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:24679469"
+    },
+    {
+      "source": "IL23A",
+      "target": "MIRIKIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:30734266"
+    },
+    {
+      "source": "IL23A",
+      "target": "TILDRAKIZUMAB",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:26042589"
+    },
+    {
+      "source": "LCK",
+      "target": "JNJ-26483327",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:20823884"
+    },
+    {
+      "source": "MAPKAPK2",
+      "target": "AT-13148",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:22781553"
+    },
+    {
+      "source": "MAPKAPK5",
+      "target": "GLPG-0259",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:22950522"
+    },
+    {
+      "source": "NLRP3",
+      "target": "DAPANSUTRILE",
+      "type": "target-drug",
+      "weight": 1,
+      "evidence": "PMID:29378952"
+    }
+  ],
+  "metadata": {
+    "source_network": "Figure_4.json",
+    "source_ledger": "T2D_preT2D_drug_evidence_20260508/final_outputs/T2D_preT2D_Drug_Evidence_Ledger.csv",
+    "total_gene_nodes": 144,
+    "total_drug_nodes": 19,
+    "total_gene_gene_edges": 166,
+    "total_target_drug_edges": 21
+  }
+}
