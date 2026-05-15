@@ -141,6 +141,7 @@ def validate_and_load_graph(path: Path) -> Tuple[List[Node], List[Edge], Dict[st
     self_loops = 0
     invalid_edge_weight = 0
 
+    # Undirected edge dedup keeps topology stable and avoids double-drawing.
     dedup: Dict[Tuple[int, int], float] = {}
     for idx, row in enumerate(payload["edges"]):
         if not isinstance(row, dict):
@@ -745,6 +746,8 @@ def build_layout(
     seed: int,
     max_edge_cross_checks: int,
 ) -> LayoutResult:
+    # Pipeline: local layout per component -> packing -> global relax ->
+    # canvas normalization -> render-space relax -> scoring.
     rng = random.Random(seed)
 
     layout_radii_local = node_layout_radii(nodes)

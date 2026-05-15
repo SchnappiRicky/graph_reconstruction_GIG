@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+"""Build a validated target-drug evidence ledger from batched gene inputs.
+
+Workflow summary (aligned with SOP):
+1) fetch target/mechanism/molecule signals from ChEMBL (+ PubMed metadata),
+2) generate draft rows,
+3) run lightweight row-level validation,
+4) emit validated batch tables and a merged final ledger.
+"""
 import csv
 import json
 import sys
@@ -42,6 +50,7 @@ def load_batches() -> List[Dict[str, object]]:
 
 
 def get_json(url: str, params: Optional[Dict[str, str]] = None, post_json: Optional[Dict] = None) -> Dict:
+    # Simple retry wrapper to tolerate transient API/network failures.
     for attempt in range(4):
         try:
             if post_json is not None:
@@ -97,6 +106,7 @@ def choose_target(hit_list: List[Dict], gene: str) -> Optional[Dict]:
 
 
 def fetch_target(gene: str) -> Optional[Dict]:
+    # Cache raw API payloads locally so re-runs are deterministic and cheap.
     path = RAW_DIR / f"{gene}_target_search.json"
     if path.exists():
         payload = json.loads(path.read_text())
@@ -107,6 +117,7 @@ def fetch_target(gene: str) -> Optional[Dict]:
 
 
 def fetch_mechanisms(target_chembl_id: str, gene: str) -> List[Dict]:
+    # Mechanism rows are the main bridge between target and candidate drug.
     path = RAW_DIR / f"{gene}_mechanisms.json"
     if path.exists():
         payload = json.loads(path.read_text())
@@ -139,6 +150,7 @@ def pubmed_search(term: str, retmax: int = 5) -> List[str]:
 
 
 def fetch_pubmed_xml(pmids: Iterable[str], cache_name: str) -> str:
+    # Fetch once, then parse repeatedly during validation/row generation.
     pmids = [p for p in pmids if p]
     if not pmids:
         return ""
@@ -262,6 +274,7 @@ def mechanism_pubmed_refs(mech: Dict) -> List[str]:
 
 
 def choose_best_mechanisms(gene: str, mechs: List[Dict], limit: int = 3) -> List[Dict]:
+    # Keep a small high-confidence set per target to reduce noisy duplicates.
     kept = []
     seen = set()
     for mech in sorted(
@@ -293,6 +306,8 @@ def term_hit(terms: List[str], text: str) -> Optional[str]:
 
 
 def validate_row(target: Dict, gene: str, drug_name: str, molecule: Dict, pmid_meta: Dict[str, str]) -> Dict[str, str]:
+    # Validation is intentionally conservative:
+    # missing text evidence downgrades rows to "removed".
     text = f"{pmid_meta.get('title','')} {pmid_meta.get('abstract','')}"
     target_terms = collect_target_terms(gene, target)
     drug_terms = collect_drug_terms(drug_name, molecule)
@@ -328,6 +343,7 @@ def write_csv_table(path: Path, rows: List[Dict[str, str]], headers: List[str]) 
 
 
 def process_batch(batch_index: int, genes: List[str]) -> Dict[str, int]:
+    """Process one batch end-to-end and write draft/validated/report artifacts."""
     batch_label = f"batch_{batch_index:02d}"
     draft_rows: List[Dict[str, str]] = []
     validation_rows: List[Dict[str, str]] = []
@@ -339,6 +355,7 @@ def process_batch(batch_index: int, genes: List[str]) -> Dict[str, int]:
         target = fetch_target(gene)
         if not target:
             stats["no_target_match"] += 1
+            # SOP placeholder row: explicit "no direct evidence found".
             placeholder = {
                 "Target": gene,
                 "Candidate Drug": "No validated drug",
@@ -364,6 +381,7 @@ def process_batch(batch_index: int, genes: List[str]) -> Dict[str, int]:
         best = choose_best_mechanisms(gene, mechs)
         if not best:
             stats["no_pubmed_mechanism"] += 1
+            # No curated mechanism with PubMed linkage -> placeholder.
             placeholder = {
                 "Target": gene,
                 "Candidate Drug": "No validated drug",
@@ -427,6 +445,8 @@ def process_batch(batch_index: int, genes: List[str]) -> Dict[str, int]:
                 stats["removed_rows"] += 1
 
         if not kept_any:
+            # If all candidate rows fail validation, keep one placeholder row
+            # so every target remains represented in the final ledger.
             placeholder = {
                 "Target": gene,
                 "Candidate Drug": "No validated drug",
@@ -486,6 +506,7 @@ def parse_markdown_table(path: Path) -> List[Dict[str, str]]:
 
 
 def build_final_ledger(batch_count: int) -> None:
+    # Merge by (Target, Candidate Drug) and keep the best-supported row.
     all_rows = []
     all_validation_rows = []
     for idx in range(1, batch_count + 1):
@@ -499,6 +520,8 @@ def build_final_ledger(batch_count: int) -> None:
 
     final_rows = []
     for key, rows in sorted(grouped.items()):
+        # Ranking order reflects SOP preference:
+        # non-placeholder > PMID-backed > stronger development status.
         def sort_key(row: Dict[str, str]):
             non_placeholder = row["Candidate Drug"] != "No validated drug"
             status_rank = {
@@ -571,6 +594,7 @@ def write_run_metadata(batch_count: int) -> None:
 
 
 def write_prompt_files() -> None:
+    # Save the generation/validation prompt text for execution traceability.
     generation_prompt = """You are given a candidate gene list for T2D and preT2D.
 
 Your task is to generate a structured target-drug evidence ledger.

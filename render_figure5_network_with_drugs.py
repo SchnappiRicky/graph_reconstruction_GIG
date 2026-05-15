@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""Render Figure 5 with drug-evidence overlays.
+
+Compared with Figure 4, Figure 5 has two weight channels and richer
+significance categories. This script normalizes those fields and then applies
+the same outer-drug overlay strategy.
+"""
 
 import csv
 import json
@@ -60,6 +66,8 @@ def clamp(value, low, high):
 
 
 def load_figure5_graph():
+    # Figure_5.json stores edge/node strengths as Weight1/Weight2.
+    # We collapse to one scalar `Weight` for layout and style consistency.
     data = json.loads(INPUT_JSON.read_text())
     nodes = []
     for raw in data["nodes"]:
@@ -105,6 +113,7 @@ def gene_fill(sig_category):
 
 
 def parse_citation(raw_text):
+    # Short citation strings keep edge badges readable on dense graphs.
     pmid_match = re.search(r"PMID:\s*([0-9]+)", raw_text, flags=re.I)
     if pmid_match:
         return f"PMID:{pmid_match.group(1)}"
@@ -115,6 +124,7 @@ def parse_citation(raw_text):
 
 
 def load_drug_overlay(gene_names):
+    """Load ledger rows and keep only links whose targets are in this graph."""
     grouped = {}
     rows = list(csv.DictReader(LEDGER_CSV.open(newline="")))
     for row in rows:
@@ -238,6 +248,8 @@ def force_layout_genes(component_nodes, component_edges, initial_positions):
 
 
 def prepare_components(nodes, edges, drugs, base_positions):
+    # Partition links by connected component so each component can place its
+    # own external drug evidence layer.
     node_by_id = {node["gene_node_idx"]: node for node in nodes}
     id_by_name = {node["gene_node_name"]: node["gene_node_idx"] for node in nodes}
     components = connected_components([node["gene_node_idx"] for node in nodes], edges)
@@ -316,6 +328,8 @@ def side_for_anchor(anchor_x, anchor_y, center_x, center_y):
 
 
 def place_drugs_for_component(component):
+    # Place drugs around (not inside) each local gene component to match the
+    # SOP requirement that drug evidence appears as an outer annotation layer.
     gene_pos = component["gene_positions"]
     gene_names = [node["gene_node_name"] for node in component["genes"]]
     xs = [gene_pos[name][0] for name in gene_names]
@@ -435,6 +449,8 @@ def transform_component(component, placement):
 
 
 def global_relax_layout(components):
+    # Final global pass that co-optimizes gene nodes, drug boxes, and
+    # target-drug edges while keeping each drug on its intended side.
     item_pos = {}
     item_radius = {}
     item_kind = {}
@@ -608,6 +624,7 @@ def global_relax_layout(components):
 
 
 def build_augmented_layout(nodes, edges, drugs):
+    """Seed from gene layout, attach drugs, then run global relaxation."""
     base_positions = compute_gene_positions(nodes, edges)
     components = prepare_components(nodes, edges, drugs, base_positions)
     components = [place_drugs_for_component(component) for component in components]
@@ -648,6 +665,7 @@ def render_legend(parts):
 
 
 def render_svg(nodes, components, sig_categories):
+    """Render SVG and export rows used for edge/citation audit tables."""
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{CANVAS_WIDTH}" height="{CANVAS_HEIGHT}" viewBox="0 0 {CANVAS_WIDTH} {CANVAS_HEIGHT}">',
         '<rect width="100%" height="100%" fill="white"/>',
@@ -805,6 +823,7 @@ def write_csv(path, rows, fieldnames):
 
 
 def main():
+    # Main output bundle mirrors Figure 4 for downstream audit consistency.
     _, sig_categories, nodes, edges = load_figure5_graph()
     drugs = load_drug_overlay({node["gene_node_name"] for node in nodes})
     components = build_augmented_layout(nodes, edges, drugs)

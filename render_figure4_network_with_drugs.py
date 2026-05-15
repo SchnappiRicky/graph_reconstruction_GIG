@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+"""Render Figure 4 with an external drug-evidence layer.
+
+This script follows the SOP pattern:
+- keep the gene-gene backbone readable,
+- place drug nodes outside each component,
+- connect target-drug evidence edges with citation badges.
+"""
 
 import csv
 import math
@@ -52,6 +59,7 @@ def clamp(value, low, high):
 
 
 def parse_citation(raw_text):
+    # Keep labels short in-figure: PMID first, DOI second, fallback fragment.
     pmid_match = re.search(r"PMID:\s*([0-9]+)", raw_text, flags=re.I)
     if pmid_match:
         return f"PMID:{pmid_match.group(1)}"
@@ -62,6 +70,7 @@ def parse_citation(raw_text):
 
 
 def load_drug_overlay(gene_names):
+    """Load ledger rows and keep only target-drug links present in the network."""
     grouped = {}
     rows = list(csv.DictReader(LEDGER_CSV.open(newline="")))
     for row in rows:
@@ -185,6 +194,8 @@ def force_layout_genes(component_nodes, component_edges, initial_positions):
 
 
 def prepare_components(nodes, edges, drugs, base_positions):
+    # Build per-component bundles so each gene subnetwork can place its own
+    # drug nodes and target-drug links before global relaxation.
     node_by_id = {node["gene_node_idx"]: node for node in nodes}
     id_by_name = {node["gene_node_name"]: node["gene_node_idx"] for node in nodes}
     components = connected_components([node["gene_node_idx"] for node in nodes], edges)
@@ -263,6 +274,8 @@ def side_for_anchor(anchor_x, anchor_y, center_x, center_y):
 
 
 def place_drugs_for_component(component):
+    # Drugs are intentionally placed outside the local gene cloud (top/bottom/
+    # left/right) to preserve the network as backbone and evidence as overlay.
     gene_pos = component["gene_positions"]
     gene_names = [node["gene_node_name"] for node in component["genes"]]
     xs = [gene_pos[name][0] for name in gene_names]
@@ -382,6 +395,10 @@ def transform_component(component, placement):
 
 
 def global_relax_layout(components):
+    # Joint layout of genes and drugs:
+    # - repulsion prevents overlaps,
+    # - springs keep biological links coherent,
+    # - directional priors keep drugs on their assigned outer side.
     item_pos = {}
     item_radius = {}
     item_kind = {}
@@ -555,6 +572,7 @@ def global_relax_layout(components):
 
 
 def build_augmented_layout(nodes, edges, drugs):
+    """Run the three-stage layout: seed genes -> place drugs -> global relax."""
     base_positions = compute_gene_positions(nodes, edges)
     components = prepare_components(nodes, edges, drugs, base_positions)
     components = [place_drugs_for_component(component) for component in components]
@@ -591,6 +609,7 @@ def render_legend(parts):
 
 
 def render_svg(nodes, components, pvalue_ids):
+    """Render SVG plus audit tables for edges and citation labels."""
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{CANVAS_WIDTH}" height="{CANVAS_HEIGHT}" viewBox="0 0 {CANVAS_WIDTH} {CANVAS_HEIGHT}">',
         '<rect width="100%" height="100%" fill="white"/>',
@@ -748,6 +767,10 @@ def write_csv(path, rows, fieldnames):
 
 
 def main():
+    # Outputs include:
+    # 1) figure SVG
+    # 2) target-drug edge table
+    # 3) citation legend table
     _, pvalue_ids, nodes, edges = load_figure4_graph()
     drugs = load_drug_overlay({node["gene_node_name"] for node in nodes})
     components = build_augmented_layout(nodes, edges, drugs)

@@ -13,6 +13,7 @@ RENDERER = ROOT / "render_gene_network_auto.py"
 
 
 def run_cmd(args):
+    # Keep subprocess wrapper tiny so test intent stays readable.
     return subprocess.run(args, capture_output=True, text=True)
 
 
@@ -22,6 +23,7 @@ def assert_true(cond: bool, msg: str):
 
 
 def test_figure4_sample(tmp: Path):
+    # Regression guard: full Figure_4 sample should render and expose core metrics.
     sample = ROOT / "Figure_4.json"
     svg = tmp / "figure4_auto.svg"
     metrics = tmp / "figure4_auto.metrics.json"
@@ -49,6 +51,7 @@ def test_figure4_sample(tmp: Path):
 
 
 def test_minimal_graph(tmp: Path):
+    # Minimal synthetic graph validates basic end-to-end plumbing.
     mini_json = tmp / "mini.json"
     mini_payload = {
         "nodes": [
@@ -85,6 +88,7 @@ def test_minimal_graph(tmp: Path):
 
 
 def test_bad_schema_rejected(tmp: Path):
+    # Schema errors should fail fast with a meaningful message.
     bad_json = tmp / "bad.json"
     bad_json.write_text(json.dumps({"nodes": [{"id": 1}], "edges": []}))
     proc = run_cmd(["python3", str(RENDERER), str(bad_json)])

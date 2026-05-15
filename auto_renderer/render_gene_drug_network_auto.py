@@ -175,6 +175,8 @@ def validate_and_load_graph(path: Path) -> Tuple[List[Node], List[Edge], Dict[st
     invalid_edge_weight = 0
     unknown_edge_types = 0
 
+    # Dedup by undirected pair + edge kind so gene-gene and target-drug links
+    # stay distinct while exact duplicates collapse.
     dedup: Dict[Tuple[int, int, str], Tuple[float, Optional[str]]] = {}
     for idx, row in enumerate(payload["edges"]):
         if not isinstance(row, dict):
@@ -804,6 +806,8 @@ def build_layout(
     seed: int,
     max_edge_cross_checks: int,
 ) -> LayoutResult:
+    # Same backbone strategy as the gene-only renderer, extended to mixed
+    # node/edge types so drug evidence can be plotted in one pass.
     rng = random.Random(seed)
 
     layout_radii_local = node_layout_radii(nodes)

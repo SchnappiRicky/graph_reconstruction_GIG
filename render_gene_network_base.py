@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+"""Base gene-network reconstruction utilities for Figure 4 style inputs.
+
+This module provides the shared gene-only layout logic used by downstream
+drug-overlay scripts. The workflow follows the SOP's two-step spirit:
+1) obtain a stable gene backbone geometry, then
+2) let business-layer scripts add drug evidence on top.
+"""
 
 import argparse
 import json
@@ -72,6 +79,7 @@ def escape_label(text: str) -> str:
 
 
 def connected_components(node_ids, edges):
+    """Split the graph into connected components using adjacency traversal."""
     adjacency = {node_id: set() for node_id in node_ids}
     for edge in edges:
         src = edge["Actual_From"]
@@ -99,6 +107,7 @@ def connected_components(node_ids, edges):
 
 
 def force_layout(component_ids, component_edges, weight_by_id, initial_positions=None, anchor_map=None):
+    """Run a force-directed layout in normalized coordinates for one component."""
     rng = random.Random(7 + len(component_ids))
     n = max(len(component_ids), 1)
     area = 1.0
@@ -246,6 +255,7 @@ def relax_positions(node_ids, positions, weight_by_id, important_gene_threshold,
 
 
 def load_figure4_graph():
+    """Load Figure_4.json and return sorted nodes/edges with significant IDs."""
     data = json.loads(INPUT_JSON.read_text())
     pvalue_ids = {node["gene_node_idx"] for node in data["pvalue_nodes"]}
     nodes = sorted(data["nodes"], key=lambda x: (-x["Weight"], x["gene_node_name"]))
@@ -257,6 +267,7 @@ def load_figure4_graph():
 
 
 def compute_seed_gene_positions(nodes, edges):
+    # Stage A: derive a whole-graph seed layout that preserves global topology.
     content_width = CANVAS_WIDTH - LEFT_PAD - RIGHT_PAD
     content_height = CANVAS_HEIGHT - TOP_PAD - BOTTOM_PAD
     weight_by_id = {node["gene_node_idx"]: float(node["Weight"]) for node in nodes}
@@ -299,6 +310,7 @@ def compute_seed_gene_positions(nodes, edges):
         x = box[0] + global_positions[node_id][0] * (box[2] - box[0])
         y = box[1] + global_positions[node_id][1] * (box[3] - box[1])
         positions[node_id] = (x, y)
+    # Stage B: locally relax each component to reduce residual overlaps.
     for component_ids in components:
         relax_positions(component_ids, positions, weight_by_id, IMPORTANT_GENE_THRESHOLD, box, iterations=260)
     return positions
@@ -310,6 +322,7 @@ def gene_collision_radius(node):
 
 
 def force_layout_genes(component_nodes, component_edges, initial_positions):
+    """Re-layout a component in local space with stronger anti-overlap terms."""
     names = [node["gene_node_name"] for node in component_nodes]
     node_by_name = {node["gene_node_name"]: node for node in component_nodes}
     pos = {name: list(initial_positions[name]) for name in names}
@@ -384,6 +397,8 @@ def force_layout_genes(component_nodes, component_edges, initial_positions):
 
 
 def prepare_gene_components(nodes, edges, base_positions):
+    # Convert index-based edges to name-based edges so downstream code can
+    # reuse the same geometry machinery as the drug-overlay renderers.
     node_by_id = {node["gene_node_idx"]: node for node in nodes}
     components = connected_components([node["gene_node_idx"] for node in nodes], edges)
 
@@ -428,6 +443,7 @@ def prepare_gene_components(nodes, edges, base_positions):
 
 
 def transform_gene_component(component, placement):
+    """Project one local component to its target canvas slot."""
     center_x = CANVAS_WIDTH * placement[0]
     center_y = CANVAS_HEIGHT * placement[1]
     size_scale = placement[2]
@@ -462,6 +478,8 @@ def transform_gene_component(component, placement):
 
 
 def global_relax_layout_genes(components):
+    # Joint refinement after component packing:
+    # keep local shape, improve global spacing, then fit back to canvas.
     item_pos = {}
     item_radius = {}
     item_home = {}
@@ -577,6 +595,7 @@ def global_relax_layout_genes(components):
 
 
 def compute_gene_positions_aligned(nodes, edges):
+    """Full gene-only layout pipeline used by optional figure emission."""
     base_positions = compute_seed_gene_positions(nodes, edges)
     components = prepare_gene_components(nodes, edges, base_positions)
     transformed = []
@@ -599,6 +618,7 @@ def compute_gene_positions(nodes, edges):
 
 
 def build_svg(nodes, edges, pvalue_ids, positions=None):
+    """Render the gene-only SVG using already computed node positions."""
     width = CANVAS_WIDTH
     height = CANVAS_HEIGHT
     positions = positions or compute_gene_positions(nodes, edges)
